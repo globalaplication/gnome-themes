@@ -1,3 +1,35 @@
+2.9.4
+=====
+
+2004-12-02  James Henstridge  <james@jamesh.id.au>
+       * icon-themes/Smokey-Red/Makefile.am: adjust makefile to take into
+       account moved icons.
+       * icon-themes/Smokey-Red/index.theme.in: add directories for other
+       icon sizes.
+       * icon-themes/Smokey-Blue/Makefile.am: update for new file
+       locations.
+       * icon-themes/Smokey-Blue/index.theme.in: none of the icons were
+       actually 48x48, so move them to the right directories.
+
+New/updated translations:
+
+2005-01-05  Pawan Chitrakar  <pawan@nplinux.org>
+       * ne.po: Added Nepali Translation
+
+2005-01-04  Žygimantas Beručka  <uid0@akl.lt>
+       * lt.po: Updated Lithuanian translation.
+
+
+2.9.3
+=====
+
+Not released due to Christmas holdiays... sorry :/
+
+2.9.2.1
+======
+
+Fix Low Contrast Large Print build breakage.
+
 2.9.2
 =====
 

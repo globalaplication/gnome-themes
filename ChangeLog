@@ -1,3 +1,10 @@
+2005-01-10  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.9.4.
+
 2005-01-05  Pawan Chitrakar  <pawan@nplinux.org>
 
 	* configure.in: Added ne "Nepali" in ALL_LINGUAS
