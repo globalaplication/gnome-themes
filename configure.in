@@ -31,7 +31,7 @@ AM_PROG_LIBTOOL
 PKG_CHECK_MODULES(THEME_ENGINE,
  [gtk+-2.0 >= 2.0.0 dnl
   gdk-pixbuf-2.0 >= 2.0.0 dnl
-  gtk-engines-2])
+  gtk-engines-2 >= 2.5.0 ])
 
 GTK_VERSION=`$PKG_CONFIG --variable=gtk_binary_version gtk+-2.0`
 AC_SUBST(GTK_VERSION)
@@ -97,25 +97,11 @@ desktop-themes/Simple/Makefile
 desktop-themes/Smokey-Blue/Makefile
 desktop-themes/Glider/Makefile
 desktop-themes/Traditional/Makefile
-gtk-engines/Makefile
-gtk-engines/Smooth/Makefile
-gtk-engines/hc-engine/Makefile
-gtk-engines/thinice/Makefile
 gtk-themes/Makefile
-gtk-themes/Crux/Makefile
-gtk-themes/Crux/pixmaps/Makefile
-gtk-themes/Crux/src/Makefile
 gtk-themes/Simple/Makefile
 gtk-themes/Grand-Canyon/Makefile
-gtk-themes/LightHouseBlue/Makefile
-gtk-themes/LightHouseBlue/src/Makefile
-gtk-themes/Mist/Makefile
-gtk-themes/Mist/src/Makefile
-gtk-themes/Mist/Theme/Makefile
 gtk-themes/Smokey-Blue/Makefile
 gtk-themes/Glider/Makefile
-gtk-themes/ThinIce/Makefile
-gtk-themes/ThinIce/gtk-2.0/Makefile
 metacity-themes/Makefile
 icon-themes/Makefile
 icon-themes/Crux/Makefile

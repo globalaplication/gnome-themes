@@ -1,5 +1,5 @@
-SUBDIRS=	gtk-themes gtk-engines metacity-themes icon-themes \
-	       	desktop-themes \
+SUBDIRS=	gtk-themes metacity-themes icon-themes \
+		desktop-themes \
 		common HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
 		HighContrastLargePrintInverse HighContrastInverse \
