@@ -52,5 +52,7 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		volume-mute.png volume-zero.png \
 		volume-min.png volume-medium.png volume-max.png \
 		double-click-on.png double-click-off.png double-click-maybe.png \
+		printer-default.png printer-broken.png printer-inkjet.png \
+		printer-personal-laser.png printer-workgroup-laser.png \
 		$(NULL)
 
