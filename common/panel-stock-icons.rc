@@ -32,6 +32,5 @@ style "panel-icons"
 
 	stock ["commandline_browser"] =	{{"stock_commandline-browser.xpm"}}
 	stock ["commandline_history"] =	{{"stock_commandline-history.xpm"}}
-
 }
 class "GtkWidget" style "panel-icons"
