@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<theme _name="Low Contrast" _description="A theme that uses muted icon and background colors."> 
+
+	<sidebar label_color="#4b4b4b" title_color="#4b4b4b" title_info_color="#4b4b4b" tab_piece_images="sidebar_tab_pieces" combine="true"
+   left_offset="0" shadow_offset="0" text_h_offset="-2"/>
+           left_offset="0" shadow_offset="0" text_h_offset="-4"/>
+
+  <thumbnails frame_offsets="3,3,6,6"/>
+  <toolbar icon_theme="standard"/>
+  <throbber frame_count="6" url="http://www.gnome.org"/>
+  <zoom_control number_v_offset="0" number_v_2_offset="-1" number_h_offset="-2"/>
+
+</theme>

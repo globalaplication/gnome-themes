@@ -1,4 +1,4 @@
-pixmapdir = $(datadir)/pixmaps/nautilus/HighContrast/throbber
+pixmapdir = $(datadir)/pixmaps/nautilus/HighContrastInverse/throbber
 
 pixmap_DATA =  \
 			001.png 002.png 003.png \

@@ -1,4 +1,4 @@
-pixmapdir= $(datadir)/pixmaps/nautilus/HighContrast/sidebar_tab_pieces
+pixmapdir= $(datadir)/pixmaps/nautilus/LowContrast/sidebar_tab_pieces
 
 pixmap_DATA = \
 	fill-active.png	 middle-normal-prelight.png \

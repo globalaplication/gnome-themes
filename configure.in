@@ -43,6 +43,9 @@ HighContrastInverse/Makefile
 HighContrastInverse/gtk-2.0/Makefile
 HighContrastInverse/gtk-2.0/gtkrc
 HighContrastInverse/icons/Makefile
+HighContrastInverse/nautilus/Makefile
+HighContrastInverse/nautilus/sidebar_tab_pieces/Makefile
+HighContrastInverse/nautilus/throbber/Makefile
 LargePrint/Makefile
 LargePrint/gtk-2.0/Makefile
 LargePrint/gtk-2.0/gtkrc
@@ -85,5 +88,7 @@ LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc
 LowContrast/icons/Makefile
+LowContrast/nautilus/Makefile
+LowContrast/nautilus/sidebar_tab_pieces/Makefile
 ])
 
