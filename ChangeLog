@@ -1,5 +1,12 @@
+2003-05-09  Bill Haneman <bill.haneman@sun.com>
+
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
+	Lightened text[INSENSITIVE] and fg[INSENSITIVE] for better 
+	visibility.
+
 2003-05-09  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
-                                                                                
+                                                                               
         * configure.in: Added cy to ALL_LINGUAS
 
 2003-05-08  Abel Cheung  <maddog@linux.org.hk>
