@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0.6\n"
-"POT-Creation-Date: 2003-01-24 22:17+0100\n"
-"PO-Revision-Date: 2003-01-24 22:17+0100\n"
-"Last-Translator: Christian Neumair <chris@gnome-de.org>\n"
+"POT-Creation-Date: 2003-01-25 18:39+0100\n"
+"PO-Revision-Date: 2003-01-25 18:39+0100\n"
+"Last-Translator: Benjamin Greiner <nadaschauher@gmx.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Text und Icons schwarz vor weißem Hintergrund"
+msgstr "Text und Symbole schwarz auf weißem Grund"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -28,7 +28,7 @@ msgstr "Hoher Kontrast, invertiert"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Text und Icons schwarz vor weißem Hintergrund"
+msgstr "Text und Symbole schwarz auf weißem Grund"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large"
@@ -36,7 +36,7 @@ msgstr "Hoher Kontrast, groß"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Text und Icons groß und schwarz vor weißem Hintergrund"
+msgstr "Text und Symbole groß und schwarz auf weißem Grund"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -44,7 +44,7 @@ msgstr "Hoher Kontrast, groß und invertiert"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Text und Icons groß und weiß vor schwarzem Hintergrund"
+msgstr "Text und Symbole groß und weiß auf schwarzem Grund"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -52,7 +52,7 @@ msgstr "Groß"
 
 #: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "Großer Text und große Icons"
+msgstr "Großer Text und große Symbole"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -60,11 +60,11 @@ msgstr "Geringer Kontrast"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Text und Icons kontrastarm"
+msgstr "Text und Symbole kontrastarm"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Text und Icons groß und kontrastarm"
+msgstr "Text und Symbole groß und kontrastarm"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -84,7 +84,7 @@ msgstr "Standard"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "Schlanke Oberfläche mit hoher Leistung"
+msgstr "Schlank und schnell"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -104,7 +104,7 @@ msgstr "Die Farben der Meeresküste"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr "Einfach"
+msgstr "Schlicht"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -112,11 +112,11 @@ msgstr "Traditionelle 3D-Oberfläche mit harten Konturen"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "Weiche, Glas nachempfundene Oberfläche"
+msgstr "Weiche, glasartige Oberfläche"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr "Smokey (Blau)"
+msgstr "Blauer Rauch"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -128,11 +128,11 @@ msgstr "Sandig"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Smokey-Blau"
+msgstr "Blauer Rauch"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Smokey-Rot"
+msgstr "Roter Rauch"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
