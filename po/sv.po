@@ -1,15 +1,15 @@
 # Swedish messages for gnome-themes.
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Copyright (C) 2002, 2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
-# Christian Rose <menthos@menthos.com>, 2002.
+# Christian Rose <menthos@menthos.com>, 2002, 2003.
 #
 # $Id$
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2002-12-02 12:05+0000\n"
-"PO-Revision-Date: 2002-11-25 23:18+0100\n"
+"POT-Creation-Date: 2003-01-03 19:24+0100\n"
+"PO-Revision-Date: 2003-01-03 19:24+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Svart text och svarta ikoner på vit botten"
+msgstr "Svart text och ikoner på vit botten"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -30,52 +30,47 @@ msgstr "Inverterad hög kontrast"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Vit text och vita ikoner på svart botten"
+msgstr "Vit text och ikoner på svart botten"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large"
-msgstr "Hög kontrast"
+msgstr "Stor text med hög kontrast"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large black-on-white text and icons"
-msgstr "Svart text och svarta ikoner på vit botten"
+msgstr "Stor svart text och ikoner på vit botten"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print Inverse"
-msgstr "Inverterad hög kontrast"
+msgstr "Inverterad stor text med hög kontrast"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large white-on-black text and icons"
-msgstr "Vit text och vita ikoner på svart botten"
+msgstr "Stor vit text och ikoner på svart botten"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr ""
+msgstr "Stor text"
 
 #: LargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large text and icons"
-msgstr "Svart text och svarta ikoner på vit botten"
+msgstr "Stor text och ikoner"
 
 #: LowContrast/index.theme.in.h:1
-#, fuzzy
 msgid "Low Contrast"
-msgstr "Hög kontrast"
+msgstr "Låg kontrast"
 
 #: LowContrast/index.theme.in.h:2
-#, fuzzy
 msgid "Muted text and icons"
-msgstr "Vit text och vita ikoner på svart botten"
+msgstr "Dämpad text och ikoner"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "Large muted text and icons"
-msgstr "Svart text och svarta ikoner på vit botten"
+msgstr "Stor dämpad text och ikoner"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr ""
+msgstr "Stor text med låg kontrast"
+
+#~ msgid "High Contrast Large Print"
+#~ msgstr "Stor text med hög kontrast"
