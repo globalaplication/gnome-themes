@@ -3,6 +3,9 @@
 
 Fix symlinking so that it works when installed from an RPM, too.
 
+Updated Bulgarian translation by
+Rostislav Raykov <zbrox@i-space.org>
+
 2.6.2
 =====
 
