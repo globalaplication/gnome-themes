@@ -1,0 +1,49 @@
+# High-Contrast, "Normal Size" Theme v0.1
+#
+# Written by Bill Haneman, based on Standard theme by T. Liebeck, 
+# which was in turn based on lots of different gtkrc files but
+# primarily the one for the metal theme.
+#
+# High-contrast pixmap icons by jimmac with input from tigert.
+#
+# email: bill.haneman@sun.com
+
+pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
+
+style "default"
+{
+
+  GtkWidget::focus-line-pattern = "\2\1"
+  GtkWidget::focus-line-width = 1
+  GtkHSV::focus-line-pattern = "\0"
+  GtkWidget::interior_focus = 1
+  GtkWidget::focus-padding = 0
+  GtkEntry::cursor_color    = { 0.80, 0.00, 0.00 }
+  GtkTextView::cursor_aspect_ratio = 0.1
+  GtkEntry::cursor_aspect_ratio = 0.1
+
+  fg[NORMAL]      = { 0.00, 0.00, 0.00 }
+  text[NORMAL]      = { 0.00, 0.00, 0.00 }
+  bg[NORMAL]      = { 1.00, 1.00, 1.00 }
+  base[NORMAL]    = { 1.00, 1.00, 1.00 }
+
+  fg[INSENSITIVE]      = { 0.6, 0.6, 0.6 }
+  bg[INSENSITIVE]      = { 0.75, 0.75, 0.77 }
+  base[INSENSITIVE]      = { 0.75, 0.75, 0.77 }
+
+  fg[PRELIGHT]    = { 0.80, 0.80, 1.00 }
+  text[PRELIGHT]    = { 0.80, 0.80, 1.00 }
+  bg[PRELIGHT]    = { 0.00, 0.00, 0.00 }
+  base[PRELIGHT]    = { 0.00, 0.00, 0.00 }
+
+  fg[ACTIVE]      = { 0.00, 0.00, 0.00 }
+  text[ACTIVE]      = { 0.00, 0.00, 0.00 }
+  bg[ACTIVE]      = { 0.65, 0.65, 0.50 }
+  base[ACTIVE]      = { 0.65, 0.65, 0.50 }
+
+  fg[SELECTED]    = { 1.00, 1.00, 1.00 }
+  text[SELECTED]    = { 1.00, 1.00, 1.00 }
+  bg[SELECTED]    = { 0.00, 0.00, 0.00 }
+  base[SELECTED]    = { 0.10, 0.20, 0.20 }
+
+

@@ -1,0 +1,50 @@
+# High-Contrast, Large Print, Inverse Video Theme v0.1
+# This is the whole basic theme, just this one gtkrc file.
+# It uses components of the standard theme engine
+# Written by Bill Haneman, based on Standard theme by T. Liebeck, 
+# which was in turn based on lots of different gtkrc files but
+# primarily the one for the metal theme.
+# email: bill.haneman@sun.com
+
+#Note: we just use the LargePrint icons for now, they will be scaled
+#to the correct size
+
+pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
+
+style "default"   
+{ 
+  
+  GtkWidget::focus-line-pattern = "\2\1"
+  GtkWidget::focus-line-width = 1
+  GtkHSV::focus-line-pattern = "\0"
+  GtkWidget::interior_focus = 1
+  GtkWidget::focus-padding = 0
+  GtkEntry::cursor_color    = { 0.00, 0.80, 0.80 }
+#  GtkWidget::cursor_aspect_ratio = 0.1
+  GtkTextView::cursor_aspect_ratio = 0.1 
+  GtkEntry::cursor_aspect_ratio = 0.1
+  
+  fg[NORMAL]      = { 1.00, 1.00, 1.00 }
+  text[NORMAL]      = { 1.00, 1.00, 1.00 }
+  bg[NORMAL]      = { 0.10, 0.10, 0.10 } 
+  base[NORMAL]    = { 0.15, 0.15, 0.15 }
+
+  fg[INSENSITIVE]      = { 0.4, 0.4, 0.4 }
+  bg[INSENSITIVE]      = { 0.25, 0.25, 0.23 }
+  base[INSENSITIVE]      = { 0.25, 0.25, 0.23 }
+
+  fg[PRELIGHT]    = { 0.10, 0.10, 0.10 } 
+  text[PRELIGHT]    = { 0.10, 0.10, 0.10 }
+  bg[PRELIGHT]    = { 1.00, 1.00, 1.00 }
+  base[PRELIGHT]    = { 1.00, 1.00, 1.00 }
+
+  fg[ACTIVE]      = { 1.00, 1.00, 1.00 }
+  text[ACTIVE]      = { 1.00, 1.00, 1.00 }
+  bg[ACTIVE]      = { 0.35, 0.35, 0.50 }
+  base[ACTIVE]      = { 0.65, 0.65, 0.50 }
+
+  fg[SELECTED]    = { 0.10, 0.10, 0.10 }
+  text[SELECTED]    = { 0.10, 0.10, 0.10 }
+  bg[SELECTED]    = { 1.00, 1.00, 1.00 }
+  base[SELECTED]    = { 0.90, 0.80, 0.80 }
+
