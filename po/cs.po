@@ -1,13 +1,13 @@
 # Czech translation of gnome-themes
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-themes package.
-# Miloslav Trmac <mitr@volny.cz>, 2002.
+# Miloslav Trmac <mitr@volny.cz>, 2002, 2003.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themese VERSION\n"
-"POT-Creation-Date: 2002-11-26 05:56+0100\n"
-"PO-Revision-Date: 2002-12-06 12:01+0100\n"
+"POT-Creation-Date: 2003-01-11 20:05+0100\n"
+"PO-Revision-Date: 2003-01-12 02:05+0100\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,3 +29,43 @@ msgstr "Inverzní vysoký kontrast"
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "Text a ikony bíle na černém"
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large"
+msgstr "Vysoký kontrast velké"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Velký text a ikony černě na bílém"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Inverzní vysoký kontrast velké písmo"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Velký text bíle na černém a ikony"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Velké písmo"
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Velký text a ikony"
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Nízký kontrast"
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Méně kontrastní text a ikony"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Velký méně kontrastní text a ikony"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Nízký kontrast velké písmo"
