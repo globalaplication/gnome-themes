@@ -17,9 +17,10 @@ msgstr ""
 msgid "Black-on-white text and icons"
 msgstr "Zwart-op-wit tekst en pictogrammen"
 
+#. GRUT modified this item
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Hoog Contrast"
+msgstr "Hoog contrast"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -140,3 +141,4 @@ msgstr "Rokerig-Blauw"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rokerig-Rood"
+
