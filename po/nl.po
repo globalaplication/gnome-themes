@@ -1,0 +1,31 @@
+# Vertaling van gnome-themes
+# Copyright (C) 2002 The Free software foundation, Inc.
+# This file is distributed under the same license as the gnome-themes package.
+# Tino Meinen <a.t.meinen@chello.nl>, 2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-themes\n"
+"POT-Creation-Date: 2002-11-26 05:56+0100\n"
+"PO-Revision-Date: 2002-12-28 18:51+0100\n"
+"Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
+"Language-Team: Dutch <vertaling@nl.linux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Zwart-op-wit tekst en pictogrammen"
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Hoog contrast"
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Hoog contrast negatief"
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Wit-op-zwart tekst en pictogrammen"
