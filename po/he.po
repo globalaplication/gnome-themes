@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.he\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-27 13:54+0200\n"
+"POT-Creation-Date: 2003-01-31 05:03+0100\n"
+"PO-Revision-Date: 2003-01-31 09:03+0200\n"
 "Last-Translator: Gil 'Dolfin' Osher <dolfin@rpg.org.il>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -81,13 +81,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "הדרגתיות חלקה עם הדגשי טורקיז"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "מראה זכוכית עדין"
+msgstr "מראה כתום מאובק"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "גראנד קניון"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -107,7 +106,7 @@ msgstr "צבעי חוף הים"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "פשוט"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -123,7 +122,7 @@ msgstr "עשן כחול"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "מסורתי"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -156,3 +155,4 @@ msgstr "עשן אדום"
 
 #~ msgid "Gnome"
 #~ msgstr "Gnome"
+
