@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-03-07 01:30+0600\n"
 "Last-Translator: Jamil Ahmed <jamil@bengalinux.org>\n"
 "Language-Team: Bengali <gnome-translation@bengalinux.org>\n"
@@ -31,7 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "কালোর উপর সাদা অক্ষর এবং প্রতীক"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+#, fuzzy
+msgid "High Contrast Large Print"
 msgstr "অতিশয় গাঢ় তারতম্য"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2

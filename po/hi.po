@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes HEAD\n"
-"POT-Creation-Date: 2003-08-07 18:47+0530\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-08-07 19:00+0530\n"
 "Last-Translator: Anand Subramanian <anand.subra@wipro.com>\n"
 "Language-Team: Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge."

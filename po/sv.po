@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-03-04 22:20+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -33,7 +33,7 @@ msgid "White-on-black text and icons"
 msgstr "Text och ikoner i vitt på svart"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+msgid "High Contrast Large Print"
 msgstr "Stor text med hög kontrast"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
@@ -144,6 +144,9 @@ msgstr "Rökig-blå"
 msgid "Smokey-Red"
 msgstr "Rökig-röd"
 
+#~ msgid "High Contrast Large"
+#~ msgstr "Stor text med hög kontrast"
+
 #~ msgid "Default"
 #~ msgstr "Standard"
 
@@ -155,9 +158,6 @@ msgstr "Rökig-röd"
 
 #~ msgid "Gnome"
 #~ msgstr "Gnome"
-
-#~ msgid "High Contrast Large Print"
-#~ msgstr "Stor text med hög kontrast"
 
 #~ msgid "%P %%"
 #~ msgstr "%P %%"

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-02-21 08:51+0330\n"
 "Last-Translator: Roozbeh Pournader <roozbeh@sharif.edu>\n"
 "Language-Team: Persian <farsi@lists.sharif.edu>\n"
@@ -30,7 +30,7 @@ msgid "White-on-black text and icons"
 msgstr "متن و شمایل‌های سفید روی سیاه"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+msgid "High Contrast Large Print"
 msgstr ""
 
 #: HighContrastLargePrint/index.theme.in.in.h:2

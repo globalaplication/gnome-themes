@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-02-17 22:11+0100\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-02-17 22:42--100\n"
 "Last-Translator: Samuel Jon Gunnarsson <sammi@techattack.nu>\n"
 "Language-Team: Icelandic <gnome@techattack.nu>\n"
@@ -31,7 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Hvítt-á-svörtu texti og táknmyndir"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+#, fuzzy
+msgid "High Contrast Large Print"
 msgstr "Stórar og miklar andstæður"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
@@ -70,8 +71,7 @@ msgstr "Stór daufur texti og táknmyndir"
 msgid "Low Contrast Large Print"
 msgstr "Litlar andstæður og stórar stærðir"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
 
@@ -142,4 +142,3 @@ msgstr "Reykblátt"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Reykrautt"
-

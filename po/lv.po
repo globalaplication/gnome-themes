@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-01-31 09:38+0200\n"
 "Last-Translator: Artis Trops <hornet@navigator.lv>\n"
 "Language-Team: Latvian <ll10nt@os.lv>\n"
@@ -31,7 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Balts-uz-melna teksts un ikonas"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+#, fuzzy
+msgid "High Contrast Large Print"
 msgstr "Spēcīga Kontrasta Liels"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2

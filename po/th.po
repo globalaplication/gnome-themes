@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-02-21 15:39-0700\n"
 "Last-Translator: Paisa Seeluangsawat <paisa@colorado.edu>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
@@ -31,7 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "ข้อความและสัญลักษณ์สีขาวบนพื้นดำ"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+#, fuzzy
+msgid "High Contrast Large Print"
 msgstr "สีตัดกัน อักษรใหญ่"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2002-12-19 14:58+0200\n"
 "Last-Translator: Alexander Shopov <al_shopov@yahoo.com>\n"
 "Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
@@ -31,7 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Бели текст и икони на черен фон"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+#, fuzzy
+msgid "High Contrast Large Print"
 msgstr "Висок контраст, едри елементи"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2

@@ -1,5 +1,5 @@
 
-INCLUDES = $(GNOME_CFLAGS) $(GTKTHEME_CFLAGS) -DDATADIR=\"$(datadir)/eazel-engine\"
+INCLUDES = $(GTKTHEME_CFLAGS) -DDATADIR=\"$(datadir)/eazel-engine\"
 
 enginedir = $(libdir)/gtk-2.0/$(GTK_BINARY_VERSION)/engines
 
@@ -29,6 +29,4 @@ libcrux_engine_la_SOURCES = 	\
 libcrux_engine_la_LDFLAGS = -module -avoid-version
 libcrux_engine_la_LIBADD = $(GTKTHEME_LIBS)
 
-noinst_PROGRAMS = test
 
-test_LDADD = $(GNOME_LIBS)

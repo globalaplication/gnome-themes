@@ -2,19 +2,18 @@
 # Copyright (C) 2003 Free Software Foundation, INC
 # This file is distributed under the same license as the PACKAGE package.
 # Paul Duffy <dubhthach@frink.nuigalway.ie>, 2003.
-#
-
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-08-22 13:10+0200\n"
+"POT-Creation-Date: 2003-09-17 13:06-0700\n"
 "PO-Revision-Date: 2003-08-22 15:10+0100\n"
 "Last-Translator: Paul Duffy <dubhthach@frink.nuigalway.ie>\n"
 "Language-Team: Irish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
