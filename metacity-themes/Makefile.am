@@ -1,7 +1,8 @@
 THEMES=			\
 	Mist		\
 	Sandwish	\
-	Smokey
+	Smokey		\
+	Simple
 
 THEME_DIR=$(datadir)/themes
 THEME_SUBDIR=metacity-1
