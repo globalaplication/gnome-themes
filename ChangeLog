@@ -1,3 +1,12 @@
+Tue Oct  1 10:01:59 2002  Owen Taylor  <otaylor@redhat.com>
+
+	* LargePrint/gtk-2.0/gtkrc.in
+	  LowContrastLargePrint/gtk-2.0/gtkrc.in
+	  HighContrastLargePrint/gtk-2.0/gtkrc.in 
+	  HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	Update gtk-icon-sizes to specify 'gtk-dnd', etc,
+	rather than just 'dnd'
+
 2002-09-27  Calum Benson  <calum.benson@sun.com>
 
 	Icon size syntax changed to match that required by
