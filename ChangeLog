@@ -1,3 +1,26 @@
+2004-07-20  Calum Benson  <calum.benson@sun.com>
+
+	Added Smooth engine from Andrew Johnson (bug #147863).
+
+	* autogen.sh:
+	* configure.in:
+	* gtk-engines/Makefile.am:
+	* gtk-engines/Smooth/AUTHORS:
+	* gtk-engines/Smooth/Makefile.am:
+	* gtk-engines/Smooth/smooth_gtk2_engine.c:
+	* gtk-engines/Smooth/smooth_rc_style.c:
+	* gtk-engines/Smooth/smooth_rc_style.h:
+	* gtk-engines/Smooth/smooth_style.c:
+	* gtk-engines/Smooth/smooth_style.h:
+	* gtk-engines/Smooth/utils/draw_arrows.c:
+	* gtk-engines/Smooth/utils/draw_arrows.h:
+	* gtk-engines/Smooth/utils/draw_fill.c: 
+	* gtk-engines/Smooth/utils/draw_fill.h:
+	* gtk-engines/Smooth/utils/draw_grips.c: 
+	* gtk-engines/Smooth/utils/draw_grips.h:
+	* gtk-engines/Smooth/utils/misc_functions.c: 
+	* gtk-engines/Smooth/utils/misc_functions.h:
+
 2004-07-05  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:

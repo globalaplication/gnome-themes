@@ -1,1 +1,1 @@
-SUBDIRS=hc-engine thinice
+SUBDIRS=Smooth hc-engine thinice

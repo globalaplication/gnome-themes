@@ -96,6 +96,7 @@ desktop-themes/Simple/Makefile
 desktop-themes/Smokey-Blue/Makefile
 desktop-themes/Traditional/Makefile
 gtk-engines/Makefile
+gtk-engines/Smooth/Makefile
 gtk-engines/hc-engine/Makefile
 gtk-engines/thinice/Makefile
 gtk-themes/Makefile
