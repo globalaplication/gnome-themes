@@ -1,3 +1,4 @@
+
 # translation of gnome-themes.HEAD.po to mongolian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
@@ -5,15 +6,15 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-16 21:01+0100\n"
-"Last-Translator: Sanlig Badral <badral@chinggis.com>\n"
-"Language-Team: mongolian <mn@li.org>\n"
+"Project-Id-Version: gnome-themes.HEAD.mn\n"
+"POT-Creation-Date: 2003-01-24 12:22+0100\n"
+"PO-Revision-Date: 2003-01-29 10:14GMT\n"
+"Last-Translator: \n"
+"Language-Team:  <C@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.1\n"
+"X-Generator: KBabel 0.9.6\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -21,132 +22,125 @@ msgstr "Цагаан дээр хар текст ба эмблемүүд"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Өндөр эсэргүүцэлт"
+msgstr "Өндөр эрчимт"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Урвуулсэн өндөр эсэргүүцэлт"
+msgstr "Урвуулсэн өндөр эрчимт"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "Хар дээр цагаан текст ба эмблемүүд"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large"
-msgstr "Өндөр эсэргүүцэлт"
+msgstr "Том өндөр эрчимт"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large black-on-white text and icons"
-msgstr "Цагаан дээр хар текст ба эмблемүүд"
+msgstr "Цагаан дээр том хар текст ба эмблемүүд"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print Inverse"
-msgstr "Урвуулсэн өндөр эсэргүүцэлт"
+msgstr "Урвуулсан том хэвлэгдэх өндөр эрчимт"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large white-on-black text and icons"
-msgstr "Хар дээр цагаан текст ба эмблемүүд"
+msgstr "Хар дээр том цагаан текст ба эмблемүүд"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr ""
+msgstr "Том хэвлэгдэх"
 
 #: LargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large text and icons"
-msgstr "Цагаан дээр хар текст ба эмблемүүд"
+msgstr "Том текст ба эмблемүүд"
 
 #: LowContrast/index.theme.in.h:1
-#, fuzzy
 msgid "Low Contrast"
-msgstr "Өндөр эсэргүүцэлт"
+msgstr "Нам эрчимт"
 
 #: LowContrast/index.theme.in.h:2
-#, fuzzy
 msgid "Muted text and icons"
-msgstr "Хар дээр цагаан текст ба эмблемүүд"
+msgstr "Хаалттай текст ба эмблемүүд"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "Large muted text and icons"
-msgstr "Цагаан дээр хар текст ба эмблемүүд"
+msgstr "Том хаалттай текст ба эмблемүүд"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr ""
+msgstr "Нам эрчимт том хэвлэгдэх"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Хүндрэл"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "Өндөр цацралтат оюутай толигор уусалт"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "Стандарт"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "Сийрэг харагдалт, өндөр чадавхи"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Хамгийн жижиг харагдалт"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr ""
+msgstr "Униарт"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Тэнгисийн зүүд"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Тэнгисийн эргийн өнгө"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "Тал"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Уламжилалт хатуу өнцөгт 3 хэмжээст харагдалт"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Зөөлөн шилэн харагдалт"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Утаан цэнхэр"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Зэвхий хөх"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Элсэн"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Утаан-цэнхэр"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Утаан-улаан"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "Стандарт Gnome хэлбэр"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "Gnome"
+
