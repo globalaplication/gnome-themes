@@ -5,4 +5,5 @@ SUBDIRS=		\
 	Ocean-Dream	\
 	Simple		\
 	Smokey-Blue	\
+	SimplySmooth	\
 	Traditional

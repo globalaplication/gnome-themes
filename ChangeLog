@@ -1,3 +1,21 @@
+2004-07-27  Calum Benson  <calum.benson@sun.com>
+
+	Add the SmoothGNOME theme, now called SimplySmooth
+	(for now at least).  Note: haven't yet added the
+	icon theme part, pending discussions on desktop-devel.
+	
+	* configure.in:
+	* desktop-themes/Makefile.am:
+	* desktop-themes/SimplySmooth/Makefile.am: add
+	* desktop-themes/SimplySmooth/index.theme: add
+	* desktop-themes/SimplySmooth/index.theme.in: add
+	* gtk-themes/Makefile.am:
+	* gtk-themes/SimplySmooth/Makefile.am: add
+	* gtk-themes/SimplySmooth/gtkrc: add
+	* gtk-themes/SimplySmooth/iconrc: add
+	* metacity-themes/Makefile.am: 
+	* metacity-themes/SimplySmooth/metacity-theme-1.xml: add
+
 2004-07-23  Gustavo J. A. M. Carneiro  <gustavo@users.sourceforge.net>
 
 	* gtk-engines/Smooth/Makefile.am (libsmooth_la_LIBADD): Fix wrong

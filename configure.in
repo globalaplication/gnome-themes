@@ -94,6 +94,7 @@ desktop-themes/Mist/Makefile
 desktop-themes/Ocean-Dream/Makefile
 desktop-themes/Simple/Makefile
 desktop-themes/Smokey-Blue/Makefile
+desktop-themes/SimplySmooth/Makefile
 desktop-themes/Traditional/Makefile
 gtk-engines/Makefile
 gtk-engines/Smooth/Makefile
@@ -111,6 +112,7 @@ gtk-themes/Mist/Makefile
 gtk-themes/Mist/src/Makefile
 gtk-themes/Mist/Theme/Makefile
 gtk-themes/Smokey-Blue/Makefile
+gtk-themes/SimplySmooth/Makefile
 gtk-themes/ThinIce/Makefile
 gtk-themes/ThinIce/gtk-2.0/Makefile
 metacity-themes/Makefile

@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Simply Smooth
+Type=X-GNOME-Metatheme
+_Comment=Simple, smooth and aesthetically pleasing.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SimplySmooth
+MetacityTheme=SimplySmooth
+IconTheme=gnome
