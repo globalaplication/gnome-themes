@@ -1,3 +1,11 @@
+2002-10-14  Calum Benson  <calum.benson@sun.com>
+
+	reviewed by: <delete if not using a buddy>
+
+	* configure.in:
+
+	Upped to version 0.2 and tagged for weekly GNOME 2.1 release.
+
 2002-10-09  Calum Benson  <calum.benson@sun.com>
 
 	* common/gtk-stock-icons.rc:
