@@ -17,7 +17,7 @@ msgstr ""
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Textos y iconos en negro sobre blanco"
+msgstr "Textos e iconos en negro sobre blanco"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -29,7 +29,7 @@ msgstr "Alto contraste invertido"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Textos y iconos en blanco sobre negro"
+msgstr "Textos e iconos en blanco sobre negro"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large"
@@ -37,7 +37,7 @@ msgstr "Alto contraste grande"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Textos y iconos grandes en negro sobre blanco"
+msgstr "Textos e iconos grandes en negro sobre blanco"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -45,7 +45,7 @@ msgstr "Alto contraste grande invertido"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Textos y iconos grandes en blanco sobre negro"
+msgstr "Textos e iconos grandes en blanco sobre negro"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -53,7 +53,7 @@ msgstr "Impresión grande"
 
 #: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "Textos y iconos grandes"
+msgstr "Textos e iconos grandes"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -61,11 +61,11 @@ msgstr "Bajo contraste"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Textos y iconos de tonos bajos"
+msgstr "Textos e iconos de tonos bajos"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Textos y iconos grandes de tono bajo"
+msgstr "Textos e iconos grandes de tono bajo"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
