@@ -1,3 +1,9 @@
+2003-05-02  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* LargePrint/pixmaps/stock_close.png: Resaved
+	this using gimp since opening it caused valgrind
+	errors.
+
 2003-03-12  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
