@@ -1,5 +1,11 @@
 2003-01-25  Seth Nickell  <snickell@stanford.edu>
 
+	* gtk-themes/Crux/Makefile.am:
+
+	More dist fixes. Now builds tarballs. Huzzah!
+	
+2003-01-25  Seth Nickell  <snickell@stanford.edu>
+
 	* desktop-themes/Grand-Canyon/index.theme.in:
 
 	Make translatable.

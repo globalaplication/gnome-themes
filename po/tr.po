@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-desktop-themes\n"
-"POT-Creation-Date: 2003-01-23 19:01+0100\n"
+"POT-Creation-Date: 2003-01-23 14:02-0800\n"
 "PO-Revision-Date: 2003-01-24 00:05+0200\n"
 "Last-Translator: Barbaros Ulutas <tebarul@yahoo.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -14,8 +14,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr ""
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr ""
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr ""
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr ""
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large"
+msgstr ""
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr ""
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr ""
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr ""
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr ""
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr ""
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr ""
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr ""
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr ""
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr ""
+
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Püf Noktasi"
 
@@ -63,135 +118,6 @@ msgstr "Yumusak camsi bir görünüm"
 msgid "Smokey Blue"
 msgstr "Dumanli Mavi"
 
-#: gtk-themes/Crux/src/test.glade.h:2
-#, no-c-format
-msgid "%P %%"
-msgstr "%P %%"
-
-#: gtk-themes/Crux/src/test.glade.h:3
-msgid "Bar"
-msgstr "Çubuk"
-
-#: gtk-themes/Crux/src/test.glade.h:4
-msgid "Foo"
-msgstr ""
-
-#: gtk-themes/Crux/src/test.glade.h:5
-msgid "New"
-msgstr "Yeni"
-
-#: gtk-themes/Crux/src/test.glade.h:6
-msgid "New File"
-msgstr "Yeni Dosya"
-
-#: gtk-themes/Crux/src/test.glade.h:7
-msgid "Open"
-msgstr "Aç"
-
-#: gtk-themes/Crux/src/test.glade.h:8
-msgid "Open File"
-msgstr "Dosya Aç"
-
-#: gtk-themes/Crux/src/test.glade.h:9
-msgid "Pick a color"
-msgstr "Renk al"
-
-#: gtk-themes/Crux/src/test.glade.h:10
-msgid "Project1"
-msgstr "Tasari1"
-
-#: gtk-themes/Crux/src/test.glade.h:11
-msgid "Radio 1"
-msgstr "Radyo 1"
-
-#: gtk-themes/Crux/src/test.glade.h:12
-msgid "Radio 2"
-msgstr "Radyo 2"
-
-#: gtk-themes/Crux/src/test.glade.h:13
-msgid "Radio 3"
-msgstr "Radyo 3"
-
-#: gtk-themes/Crux/src/test.glade.h:14
-msgid "Sample Button"
-msgstr "Örnek Tus"
-
-#: gtk-themes/Crux/src/test.glade.h:15
-msgid "Sample check button"
-msgstr "Örnek onay tusu"
-
-#: gtk-themes/Crux/src/test.glade.h:16
-msgid "Save"
-msgstr "Kaydet"
-
-#: gtk-themes/Crux/src/test.glade.h:17
-msgid "Save File"
-msgstr "Dosyayi Kaydet"
-
-#: gtk-themes/Crux/src/test.glade.h:18
-msgid "Sub 1"
-msgstr "Alt 1"
-
-#: gtk-themes/Crux/src/test.glade.h:19
-msgid "Sub 2"
-msgstr "Alt 2"
-
-#: gtk-themes/Crux/src/test.glade.h:20
-msgid "Test one"
-msgstr "Deneme bir"
-
-#: gtk-themes/Crux/src/test.glade.h:21
-msgid "Test three"
-msgstr "Deneme üç"
-
-#: gtk-themes/Crux/src/test.glade.h:22
-msgid "Test two"
-msgstr "Deneme iki"
-
-#: gtk-themes/Crux/src/test.glade.h:23
-msgid "Text entry field"
-msgstr "Metin giris alani"
-
-#: gtk-themes/Crux/src/test.glade.h:24
-msgid "This is a test."
-msgstr "Bu bir denemedir."
-
-#: gtk-themes/Crux/src/test.glade.h:25
-msgid "_New File"
-msgstr "Ye_ni Dosya"
-
-#: gtk-themes/Crux/src/test.glade.h:26
-msgid "button2"
-msgstr "tus2"
-
-#: gtk-themes/Crux/src/test.glade.h:27
-msgid "button3"
-msgstr "tus3"
-
-#: gtk-themes/Crux/src/test.glade.h:28
-msgid "button4"
-msgstr "tus4"
-
-#: gtk-themes/Crux/src/test.glade.h:29
-msgid "gtk-ok"
-msgstr "gtk-ok"
-
-#: gtk-themes/Crux/src/test.glade.h:30
-msgid "radiobutton1"
-msgstr "radyo tus1"
-
-#: gtk-themes/Crux/src/test.glade.h:31
-msgid "radiobutton2"
-msgstr "radyo tus2"
-
-#: gtk-themes/Crux/src/test.glade.h:32
-msgid "toggle"
-msgstr "geçis"
-
-#: gtk-themes/Crux/src/test.glade.h:33
-msgid "www.eazel.com"
-msgstr "www.eazel.com"
-
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Düz Mavi"
@@ -216,3 +142,95 @@ msgstr "Öntanimli Gnome Temasi"
 msgid "Gnome"
 msgstr "Gnome"
 
+#~ msgid "%P %%"
+#~ msgstr "%P %%"
+
+#~ msgid "Bar"
+#~ msgstr "Çubuk"
+
+#~ msgid "New"
+#~ msgstr "Yeni"
+
+#~ msgid "New File"
+#~ msgstr "Yeni Dosya"
+
+#~ msgid "Open"
+#~ msgstr "Aç"
+
+#~ msgid "Open File"
+#~ msgstr "Dosya Aç"
+
+#~ msgid "Pick a color"
+#~ msgstr "Renk al"
+
+#~ msgid "Project1"
+#~ msgstr "Tasari1"
+
+#~ msgid "Radio 1"
+#~ msgstr "Radyo 1"
+
+#~ msgid "Radio 2"
+#~ msgstr "Radyo 2"
+
+#~ msgid "Radio 3"
+#~ msgstr "Radyo 3"
+
+#~ msgid "Sample Button"
+#~ msgstr "Örnek Tus"
+
+#~ msgid "Sample check button"
+#~ msgstr "Örnek onay tusu"
+
+#~ msgid "Save"
+#~ msgstr "Kaydet"
+
+#~ msgid "Save File"
+#~ msgstr "Dosyayi Kaydet"
+
+#~ msgid "Sub 1"
+#~ msgstr "Alt 1"
+
+#~ msgid "Sub 2"
+#~ msgstr "Alt 2"
+
+#~ msgid "Test one"
+#~ msgstr "Deneme bir"
+
+#~ msgid "Test three"
+#~ msgstr "Deneme üç"
+
+#~ msgid "Test two"
+#~ msgstr "Deneme iki"
+
+#~ msgid "Text entry field"
+#~ msgstr "Metin giris alani"
+
+#~ msgid "This is a test."
+#~ msgstr "Bu bir denemedir."
+
+#~ msgid "_New File"
+#~ msgstr "Ye_ni Dosya"
+
+#~ msgid "button2"
+#~ msgstr "tus2"
+
+#~ msgid "button3"
+#~ msgstr "tus3"
+
+#~ msgid "button4"
+#~ msgstr "tus4"
+
+#~ msgid "gtk-ok"
+#~ msgstr "gtk-ok"
+
+#~ msgid "radiobutton1"
+#~ msgstr "radyo tus1"
+
+#~ msgid "radiobutton2"
+#~ msgstr "radyo tus2"
+
+#~ msgid "toggle"
+#~ msgstr "geçis"
+
+#~ msgid "www.eazel.com"
+#~ msgstr "www.eazel.com"

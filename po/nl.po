@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
-"POT-Creation-Date: 2003-01-24 04:54+0100\n"
+"POT-Creation-Date: 2003-01-23 14:02-0800\n"
 "PO-Revision-Date: 2003-01-24 12:13+0100\n"
 "Last-Translator: Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"

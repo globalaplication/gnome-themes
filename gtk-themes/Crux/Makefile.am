@@ -21,4 +21,4 @@ enginedir = $(libdir)/gtk/themes/engines
 MAINTAINERCLEANFILES = gtkrc
 
 gtkrc : gtkrc.in make-gtkrc.pl
-	perl make-gtkrc.pl -c $(COLOR) -d "$(enginedir)" < gtkrc.in > gtkrc
+	perl $(top_srcdir)/gtk-themes/Crux/make-gtkrc.pl -c $(COLOR) -d "$(enginedir)" < $(top_srcdir)/gtk-themes/Crux/gtkrc.in > gtkrc
