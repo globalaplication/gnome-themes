@@ -2,6 +2,13 @@
 
 	* NEWS:
 	* configure.in:
+	
+	Post-release version bump.
+
+2005-03-07  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
 
 	2.10.0 release. Yay!
 
