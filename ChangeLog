@@ -1,3 +1,90 @@
+2002-09-02  Calum Benson  <set EMAIL_ADDRESS environment variable>
+
+	Added suzanna's HCLP launcher icons. Some of these probably have the
+	wrong filename just now, will fix in due course.
+
+	* HighContrastLargePrint/icons/48x48/apps/002_text_document.png:
+	* HighContrastLargePrint/icons/48x48/apps/008_presentation_document
+	.png:
+	* HighContrastLargePrint/icons/48x48/apps/012_html_document.png:
+	* HighContrastLargePrint/icons/48x48/apps/ForteDeveloper.png:
+	* HighContrastLargePrint/icons/48x48/apps/ForteForJava.png:
+	* HighContrastLargePrint/icons/48x48/apps/SDtpowermgr.48.png:
+	* HighContrastLargePrint/icons/48x48/apps/SMC.png:
+	* HighContrastLargePrint/icons/48x48/apps/accessibility-directory.p
+	ng:
+	* HighContrastLargePrint/icons/48x48/apps/accessibility-keyboard-ca
+	p.png:
+	* HighContrastLargePrint/icons/48x48/apps/advanced-directory.png:
+	* HighContrastLargePrint/icons/48x48/apps/background-capplet.png:
+	* HighContrastLargePrint/icons/48x48/apps/behavior-capplet.png:
+	* HighContrastLargePrint/icons/48x48/apps/charpick.png:
+	* HighContrastLargePrint/icons/48x48/apps/default-applications-capp
+	l.png:
+	* HighContrastLargePrint/icons/48x48/apps/font-capplet.png:
+	* HighContrastLargePrint/icons/48x48/apps/gedit-icon.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-applications.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-calc3.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-ccmime.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-ccthemes.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-cd.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-cdplayer-icon.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-character-map.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-clock.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-devel.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-eog.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-ghex.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-ghostview.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-globe.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-graphics.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-help.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-home.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-info.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-log.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-logo-icon-transpare
+	n.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-mailcheck.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-mini-commander.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-mixer-applet.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-multimedia.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-panel.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-system.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-terminal.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-util.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-windows.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-workspace.png:
+	* HighContrastLargePrint/icons/48x48/apps/keyboard-capplet.png:
+	* HighContrastLargePrint/icons/48x48/apps/keyboard-shortcut.png:
+	* HighContrastLargePrint/icons/48x48/apps/launcher-program.png:
+	* HighContrastLargePrint/icons/48x48/apps/mouse-capplet.png:
+	* HighContrastLargePrint/icons/48x48/apps/mozicon50.png:
+	* HighContrastLargePrint/icons/48x48/apps/pdasync2.png:
+	* HighContrastLargePrint/icons/48x48/apps/perfmeter.png:
+	* HighContrastLargePrint/icons/48x48/apps/print-manager.png:
+	* HighContrastLargePrint/icons/48x48/apps/sdtaudiocontrol.48.png:
+	* HighContrastLargePrint/icons/48x48/apps/sdtjmplay.48.png:
+	* HighContrastLargePrint/icons/48x48/apps/smartcard.32.png:
+	* HighContrastLargePrint/icons/48x48/apps/so52_48_4bit.png:
+	* HighContrastLargePrint/icons/48x48/apps/so_printeradmin.png:
+	* HighContrastLargePrint/icons/index.theme:
+	* README:
+
+2002-09-02  Calum Benson  <Calum.Benson@sun.com>
+
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/pixmaps/Makefile.am:
+	* HighContrastLargePrint/pixmaps/stock_corner-panel.png:
+	* HighContrastLargePrint/pixmaps/stock_drawer.png:
+	* HighContrastLargePrint/pixmaps/stock_edge-panel.png:
+	* HighContrastLargePrint/pixmaps/stock_floating-panel.png:
+	* HighContrastLargePrint/pixmaps/stock_menu-panel.png:
+	* HighContrastLargePrint/pixmaps/stock_multimedia.png:
+	* HighContrastLargePrint/pixmaps/stock_screenshot.png:
+	* HighContrastLargePrint/pixmaps/stock_sliding-panel.png:
+
+	Updated with latest HCLP stock icons from suzanna.
+
 2002-08-23  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrast/gtk-2.0/gtkrc.in:
