@@ -1,3 +1,8 @@
+2003-03-14  Malcolm Tredinnick <malcolm@commsecure.com.au>
+
+	* */.../*/.cvsignore: Add .cvsignore files all over the place to
+	keep updates quieter.
+
 2003-03-13  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "ml" to ALL_LINGUAS.

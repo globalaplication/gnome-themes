@@ -10,3 +10,4 @@ config.status
 Makefile
 *.lo
 *.la
+test
