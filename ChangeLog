@@ -1,3 +1,30 @@
+2003-01-20  Calum Benson  <calum.benson@sun.com>
+
+	Added final icons and spec file for first GNOME 2.2
+	release candidate.
+
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_down.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_left.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_right.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_up.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_down.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_left.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_right.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_up.png:
+	* LargePrint/pixmaps/stock_panel_hide_down.png:
+	* LargePrint/pixmaps/stock_panel_hide_left.png:
+	* LargePrint/pixmaps/stock_panel_hide_right.png:
+	* LargePrint/pixmaps/stock_panel_hide_up.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_down.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_left.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_right.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_up.png:
+	* Makefile.am:
+	* common/all-stock-icons.data:
+	* common/panel-stock-icons.rc:
+	* configure.in:
+	* gnome-themes.spec.in:
+
 2003-01-20  Yuriy Syrota <rastaman@renome.rovno.ua>
 
 	* configure.in: added 'uk' (Ukrainian) to ALL_LINGUAS
