@@ -20,8 +20,8 @@ libsmooth_la_SOURCES = \
 	smooth_rc_style.h	\
 	smooth_style.c	\
 	smooth_style.h
-	
+
 libsmooth_la_LDFLAGS= -module -avoid-version
-libsmooth_la_LIBADD = $(GTK_LIBS)
+libsmooth_la_LIBADD = $(THEME_ENGINE_LIBS)
 
 EXTRA_DIST = AUTHORS README
