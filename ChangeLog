@@ -1,3 +1,18 @@
+2004-09-24  Calum Benson  <calum.benson@sun.com>
+
+	* src/crux-draw.c: (draw_handle), (crux_draw_style_class_init):
+	* src/crux-draw.h:
+	* src/crux-style.c: (crux_style_class_init):
+
+	Patch to fix crash-causing namespace issue
+	(Robert Basch, bug #116693).
+
+2004-09-24  Calum Benson  <calum.benson@sun.com>
+
+	reviewed by: <delete if not using a buddy>
+
+	* NEWS:
+
 2004-09-04  James Henstridge  <james@jamesh.id.au>
 
 	* configure.in: update and simplify the configure script a bit.

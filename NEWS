@@ -1,6 +1,13 @@
 (2.9.0)
 =======
 
+Enhancements:
+
+- Massive build improvements from jamesh.
+
+Bugfixes:
+
+- Crux crasher (#116693, Robert Basch)
 
 2.8.0
 =====
