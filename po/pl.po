@@ -1,83 +1,75 @@
 # Copyright (C) 2001-2003 Free Software Foundation, Inc.
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Aktualn± wersjê tego pliku mo¿esz odnale¼æ w repozytorium cvs.gnome.pl
-# (:pserver:anonymous@cvs.gnome.pl:/home/cvs, puste has³o)
-# Je¶li masz jakiekolwiek uwagi odnosz±ce siê do t³umaczenia lub chcesz
-# pomóc w jego rozwijaniu i pielêgnowaniu, napisz do nas na adres:
+# AktualnÄ… wersjÄ™ tego pliku moÅ¼esz odnaleÅºÄ‡ w repozytorium cvs.gnome.pl
+# (:pserver:anonymous@cvs.gnome.pl:/home/cvs, puste hasÅ‚o)
+# JeÅ›li masz jakiekolwiek uwagi odnoszÄ…ce siÄ™ do tÅ‚umaczenia lub chcesz
+# pomÃ³c w jego rozwijaniu i pielÄ™gnowaniu, napisz do nas na adres:
 # translators@gnome.pl
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-02-03 12:59-0800\n"
-"PO-Revision-Date: 2003-01-06 18:04+0100\n"
+"POT-Creation-Date: 2003-02-21 21:26+0100\n"
+"PO-Revision-Date: 2003-02-21 21:37+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Czarny tekst i ikony na bia³ym tle"
+msgstr "Czarny tekst i ikony na biaÅ‚ym tle"
 
-#: HighContrast/index.theme.in.h:2
+#: HighContrast/index.theme.in.h:1
 msgid "High Contrast"
 msgstr "Wysoki kontrast"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Odwrócony wysoki kontrast"
+msgstr "OdwrÃ³cony wysoki kontrast"
 
-#: HighContrastInverse/index.theme.in.h:2
+#: HighContrastInverse/index.theme.in.h:1
 msgid "White-on-black text and icons"
-msgstr "Bia³y tekst i ikony na czarnym tle"
+msgstr "BiaÅ‚y tekst i ikony na czarnym tle"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large"
-msgstr "Wysoki kontrast"
+msgstr "DuÅ¼e o wysokim kontraÅ›cie"
 
-#: HighContrastLargePrint/index.theme.in.in.h:2
-#, fuzzy
+#: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "Large black-on-white text and icons"
-msgstr "Czarny tekst i ikony na bia³ym tle"
+msgstr ""
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print Inverse"
-msgstr "Odwrócony wysoki kontrast"
+msgstr ""
 
-#: HighContrastLargePrintInverse/index.theme.in.in.h:2
-#, fuzzy
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "Large white-on-black text and icons"
-msgstr "Bia³y tekst i ikony na czarnym tle"
+msgstr ""
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
 msgstr ""
 
-#: LargePrint/index.theme.in.in.h:2
-#, fuzzy
+#: LargePrint/index.theme.in.in.h:1
 msgid "Large text and icons"
-msgstr "Czarny tekst i ikony na bia³ym tle"
+msgstr "DuÅ¼y tekst i ikony"
 
 #: LowContrast/index.theme.in.h:1
-#, fuzzy
 msgid "Low Contrast"
-msgstr "Wysoki kontrast"
+msgstr "Niski kontrast"
 
-#: LowContrast/index.theme.in.h:2
-#, fuzzy
+#: LowContrast/index.theme.in.h:1
 msgid "Muted text and icons"
-msgstr "Bia³y tekst i ikony na czarnym tle"
+msgstr "PrzytÅ‚umiony tekst i ikony"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "Large muted text and icons"
-msgstr "Czarny tekst i ikony na bia³ym tle"
+msgstr ""
 
-#: LowContrastLargePrint/index.theme.in.in.h:2
+#: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Low Contrast Large Print"
 msgstr ""
 
@@ -85,7 +77,7 @@ msgstr ""
 msgid "Crux"
 msgstr ""
 
-#: desktop-themes/Crux/index.theme.in.h:2
+#: desktop-themes/Crux/index.theme.in.h:1
 msgid "Smooth gradients with teal highlights"
 msgstr ""
 
@@ -93,15 +85,15 @@ msgstr ""
 msgid "Dusty orange appearance"
 msgstr ""
 
-#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Grand Canyon"
 msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Minimalistyczny wyglÄ…d"
 
-#: desktop-themes/Mist/index.theme.in.h:2
+#: desktop-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr ""
 
@@ -109,15 +101,15 @@ msgstr ""
 msgid "Ocean Dream"
 msgstr ""
 
-#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+#: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "The colours of the seashore"
 msgstr ""
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Prosty"
 
-#: desktop-themes/Simple/index.theme.in.h:2
+#: desktop-themes/Simple/index.theme.in.h:1
 msgid "Thin appearance, high performance"
 msgstr ""
 
@@ -125,17 +117,17 @@ msgstr ""
 msgid "A soft glassy appearance"
 msgstr ""
 
-#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+#: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey Blue"
 msgstr ""
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Tradycyjny"
 
-#: desktop-themes/Traditional/index.theme.in.h:2
+#: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Tradycyjny wyglÄ…d 3D z ostrymi krawÄ™dziami"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -152,3 +144,12 @@ msgstr ""
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr ""
+
+#~ msgid "Default"
+#~ msgstr "DomyÅ›lny"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "DomyÅ›lny motyw GNOME"
+
+#~ msgid "Gnome"
+#~ msgstr "GNOME"
