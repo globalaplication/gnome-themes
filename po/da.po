@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-31 12:59+0100\n"
+"POT-Creation-Date: 2003-05-19 21:46+0200\n"
+"PO-Revision-Date: 2003-05-19 21:47+0200\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid "White-on-black text and icons"
 msgstr "Hvid på sort tekst og ikoner"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+msgid "High Contrast Large Print"
 msgstr "Højkontrast, stor"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
