@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+_Name=Low Contrast
+_Comment=Low Contrast theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=LowContrast
+IconTheme=LowContrast
+MetacityTheme=Atlanta

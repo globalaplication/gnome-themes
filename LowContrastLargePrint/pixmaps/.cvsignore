@@ -1,1 +1,5 @@
+gtkrc.in
+Makefile
+Makefile.in
+gtkrc
 Makefile.am

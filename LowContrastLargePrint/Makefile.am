@@ -1,2 +1,11 @@
+
+@INTLTOOL_THEME_RULE@
+
+
+themedir = $(datadir)/themes/LowContrastLargePrint
+theme_in_files = index.theme.in
+theme_DATA = $(theme_in_files:.theme.in=.theme)
+
+
 SUBDIRS= gtk-2.0 pixmaps icons
 
