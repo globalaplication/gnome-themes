@@ -8,11 +8,6 @@ EXTRA_DIST = \
 	intltool-merge.in \
 	intltool-update.in
 
-#DISTCLEANFILES = \
-#	intltool-extract \
-#	intltool-merge \
-#	intltool-update
-
 install: install-recursive
 	for t in HighContrast LowContrast HighContrastInverse; do \
 		iconthemename="$$t"LargePrint ; \
@@ -20,8 +15,8 @@ install: install-recursive
 		nautilusthemedir="$(datadir)"/pixmaps/nautilus/"$$t" ; \
 		if !(test -d $$nautilusthemedir); then \
 			mkdir $$nautilusthemedir ; \
-			chmod a+r $$nautilusthemedir ; \
 		fi; \
+		chmod a+r $$nautilusthemedir ; \
 	$(LN_S) -f "$$iconthemedir/apps/gnome-starthere.png" "$$nautilusthemedir/gnome-starthere.png" ; \
 	$(LN_S) -f "$$iconthemedir/devices/gnome-dev-cdrom-audio.png" "$$nautilusthemedir/i-cdrom.png" ; \
 	$(LN_S) -f "$$iconthemedir/devices/gnome-dev-cdrom.png" "$$nautilusthemedir/i-cdrom.png" ; \
