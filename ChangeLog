@@ -1,3 +1,52 @@
+2002-12-02  Calum Benson  <calum.benson@sun.com>
+
+	Add HighContrast nautilus theme.
+
+	* HighContrast/Makefile.am:
+	* HighContrast/nautilus/HighContrast.xml:
+	* HighContrast/nautilus/Makefile.am:
+	* HighContrast/nautilus/decrement.png:
+	* HighContrast/nautilus/increment.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/Makefile.am:
+	* HighContrast/nautilus/sidebar_tab_pieces/fill-active-prelight.png
+	:
+	* HighContrast/nautilus/sidebar_tab_pieces/fill-active.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/fill-empty-space.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/fill-prelight.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/fill.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/left-bumper-active-preli
+	ght.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/left-bumper-active.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/left-bumper-prelight.png
+	:
+	* HighContrast/nautilus/sidebar_tab_pieces/left-bumper.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/middle-normal-normal.png
+	:
+	* HighContrast/nautilus/sidebar_tab_pieces/middle-normal-prelight.p
+	ng:
+	* HighContrast/nautilus/sidebar_tab_pieces/middle-prelight-normal.p
+	ng:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-bumper-prelight.pn
+	g:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-bumper.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-empty-space.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-top-active-preligh
+	t.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-top-active.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-top-prelight.png:
+	* HighContrast/nautilus/sidebar_tab_pieces/right-top.png:
+	* HighContrast/nautilus/throbber/001.png:
+	* HighContrast/nautilus/throbber/002.png:
+	* HighContrast/nautilus/throbber/003.png:
+	* HighContrast/nautilus/throbber/004.png:
+	* HighContrast/nautilus/throbber/005.png:
+	* HighContrast/nautilus/throbber/006.png:
+	* HighContrast/nautilus/throbber/Makefile.am:
+	* HighContrast/nautilus/throbber/rest.png:
+	* HighContrast/nautilus/zoom_body.png:
+	* Makefile.am:
+	* configure.in:
+
 2002-11-22  Calum Benson  <calum.benson@sun.com>
 
 	Added print manager icons, not integrated into theme files yet
