@@ -1,3 +1,9 @@
+2003-01-12  Christian Neumair  <chris@gnome-de.org>
+
+	* POTFILES.skip: Added, contains all theme.in files which are generated
+	by theme.in.in files (i.e. affects all LargePrint themes).
+	* de.po: Added German translation.
+
 2003-01-12  Artis Trops  <hornet@navigator.lv>
 
         * lv.po: Updated Latvian translation. 
