@@ -47,6 +47,9 @@ pixmap_DATA=	gnome-logo-icon-transparent.png \
 		sound-capplet.png \
 		gnome-help.png	\
 		window-capplet.png \
-		gnome-home.png 
+		gnome-home.png \
+		gnome-joystick.png \
+		gkb.png \
+		gnome-ccscreensaver.png 
 
 EXTRA_DIST=	$(pixmap_DATA)
