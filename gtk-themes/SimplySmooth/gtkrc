@@ -352,3 +352,10 @@ style "tooltip"
 	}
 }
 widget "gtk-tooltips" style "tooltip"
+
+style "textentry"
+{
+    bg[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
+    base[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
+}
+widget_class "*GtkEntry" style "textentry"
