@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.3.2.1\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-03-23 16:04+0100\n"
 "PO-Revision-Date: 2003-06-04 14:08+0200\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
@@ -76,7 +77,7 @@ msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr "Gradients suaus amb resaltats blau verdós"
+msgstr "Gradients suaus amb ressaltats blau verdós"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
