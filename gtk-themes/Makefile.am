@@ -1,1 +1,1 @@
-SUBDIRS=Crux gnome Grand-Canyon Mist Smokey-Blue
+SUBDIRS=Crux gnome Grand-Canyon LightHouseBlue Mist Smokey-Blue
