@@ -1,3 +1,9 @@
+2003-01-06  Jakub Steiner <jimmac@ximian.com>
+
+	* gorilla/scalable/filesystems/gnome-fs-executable.svg:
+	* gorilla/scalable/filesystems/gnome-fs-regular.svg: more
+	  dimension fixes
+
 2003-01-06  Abel Cheung  <maddog@linux.org.hk>
 
 	* configure.in: Added "zh_TW" to ALL_LINGUAS.
