@@ -1,3 +1,8 @@
+2004-03-23  Åsmund Skjæveland  <aasmunds@fys.uio.no>
+
+	* configure.in: Added 'nn' to ALL_LINGUAS.
+	* po/nn.po: Added Norwegian Nynorsk translation.
+
 2004-03-22  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
