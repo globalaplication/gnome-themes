@@ -1,11 +1,26 @@
 2004-05-31  Calum Benson  <calum.benson@sun.com>
 
-	reviewed by: <delete if not using a buddy>
+	Give HCLPI theme the symlink treatment.
 
-	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+        Modified:
+        * HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+        * HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
+        * HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am:
+
+        Added:
+        * HighContrastLargePrintInverse/icons/48x48/devices/symlinks.dat:
+        * HighContrastLargePrintInverse/icons/48x48/filesystems/symlinks.dat:
+        * HighContrastLargePrintInverse/icons/48x48/mimetypes/symlinks.dat:
+        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-font.pn
+        g
+        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
+        tion-x-executable.png:
+        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
+        tion.png:
+
+	Removed:
 	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-cdrom
 	-audio.png:
-	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am
 	:
 	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-ft
 	p.png:
@@ -13,7 +28,6 @@
 	s.png:
 	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-sm
 	b.png:
-	* HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
 	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
 	plication-msword.png:
 	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
@@ -278,7 +292,6 @@
 	font-afm.png:
 	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-package
 	.png:
-	* common/mkiconlinks.sh:
 
 2004-05-31  Calum Benson  <calum.benson@sun.com>
 
