@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themese VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2003-05-03 19:00+0200\n"
+"POT-Creation-Date: 2004-08-18 11:52+0200\n"
+"PO-Revision-Date: 2004-08-18 15:49+0200\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -78,6 +78,14 @@ msgstr "Crux"
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
 msgstr "Hladké přechody se zelenomodrým zvýrazněním"
+
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr "Glider"
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr "Jednoduché, hladké a esteticky potešující"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
