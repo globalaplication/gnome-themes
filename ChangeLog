@@ -1,3 +1,7 @@
+2003-01-15  Gustavo Noronha Silva  <kov@debian.org>
+
+	* configure.in (ALL_LINGUAS): added pt_BR
+
 2003-01-15  Jakub Steiner <jimmac@ximian.com>
 
 	* gorilla/gtk-2.0/*.svg: added bounding box. all stock
