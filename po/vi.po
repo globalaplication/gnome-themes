@@ -1,15 +1,16 @@
-# Gnome-themes in Vietnamese.
+# Vietnamese Translation for Gnome-themes.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # T.M.Thanh <tmthanh@yahoo.com>, 2002.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Gnome-themes for Gnome v2.2.x\n"
-"POT-Creation-Date: 2003-03-16 12:01+0100\n"
-"PO-Revision-Date: 2003-03-16 21:33+0700\n"
+"Project-Id-Version: Gnome-themes.vi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-09-13 04:04+0200\n"
+"PO-Revision-Date: 2003-09-13 10:33+0700\n"
 "Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
-"Language-Team: Gnome-Vi <Gnomevi-list@lists.sourceforge.net>\n"
+"Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,8 +32,8 @@ msgid "White-on-black text and icons"
 msgstr "Biểu tượng và chữ trắng nền đen"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Lớn, độ tương phản cao"
+msgid "High Contrast Large Print"
+msgstr "In ra lớn với độ tương phản cao"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -60,11 +61,11 @@ msgstr "Độ tương phản thấp"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr ""
+msgstr "Biểu tượng và chữ câm"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr ""
+msgstr "Biểu tượng và chữ câm lớn"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -80,7 +81,7 @@ msgstr ""
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr ""
+msgstr "Diệm mạo màu da cam xỉn"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
@@ -88,7 +89,7 @@ msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Diệm mạo nguyên thủy"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
@@ -100,7 +101,7 @@ msgstr "Ocean Dream"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Màu của seashore"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
@@ -112,11 +113,11 @@ msgstr "diệm mạo nghèo nàn, độ thực thi cao"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Diệm mạo thủy tinh mịn"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Khói xanh da trời"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
@@ -124,7 +125,7 @@ msgstr "Truyền thống"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Diệm mạo bờ đậm 3D truyền thống"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -136,9 +137,9 @@ msgstr "Cát"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Khói xanh da trời"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Khói đỏ"
 
