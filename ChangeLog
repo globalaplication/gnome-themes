@@ -1,3 +1,20 @@
+2002-11-21  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/pixmaps/stock_commandline-browser.xpm:
+	* HighContrastLargePrint/pixmaps/stock_commandline-history.xpm:
+	* HighContrastLargePrintInverse/pixmaps/stock_commandline-browser.x
+	pm:
+	* HighContrastLargePrintInverse/pixmaps/stock_commandline-history.x
+	pm:
+	* LargePrint/pixmaps/stock_commandline-browser.xpm:
+	* LargePrint/pixmaps/stock_commandline-history.xpm:
+	* LowContrastLargePrint/pixmaps/stock_commandline-browser.xpm:
+	* LowContrastLargePrint/pixmaps/stock_commandline-history.xpm:
+	* common/all-stock-icons.data:
+	* common/panel-stock-icons.rc:
+
+	Added mini-commander icons, for use by the patch in #96086.
+
 Thu Nov 21 14:59:24 2002  Jonathan Blandford  <jrb@redhat.com>
 
 	* */.cvsignore: Shut up, cvs
