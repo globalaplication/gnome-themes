@@ -1,0 +1,32 @@
+# Gnome-themes in Vietnamese.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# T.M.Thanh <tmthanh@yahoo.com>, 2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gnome-themes for Gnome v2.1.x\n"
+"POT-Creation-Date: 2002-11-26 05:56+0100\n"
+"PO-Revision-Date: 2002-12-14 11:12+0700\n"
+"Last-Translator: Trinh Minh Thanh <tmthanh@linuxmail.org>\n"
+"Language-Team: Gnome-Vi Team <Gnomevi-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Biểu tượng và chữ đen nền trắng"
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Độ tương phản cao"
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Độ tương phản cao ngược lại"
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Biểu tượng và chữ trắng nền đen"
+
