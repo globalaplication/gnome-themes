@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-desktop-themes\n"
-"POT-Creation-Date: 2003-02-09 12:05+0100\n"
+"POT-Creation-Date: 2003-03-12 12:56+0000\n"
 "PO-Revision-Date: 2003-02-10 18:28+0200\n"
 "Last-Translator: Arman Aksoy (Armish) <armish@linux-sevenler.de>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -141,4 +141,3 @@ msgstr "Grimsi-Mavi"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Grimsi-Kırmızı"
-

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-02-05 10:28+0200\n"
+"POT-Creation-Date: 2003-03-12 12:56+0000\n"
 "PO-Revision-Date: 2003-02-05 03:31--500\n"
 "Last-Translator: Yuriy Syrota <yuri@renome.rovno.ua>\n"
 "Language-Team: Ukrainian <linux@linux.org.ua>\n"
@@ -69,8 +69,7 @@ msgstr "Великі неконтрастні тест і піктограми"
 msgid "Low Contrast Large Print"
 msgstr "Низькоконтрастна велика для друку"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Кракс"
 
@@ -141,4 +140,3 @@ msgstr "Туманно-синя"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Туманно-червона"
-

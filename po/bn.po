@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-02-27 12:16+0100\n"
+"POT-Creation-Date: 2003-03-12 12:56+0000\n"
 "PO-Revision-Date: 2003-03-07 01:30+0600\n"
 "Last-Translator: Jamil Ahmed <jamil@bengalinux.org>\n"
 "Language-Team: Bengali <gnome-translation@bengalinux.org>\n"
@@ -61,8 +61,8 @@ msgstr "হালকা তারতম্য"
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
 msgstr "Muted অক্ষর এবং প্রতীক"
-#Muted ??
 
+# Muted ??
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
 msgstr "Muted বড় অক্ষর এবং প্রতীক"

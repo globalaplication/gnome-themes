@@ -1,3 +1,50 @@
+2003-03-12  Calum Benson  <set EMAIL_ADDRESS environment variable>
+
+	reviewed by: <delete if not using a buddy>
+
+	* am.po:
+	* az.po:
+	* be.po:
+	* bg.po:
+	* bn.po:
+	* ca.po:
+	* cs.po:
+	* da.po:
+	* de.po:
+	* el.po:
+	* es.po:
+	* et.po:
+	* fa.po:
+	* fi.po:
+	* fr.po:
+	* he.po:
+	* hu.po:
+	* id.po:
+	* it.po:
+	* ja.po:
+	* ko.po:
+	* lv.po:
+	* mk.po:
+	* mn.po:
+	* ms.po:
+	* nl.po:
+	* no.po:
+	* pl.po:
+	* pt.po:
+	* pt_BR.po:
+	* ro.po:
+	* ru.po:
+	* sk.po:
+	* sl.po:
+	* sq.po:
+	* sv.po:
+	* th.po:
+	* tr.po:
+	* uk.po:
+	* vi.po:
+	* zh_CN.po:
+	* zh_TW.po:
+
 2003-03-07  Taneem Ahmed  <taneem@eyetap.org>
 
 	* bn.po: Added Bangla/Bengali translation
