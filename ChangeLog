@@ -1,3 +1,10 @@
+2003-01-04  Jakub Steiner <jimmac@ximian.com>
+
+	* gnome-fs-directory-accept.svg:
+	* gnome-fs-directory.svg:
+	* gnome-fs-trash-empty.svg:
+	* gnome-fs-trash-full.svg: fix dimensions
+
 2003-01-03  Andras Timar  <timar@gnome.hu>
 
 	* configure.in. Added Hungarian (hu) to ALL_LINGUAS.
