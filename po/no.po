@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0.2\n"
-"POT-Creation-Date: 2002-12-07 21:40+0100\n"
-"PO-Revision-Date: 2002-12-07 21:41+0100\n"
+"POT-Creation-Date: 2002-12-30 18:57+0100\n"
+"PO-Revision-Date: 2003-01-24 00:49+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,9 +74,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
-#, fuzzy
 msgid "Smooth gradients with teal highlights"
-msgstr "Myke gradienter med "
+msgstr "Myke gradienter med gr√∏nnlig preg"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
@@ -84,7 +83,7 @@ msgstr "Forvalgt"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "Tynt utseende, h¯y ytelse"
+msgstr "Tynt utseende, hoy ytelse"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -92,15 +91,15 @@ msgstr "Et minimalistisk utseende"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr "TÂke"
+msgstr "T√•ke"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr "Havdr¯m"
+msgstr "Havdr√∏m"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Farger fra kysten"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
@@ -108,15 +107,15 @@ msgstr "Vanlig"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Tradisjonelt 3D-utseende med harde kanter"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Et mykt glassaktig utseende"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Bl√•r√∏yk"
 
 #: gtk-themes/Crux/src/test.glade.h:2
 #, no-c-format
@@ -141,11 +140,11 @@ msgstr "Ny fil"
 
 #: gtk-themes/Crux/src/test.glade.h:7
 msgid "Open"
-msgstr "≈pne"
+msgstr "√Öpne"
 
 #: gtk-themes/Crux/src/test.glade.h:8
 msgid "Open File"
-msgstr "≈pne fil"
+msgstr "√Öpne fil"
 
 #: gtk-themes/Crux/src/test.glade.h:9
 msgid "Pick a color"
@@ -173,7 +172,7 @@ msgstr "Eksempelknapp"
 
 #: gtk-themes/Crux/src/test.glade.h:15
 msgid "Sample check button"
-msgstr "Eksempel pÂ avkrysningsboks"
+msgstr "Eksempel p√• avkrysningsboks"
 
 #: gtk-themes/Crux/src/test.glade.h:16
 msgid "Save"
@@ -249,7 +248,7 @@ msgstr "www.eazel.com"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Flat blÂ"
+msgstr "Flat bl√•"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
@@ -257,11 +256,11 @@ msgstr "Sandet"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Bl√•r√∏yk"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "R√∏dr√∏yk"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
