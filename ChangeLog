@@ -1,3 +1,10 @@
+2003-05-07  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+
+Added "NautilusIconContainer::frame_text = 1" to HighContrast themes, seemed to be missing for some reason.
+
 2003-05-05  Danilo Šegan  <dsegan@gmx.net>
 
 	* configure.in: Added "sr" and "sr@Latn" to ALL_LINGUAS.
