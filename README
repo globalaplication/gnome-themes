@@ -1,1 +1,7 @@
-[placeholder]
+To create low contrast icons in GIMP from the original coloured icon:
+
+- Load icon
+- Open Image->Colors->Levels dialog
+- Set "modify levels for channel" to "value"
+- Set output levels to 125 and 175
+- Save icon :)
