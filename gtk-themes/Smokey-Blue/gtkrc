@@ -7,7 +7,7 @@ style "default"{
 
 #selected areas
   base[SELECTED] = "#8a8aa0"
-  base[ACTIVE]     = "#e3e3e3"
+  base[ACTIVE]     = "#c3c3d3"
   base[PRELIGHT]   = "#E5E5F7"
   base[INSENSITIVE]= "#ced0d7"
   bg[SELECTED]= "#828aa4"

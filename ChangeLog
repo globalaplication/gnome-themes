@@ -1,3 +1,37 @@
+2004-11-29  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-run.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-screenshot.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-searchtool.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-run.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-screenshot.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-searchtool.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* MAINTAINERS:
+	* NEWS:
+	* gtk-themes/Glider/gtkrc:
+	* gtk-themes/Simple/gtkrc:
+	* gtk-themes/Smokey-Blue/gtkrc:
+	* metacity-themes/Mist/metacity-theme-1.xml:
+
+	Add a few new HC icons, plus fixes for:
+
+	154115 New Glider gtkrc file (Link Dupont)
+	129061 Make SmokeyBlue selected text easier to read (James Livingston)
+	151196 Fix button drawing in Mist metacity theme (Joachim Sauer)
+	147692 Make Simple selected text easier to read (Marius Andreiana)
+
+2004-11-01  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	Changes for 2.9.1 release.
+
 2004-10-28  Calum Benson  <calum.benson@sun.com>
 
 Patch to change desktop and terminal fonts as well as application font

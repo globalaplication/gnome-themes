@@ -1,4 +1,4 @@
-# Theme Name  : Glider
+# Theme Name  : SmoothGNOME
 # Author(s)   : Link Dupont <link@subpop.net>
 # Description : A very basic, conservative theme, using the Smooth engine and
 #               HIG colors.
@@ -38,7 +38,7 @@ style "default"
 	bg[PRELIGHT] = "#F2F0EB" # Variant of Basic 3D Hilight
 	bg[INSENSITIVE] = "#EAE8E3" # Basic 3D Hilight
 
-	base[ACTIVE] = "#807D74" # Basic 3D Dark
+	base[ACTIVE] = "#BAB5AB" # Basic 3D Medium
 	base[SELECTED] = "#7590AE" # Blue Medium
 	base[NORMAL] = "#FFFFFF" # White
 	base[PRELIGHT] = "#FFFFFF" # White
@@ -137,11 +137,7 @@ style "menuitem"
 	{
 		fill
 		{
-			style = shaded
-			hdirection = vertical
-			vdirection = horizontal
-			shade1 = 1.05
-			shade2 = 0.95
+			style = solid
 		}
 
 		edge
@@ -155,7 +151,7 @@ style "menuitem"
 
 		line
 		{
-			style = flat
+			style = smooth
 			thickness = 1
 		}
 		
@@ -281,7 +277,9 @@ class "*HScale*"                style "hscrollbar"
 
 style "progressbar"
 {
-    bg[PRELIGHT] = "#7590AE"
+	bg[PRELIGHT] = "#7590AE"
+	xthickness = 1
+	ythickness = 1
 }
 widget_class "*ProgressBar*" style "progressbar"
 

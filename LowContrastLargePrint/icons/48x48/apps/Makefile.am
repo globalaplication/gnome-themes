@@ -42,6 +42,9 @@ icon_DATA=	\
                 gnome-mixer.png \
                 gnome-multimedia.png \
                 gnome-panel.png \
+		gnome-run.png \
+		gnome-screenshot.png \
+		gnome-searchtool.png \
                 gnome-session.png \
                 gnome-settings-accessibility-keyboard.png \
                 gnome-settings-accessibility-technologies.png \

@@ -327,7 +327,7 @@ height="height-ButtonIPad*2-5"/>
   <piece position="title" draw_ops="title_unfocused"/>
   <button function="close" state="normal" draw_ops="close_button_unfocused"/>
   <button function="close" state="pressed" draw_ops="close_button_pressed"/>
-  <button function="maximize" state="normal" draw_ops="restore_button_normal"/>
+  <button function="maximize" state="normal" draw_ops="restore_button_unfocused"/>
   <button function="maximize" state="pressed" draw_ops="restore_button_pressed"/>
   <button function="maximize" state="prelight" draw_ops="restore_button_prelight"/>
   <button function="minimize" state="normal" draw_ops="minimize_button_unfocused"/>
