@@ -1,5 +1,12 @@
 2004-08-16  Calum Benson  <calum.benson@sun.com>
 
+	Post release bump.
+
+	* NEWS:
+	* configure.in:
+
+2004-08-16  Calum Benson  <calum.benson@sun.com>
+
 	s/SimplySmooth/Glider, and add Glider stock icons.
 	Closes #148212.
 
