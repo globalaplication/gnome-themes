@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-31 08:35+0300\n"
+"POT-Creation-Date: 2003-07-10 16:25+0400\n"
+"PO-Revision-Date: 2003-07-10 16:27+0400\n"
 "Last-Translator: Dmitry G. Mastrukov <dmitry@taurussoft.org>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Текст и значки белые на чёрном"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Высококонтрастная крупная"
+msgid "High Contrast Large Print"
+msgstr "Высококонтрастная крупная для печати"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
