@@ -741,7 +741,7 @@ style "spin"
 	recolorable     = TRUE
 	shadow          = IN
 	file            = "in.png"
-	border          = { 3,3,3,3 }
+	border          = { 2,2,2,2 }
 	stretch         = TRUE
       }
     image
