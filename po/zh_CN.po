@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2003-08-04 18:23+0800\n"
+"POT-Creation-Date: 2004-08-18 11:52+0200\n"
+"PO-Revision-Date: 2004-08-18 23:47+0800\n"
 "Last-Translator: Funda Wang <fundawang@linux.net.cn>\n"
 "Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
 "MIME-Version: 1.0\n"
@@ -78,6 +78,14 @@ msgstr "十字架"
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
 msgstr "带凫蓝加亮的平化渐变"
+
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr "滑翔机"
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr "简单、润畅、美观"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
