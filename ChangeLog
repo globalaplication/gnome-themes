@@ -1,3 +1,22 @@
+2003-08-15  Calum Benson  <calum.benson@sun.com>
+
+	* BSOD/INSTALL_BSOD:
+	* BSOD/bsod-icon.png:
+	* BSOD/gtk-2.0/gtkrc:
+	* BSOD/icons.theme:
+
+	Improve the BSOD theme that can be used for testing
+	themability. Now turns themed icons blue as well as
+	stock icons, if you install it with the supplied script.
+
+2003-08-11  Calum Benson  <calum.benson@sun.com>
+
+	* COPYING:
+	* configure.in:
+
+	Move to LGPL licence with all authors' permission, and
+	bump revision for release tarball.
+
 2003-07-25  Calum Benson  <calum.benson@sun.com>
 
 	Fix #109303 properly this time.

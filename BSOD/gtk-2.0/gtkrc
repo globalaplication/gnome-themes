@@ -10,45 +10,12 @@
 #
 # email: bill.haneman@sun.com
 
-pixmap_path "/opt/gnome-2.0/share/themes/BSOD/pixmaps"
-
-style "panel-icons"
-{
-	stock ["panel-run"] =		{{"stock_blue.png", *,*,*}}
-	stock ["panel-searchtool"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-screenshot"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-lockscreen"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-logout"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-gnome-logo"] =	{{"stock_blue.png", *,*,*}}
-
-	stock ["panel-cde"] =		{{"stock_blue.png", *,*,*}}
-#TBD	stock ["panel-debian"] =	{{"", *,*,*}}
-#TBD	stock ["panel-kde"] =		{{"", *,*,*}}
-#TBD	stock ["panel-suse"] =		{{"", *,*,*}}
-
-#TBD	stock ["panel-amusements"] =	{{"", *,*,*}}
-	stock ["panel-multimedia"] =	{{"stock_blue.png", *,*,*}}
-
-	stock ["panel-internet"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-utility"] =	{{"stock_blue.png", *,*,*}}
-
-	stock ["panel-corner-type"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-edge-type"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-floating-type"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-sliding-type"] =	{{"stock_blue.png", *,*,*}}
-	stock ["panel-menu-type"] =	{{"stock_blue.png", *,*,*}}
-
-	stock ["panel-launcher"] =	{{"stock_blue.png", *,*,*}}
-
-	stock ["panel-drawer"] =	{{"stock_blue.png", *,*,*}}
-#	stock ["panel-applet"] =	{{"", *,*,*}}
-#	stock ["panel-desktop"] =	{{"", *,*,*}}
-
-}
-class "GtkWidget" style "panel-icons"
+pixmap_path "xHOMEx/.themes/BSOD/pixmaps"
 
 style "default"
 {
+  engine "hcengine" {}
+
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
   GtkEntry::cursor_color    = { 0.00, 0.00, 1.00 }
@@ -76,6 +43,7 @@ style "default"
   text[SELECTED]    = { 0.00, 0.00, 1.00 }
   bg[SELECTED]    = { 0.00, 0.00, 1.00 }
   base[SELECTED]    = { 0.00, 0.00, 1.00 }
+
 
   stock["gnome-stock-about"] = {{ "stock_blue.png" }}
   stock["gnome-stock-volume"] = {{ "stock_blue.png" }}
@@ -160,7 +128,82 @@ style "default"
   stock["gtk-zoom-fit"] =	{{ "stock_blue.png" }}
   stock["gtk-zoom-in"] =	{{ "stock_blue.png" }}
   stock["gtk-zoom-out"] =	{{ "stock_blue.png" }}
+
+  stock["terminal-edit"] =      {{ "stock_blue.png" }}
+  stock["session-stock-edit"] = {{ "stock_blue.png" }}
 }
 
 class "GtkWidget" style "default"
 
+style "panel-icons"
+{
+        stock ["panel-run"] =           {{"stock_blue.png"}}
+        stock ["panel-searchtool"] =    {{"stock_blue.png"}}
+        stock ["panel-screenshot"] =    {{"stock_blue.png"}}
+        stock ["panel-lockscreen"] =    {{"stock_blue.png"}}
+        stock ["panel-logout"] =        {{"stock_blue.png"}}
+        stock ["panel-gnome-logo"] =    {{"stock_blue.png"}}
+
+        stock ["panel-cde"] =           {{"stock_blue.png"}}
+#TBD    stock ["panel-debian"] =        {{""}}
+#TBD    stock ["panel-kde"] =           {{""}}
+#TBD    stock ["panel-suse"] =          {{""}}
+
+	stock ["panel-amusements"] =    {{"stock_blue.png"}}
+	stock ["panel-accessories"] =   {{"stock_blue.png"}}
+        stock ["panel-multimedia"] =    {{"stock_blue.png"}}
+
+        stock ["panel-internet"] =      {{"stock_blue.png"}}
+        stock ["panel-utility"] =       {{"stock_blue.png"}}
+
+        stock ["panel-corner-type"] =   {{"stock_blue.png"}}
+        stock ["panel-edge-type"] =     {{"stock_blue.png"}}
+        stock ["panel-floating-type"] = {{"stock_blue.png"}}
+        stock ["panel-sliding-type"] =  {{"stock_blue.png"}}
+        stock ["panel-menu-type"] =     {{"stock_blue.png"}}
+
+        stock ["panel-launcher"] =      {{"stock_blue.png"}}
+
+        stock ["panel-drawer"] =        {{"stock_blue.png"}}
+#       stock ["panel-applet"] =        {{""}}
+#       stock ["panel-desktop"] =       {{""}}
+
+	stock ["panel-arrow-left"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-right"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-up"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-down"] =	{{"stock_blue.png"}}
+
+	stock ["commandline-browser"] =	{{"stock_blue.png"}}
+	stock ["commandline-history"] =	{{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "panel-icons"
+style "media-icons"
+{
+
+        stock ["media-stop"] =       {{"stock_blue.png"}}
+        stock ["media-play"] = 	{{"stock_blue.png"}}
+        stock ["media-pause"] = 	{{"stock_blue.png"}}
+        stock ["media-prev"] =       {{"stock_blue.png"}}
+        stock ["media-next"] =       {{"stock_blue.png"}}
+        stock ["media-eject"] =      {{"stock_blue.png"}}
+        stock ["media-record"] =      {{"stock_blue.png"}}
+
+	stock ["volume-mute"] =      	{{"stock_blue.png"}}
+        stock ["volume-zero"] =      	{{"stock_blue.png"}}
+        stock ["volume-min"] =      	{{"stock_blue.png"}}
+        stock ["volume-med"] =      	{{"stock_blue.png"}}
+        stock ["volume-max"] =      	{{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "media-icons"
+
+style "capplet-icons"
+{
+
+        stock ["mouse-dblclck-maybe"] =    {{"stock_blue.png"}}
+        stock ["mouse-dblclck-on"] =       {{"stock_blue.png"}}
+        stock ["mouse-dblclck-off"] =      {{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "capplet-icons"
