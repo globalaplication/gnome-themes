@@ -1,4 +1,4 @@
-# gnome-themes faylının Azərbaycan dilinə tərcüməsi.
+# Translation of gnome-themes.HEAD.az.po to Azerbaijani Turkish
 # Copyright (C) 2003 Mətin Əmirov
 # This file is distributed under the same license as the gnome-themes package.
 # Mətin Əmirov <metin@karegen.com>, 2003.
@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-12-27 20:16+0100\n"
+"POT-Creation-Date: 2004-03-05 14:59+0100\n"
 "PO-Revision-Date: 2003-07-10 19:19+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
-"Language-Team: Azerbaijani <gnome@azitt.com>\n"
+"Language-Team: Azerbaijani <translation-team-az@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
