@@ -1,3 +1,18 @@
+2003-01-15  Jakub Steiner <jimmac@ximian.com>
+
+	* gorilla/gtk/gtkrc:
+	* gorilla/gtk-2.0/gtkrc: started converting gtk themes (png->svg)
+	* gorilla/gtk-2.0/stock_about.svg:
+	* gorilla/gtk-2.0/stock_attach.svg:
+	* gorilla/gtk-2.0/stock_book.svg:
+	* gorilla/gtk-2.0/stock_dialog_error.svg:
+	* gorilla/gtk-2.0/stock_dialog_info.svg:
+	* gorilla/gtk-2.0/stock_dialog_question.svg:
+	* gorilla/gtk-2.0/stock_line-in.svg:
+	* gorilla/gtk-2.0/stock_mic.svg:
+	* gorilla/gtk-2.0/stock_ok.svg:
+	* gorilla/gtk-2.0/stock_volume.svg: SVG stock
+	
 2003-01-13  Jakub Steiner <jimmac@ximian.com>
 
 	* gorilla/scalable/devices/gnome-dev-symlink.svg:
