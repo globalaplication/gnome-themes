@@ -1,3 +1,4 @@
+# translation of gnome-themes.HEAD.mn.po to Mongolian
 # translation of gnome-themes.HEAD.po to mongolian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
@@ -6,14 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.mn\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-29 10:14GMT\n"
-"Last-Translator: \n"
-"Language-Team:  <C@li.org>\n"
+"POT-Creation-Date: 2003-01-31 05:03+0100\n"
+"PO-Revision-Date: 2003-01-31 09:38+0100\n"
+"Last-Translator: Sanlig Badral <badral@chinggis.com>\n"
+"Language-Team: Mongolian <mn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.1\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -80,13 +81,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Өндөр цацралтат оюутай толигор уусалт"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Зөөлөн шилэн харагдалт"
+msgstr "Зөөлөн шаргал харагдалт"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Сүрлэг хавцал"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -106,7 +106,7 @@ msgstr "Тэнгисийн эргийн өнгө"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Энгийн"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -122,7 +122,7 @@ msgstr "Утаан цэнхэр"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Уламжилалт"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -155,3 +155,4 @@ msgstr "Утаан-улаан"
 
 #~ msgid "Gnome"
 #~ msgstr "Gnome"
+
