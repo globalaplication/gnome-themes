@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-03 19:24+0100\n"
+"POT-Creation-Date: 2003-01-26 04:25+0100\n"
+"PO-Revision-Date: 2003-01-26 04:25+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Svart text och ikoner på vit botten"
+msgstr "Text och ikoner i svart på vitt"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -30,7 +30,7 @@ msgstr "Inverterad hög kontrast"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Vit text och ikoner på svart botten"
+msgstr "Text och ikoner i vitt på svart"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large"
@@ -38,7 +38,7 @@ msgstr "Stor text med hög kontrast"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Stor svart text och ikoner på vit botten"
+msgstr "Stor text och stora ikoner i svart på vitt"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -46,7 +46,7 @@ msgstr "Inverterad stor text med hög kontrast"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Stor vit text och ikoner på svart botten"
+msgstr "Stor text och stora ikoner i vitt på svart"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
