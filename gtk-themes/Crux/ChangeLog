@@ -1,3 +1,9 @@
+2004-08-06  Calum Benson  <calum.benson@sun.com>
+
+	reviewed by: <delete if not using a buddy>
+
+	* Makefile.am:
+
 Mon Mar  8 17:09:41 2004  Jonathan Blandford  <jrb@redhat.com>
 
 	* src/crux-draw.c (draw_extension): Language Lawyer patch from

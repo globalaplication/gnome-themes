@@ -1,3 +1,28 @@
+2004-08-06  Calum Benson  <calum.benson@sun.com>
+
+	Fix distclean issues.
+
+	* HighContrast/Makefile.am:
+	* HighContrastInverse/Makefile.am:
+	* LargePrint/Makefile.am:
+	* Makefile.am:
+	* NEWS:
+	* README:
+	* configure.in:
+	* desktop-themes/Crux/Makefile.am:
+	* desktop-themes/Grand-Canyon/Makefile.am:
+	* desktop-themes/Mist/Makefile.am:
+	* desktop-themes/Ocean-Dream/Makefile.am:
+	* desktop-themes/Simple/Makefile.am:
+	* desktop-themes/SimplySmooth/Makefile.am:
+	* desktop-themes/Smokey-Blue/Makefile.am:
+	* desktop-themes/Traditional/Makefile.am:
+	* icon-themes/Crux/Makefile.am:
+	* icon-themes/Flat-Blue/Makefile.am:
+	* icon-themes/Sandy/Makefile.am:
+	* icon-themes/Smokey-Blue/Makefile.am:
+	* icon-themes/Smokey-Red/Makefile.am:
+
 2004-08-03  Calum Benson  <calum.benson@sun.com>
 
 	Tidy-ups for 2.7.90 release.
