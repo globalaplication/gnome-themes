@@ -1,3 +1,11 @@
+2003-01-23  Seth Nickell  <snickell@stanford.edu>
+
+	* Makefile.am:
+	* autogen.sh:
+	* configure.in:
+
+	Make it build icon themes.
+	
 2003-01-23  Stanislav Visnovsky  <visnovsky@nenya.ms.mff.cuni.cz>
 
 	* configure.in: Added "sk" to ALL_LINGUAS.

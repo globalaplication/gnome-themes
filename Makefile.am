@@ -1,7 +1,7 @@
 SUBDIRS=	gtk-themes metacity-themes desktop-themes \
-		po common HighContrast LargePrint LowContrastLargePrint \
+		common HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
-		HighContrastLargePrintInverse HighContrastInverse
+		HighContrastLargePrintInverse HighContrastInverse po
 
 EXTRA_DIST = \
 	gnome-themes.spec \
