@@ -1,26 +1,29 @@
 Some random general notes:
 
 
-1. The icon theme sets don't get installed or work automagically yet 
----------------------------------------------------------------------
+1. Creating a default icon theme
+--------------------------------
 
-I'm just getting all the icons into cvs so we don't lose them... we'll need some build script magic to install them all into the right place ($prefix/share/icons) at some point.
+The icon themes now install into $(prefix)/share/icons as per
+Alex's icon theming spec on freedesktop.org.
 
-Easiest way to see them in action right now is to:
+However, this module doesn't install a 'default' theme, which these ones inherit from.  The quickest way to do this:
 
-- create a ~/.icons/default directory, containing Alex's default index.theme file from freedesktop.org.  (Hint:  just copy one of the <themename>/icons/index.theme files in this module, remove the "Inherits" line, and change the name on the "Name=" line to be 'default').
+1. Create a ~/.icons/default directory
 
-$ mkdir ~/.icons/<themename>
+2. Copy one of the <themename>/icons/index.theme files from this module into the directory, remove the "Inherits" line, and change the name line to "Name=default".
 
-$ cp -r <themename>/icons/* ~/.icons/<themename>/
-
-- choose <themename> from Applications->Desktop Prefs->Theme
+2. Switching icon themes
+------------------------
+Unless you're running my patched theme switcher dialog, you'll need to switch icon themes by hand using GConf:
 
 $ gconftool-2 -s /desktop/gnome/interface/icon_theme "<themename>" --type=string
 
 
-2. To create low contrast icons in GIMP from the original coloured icon
+3. To create low contrast icons in GIMP from the original coloured icon
 ------------------------------------------------------------------------
+
+I'll shortly be uploading a GIMP script so you can convert a whole bunch at a time (thanks Rodrigo!), but in the meantime, the process is:
 
 - Load icon file
 - Open Image->Colors->Levels dialog
