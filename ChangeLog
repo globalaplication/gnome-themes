@@ -1,3 +1,16 @@
+2004-01-07  Narayana Pattipati <narayana.pattipati@wipro.com>
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
+	* LargePrint/gtk-2.0/LargePrint.rc:
+	* LowContrast/gtk-2.0/LowContrast.rc:
+	* LowContrastLargePrint/gtk-2.0/LowContrastLargePrint.rc:
+	Add cursor-color and cursor-aspect-ratio properties to 
+	EelEditableLabel, so that the cursor color changes according to 
+	the theme selected. Fixes bug#130565
+
 2003-12-09  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:

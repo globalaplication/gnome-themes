@@ -24,6 +24,7 @@ style "default"
   GtkWidget::focus-padding = 0
   GtkEntry::cursor_color    = { 0.60, 0.40, 0.40 }
   GtkTextView::cursor_color    = { 0.60, 0.40, 0.40 }
+  EelEditableLabel::cursor_color    = { 0.60, 0.40, 0.40 }
 
   fg[NORMAL]      = { 0.40, 0.40, 0.40 }
   text[NORMAL]      = { 0.40, 0.40, 0.40 }

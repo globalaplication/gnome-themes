@@ -23,8 +23,10 @@ style "default"
   GtkEntry::cursor_color    = "#00cccc"
 #  GtkWidget::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_color    = "#00cccc"
+  EelEditableLabel::cursor_color    = "#00cccc"
   GtkTextView::cursor_aspect_ratio = 0.1 
   GtkEntry::cursor_aspect_ratio = 0.1
+  EelEditableLabel::cursor_aspect_ratio = 0.1
   NautilusIconContainer::frame_text = 1
   
   fg[NORMAL]      = "white"
