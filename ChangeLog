@@ -1,3 +1,11 @@
+2004-09-01  Calum Benson  <calum.benson@sun.com>
+
+	Fix build issue (patch from Sebastien Bacher, fixes #151504)
+
+	* desktop-themes/Glider/Makefile.am:
+	* gtk-themes/Glider/Makefile.am:
+	* metacity-themes/Makefile.am:
+
 2004-08-26  Fernando Herrera  <fherrera@onirica.com>
 
 	* autogen.sh: Use gnome-autogen.sh and make it simpler. Bug #143918
