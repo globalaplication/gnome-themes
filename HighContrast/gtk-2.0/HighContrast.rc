@@ -18,33 +18,34 @@ style "default"
   GtkHSV::focus-line-pattern = "\0"
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
-  GtkEntry::cursor_color    = { 0.80, 0.00, 0.00 }
-  GtkTextView::cursor_color    = { 0.80, 0.00, 0.00 }
+  GtkEntry::cursor_color    = "#cc0000"
+  GtkTextView::cursor_color    = "#cc0000"
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkEntry::cursor_aspect_ratio = 0.1
 
-  fg[NORMAL]      = { 0.00, 0.00, 0.00 }
-  text[NORMAL]      = { 0.00, 0.00, 0.00 }
-  bg[NORMAL]      = { 1.00, 1.00, 1.00 }
-  base[NORMAL]    = { 1.00, 1.00, 1.00 }
+  fg[NORMAL]      = "black"
+  text[NORMAL]      = "black"
+  bg[NORMAL]      = "white"
+  base[NORMAL]    = "white"
 
-  fg[INSENSITIVE]      = { 0.6, 0.6, 0.6 }
-  bg[INSENSITIVE]      = { 0.75, 0.75, 0.77 }
-  base[INSENSITIVE]      = { 0.75, 0.75, 0.77 }
+  fg[INSENSITIVE]      = "#999999"
+  text[INSENSITIVE]    = "#999999"
+  bg[INSENSITIVE]      = "#ccccff"
+  base[INSENSITIVE]      = "#ccccff"
 
-  fg[PRELIGHT]    = { 0.80, 0.80, 1.00 }
-  text[PRELIGHT]    = { 0.80, 0.80, 1.00 }
-  bg[PRELIGHT]    = { 0.00, 0.00, 0.00 }
-  base[PRELIGHT]    = { 0.00, 0.00, 0.00 }
+  fg[PRELIGHT]    = "#ccccff"
+  text[PRELIGHT]    = "#ccccff"
+  bg[PRELIGHT]    = "black"
+  base[PRELIGHT]    = "black"
 
-  fg[ACTIVE]      = { 0.00, 0.00, 0.00 }
-  text[ACTIVE]      = { 0.00, 0.00, 0.00 }
-  bg[ACTIVE]      = { 0.65, 0.65, 0.50 }
-  base[ACTIVE]      = { 0.65, 0.65, 0.50 }
+  fg[ACTIVE]      = "black"
+  text[ACTIVE]      = "black"
+  bg[ACTIVE]      = { 0.72, 0.72, 0.57 }
+  base[ACTIVE]      = { 0.72, 0.72, 0.57 }
 
-  fg[SELECTED]    = { 1.00, 1.00, 1.00 }
-  text[SELECTED]    = { 1.00, 1.00, 1.00 }
-  bg[SELECTED]    = { 0.00, 0.00, 0.00 }
-  base[SELECTED]    = { 0.10, 0.20, 0.20 }
+  fg[SELECTED]    = "white"
+  text[SELECTED]    = "white"
+  bg[SELECTED]    = "black"
+  base[SELECTED]    = "#333300"
 
 

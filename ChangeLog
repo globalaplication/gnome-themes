@@ -1,3 +1,23 @@
+2002-12-06  Bill Haneman <bill.haneman@sun.com>
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	Added spec for text[INSENSITIVE].
+	Allocate colors from the 'Netscape' color cube
+	whenever possible (all but base/bg[ACTIVE]).
+	Tweaked bg[ACTIVE] for slightly better text visibility,
+	and to make it a little less ugly.
+
+	* HighContrastInverse/gtk-2.0/HighContrast.rc:
+	* HighContrastLargePrintInverse/../HighContrastLargePrintInverse.rc:
+	Added spec for text[INSENSITIVE].
+	Allocate all colors from the Netscape color cube.  Change 
+	slider background color to improve visibility.
+
+	* HighContrastLargePrint/index.theme.in.in:
+	Fixed erroneous reference to HighContrast GTK+
+	theme (should be HighContrastLargePrint).
+
 2002-12-06  Miloslav Trmac  <mitr@volny.cz>
 
 	* configure.in: Added "cs" to ALL_LINGUAS.
