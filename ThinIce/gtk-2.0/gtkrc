@@ -1,6 +1,7 @@
 # Edit these colors and fonts however you like.
 style "default"
 {
+  GtkOptionMenu::indicator_spacing = { 3, 2, 1, 1 }
   GtkRange::slider_width = 12
   GtkRange::stepper_size = 12
   GtkScrollbar::min_slider_length = 14
@@ -25,15 +26,6 @@ style "default"
   #font_name = "Sans 10"
   engine "thinice"
   {
-    # Deprecated stuff:
-    # You want the // on the handleboxes?
-    #handlebox_marks = TRUE
-    # Do you want the // marks on the scrollbar handle?
-    #scrollbar_marks = TRUE
-    # A single / on the scrollbar buttons, perhaps?
-    #scroll_button_marks = TRUE
-    # End of Deprecated stuff
-
     # Do you want the scrollbar handles rectangular or a bit shaped?
     rect_scrollbar = FALSE
 
@@ -41,8 +33,11 @@ style "default"
     # different widget classes etc..
 
     # Mark type 1 is used on scrollbar handles, handleboxes etc
+    # Can be: NOTHING, SLASH, INVSLASH, DOT, INVDOT
     mark_type1 = SLASH
+
     # Mark type 2 is used on scrollbar buttons
+    # Can be: NOTHING, SLASH, INVSLASH, DOT, INVDOT, ARROW
     mark_type2 = ARROW
   }
 }
