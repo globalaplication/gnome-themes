@@ -23,6 +23,10 @@ HighContrastLargePrint/gtk-2.0/Makefile
 HighContrastLargePrint/gtk-2.0/gtkrc
 HighContrastLargePrint/pixmaps/Makefile
 LowContrastLargePrint/Makefile
+HighContrastLargePrintInverse/Makefile
+HighContrastLargePrintInverse/gtk-2.0/Makefile
+HighContrastLargePrintInverse/gtk-2.0/gtkrc
+HighContrastLargePrintInverse/pixmaps/Makefile
 LowContrastLargePrint/gtk-2.0/Makefile
 LowContrastLargePrint/gtk-2.0/gtkrc
 LowContrastLargePrint/pixmaps/Makefile
