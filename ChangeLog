@@ -1,3 +1,7 @@
+2003-01-18  Alessio Frusciante  <algol@firenze.linux.it>
+
+	* configure.in (ALL_LINGUAS): added it (Italian)
+
 2003-01-18  Fatih Demir <kabalak@gtranslator.org>
 
 	* configure.in: Added "tr" (Turkish) to the languages' list.
