@@ -3,11 +3,13 @@
 # This file is distributed under the same license as the gnome-themes package.
 # Christian Neumair <chris@gnome-de.org>, 2002, 2003.
 #
+# Manche Themennamen sind Eigennamen. Bitte nicht übersetzen.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.4.x\n"
-"POT-Creation-Date: 2003-05-20 18:32+0200\n"
-"PO-Revision-Date: 2003-05-20 18:32+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-07-17 16:21+0200\n"
+"PO-Revision-Date: 2003-07-17 12:59+0200\n"
 "Last-Translator: Christian Neumair <chris@gnome-de.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -70,6 +72,7 @@ msgstr "Text und Symbole groß und kontrastarm"
 msgid "Low Contrast Large Print"
 msgstr "Geringer Kontrast, groß"
 
+# Eigenname
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
@@ -82,6 +85,7 @@ msgstr "Smaragdgrünes Thema mit weichen Farbverläufen"
 msgid "Dusty orange appearance"
 msgstr "Staubig und rostrot"
 
+# Eigenname
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
 msgstr "Grand Canyon"
@@ -90,21 +94,24 @@ msgstr "Grand Canyon"
 msgid "A minimalistic appearance"
 msgstr "Eine minimalistische Oberfläche"
 
+# Eigenname
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr "Dunst"
+msgstr "Mist"
 
+# Eigenname
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr "Meerestraum"
+msgstr "Ocean Dream"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
 msgstr "Die Farben der Meeresküste"
 
+# Eigenname
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr "Schlicht"
+msgstr "Simple"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -114,38 +121,35 @@ msgstr "Schlank und schnell"
 msgid "A soft glassy appearance"
 msgstr "Eine weiche Oberfläche wie Glas"
 
+# Eigenname
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr "Blauer Rauch"
+msgstr "Smokey Blue"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr "Traditionell"
+msgstr "Klassisch"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
 msgstr "Traditionelle, hartkantige 3D-Oberfläche"
 
+# Eigenname
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Flaches Blau"
+msgstr "Flat-Blue"
 
+# Eigenname
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "Sandig"
+msgstr "Sandy"
 
+# Eigenname
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Blauer Rauch"
+msgstr "Smokey-Blue"
 
+# Eigenname
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Roter Rauch"
-
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Voreingestelltes GNOME-Thema"
-
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "GNOME"
+msgstr "Smokey-Red"

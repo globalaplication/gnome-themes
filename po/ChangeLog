@@ -1,3 +1,9 @@
+2003-07-17  Christian Neumair  <chris@gnome-de.org>
+
+	* de.po: Updated German translation.
+	Don't translate meta theme names, at least not those containing custom
+	artwork and being available individually, too.
+
 2003-07-13  Metin Amiroff  <metin@karegen.com>
 
 	* az.po: Updated Azerbaijani translation.
