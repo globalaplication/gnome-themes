@@ -7,15 +7,19 @@ Some random general notes:
 The icon themes now install into $(prefix)/share/icons as per
 Alex's icon theming spec on freedesktop.org.
 
-However, this module doesn't install a 'default' theme, which these ones inherit from.  The quickest way to do this:
+However, this module doesn't install a 'default' theme, which these ones 
+inherit from.  The quickest way to do this:
 
 1. Create a ~/.icons/default directory
 
-2. Copy one of the <themename>/icons/index.theme files from this module into the directory, remove the "Inherits" line, and change the name line to "Name=default".
+2. Copy one of the <themename>/icons/index.theme files from this module into 
+the directory, remove the "Inherits" line, and change the name line to 
+"Name=default".
 
 2. Switching icon themes
 ------------------------
-Unless you're running my patched theme switcher dialog, you'll need to switch icon themes by hand using GConf:
+Unless you're running my patched theme switcher dialog (patch in bugzilla,
+#93486), you'll need to switch icon themes by hand using GConf:
 
 $ gconftool-2 -s /desktop/gnome/interface/icon_theme "<themename>" --type=string
 
@@ -23,10 +27,7 @@ $ gconftool-2 -s /desktop/gnome/interface/icon_theme "<themename>" --type=string
 3. To create low contrast icons in GIMP from the original coloured icon
 ------------------------------------------------------------------------
 
-I'll shortly be uploading a GIMP script so you can convert a whole bunch at a time (thanks Rodrigo!), but in the meantime, the process is:
-
-- Load icon file
-- Open Image->Colors->Levels dialog
-- Set "modify levels for channel" to "value"
-- Set output levels to 125 and 175
-- Save icon :)
+Use the low-contrast-preset.scm GIMP script in this directory to create a low
+contrast icon from a regular-coloured icon.  (Read the comments in the script
+for instructions on how to install and use it.)  Thanks to Guillermo for
+providing this!

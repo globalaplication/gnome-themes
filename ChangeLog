@@ -1,3 +1,10 @@
+2002-09-17  Calum Benson  <calum.benson@sun.com>
+
+	* README:
+	* low-contrast-preset.scm: added
+
+	Added Guillermo's GIMP script for creating low contrast icons.
+
 2002-09-13  Calum Benson  <calum.benson@sun.com>
 
 	Added a HighContrastInverse theme.
