@@ -18,10 +18,13 @@ while [ ! -z "$NEXTLINE" ] ; do
 
 	#Extract first field, minus its trailing colon
 	ORIG_FILE=`echo $NEXTLINE | awk '/:/{print $1}' | sed -e 's/://'`
-	echo "Creating symlinks to $2/$ORIG_FILE"
 
 	#Extract list of following fields
 	LINKTO=`echo $NEXTLINE | awk '/:/{for (i=2; i<=NF; i++) print $i}'`
+
+	if [ ! -z "$LINKTO" ] ; then
+		echo "Creating symlinks to $2/$ORIG_FILE"
+	fi
 
 	#Link each pair in turn
 	for i in $LINKTO ; do
