@@ -1,3 +1,7 @@
+2005-03-21  Christian Rose  <menthos@menthos.com>
+
+	* configure.in: Added "ug" to ALL_LINGUAS.
+
 2005-03-07  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
