@@ -1,5 +1,11 @@
 2004-11-29  Calum Benson  <calum.benson@sun.com>
 
+	* configure.in:
+
+	Post-release bump.
+
+2004-11-29  Calum Benson  <calum.benson@sun.com>
+
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/gnome-run.png:
 	* HighContrastLargePrint/icons/48x48/apps/gnome-screenshot.png:
