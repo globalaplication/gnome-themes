@@ -1,3 +1,12 @@
+2003-02-04  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+
+	Fixes #105202, patch from kaliber(gdx@poczta.fm) applied.
+
 2003-02-03  Seth Nickell  <snickell@stanford.edu>
 
 	* configure.in:
