@@ -4,6 +4,19 @@
 
 2004-05-31  Calum Benson  <calum.benson@sun.com>
 
+	Fix the install/uninstall issues properly this time...
+
+	* HighContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am
+	:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo.png: added
+
+2004-05-31  Calum Benson  <calum.benson@sun.com>
+
 	Give HCLPI theme the symlink treatment.
 
         Modified:
