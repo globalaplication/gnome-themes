@@ -1,5 +1,87 @@
 2002-09-02  Calum Benson  <set EMAIL_ADDRESS environment variable>
 
+	Added suzanna's latest LCLP icons, and a couple that were missing
+	from the HCLP theme.
+
+	* HighContrastLargePrint/icons/48x48/apps/004_spreadsheet_document.
+	png:
+	* HighContrastLargePrint/icons/48x48/apps/006_drawing_document.png:
+	* LowContrastLargePrint/icons/48x48/apps/002_text_document.png:
+	* LowContrastLargePrint/icons/48x48/apps/004_spreadsheet_document.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/apps/006_drawing_document.png:
+	* LowContrastLargePrint/icons/48x48/apps/008_presentation_document.
+	png:
+	* LowContrastLargePrint/icons/48x48/apps/012_html_document.png:
+	* LowContrastLargePrint/icons/48x48/apps/ForteDeveloper.png:
+	* LowContrastLargePrint/icons/48x48/apps/ForteForJava.png:
+	* LowContrastLargePrint/icons/48x48/apps/SDtpowermgr.48.png:
+	* LowContrastLargePrint/icons/48x48/apps/SMC.png:
+	* LowContrastLargePrint/icons/48x48/apps/accessibility-directory.pn
+	g:
+	* LowContrastLargePrint/icons/48x48/apps/accessibility-keyboard-cap
+	plet.png:
+	* LowContrastLargePrint/icons/48x48/apps/advanced-directory.png:
+	* LowContrastLargePrint/icons/48x48/apps/background-capplet.png:
+	* LowContrastLargePrint/icons/48x48/apps/behavior-capplet.png:
+	* LowContrastLargePrint/icons/48x48/apps/charpick.png:
+	* LowContrastLargePrint/icons/48x48/apps/default-applications-cappl
+	et.png:
+	* LowContrastLargePrint/icons/48x48/apps/font-capplet.png:
+	* LowContrastLargePrint/icons/48x48/apps/gedit-icon.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-applications.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-audio2.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-calc3.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-ccmime.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-ccthemes.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-cd.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-cdplayer-icon.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-character-map.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-clock.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-devel.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-eog.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-ghex.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-ghostview.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-globe.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-graphics.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-grecord.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-help.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-home.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-info.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-log.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-logo-icon-transparen
+	.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-mailcheck.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-mini-commander.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-mixer-applet.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-multimedia.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-panel.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-session.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-system.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-terminal.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-util.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-windows.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-workspace.png:
+	* LowContrastLargePrint/icons/48x48/apps/keyboard-capplet.png:
+	* LowContrastLargePrint/icons/48x48/apps/keyboard-shortcut.png:
+	* LowContrastLargePrint/icons/48x48/apps/launcher-program.png:
+	* LowContrastLargePrint/icons/48x48/apps/metacity-properties.png:
+	* LowContrastLargePrint/icons/48x48/apps/mouse-capplet.png:
+	* LowContrastLargePrint/icons/48x48/apps/mozicon50.png:
+	* LowContrastLargePrint/icons/48x48/apps/pdasync.png:
+	* LowContrastLargePrint/icons/48x48/apps/perfmeter.png:
+	* LowContrastLargePrint/icons/48x48/apps/print-manager.png:
+	* LowContrastLargePrint/icons/48x48/apps/sdtaudiocontrol.48.png:
+	* LowContrastLargePrint/icons/48x48/apps/sdtjmplay.48.png:
+	* LowContrastLargePrint/icons/48x48/apps/smartcard.32.png:
+	* LowContrastLargePrint/icons/48x48/apps/so52_48_4bit.png:
+	* LowContrastLargePrint/icons/48x48/apps/so_printeradmin.png:
+	* LowContrastLargePrint/icons/48x48/apps/sound-capplet.png:
+	* LowContrastLargePrint/icons/index.theme:
+
+2002-09-02  Calum Benson  <calum.benson@sun.com>
+
 	Added suzanna's HCLP launcher icons. Some of these probably have the
 	wrong filename just now, will fix in due course.
 
