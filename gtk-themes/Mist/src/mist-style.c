@@ -403,14 +403,6 @@ draw_shadow(GtkStyle *style,
 	if (state_type == GTK_STATE_INSENSITIVE && shadow_type != GTK_SHADOW_NONE) {
 		shadow_type = GTK_SHADOW_ETCHED_IN;
 	}
-
-	if (DETAIL("entry") || DETAIL("text")) {
-		int entry_width;
-		int entry_height;
-		gdk_window_get_size (window, &entry_width, &entry_height);
-		if (entry_width != width || entry_height != height)
-			return;
-	}
 	
 	if (DETAIL("frame") && widget->parent && GTK_IS_STATUSBAR (widget->parent)) {
 		if (shadow_type != GTK_SHADOW_NONE) {
