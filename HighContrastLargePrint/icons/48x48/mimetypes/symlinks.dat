@@ -10,7 +10,7 @@ gnome-mime-image.png: gnome-mime-image-bmp.png               gnome-mime-image-x-
 #
 # Link video file icons to gnome-mime-video.png
 #
-gnome-mime-video.png: gnome-mime-video-mpeg.png gnome-mime-video-x-ms-asf.png gnome-mime-video.png gnome-mime-video-x-msvideo.png gnome-mime-video-quicktime.png  gnome-mime-video-x-ms-wmv.png
+gnome-mime-video.png: gnome-mime-video-mpeg.png gnome-mime-video-x-ms-asf.png gnome-mime-video-x-msvideo.png gnome-mime-video-quicktime.png  gnome-mime-video-x-ms-wmv.png
 #
 # Link font file icons to gnome-mime-x-font.png
 #
