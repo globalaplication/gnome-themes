@@ -1,6 +1,41 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/background-capplet.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/font-capplet.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/gnome-ccthemes.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-background
+	.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-font.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-theme.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/background-capplet
+	.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/font-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-ccthemes.png
+	: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-bac
+	kground.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-fon
+	t.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-the
+	me.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/background-capplet.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/font-capplet.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/gnome-ccthemes.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-background.
+	png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-font.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-theme.png: add
+
+	Rename theme, font and background capplet icons so that they
+	work again.
+
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/accessibility-keyboard-ca
 	pplet.png: remove
 	* HighContrastLargePrint/icons/48x48/apps/gnome-dev-keyboard.png: add

@@ -12,7 +12,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-multimedia.png \
 		advanced-directory.png \
 		gnome-panel.png \
-		background-capplet.png \
+		gnome-settings-background.png \
 		gnome-session.png \
 		behavior-capplet.png \
 		gnome-settings.png \
@@ -21,7 +21,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-terminal.png \
 		default-applications-capplet.png \
 		gnome-util.png \
-		font-capplet.png \
+		gnome-settings-font.png \
 		gnome-windows.png \
 		gnome-workspace.png \
 		gnome-dev-keyboard.png \
@@ -34,7 +34,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		metacity-properties.png \
 		gnome-ccmime.png \
 		mouse-capplet.png \
-		gnome-ccthemes.png \
+		gnome-settings-theme.png \
 		gnome-cdplayer-icon.png	\
 		gnome-cd.png \
 		gnome-character-map.png	\
