@@ -1,3 +1,47 @@
+2002-11-22  Calum Benson  <calum.benson@sun.com>
+
+	New mimetype icons from Suzanna.
+
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-compressed.png
+	:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-arj.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-bzip.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-compress.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-core-file.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-deb.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-e-theme.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gzip.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-rpm.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-package.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-compres
+	sed.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-arj.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-bzip.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-compress.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-core-file.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-deb.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-e-theme.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gzip.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-rpm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-package
+	.png:
+
 2002-11-21  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/pixmaps/stock_commandline-browser.xpm:
