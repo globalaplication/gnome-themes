@@ -8,7 +8,7 @@
 # Copy the gtk stuff into ~/.themes
 mkdir ~/.themes >& /dev/null
 mkdir ~/.themes/BSOD >& /dev/null
-cp -r index.theme gtk-2.0 pixmaps ~/.themes/BSOD
+cp -r index.theme gtk-2.0 pixmaps ~/.themes/BSOD >& /dev/null
 
 # Set the pixmap_path correctly; it doesn't recognise $HOME unfortunately
 sed -e "s|xHOMEx|$HOME|" gtk-2.0/gtkrc > $HOME/.themes/BSOD/gtk-2.0/gtkrc
@@ -26,7 +26,7 @@ for icontype in apps devices emblems filesystems mimetypes stock stock/document 
 	# Create blue icons for everything in gnome-icon-theme
 	for iconname in ../../gnome-icon-theme/48x48/$icontype/*.png ; do
 		iname=`basename $iconname`
-		cp bsod-icon.png ~/.icons/BSOD/48x48/$icontype/$iname	
+		cp bsod-icon.png ~/.icons/BSOD/48x48/$icontype/$iname >& /dev/null	
 	done
 
 	# Create blue icons for everything in HCLP theme
@@ -34,7 +34,7 @@ for icontype in apps devices emblems filesystems mimetypes stock stock/document 
 	# Sun-specific apps)
 	for iconname in ../HighContrastLargePrint/48x48/$icontype/*.png ; do
 		iname=`basename $iconname`
-		cp bsod-icon.png ~/.icons/BSOD/48x48/$icontype/$iname	
+		cp bsod-icon.png ~/.icons/BSOD/48x48/$icontype/$iname >& /dev/null	
 	done
 done
 
