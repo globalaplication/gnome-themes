@@ -48,6 +48,18 @@ style "panel-icons"
 
 class "GtkWidget" style "panel-icons"
 
+style "media-icons"
+{
+
+        stock ["cdplayer-stop"] =       {{"media-stop.png"}}
+        stock ["cdplayer-play-pause"] = {{"media-play-pause.png"}}
+        stock ["cdplayer-prev"] =       {{"media-prev.png"}}
+        stock ["cdplayer-next"] =       {{"media-next.png"}}
+        stock ["cdplayer-eject"] =      {{"media-eject.png"}}
+
+}
+class "GtkWidget" style "media-icons"
+
 
 style "default"
 {

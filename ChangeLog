@@ -1,3 +1,17 @@
+2002-09-12  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/pixmaps/Makefile.am:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/pixmaps/Makefile.am:
+	* LowContrast/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/pixmaps/Makefile.am:
+
+	Added cdplayer applet icons to the mix, these come into 
+	play when Raj's patch for bug #87232 is applied.
+
 2002-09-11  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/pixmaps/stock_dnd.png:
@@ -7,15 +21,6 @@
 	* LowContrastLargePrint/pixmaps/Makefile.am:
 	
 	Icon transparency fixes and Makefile bug fix.
-
-2002-09-10  Calum Benson  <set EMAIL_ADDRESS environment variable>
-
-	reviewed by: <delete if not using a buddy>
-
-	* HighContrastLargePrint/pixmaps/stock_dnd.png:
-	* HighContrastLargePrint/pixmaps/stock_dnd_multiple.png:
-	* HighContrastLargePrintInverse/pixmaps/stock_dnd.png:
-	* HighContrastLargePrintInverse/pixmaps/stock_dnd_multiple.png:
 
 2002-09-08  Calum Benson  <calum.benson@sun.com>
 

@@ -37,7 +37,10 @@ pixmap_DATA=	stock_about.png stock_attach.png stock_balance.png \
 		stock_internet.png stock_gnome-util.png stock_drawer.png\
 		stock_launcher-program.png stock_multimedia.png \
 		stock_corner-panel.png stock_edge-panel.png stock_floating-panel.png\
-		stock_menu-panel.png stock_screenshot.png stock_sliding-panel.png
+		stock_menu-panel.png stock_screenshot.png stock_sliding-panel.png\
+		media-prev.png media-next.png \
+		media-stop.png media-eject.png \
+		media-play-pause.png
 
 EXTRA_DIST=	$(pixmap_DATA)
 
