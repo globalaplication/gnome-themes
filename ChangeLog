@@ -1,3 +1,13 @@
+2002-11-06  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInver
+	se.rc:
+
+	Adds NautilusIconContainer property to Inverse themes, making
+	filenames legible again.  Partially fixes #96747, although
+	supplementary text is still hard to read.
+
 2002-10-31  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:

@@ -23,6 +23,7 @@ style "default"
 #  GtkWidget::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_aspect_ratio = 0.1 
   GtkEntry::cursor_aspect_ratio = 0.1
+  NautilusIconContainer::frame_text = 1
   
   fg[NORMAL]      = { 1.00, 1.00, 1.00 }
   text[NORMAL]      = { 1.00, 1.00, 1.00 }
