@@ -1,21 +1,22 @@
+# translation of eu.po to Basque
 # translation of gnome-themes.gnome-2-4.eu.po to Basque
 # translation of gnome-themes.gnome-2-4.po to Basque
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.gnome-2-4.eu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2003-09-26 22:05GMT\n"
+"Project-Id-Version: eu\n"
+"POT-Creation-Date: 2004-08-26 16:36+0200\n"
+"PO-Revision-Date: 2004-08-26 16:44+0200\n"
 "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
 "Language-Team: Basque <itzulpena@euskalgnu.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Generator: KBabel 1.0.2\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -39,7 +40,7 @@ msgstr "Tipografi eta kontraste handikoa"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Beltza zurigaineko testu eta ikono handiak"
+msgstr "Beltz-zurigaineko testu eta ikono handiak"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -47,7 +48,7 @@ msgstr "Alderantzizko kontraste handiko tipografi handia"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Zuria beltzgaineko testu eta ikono handiak"
+msgstr "Zuri-beltzgaineko testu eta ikono handiak"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -81,6 +82,14 @@ msgstr "Gurutzea"
 msgid "Smooth gradients with teal highlights"
 msgstr "Degradatu goxua pinportdun bereizmenarekin"
 
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr "Glider"
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr "Bakuna, degradatua eta estetikoki atsegina"
+
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
 msgstr "Laranja zikinaren itxura"
@@ -107,7 +116,7 @@ msgstr "Itsasertzeko koloreak"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr "Sinplea"
+msgstr "Bakuna"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -115,7 +124,7 @@ msgstr "Itxura mehea, eraginkortasun handia"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "Beira leunezko itxura bat"
+msgstr "Beira leuneko itxura bat"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
@@ -144,3 +153,4 @@ msgstr "Ke-urdina"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Ke-gorria"
+
