@@ -21,36 +21,36 @@ style "default"
   GtkHSV::focus-line-pattern = "\0"
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
-  GtkEntry::cursor_color    = { 0.00, 0.80, 0.80 }
+  GtkEntry::cursor_color    = "#00cccc"
   GtkRange::slider_width = 20
   GtkTreeView::expander_size = 20
 #  GtkWidget::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_aspect_ratio = 0.1
-  GtkTextView::cursor_color    = { 0.00, 0.80, 0.80 }
+  GtkTextView::cursor_color    = "#00cccc"
   GtkEntry::cursor_aspect_ratio = 0.1
   NautilusIconContainer::frame_text = 1
 
-  fg[NORMAL]      = { 1.00, 1.00, 1.00 }
-  text[NORMAL]      = { 1.00, 1.00, 1.00 }
-  bg[NORMAL]      = { 0.10, 0.10, 0.10 }
-  base[NORMAL]    = { 0.15, 0.15, 0.15 }
+  fg[NORMAL]      = "white"
+  text[NORMAL]      = "white"
+  bg[NORMAL]      = "#330033" 
+  base[NORMAL]    = "#330033"
 
-  fg[INSENSITIVE]      = { 0.4, 0.4, 0.4 }
-  bg[INSENSITIVE]      = { 0.25, 0.25, 0.23 }
-  base[INSENSITIVE]      = { 0.25, 0.25, 0.23 }
+  fg[INSENSITIVE]      = "#666666"
+  bg[INSENSITIVE]      = "#333333"
+  text[INSENSITIVE]      = "#666666"
+  base[INSENSITIVE]      = "#333333"
 
-  fg[PRELIGHT]    = { 0.10, 0.10, 0.10 }
-  text[PRELIGHT]    = { 0.10, 0.10, 0.10 }
-  bg[PRELIGHT]    = { 1.00, 1.00, 1.00 }
-  base[PRELIGHT]    = { 1.00, 1.00, 1.00 }
+  fg[PRELIGHT]    = "#003333"
+  text[PRELIGHT]    = "#003333"
+  bg[PRELIGHT]    = "white"
+  base[PRELIGHT]    = "white"
 
-  fg[ACTIVE]      = { 1.00, 1.00, 1.00 }
-  text[ACTIVE]      = { 1.00, 1.00, 1.00 }
-  bg[ACTIVE]      = { 0.35, 0.35, 0.50 }
-  base[ACTIVE]      = { 0.65, 0.65, 0.50 }
+  fg[ACTIVE]      = "white"
+  text[ACTIVE]      = "white"
+  bg[ACTIVE]      = "#666699"
+  base[ACTIVE]      = "#666699"
 
-  fg[SELECTED]    = { 0.10, 0.10, 0.10 }
-  text[SELECTED]    = { 0.10, 0.10, 0.10 }
-  bg[SELECTED]    = { 1.00, 1.00, 1.00 }
-  base[SELECTED]    = { 0.90, 0.80, 0.80 }
-
+  fg[SELECTED]    = "#330033"
+  text[SELECTED]    = "#330033"
+  bg[SELECTED]    = "white"
+  base[SELECTED]    = "#ffccff"
