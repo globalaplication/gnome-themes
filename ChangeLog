@@ -1,3 +1,8 @@
+2003-01-07  Jakub Steiner <jimmac@ximian.com>
+
+	* gorilla/scalable/filesystems/gnome-fs-home.svg: size fix
+	* gorilla/index.theme: temporary emblem size fix
+
 2003-01-06  Zbigniew Chyla  <cyba@gnome.pl>
 
 	* configure.in (ALL_LINGUAS): Added pl (Polish).

@@ -26,7 +26,8 @@ Context=Devices
 Type=scalable
 
 [scalable/emblems]
-Size=24
+#this is a bug 102677, should be 24
+Size=72
 Context=Emblems
 Type=Scalable
 
