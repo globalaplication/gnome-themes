@@ -36,6 +36,8 @@ pixmap_DATA=	stock_about.png stock_attach.png stock_balance.png \
 		stock_logout.png stock_gnome-logo.png stock_cde-menu.png \
 		stock_internet.png stock_gnome-util.png \
 		stock_launcher-program.png
+		stock_corner-panel.png stock_edge-panel.png stock_floating-panel.png\
+		stock_menu-panel.png stock_screenshot.png stock_sliding-panel.png
 
 EXTRA_DIST=	$(pixmap_DATA)
 
