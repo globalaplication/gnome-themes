@@ -1,6 +1,10 @@
+2004-01-13  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* no.po: Updated Norwegian translation.
+
 2004.01.09  Arafat Medini <lumina@silverpen.de>
-                                                                                
-        * ar.po: Added Arabic translation
+
+	* ar.po: Added Arabic translation
 
 2004-01-04  Duarte Loreto <happyguy_pt@hotmail.com>
 
@@ -13,7 +17,7 @@
 
 2003-12-05  Paisa Seeluangsawat  <paisa@users.sf.net>
 
-        * th.po: Updated Thai (th) translation.
+	* th.po: Updated Thai (th) translation.
 
 2003-12-05  I�aki Larra�aga  <dooteo@euskalgnu.org>
 
@@ -24,10 +28,10 @@
 	* no.po: Updated Norwegian (bokmal) translation.
 
 2003-09-30  Christian Rose  <menthos@menthos.com>
- 
-        * eu.po: Added Basque translation by
-        Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>.
- 
+
+	* eu.po: Added Basque translation by
+	Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>.
+
 2003-09-13  Fatih Demir <kabalak@gtranslator.org>
 
 	* tr.po: Committed updated Turkish translation by G�rkem.
@@ -48,8 +52,8 @@
 
 2003-08-28  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
 
-        * es.po: Revision of Spanish translation by
-                 Francisco Javier F. Serrador <serrador@arrakis.es>.
+	* es.po: Revision of Spanish translation by
+	Francisco Javier F. Serrador <serrador@arrakis.es>.
 
 2003-08-24  Sanlig Badral  <badral@openmn.org>
 
@@ -61,11 +65,11 @@
 
 2003-08-22 Paul Duffy <dubhthach@frink.nuigalway.ie>
 
-        * ga.po: Added Irish Translation
+	* ga.po: Added Irish Translation
 
 2003-08-22  Stanislav Visnovsky  <visnovsky@nenya.ms.mff.cuni.cz>
 
-        * sk.po: Update Slovak translation.
+	* sk.po: Update Slovak translation.
 
 2003-08-20  Kjartan Maraas  <kmaraas@gnome.org>
 
@@ -126,8 +130,8 @@
 
 2003-07-08  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
 
-        * es.po: Updated Spanish translation by
-                 Francisco Javier Fernandez <serrador@arrakis.es>.
+	* es.po: Updated Spanish translation by
+	Francisco Javier Fernandez <serrador@arrakis.es>.
 
 2003-07-06  Evandro Fernandes Giovanini <evandrofg@ig.com.br>
 
@@ -194,7 +198,7 @@
 
 2003-05-18  Hasbullah Bin Pit <sebol@ikhlas.com>
 
-        * ms.po: Updated Malay translation.
+	* ms.po: Updated Malay translation.
 
 2003-05-16  Guntupalli Karunakar  <karunakar@freedomink.org>
 
@@ -202,13 +206,13 @@
 
 2003-05-13  Duarte Loreto <happyguy_pt@hotmail.com>
 
-        * pt.po: Updated Portuguese translation.
+	* pt.po: Updated Portuguese translation.
 
 2003-05-09  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
-                                                                                
+
 	cy.po: Added Welsh translation by gnome-cy group
-        <gnome-cy@pengwyn.linux.org.uk> and Kyfieithu
-        contributors. <http://www.kyfieithu.co.uk/>
+	<gnome-cy@pengwyn.linux.org.uk> and Kyfieithu
+	contributors. <http://www.kyfieithu.co.uk/>
 
 2003-05-08  Abel Cheung  <maddog@linux.org.hk>
 
