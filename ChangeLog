@@ -1,3 +1,31 @@
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/file-roller.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gcalctool.png: add
+	* HighContrastLargePrint/icons/48x48/apps/perfmeter.png: add
+	* HighContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-client.pn
+	g: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am: 
+	* HighContrastLargePrintInverse/icons/48x48/apps/file-roller.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gcalctool.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/perfmeter.png: add
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am
+	:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-cl
+	ient.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/file-roller.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gcalctool.png: add
+	* LowContrastLargePrint/icons/48x48/apps/perfmeter.png: add
+	* LowContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-client.png add
+	:
+
+	Add accessible icons for fileroller (#137368), gcalctool (#137353),
+	gperfmeter (#137364) and Computer (#137362).
+
 2004-03-15  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:

@@ -27,6 +27,7 @@ icon_DATA =\
 	gnome-fs-trash-empty.png \
 	gnome-fs-trash-full.png \
 	gnome-fs-web.png \
+	gnome-fs-client.png \
 	$(NULL)
 
 EXTRA_DIST = $(icon_DATA)
