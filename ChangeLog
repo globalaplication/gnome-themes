@@ -1,3 +1,9 @@
+2004-06-08  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	
+	Add high contrast JDS menu stripe.
+
 2004-06-03  Calum Benson  <calum.benson@sun.com>
 
 	Give the HCLPI theme the JDS-coverage treatment.
