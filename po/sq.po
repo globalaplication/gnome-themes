@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-24 14:52+0100\n"
+"PO-Revision-Date: 2003-02-02 14:13+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -80,13 +80,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Smooth gradients with teal highlights"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Një paraqitje e embël e xhamtë"
+msgstr "Pamje ngjyrë portokalli e pluhrëzuar"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Grand Canyon"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -106,7 +105,7 @@ msgstr "Ngjyrat e bregdetit"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "E thjeshtë"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -122,7 +121,7 @@ msgstr "Smokey Blu"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Tradicionale"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -155,3 +154,4 @@ msgstr "Smokey-i kuq"
 
 #~ msgid "Gnome"
 #~ msgstr "Gnome"
+
