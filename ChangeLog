@@ -1,3 +1,24 @@
+2005-04-01  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-printer-netw
+	ork.png:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-printer-new.
+	png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-print
+	er-network.png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-print
+	er-new.png:
+	* LowContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/devices/gnome-dev-printer-netwo
+	rk.png:
+	* LowContrastLargePrint/icons/48x48/devices/gnome-dev-printer-new.p
+	ng:
+
+	Add high and low contrast icons for new and networked printers.
+	Patch by Muktha.Narayan@wipro.com.
+
 2005-03-31  Steve Murphy  <murf@e-tools.com>
 
         * configure.in: Added "rw" to ALL_LINGUAS.

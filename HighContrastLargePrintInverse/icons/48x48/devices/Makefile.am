@@ -9,6 +9,8 @@ icon_DATA=	\
 		gnome-dev-keyboard.png \
 		gnome-dev-mouse-optical.png \
 		gnome-dev-printer.png \
+		gnome-dev-printer-new.png \
+		gnome-dev-printer-network.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
