@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.2\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-02-01 20:20+0100\n"
+"Project-Id-Version: 2.4\n"
+"POT-Creation-Date: 2003-05-13 22:13+0000\n"
+"PO-Revision-Date: 2003-05-13 22:15+0100\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: pt <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Texto e ícones em branco-sobre-preto"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Alto Contraste Grande"
+msgid "High Contrast Large Print"
+msgstr "Impressão Grande Alto Contraste"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
