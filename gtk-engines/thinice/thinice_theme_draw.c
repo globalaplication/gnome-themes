@@ -2080,7 +2080,7 @@ draw_handle(GtkStyle * style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 
-#if DEBUG
+#ifdef DEBUG
   printf("draw_handle(state=%d, shadow=%d, detail=%s, [%d,%d]@[%d,%d]\n",
          state_type, shadow_type, detail?detail:"nul",width,height,x,y);
 #endif

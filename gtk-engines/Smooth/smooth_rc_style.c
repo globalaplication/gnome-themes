@@ -287,10 +287,10 @@ theme_symbols[] =
   /* backward compatibility for <= 0.4.0 */
   { "use_gradient",        TOKEN_DEPRECATED_GRADIENT },
 
-  #if GTK1
+#ifdef GTK1
   { "xthickness",          TOKEN_XTHICKNESS },
   { "ythickness",          TOKEN_YTHICKNESS },
-  #endif
+#endif
 };
 
 static guint n_theme_symbols = sizeof(theme_symbols) / sizeof(theme_symbols[0]);

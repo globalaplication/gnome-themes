@@ -54,8 +54,6 @@
  *
  *******************************************************************************************/
 
-#include <gtk/gtk.h>
-
 #include "smooth_style.h"
 #include "smooth_rc_style.h"
 
@@ -64,6 +62,7 @@
 #include <math.h>
 
 #include <gtk/gtk.h>
+#include <gtk/gtknotebook.h>
 
 static double shades[] = {1.065, 0.963, 0.896, 0.85, 0.768, 0.665, 0.4, 0.205, 0.112};
 

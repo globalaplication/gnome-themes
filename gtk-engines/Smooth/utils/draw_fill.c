@@ -555,7 +555,7 @@ internal_tile_pixbuf(GdkWindow * window,
         
 			if ((tmp.width > 0) && (tmp.height > 0)) 
 			{
-				gdk_pixbuf_render_to_drawable (pixbuf, window, gc,
+				gdk_draw_pixbuf (window, gc, pixbuf,
 								0, 0, 
 								tmp.x, tmp.y,
 								tile_width, tile_height,
@@ -628,13 +628,13 @@ gdk_tile_pixbuf_fill (GdkWindow * window,
 						gdk_rgb_get_visual()->depth);
 
 		tmp_gc = gdk_gc_new (tmp_pixmap);
-		gdk_pixbuf_render_to_drawable (pixbuf, tmp_pixmap, tmp_gc,
+		gdk_draw_pixbuf (tmp_pixmap, tmp_gc, pixbuf,
 						0, 0, 
 						0, 0,
 						pixbuf_width, pixbuf_height,
 						GDK_RGB_DITHER_NORMAL,
 						0, 0);
-		gdk_gc_unref (tmp_gc);
+		g_object_unref (tmp_gc);
 
 		gdk_gc_set_fill(gc, GDK_TILED);
 		gdk_gc_set_tile(gc,tmp_pixmap);

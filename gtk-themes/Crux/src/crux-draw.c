@@ -128,13 +128,13 @@ install_focus_hooks (GdkWindow *window)
 	{
 	    /* Connect to this window so we get focus-in/out events */
 	    data->focus_in_signal_id
-		= gtk_signal_connect (GTK_OBJECT (widget), "focus_in_event",
+		= g_signal_connect (GTK_OBJECT (widget), "focus_in_event",
 				      GTK_SIGNAL_FUNC(window_focus_in_callback), data);
 	    data->focus_out_signal_id
-		= gtk_signal_connect (GTK_OBJECT (widget), "focus_out_event",
+		= g_signal_connect (GTK_OBJECT (widget), "focus_out_event",
 				      GTK_SIGNAL_FUNC(window_focus_out_callback), data);
 	    data->destroyed_signal_id
-		= gtk_signal_connect (GTK_OBJECT (widget), "destroy",
+		= g_signal_connect (GTK_OBJECT (widget), "destroy",
 				      GTK_SIGNAL_FUNC(window_destroyed_callback), data);
 
 	    data->connected = TRUE;
@@ -208,7 +208,7 @@ paint_background_area (GtkStyle *style,
     gdk_draw_rectangle (window, gc, TRUE, x, y, width, height);
 
     if (area != 0)
-	gdk_gc_set_clip_rectangle (gc, 0);
+	gdk_gc_set_clip_rectangle (gc, NULL);
 }
 
 static void
@@ -227,8 +227,8 @@ paint_stock_image (eazel_theme_data *theme_data,
     if (width == -1 || height == -1)
     {
 	eazel_engine_stock_get_size (theme_data->stock, type,
-				     width == -1 ? &width : 0,
-				     height == -1 ? &height : 0);
+				     width == -1 ? &width : NULL,
+				     height == -1 ? &height : NULL);
     }
 
     if (scaled)
@@ -292,7 +292,7 @@ paint_stock_image (eazel_theme_data *theme_data,
 
 	if (mask != 0)
 	{
-	    gdk_gc_set_clip_mask (style->fg_gc[state_type], 0);
+	    gdk_gc_set_clip_mask (style->fg_gc[state_type], NULL);
 	    gdk_gc_set_clip_origin (style->fg_gc[state_type], 0, 0);
 	}
    }
@@ -866,7 +866,7 @@ draw_shadow (GtkStyle *style,
 
     gc_a = gc2;
     gc_b = gc4;
-    gc_c = 0;
+    gc_c = NULL;
     gc_d = gc1;
 
     if (DETAIL ("button") || DETAIL ("optionmenu"))

@@ -1,3 +1,17 @@
+2004-08-18  Calum Benson  <calum.benson@sun.com>
+
+	Fix issues reported by sparse/gcc (Kjartan Maraas, bug #150348)
+
+	* NEWS:
+	* gtk-engines/Smooth/smooth_rc_style.c:
+	* gtk-engines/Smooth/smooth_style.c:
+	* gtk-engines/Smooth/utils/draw_fill.c: (internal_tile_pixbuf),
+	(gdk_tile_pixbuf_fill):
+	* gtk-engines/Smooth/utils/misc_functions.c:
+	(reverse_engineer_stepper_box), (reverse_engineer_arrow_box):
+	* gtk-engines/hc-engine/hc-style.c:
+	* gtk-engines/thinice/thinice_theme_draw.c: (draw_handle):
+
 2004-08-16  Calum Benson  <calum.benson@sun.com>
 
 	Post release bump.

@@ -22,12 +22,13 @@
  * Boston, MA 02111-1307, USA.
  */
 
-#include <gtk/gtk.h>
-
 #include "hc-style.h"
 #include "hc-rc-style.h"
 
 #include <gtk/gtk.h>
+
+#include <math.h>
+#include <string.h>
 
 static GtkStyleClass *parent_class = NULL;
 

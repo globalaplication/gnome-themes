@@ -1,6 +1,9 @@
 (2.7.92)
 ========
 
+Bugfixes:
+- Fix issues reported by sparse/gcc (Kjartan Maraas, bug #150348)
+
 2.7.91
 =======
 

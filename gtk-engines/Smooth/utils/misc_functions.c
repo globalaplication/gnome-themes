@@ -467,7 +467,7 @@ reverse_engineer_stepper_box (GtkWidget    *range,
 			      gint         *width,
 			      gint         *height)
 {
-#if GTK2
+#ifdef GTK2
   gint slider_width = 15, stepper_size = 15;
   gint box_width;
   gint box_height;
@@ -497,7 +497,7 @@ reverse_engineer_stepper_box (GtkWidget    *range,
   *height = box_height - 4;
 #endif
 
-#if GTK1
+#ifdef GTK1
   *x += 2;
   *y += 2;
   *width -= 4;
@@ -559,14 +559,14 @@ reverse_engineer_arrow_box (GtkWidget    *widget,
       reverse_engineer_spin_button (widget, arrow_type,
 				    x, y, width, height);
    }
-  #if GTK2
+ #ifdef GTK2
   else if (DETAIL("menuitem"))
     {
     }
   else if (DETAIL("arrow")) {
   }  
-  #endif  
-  #if GTK1
+#endif  
+#ifdef GTK1
   else if (DETAIL("menuitem"))
     {
       *width += 2;
@@ -577,7 +577,7 @@ reverse_engineer_arrow_box (GtkWidget    *widget,
   else if (DETAIL("arrow")) {
       *y += 1;
   }  
-  #endif  
+#endif  
 }
 
 /* This function is based on a portion of Xenophilia's xeno_draw_extension */
