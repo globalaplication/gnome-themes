@@ -1,5 +1,4 @@
 THEMES=			\
-	Crux		\
 	gnome		\
 	Mist		\
 	Sandwish	\
