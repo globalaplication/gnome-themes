@@ -1,15 +1,17 @@
 # Serbian translation of gnome-themes
-# Courtesy of Prevod.org team (http://www.prevod.org/) -- 2003.
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
 # 
 # This file is distributed under the same license as the gnome-themes package.
 # 
 # Maintainer: Goran Rakić <gox@devbase.net>
+# Reviewed on 2004-02-14 by Aleksandar Urošević <urke@users.sourceforge.net>
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 2.2\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
-"PO-Revision-Date: 2003-08-08 03:34+0200\n"
+"Project-Id-Version: gnome-themes 2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-02-08 04:09+0100\n"
+"PO-Revision-Date: 2004-02-14 17:57+0100\n"
 "Last-Translator: Goran Rakić <gox@devbase.net>\n"
 "Language-Team: Serbian (sr) <serbiangnome-lista@nongnu.org>\n"
 "MIME-Version: 1.0\n"
