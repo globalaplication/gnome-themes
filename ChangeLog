@@ -1,5 +1,20 @@
 2003-01-30  Seth Nickell  <snickell@stanford.edu>
 
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+
+	Don't install these desktop themes.
+	
+	* configure.in:
+	* gtk-themes/Makefile.am:
+	* metacity-themes/Makefile.am:
+
+	Handle CVS rename of "gnome" theme to "Simple".
+	
+2003-01-30  Seth Nickell  <snickell@stanford.edu>
+
 	* COPYING:
 
 	GPL license.

@@ -100,7 +100,7 @@ gtk-themes/Makefile
 gtk-themes/Crux/Makefile
 gtk-themes/Crux/pixmaps/Makefile
 gtk-themes/Crux/src/Makefile
-gtk-themes/gnome/Makefile
+gtk-themes/Simple/Makefile
 gtk-themes/Grand-Canyon/Makefile
 gtk-themes/LightHouseBlue/Makefile
 gtk-themes/LightHouseBlue/src/Makefile

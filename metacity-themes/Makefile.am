@@ -1,7 +1,7 @@
 THEMES=			\
-	gnome		\
 	Mist		\
 	Sandwish	\
+	Simple		\
 	Smokey
 
 THEME_DIR=$(datadir)/themes
