@@ -2,15 +2,30 @@
 _Name=Smokey-Red
 _Comment=Smokey-Red
 Inherits=gnome
-Directories=48x48/filesystems,48x48/emblems
-
-[48x48/filesystems]
-Size=48
-Context=FileSystems
-Type=Scaled
+Directories=48x48/emblems,48x48/filesystems,64x64/filesystems,72x72/filesystems,96x96/filesystems
 
 [48x48/emblems]
 Size=48
 Context=Emblems
-Type=Scaled
+Type=Scalable
+
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Scalable
+
+[64x64/filesystems]
+Size=64
+Context=FileSystems
+Type=Scalable
+
+[72x72/filesystems]
+Size=72
+Context=FileSystems
+Type=Scalable
+
+[96x96/filesystems]
+Size=96
+Context=FileSystems
+Type=Scalable
 
