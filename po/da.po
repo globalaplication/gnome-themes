@@ -1,13 +1,13 @@
 # Danish translation of gnome-themes.
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Copyright (C) 2002, 03 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
-# Ole Laursen <olau@hardworking.dk>, 2002.
+# Ole Laursen <olau@hardworking.dk>, 2002, 03.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2002-11-26 05:56+0100\n"
-"PO-Revision-Date: 2002-12-16 17:34+0100\n"
+"POT-Creation-Date: 2003-01-22 12:10+0100\n"
+"PO-Revision-Date: 2003-01-22 20:35+0100\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
@@ -29,3 +29,43 @@ msgstr "Højkontrast, inverteret"
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "Hvid på sort tekst og ikoner"
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large"
+msgstr "Højkontrast, stor"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Stor sort på hvid tekst og ikoner"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Højkontrast, stor inverteret"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Stor hvid på sort tekst og ikoner"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Stor"
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Større tekst og ikoner"
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Lavkontrast"
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Dæmpet tekst og ikoner"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Stor dæmpet tekst og ikoner"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Lavkontrast, stor"
