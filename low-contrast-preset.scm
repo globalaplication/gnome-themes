@@ -65,7 +65,7 @@
     (file-png-save 1 image drawable filename filename 0 9 0 0 0 1 1)))
 
 ;; Register!
-(script-fu-register "script-fu-low-constrast-preset"
+(script-fu-register "script-fu-low-contrast-preset"
 		    "<Toolbox>/Xtns/Script-Fu/Misc/Low contrast PNG icon preset..."
 		    "Loads a PNG, makes it low contrast, saves it"
 		    "Guillermo S. Romero"
