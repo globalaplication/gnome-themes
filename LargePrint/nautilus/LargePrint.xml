@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<theme _name="Large Print" _description="Large text version of the default theme."> 
+
+  <sidebar tab_font="Sans 16" tab_piece_images="sidebar_tab_pieces"/>
+
+</theme>

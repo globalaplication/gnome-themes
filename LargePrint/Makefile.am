@@ -1,2 +1,1 @@
-SUBDIRS= gtk-2.0 pixmaps icons
-
+SUBDIRS= gtk-2.0 pixmaps icons nautilus

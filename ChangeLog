@@ -1,3 +1,165 @@
+2002-12-10  Calum Benson  <calum.benson@sun.com>
+
+	Added large print nautilus themes.
+
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrint/nautilus/HighContrastLargePrint.xml:
+	* HighContrastLargePrint/nautilus/Makefile.am:
+	* HighContrastLargePrint/nautilus/decrement.png:
+	* HighContrastLargePrint/nautilus/increment.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/Makefile.am:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/fill-active-pr
+	elight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/fill-active.pn
+	g:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/fill-empty-spa
+	ce.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/fill-prelight.
+	png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/fill.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-ac
+	tive-prelight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-ac
+	tive.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-pr
+	elight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper.pn
+	g:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/middle-normal-
+	normal.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/middle-normal-
+	prelight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/middle-preligh
+	t-normal.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-bumper-p
+	relight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-bumper.p
+	ng:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-empty-sp
+	ace.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-acti
+	ve-prelight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-acti
+	ve.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-prel
+	ight.png:
+	* HighContrastLargePrint/nautilus/sidebar_tab_pieces/right-top.png:
+	* HighContrastLargePrint/nautilus/throbber/001.png:
+	* HighContrastLargePrint/nautilus/throbber/002.png:
+	* HighContrastLargePrint/nautilus/throbber/003.png:
+	* HighContrastLargePrint/nautilus/throbber/004.png:
+	* HighContrastLargePrint/nautilus/throbber/005.png:
+	* HighContrastLargePrint/nautilus/throbber/006.png:
+	* HighContrastLargePrint/nautilus/throbber/Makefile.am:
+	* HighContrastLargePrint/nautilus/throbber/rest.png:
+	* HighContrastLargePrint/nautilus/zoom_body.png:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* HighContrastLargePrintInverse/nautilus/HighContrastLargePrintInve
+	rse.xml:
+	* HighContrastLargePrintInverse/nautilus/Makefile.am:
+	* HighContrastLargePrintInverse/nautilus/decrement.png:
+	* HighContrastLargePrintInverse/nautilus/increment.png:
+	* HighContrastLargePrintInverse/nautilus/number_strip.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/Makefil
+	e.am:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/fill-ac
+	tive-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/fill-ac
+	tive.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/fill-em
+	pty-space.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/fill-pr
+	elight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/fill.pn
+	g:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/left-bu
+	mper-active-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/left-bu
+	mper-active.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/left-bu
+	mper-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/left-bu
+	mper.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/middle-
+	normal-normal.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/middle-
+	normal-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/middle-
+	prelight-normal.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-b
+	umper-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-b
+	umper.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-e
+	mpty-space.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-t
+	op-active-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-t
+	op-active.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-t
+	op-prelight.png:
+	* HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/right-t
+	op.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/001.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/002.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/003.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/004.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/005.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/006.png:
+	* HighContrastLargePrintInverse/nautilus/throbber/Makefile.am:
+	* HighContrastLargePrintInverse/nautilus/throbber/rest.png:
+	* HighContrastLargePrintInverse/nautilus/zoom_body.png:
+	* LargePrint/Makefile.am:
+	* LargePrint/nautilus/LargePrint.xml:
+	* LargePrint/nautilus/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+	* LowContrastLargePrint/nautilus/LowContrastLargePrint.xml:
+	* LowContrastLargePrint/nautilus/Makefile.am:
+	* LowContrastLargePrint/nautilus/decrement.png:
+	* LowContrastLargePrint/nautilus/i-regular.xml:
+	* LowContrastLargePrint/nautilus/increment.png:
+	* LowContrastLargePrint/nautilus/number_strip.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/Makefile.am:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/fill-active-pre
+	light.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/fill-active.png
+	:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/fill-empty-spac
+	e.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/fill-prelight.p
+	ng:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/fill.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-act
+	ive-prelight.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-act
+	ive.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper-pre
+	light.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/left-bumper.png
+	:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/middle-normal-n
+	ormal.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/middle-normal-p
+	relight.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/middle-prelight
+	-normal.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-bumper-pr
+	elight.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-bumper.pn
+	g:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-empty-spa
+	ce.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-activ
+	e-prelight.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-activ
+	e.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-top-preli
+	ght.png:
+	* LowContrastLargePrint/nautilus/sidebar_tab_pieces/right-top.png:
+	* LowContrastLargePrint/nautilus/zoom_body.png:
+	* Makefile.am:
+	* configure.in:
+
 2002-12-06  Glynn Foster  <glynn.foster@sun.com>
 
 	* common/gtk-stock-icons.rc: Add icon for session properties 

@@ -51,6 +51,8 @@ LargePrint/gtk-2.0/Makefile
 LargePrint/gtk-2.0/gtkrc
 LargePrint/pixmaps/Makefile
 LargePrint/icons/Makefile
+LargePrint/nautilus/Makefile
+LargePrint/nautilus/sidebar_tab_pieces/Makefile
 HighContrastLargePrint/Makefile
 HighContrastLargePrint/gtk-2.0/Makefile
 HighContrastLargePrint/gtk-2.0/gtkrc
@@ -62,6 +64,9 @@ HighContrastLargePrint/icons/48x48/mimetypes/Makefile
 HighContrastLargePrint/icons/48x48/filesystems/Makefile
 HighContrastLargePrint/icons/48x48/devices/Makefile
 HighContrastLargePrint/icons/48x48/emblems/Makefile
+HighContrastLargePrint/nautilus/Makefile
+HighContrastLargePrint/nautilus/sidebar_tab_pieces/Makefile
+HighContrastLargePrint/nautilus/throbber/Makefile
 HighContrastLargePrintInverse/Makefile
 HighContrastLargePrintInverse/gtk-2.0/Makefile
 HighContrastLargePrintInverse/gtk-2.0/gtkrc
@@ -73,6 +78,9 @@ HighContrastLargePrintInverse/icons/48x48/devices/Makefile
 HighContrastLargePrintInverse/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile
 HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile
+HighContrastLargePrintInverse/nautilus/Makefile
+HighContrastLargePrintInverse/nautilus/sidebar_tab_pieces/Makefile
+HighContrastLargePrintInverse/nautilus/throbber/Makefile
 LowContrastLargePrint/Makefile
 LowContrastLargePrint/gtk-2.0/Makefile
 LowContrastLargePrint/gtk-2.0/gtkrc
@@ -84,6 +92,8 @@ LowContrastLargePrint/icons/48x48/devices/Makefile
 LowContrastLargePrint/icons/48x48/emblems/Makefile
 LowContrastLargePrint/icons/48x48/filesystems/Makefile
 LowContrastLargePrint/icons/48x48/mimetypes/Makefile
+LowContrastLargePrint/nautilus/Makefile
+LowContrastLargePrint/nautilus/sidebar_tab_pieces/Makefile
 LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc

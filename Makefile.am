@@ -9,10 +9,13 @@ EXTRA_DIST = \
 	intltool-update.in
 
 install: install-recursive
-	for t in HighContrast LowContrast HighContrastInverse; do \
+	for t in HighContrast HighContrastLargePrint \
+	LowContrast LowContrastLargePrint  \
+	HighContrastInverse HighContrastLargePrintInverse; do \
 		case $$t in \
-			HighContrast | LowContrast) iconthemename="$$t"LargePrint ;; \
-			HighContrastInverse) iconthemename=HighContrastLargePrintInverse ;;\
+			HighContrast | HighContrastLargePrint) iconthemename=HighContrastLargePrint ;; \
+			LowContrast  | LowContrastLargePrint) iconthemename=LowContrastLargePrint ;; \
+			HighContrastInverse | HighContrastLargePrintInverse) iconthemename=HighContrastLargePrintInverse ;;\
 		esac ; \
 		iconthemedir="$(datadir)"/icons/"$$iconthemename"/48x48 ; \
 		nautilusthemedir="$(datadir)"/pixmaps/nautilus/"$$t" ; \
@@ -177,5 +180,12 @@ install: install-recursive
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-video-x-msvideo.png" "$$nautilusthemedir/gnome-video-x-msvideo.png" ; \
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-video-x-ms-wmv.png" "$$nautilusthemedir/gnome-video-x-ms-wmv.png" ; \
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-x-font-afm.png" "$$nautilusthemedir/gnome-x-font-afm.png" ; \
-	chmod -R a+r $$nautilusthemedir ; \
+		chmod -R a+r $$nautilusthemedir ; \
+	done ; \
+	for t in LargePrint ; do \
+		nautilusthemedir="$(datadir)"/pixmaps/nautilus/"$$t" ; \
+		if !(test -d $$nautilusthemedir); then \
+			mkdir $$nautilusthemedir ; \
+		fi; \
+		chmod -R a+r $$nautilusthemedir ; \
 	done
