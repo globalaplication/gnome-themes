@@ -1,6 +1,40 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-keybinding
+	s.png: add
+	* HighContrastLargePrint/icons/48x48/apps/keyboard-shortcut.png:remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-key
+	bindings.png: add
+	nd.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/keyboard-shortcut.
+	png: remove
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-keybindings
+	.png: add
+	* LowContrastLargePrint/icons/48x48/apps/keyboard-shortcut.png: remove
+
+	Rename Keyboard Shortcut capplet icon so it works again.
+
+2004-03-19  Calum Benson <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-sound.png: add
+	* HighContrastLargePrint/icons/48x48/apps/sound-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-sou
+	nd.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/sound-capplet.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-sound.png: add
+	* LowContrastLargePrint/icons/48x48/apps/sound-capplet.png: remove
+
+	Rename sound capplet icon so it works again.
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/background-capplet.png: remove
 	* HighContrastLargePrint/icons/48x48/apps/font-capplet.png: remove
 	* HighContrastLargePrint/icons/48x48/apps/gnome-ccthemes.png: remove

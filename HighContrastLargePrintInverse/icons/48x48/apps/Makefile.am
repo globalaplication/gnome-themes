@@ -26,7 +26,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-workspace.png \
 		gnome-dev-keyboard.png \
 		gedit-icon.png \
-		keyboard-shortcut.png \
+		gnome-settings-keybindings.png \
 		gnome-applications.png \
 		launcher-program.png \
 		gnome-audio2.png \
@@ -46,7 +46,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-globe.png	\
 		gnome-graphics.png \
 		gnome-grecord.png \
-		sound-capplet.png \
+		gnome-settings-sound.png \
 		gnome-help.png	\
 		window-capplet.png \
 		gnome-home.png \
