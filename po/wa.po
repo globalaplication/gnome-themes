@@ -5,19 +5,21 @@
 # <pablo@walon.org>; nos avans co bråmint di l' ovraedje a fé.
 #
 # Copyright (C) 2003 Free Software Foundation, Inc.
-# Pablo Saratxaga <pablo@walon.org>, 2003.
+# Pablo Saratxaga <pablo@walon.org>, 2003, 2005.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-11-01 18:00+0000\n"
-"PO-Revision-Date: 2003-07-12 06:27+0200\n"
+"PO-Revision-Date: 2005-04-02 00:42+0200\n"
 "Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
-"Language-Team: Walon <linux-wa@walon.org>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -29,7 +31,7 @@ msgstr "Grand contrasse"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Grand contrasse å rvier"
+msgstr "Grand contrasse å rviè"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -45,7 +47,7 @@ msgstr "Tecse et grandès letes et grandès imådjetes noer so blanc"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Grand contrasse å rvier avou grandès letes"
+msgstr "Grand contrasse å rviè avou grandès letes"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -145,7 +147,7 @@ msgstr "Bleu simpe"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "Såvion"
+msgstr "Såvlon"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
@@ -154,3 +156,4 @@ msgstr "Bleuwe foumire"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rodje foumire"
+
