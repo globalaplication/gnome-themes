@@ -60,10 +60,11 @@ get_shadow_type (GtkStyle *style, const char *detail, GtkShadowType requested)
 	}
 	
 	if (DETAIL ("dockitem")
-	    || DETAIL ("handlebox_bin") 
-	    || DETAIL ("spinbutton_up")
-	    || DETAIL ("spinbutton_down")) {
+	    || DETAIL ("handlebox_bin")) {
 		retval = GTK_SHADOW_NONE;
+	} else if (DETAIL ("spinbutton_up")
+		   || DETAIL ("spinbutton_down")) {
+		retval = GTK_SHADOW_OUT;
 	} else if (DETAIL ("button") 
 		   || DETAIL ("togglebutton") 
 		   || DETAIL ("notebook") 
@@ -698,14 +699,8 @@ draw_box(GtkStyle *style,
 
 	if (DETAIL ("menuitem") && state_type == GTK_STATE_PRELIGHT) {
 		state_type = GTK_STATE_SELECTED;
-	} else if (DETAIL ("spinbutton_up") 
-		   || DETAIL ("spinbutton_down")) {
-		x += 1;
-		y += 1;
-		width -= 2;
-		height -= 2;
 	}
-		
+
 	light_gc = style->light_gc[state_type];
 	dark_gc = style->dark_gc[state_type];
 	
@@ -1415,24 +1410,72 @@ draw_resize_grip(GtkStyle *style,
 			}
 		}
 	}
-#if 0	
-	mist_dot(window,
-		 light_gc, dark_gc,
-		 x + width / 2 - modx,
-		 y + height / 2 - mody);
-	mist_dot(window,
-		 light_gc, dark_gc,
-		 x + width / 2,
-		 y + height / 2);
-	mist_dot(window,
-		 light_gc, dark_gc,
-		 x + width / 2 + modx,
-		 y + height / 2 + mody);                                                              
-#endif
+
 	if (area)
 	{
 		gdk_gc_set_clip_rectangle (style->light_gc[state_type], NULL);
 		gdk_gc_set_clip_rectangle (style->dark_gc[state_type], NULL);
+	}
+}
+
+static void
+draw_string (GtkStyle      *style,
+	     GdkWindow     *window,
+	     GtkStateType   state_type,
+	     GdkRectangle  *area,
+	     GtkWidget     *widget,
+	     const char    *detail,
+	     int            x,
+	     int            y,
+	     const char    *string)
+{
+	GdkDisplay *display;
+	
+	g_return_if_fail (GTK_IS_STYLE (style));
+	g_return_if_fail (window != NULL);
+	
+	display = gdk_drawable_get_display (window);
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (style->fg_gc[state_type], area);
+	}	
+	
+	gdk_draw_string (window,
+			 gtk_style_get_font (style),
+			 style->fg_gc[state_type], x, y, string);
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (style->fg_gc[state_type], NULL);
+	}
+}
+
+static void
+draw_layout (GtkStyle        *style,
+	     GdkWindow       *window,
+	     GtkStateType     state_type,
+	     gboolean         use_text,
+	     GdkRectangle    *area,
+	     GtkWidget       *widget,
+	     const char      *detail,
+	     int              x,
+	     int              y,
+	     PangoLayout      *layout)
+{
+	GdkGC *gc;
+	
+	g_return_if_fail (GTK_IS_STYLE (style));
+	g_return_if_fail (window != NULL);
+	
+	gc = use_text ? style->text_gc[state_type] : style->fg_gc[state_type];
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (gc, area);
+	}
+	
+	gdk_draw_layout (window, gc, x, y, layout);
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (gc, NULL);
 	}
 }
 
@@ -1488,6 +1531,8 @@ mist_style_class_init (MistStyleClass *klass)
 	style_class->draw_extension = draw_extension;
 	style_class->draw_handle = draw_handle;
 	style_class->draw_resize_grip = draw_resize_grip;
+	style_class->draw_string = draw_string;
+	style_class->draw_layout = draw_layout;
 }
 
 #else 
@@ -1669,7 +1714,7 @@ draw_oval(GtkStyle * style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 }
-
+#if 0
 static void
 draw_string(GtkStyle * style,
             GdkWindow * window,
@@ -1701,7 +1746,7 @@ draw_string(GtkStyle * style,
 		gdk_gc_set_clip_rectangle(style->fg_gc[state_type], NULL);
 	}
 }
-
+#endif
 static void
 draw_cross(GtkStyle * style,
            GdkWindow * window,

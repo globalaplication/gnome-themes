@@ -1,5 +1,14 @@
 2003-12-13  Dave Camp  <dave@ximian.com>
 
+	* Theme/gtkrc: Lightened fg[INSENSITIVE] a bit.
+	* src/mist-style.c: (get_shadow_type), (draw_box): Fixed up
+	spin buttons a bit.
+	(draw_resize_grip): Got rid of unused code.
+	(draw_string), (draw_layout),
+	(mist_style_class_init): Don't emboss/stipple insensitive text.
+
+2003-12-13  Dave Camp  <dave@ximian.com>
+
 	* src/mist-style.c: (draw_handle): Only draw three dots on paned
 	widgets.
 
