@@ -1,5 +1,5 @@
 pixmap_DATA= 	increment.png decrement.png zoom_body.png \
-		HighContrastInverse.xml
+		number_strip.png HighContrastInverse.xml
 
 pixmapdir= 	$(datadir)/pixmaps/nautilus/HighContrastInverse
 
