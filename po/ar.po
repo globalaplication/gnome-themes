@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2003-10-02 11:03+0200\n"
-"PO-Revision-Date: 2004-01-09 17:02+0100\n"
+"POT-Creation-Date: 2004-02-04 20:13+0100\n"
+"PO-Revision-Date: 2004-02-05 00:10+0100\n"
 "Last-Translator: Arafat Medini <lumina@silverpen.de>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +32,8 @@ msgid "White-on-black text and icons"
 msgstr "نصوص و أيقونات بأسلوب أبيض على أسود"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "تباين عال عريض"
+msgid "High Contrast Large Print"
+msgstr "تباين عال خط عريض"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
