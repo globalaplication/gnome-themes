@@ -1,3 +1,47 @@
+2002-12-18  Jakub Steiner <jimmac@ximian.com>
+
+	moving further develeopment of Gorilla to gnome.org:
+
+	  filesystem icons
+
+	* gorilla/scalable/filesystems/gnome-fs-directory.svg:
+	* gorilla/scalable/filesystems/gnome-fs-directory.icon:
+	* gorilla/scalable/filesystems/gnome-fs-directory-accept.svg:
+	* gorilla/scalable/filesystems/gnome-fs-directory-accept.icon:
+	* gorilla/scalable/filesystems/gnome-fs-executable.svg:
+	* gorilla/scalable/filesystems/gnome-fs-home.svg:
+	* gorilla/scalable/filesystems/gnome-fs-loading-icon.svg:
+	* gorilla/scalable/filesystems/gnome-fs-regular.svg:
+	* gorilla/scalable/filesystems/gnome-fs-trash-empty.svg:
+	* gorilla/scalable/filesystems/gnome-fs-trash-full.svg:
+
+	  devices
+
+	* gorilla/scalable/devices/gnome-dev-cdrom-audio.svg:
+	* gorilla/scalable/devices/gnome-dev-cdrom.svg:
+	* gorilla/scalable/devices/gnome-dev-dvd.svg:
+	* gorilla/scalable/devices/gnome-dev-harddisk.svg:
+
+	  mimetypes
+
+	* gorilla/scalable/mimetypes/gnome-mime-application-pdf.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-application-postscript.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-image.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-font.svg: (mapping of
+	  this kind of fallback is not implemented, either it will or
+	  will have to symlink all the font types (ttf, type1 ...)
+
+	  emblems
+	
+	* gorilla/scalable/emblems/emblem-camera.svg:
+	* gorilla/scalable/emblems/emblem-documents.svg:
+	* gorilla/scalable/emblems/emblem-video.svg:
+	* gorilla/scalable/emblems/emblem-pictures.svg:
+
+	* gorilla/index.theme
+
+	  no automagic yet, feel free to help ;)
+
 2002-12-16  Ole Laursen  <olau@hardworking.dk>
 
 	* configure.in: Added Danish (da) to ALL_LINGUAS.
