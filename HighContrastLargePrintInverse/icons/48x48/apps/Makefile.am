@@ -43,6 +43,7 @@ icon_DATA=	\
                 gnome-panel.png \
                 gnome-session.png \
                 gnome-settings-accessibility-keyboard.png \
+                gnome-settings-accessibility-technologies.png \
                 gnome-settings-background.png \
                 gnome-settings-default-applications.png \
                 gnome-settings-font.png \
