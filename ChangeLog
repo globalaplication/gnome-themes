@@ -1,5 +1,8 @@
 2003-05-03  Kjartan Maraas  <kmaraas@gnome.org>
 
+	* gtk-themes/Crux/src/Makefile.am: Don't link testapp
+	to unnecessary libs. Patch from Christian Marillat.
+	* configure.in: Set up new variable to handle above.
 	* HighContrastLargePrint/index.theme.in.in: Fix name.
 	Fixes bug #102432.
 
