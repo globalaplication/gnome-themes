@@ -1,6 +1,17 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/file-manager.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/file-manager.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/file-manager.png: add
+
+	Add uninspired accessible icons for Browse Filesystem.
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/gnome-mixer.png: add
 	* HighContrastLargePrint/icons/48x48/apps/gnome-window-manager.png: add
 	* HighContrastLargePrint/icons/48x48/apps/gnome-window-properties.p

@@ -7,6 +7,7 @@ icon_DATA=	\
                 advanced-directory.png \
                 behavior-capplet.png \
                 charpick.png \
+		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
                 gedit-icon.png \
