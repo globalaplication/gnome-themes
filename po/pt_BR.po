@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.0\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-31 06:30-0200\n"
+"POT-Creation-Date: 2003-07-06 22:41-0300\n"
+"PO-Revision-Date: 2003-07-06 22:41-0300\n"
 "Last-Translator: Evandro Fernandes Giovanini <evandrofg@ig.com.br>\n"
 "Language-Team: Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +32,8 @@ msgid "White-on-black text and icons"
 msgstr "Texto e ícones branco-no-preto"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Alto Contraste Grande"
+msgid "High Contrast Large Print"
+msgstr "Alto Contraste Letras Grandes"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
