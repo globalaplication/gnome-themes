@@ -1,0 +1,9 @@
+style "capplet-icons"
+{
+
+        stock ["mouse-dblclck-maybe"] =    {{"double-click-maybe.png"}}
+        stock ["mouse-dblclck-on"] =       {{"double-click-on.png"}}
+        stock ["mouse-dblclck-off"] =      {{"double-click-off.png"}}
+
+}
+class "GtkWidget" style "capplet-icons"
