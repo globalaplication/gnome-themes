@@ -48,8 +48,6 @@
 
 	Fixes #105202, patch from kaliber(gdx@poczta.fm) applied.
 
-<<<<<<< ChangeLog
-<<<<<<< ChangeLog
 2003-03-12  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
@@ -100,117 +98,6 @@
 
 	Fixes #105202, patch from kaliber(gdx@poczta.fm) applied.
 
-2003-03-08  Dave Camp  <dave@ximian.com>
-
-	* Theme/gtkrc:
-	* src/mist-style.c: (draw_shadow), (draw_box), (draw_arrow): Updated
-	to handle and use GtkRange::trough_border, made the scrollbars a 
-	bit wider.  This also fixes the gorilla theme's scrollbars.
-
-2003-03-12  Calum Benson  <calum.benson@sun.com>
-
-	* configure.in:
-	Bump revision for new tarball.
-
-2003-03-07  Taneem Ahmed  <taneem@eyetap.org>
-
-	* configure.in: Added "bn" to ALL_LINGUAS.
-
-2003-03-07  Metin Amiroff  <metin@karegen.com>
-
-	* configure.in: Added "az" to ALL_LINGUAS.
-
-2003-02-21  Paisa Seeluangsawat  <paisa@colorado.edu>
-
-	* configure.in (ALL_LINGUAS): Added "th".
-
-2003-02-21  Roozbeh Pournader  <roozbeh@sharif.edu>
-
-	* configure.in: Added "fa" to ALL_LINGUAS.
-
-2003-02-20  Tõivo Leedjärv  <toivo@linux.ee>
-
-	* configure.in: Added et to ALL_LINGUAS.
-
-2003-02-16  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
-
-	* configure.in: Added Belarusian to ALL_LINGUAS.
-
-2003-02-09  Christophe Merlet  <redfox@redfoxcenter.org>
-
-	* HighContrastLargePrint/Makefile.am:
-	* HighContrastLargePrintInverse/Makefile.am:
-	* LowContrast/Makefile.am:
-	* LowContrastLargePrint/Makefile.am:
-	Added missing $(DESTDIR) variable.
-
-2003-02-06  Christian Rose  <menthos@menthos.com>
-
-	* configure.in: Added "id" to ALL_LINGUAS.
-
-2003-02-04  Calum Benson  <calum.benson@sun.com>
-
-	* HighContrastLargePrint/Makefile.am:
-	* HighContrastLargePrintInverse/Makefile.am:
-	* LowContrast/Makefile.am:
-	* LowContrastLargePrint/Makefile.am:
-
-	Fixes #105202, patch from kaliber(gdx@poczta.fm) applied.
-
-=======
-2003-03-12  Calum Benson  <calum.benson@sun.com>
-
-	* configure.in:
-	Bump revision for new tarball.
-
-2003-03-07  Taneem Ahmed  <taneem@eyetap.org>
-
-	* configure.in: Added "bn" to ALL_LINGUAS.
-
-2003-03-07  Metin Amiroff  <metin@karegen.com>
-
-	* configure.in: Added "az" to ALL_LINGUAS.
-
-2003-02-21  Paisa Seeluangsawat  <paisa@colorado.edu>
-
-	* configure.in (ALL_LINGUAS): Added "th".
-
-2003-02-21  Roozbeh Pournader  <roozbeh@sharif.edu>
-
-	* configure.in: Added "fa" to ALL_LINGUAS.
-
-2003-02-20  Tõivo Leedjärv  <toivo@linux.ee>
-
-	* configure.in: Added et to ALL_LINGUAS.
-
-2003-02-16  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
-
-	* configure.in: Added Belarusian to ALL_LINGUAS.
-
-2003-02-09  Christophe Merlet  <redfox@redfoxcenter.org>
-
-	* HighContrastLargePrint/Makefile.am:
-	* HighContrastLargePrintInverse/Makefile.am:
-	* LowContrast/Makefile.am:
-	* LowContrastLargePrint/Makefile.am:
-	Added missing $(DESTDIR) variable.
-
-2003-02-06  Christian Rose  <menthos@menthos.com>
-
-	* configure.in: Added "id" to ALL_LINGUAS.
-
-2003-02-04  Calum Benson  <calum.benson@sun.com>
-
-	* HighContrastLargePrint/Makefile.am:
-	* HighContrastLargePrintInverse/Makefile.am:
-	* LowContrast/Makefile.am:
-	* LowContrastLargePrint/Makefile.am:
-
-	Fixes #105202, patch from kaliber(gdx@poczta.fm) applied.
-
->>>>>>> 1.106
-=======
->>>>>>> 1.96
 2003-02-03  Seth Nickell  <snickell@stanford.edu>
 
 	* configure.in:
