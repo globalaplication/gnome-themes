@@ -1,3 +1,19 @@
+2003-06-24  Anders Carlsson  <andersca@codefactory.se>
+
+	* AUTHORS:
+	* Makefile.am:
+	* ThinIce/.cvsignore:
+	* ThinIce/Makefile.am:
+	* ThinIce/gtk-2.0/.cvsignore:
+	* configure.in:
+	* gtk-engines/.cvsignore:
+	* gtk-engines/Makefile.am:
+	* gtk-engines/hc-engine/.cvsignore:
+	* gtk-engines/hc-engine/Makefile.am:
+	* gtk-engines/thinice/.cvsignore:
+	* gtk-engines/thinice/Makefile.am:
+	Add thinice theme engine.
+	
 2003-06-05 Kenneth Rohde Christiansen <kenneth@gnu.org>
 
 	* configure.in: Added li to ALL_LINGUAS.

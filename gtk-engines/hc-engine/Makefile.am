@@ -1,4 +1,4 @@
-INCLUDES = $(HC_CFLAGS) -DG_LOG_DOMAIN=\"HcEngine\"
+INCLUDES = $(THEME_ENGINE_CFLAGS) -DG_LOG_DOMAIN=\"HcEngine\"
 
 enginedir = $(libdir)/gtk-2.0/$(GTK_VERSION)/engines
 
@@ -12,4 +12,4 @@ libhcengine_la_SOURCES = \
 	hc-style.h
 
 libhcengine_la_LDFLAGS= -module -avoid-version
-libhcengine_la_LIBADD = $(HC_LIBS)
+libhcengine_la_LIBADD = $(THEME_ENGINE_LIBS)

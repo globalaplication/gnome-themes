@@ -1,1 +1,1 @@
-SUBDIRS=hc-engine
+SUBDIRS=hc-engine thinice
