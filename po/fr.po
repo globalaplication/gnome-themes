@@ -7,9 +7,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 1.0\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-26 21:45+0100\n"
+"Project-Id-Version: gnome-themes 2.1.99\n"
+"POT-Creation-Date: 2003-02-01 20:29+0100\n"
+"PO-Revision-Date: 2003-02-01 20:25+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -81,17 +81,16 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Aspect arrondi avec des reflets pourpres"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Une douce apparence glacée"
+msgstr "Une apparence orange cendrée"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Grand Canyon"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "Apparence minimaliste"
+msgstr "Une apparence minimaliste"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
@@ -107,7 +106,7 @@ msgstr "Les couleurs de l'océan"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -123,7 +122,7 @@ msgstr "Smokey-Blue"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Traditionnel"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
