@@ -26,7 +26,8 @@ theme_symbols[] =
   { "handlebox_marks",     TOKEN_HANDLEBOXMARKS },
   { "mark_type1",          TOKEN_MARKTYPE1 },
   { "mark_type2",          TOKEN_MARKTYPE2 },
-  
+  { "paned_dots",          TOKEN_PANEDDOTS },
+
   { "TRUE",                TOKEN_TRUE },
   { "FALSE",               TOKEN_FALSE },
 
@@ -36,6 +37,10 @@ theme_symbols[] =
   { "DOT",                 TOKEN_DOT },
   { "INVDOT",              TOKEN_INVDOT },
   { "ARROW",               TOKEN_ARROW },
+
+  { "FULL",                TOKEN_FULL },
+  { "SOME",                TOKEN_SOME },
+  { "NONE",                TOKEN_NONE },
 
 };
 
@@ -181,6 +186,40 @@ theme_parse_marktype(GScanner *scanner,
 }
 
 static guint
+theme_parse_paned(GScanner *scanner,
+		  GTokenType wanted_token,
+		  guint *retval)
+{
+  guint token;
+
+  token = g_scanner_get_next_token(scanner);
+  if (token != wanted_token)
+    return wanted_token;
+
+  token = g_scanner_get_next_token(scanner);
+  if (token != G_TOKEN_EQUAL_SIGN)
+    return G_TOKEN_EQUAL_SIGN;
+  
+  token = g_scanner_get_next_token(scanner);
+  switch (token)
+    {
+    case TOKEN_NONE:
+      *retval = PANED_DOTSNONE;
+      break;
+    case TOKEN_SOME:
+      *retval = PANED_DOTSSOME;
+      break;
+    case TOKEN_FULL:
+      *retval = PANED_DOTSFULL;
+      break;
+    default:
+      return TOKEN_NOTHING;
+    }
+
+  return G_TOKEN_NONE;
+}
+
+static guint
 thinice_rc_style_parse (GtkRcStyle *rc_style,
 			GtkSettings  *settings,
 			GScanner   *scanner)
@@ -302,6 +341,13 @@ thinice_rc_style_parse (GtkRcStyle *rc_style,
           theme_data->mark_type2 = i;
           break;
 
+        case TOKEN_PANEDDOTS:
+          token = theme_parse_paned(scanner, TOKEN_PANEDDOTS, &i);
+          if (token != G_TOKEN_NONE)
+            break;
+          theme_data->paned_dots = i;
+          break;
+
 	default:
 	  g_scanner_get_next_token(scanner);
 	  token = G_TOKEN_RIGHT_CURLY;
@@ -341,6 +387,7 @@ thinice_rc_style_merge (GtkRcStyle * dest,
     dest_data->handlebox_marks = src_data->handlebox_marks;
     dest_data->mark_type1 = src_data->mark_type1;
     dest_data->mark_type2 = src_data->mark_type2;
+    dest_data->paned_dots = src_data->paned_dots;
   }
   
   parent_class->merge (dest, src);

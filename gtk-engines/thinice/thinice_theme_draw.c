@@ -1862,24 +1862,46 @@ draw_handle(GtkStyle * style,
 
   if (DETAIL("paned")) 
     {
-      int i;
+      int i, w, h;
+      int start_i, end_i;
 
       light_gc = style->light_gc[state_type];
       dark_gc = style->dark_gc[state_type];
       if (orientation == GTK_ORIENTATION_HORIZONTAL)
+        w = width;
+      else
+        w = height;
+      switch (THINICE_RC_STYLE (style->rc_style)->paned_dots) {
+      default:
+      case PANED_DOTSFULL:
+        start_i = 5;
+        end_i = w - 5;
+        break;
+      case PANED_DOTSSOME:
+        start_i = w/2 - 16;
+        end_i = w/2 + 16;
+        break;
+      case PANED_DOTSNONE:
+        start_i = w;
+        end_i = 0;
+        break;
+      }
+      if (orientation == GTK_ORIENTATION_HORIZONTAL)
         {
-          for (i=x + 5; i < x + width - 5; i+=10)
+          start_i = MAX(start_i, x);
+          end_i = MIN(end_i, width - 3);
+          for (i=x + start_i; i <= x + end_i; i+=8)
             {
-              thinice_dot(window, light_gc, dark_gc,
-                          i, y + height / 2);
+              thinice_dot(window, light_gc, dark_gc, i, y + height / 2);
             }
         }
       else
         {
-          for (i=y + 5; i < y + height - 5; i+=10)
+          start_i = MAX(start_i, y);
+          end_i = MIN(end_i, height - 3);
+          for (i=y + start_i; i <= y + end_i; i+=8)
             {
-              thinice_dot(window, light_gc, dark_gc,
-                          x + width / 2, i);
+              thinice_dot(window, light_gc, dark_gc, x + width / 2, i);
             }
         }
       return;

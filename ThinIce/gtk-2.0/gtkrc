@@ -39,6 +39,10 @@ style "default"
     # Mark type 2 is used on scrollbar buttons
     # Can be: NOTHING, SLASH, INVSLASH, DOT, INVDOT, ARROW
     mark_type2 = ARROW
+
+    # How to draw paned stuff
+    # Can be: NONE, SOME (currently 5), FULL
+    paned_dots = FULL
   }
 }
 

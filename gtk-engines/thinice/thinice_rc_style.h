@@ -22,6 +22,7 @@ struct _ThiniceRcStyle
   guint handlebox_marks:1;
   guint mark_type1;
   guint mark_type2;
+  guint paned_dots;
 };
 
 struct _ThiniceRcStyleClass
@@ -38,6 +39,7 @@ void thinice_rc_style_register_type (GTypeModule *module);
 #define DEFAULT_HANDLEBOXMARKS    MARKS_ON
 #define DEFAULT_MARKTYPE1         MARKS_SLASH
 #define DEFAULT_MARKTYPE2         MARKS_INVSLASH
+#define DEFAULT_PANEDDOTS         PANED_DOTSFULL
 
 #define DEFAULT_SCROLLTHUMB_SIZE  12
 #define DEFAULT_MIN_SLIDER_SIZE   9
@@ -51,6 +53,7 @@ enum
     TOKEN_HANDLEBOXMARKS,
     TOKEN_MARKTYPE1,
     TOKEN_MARKTYPE2,
+    TOKEN_PANEDDOTS,
 
     TOKEN_TRUE,
     TOKEN_FALSE,
@@ -60,7 +63,11 @@ enum
     TOKEN_INVSLASH,
     TOKEN_DOT,
     TOKEN_INVDOT,
-    TOKEN_ARROW
+    TOKEN_ARROW,
+
+    TOKEN_FULL,
+    TOKEN_SOME,
+    TOKEN_NONE
   };
   
 enum
@@ -76,6 +83,10 @@ enum
     MARKS_INVSLASH = 2,
     MARKS_DOT = 3,
     MARKS_INVDOT = 4,
-    MARKS_ARROW = 5
+    MARKS_ARROW = 5,
+
+    PANED_DOTSFULL = 0,
+    PANED_DOTSSOME = 1,
+    PANED_DOTSNONE = 2
   };
 
