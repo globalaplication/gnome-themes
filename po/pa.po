@@ -1,20 +1,24 @@
+# translation of pa.po to Punjabi
 # KBST Punjab translation of punlinux.
 # Copyright (C) 2004 THE punlinux'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the punlinux package.
 # jaswinder singh <jaswindersinghra@yahoo.com>, 2004.
-# 
-# 
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+#
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: punlinux\n"
+"Project-Id-Version: pa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2004-03-16 09:41+0530\n"
-"Last-Translator: jaswinder singh <jaswinderlinux@netscape.net>\n"
-"Language-Team: KBST Punjab <kbstpunjab@netscape.net>\n"
+"POT-Creation-Date: 2004-08-21 11:50+0200\n"
+"PO-Revision-Date: 2004-08-21 16:13+0530\n"
+"Last-Translator: Amanpreet Singh Alam <aalam@redhat.com>\n"
+"Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -80,6 +84,14 @@ msgstr "ਮੂਲ ਪ੍ਰਸ਼ਨ"
 msgid "Smooth gradients with teal highlights"
 msgstr "teal highlights ਨਾਲ ਮੁਲਾਇਮ ਢਾਲ ਦਾ ਦਰਜਾ"
 
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr "ਗਲਾਇਡਰ"
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr "ਸਧਾਰਨ, ਹਲਕਾ ਅਤੇ ਸਹਿਜ ਖੁਸ਼ਨੁਮਾ"
+
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
 msgstr "ਮਿਟੀ ਵਰਗੀ ਸੰਤਰੀ ਦਿਖ"
@@ -143,3 +155,4 @@ msgstr "ਧੂੰਏ ਵਰਗਾ ਨੀਲਾ"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "ਧੂੰਏ ਵਰਗਾ ਲਾਲ"
+
