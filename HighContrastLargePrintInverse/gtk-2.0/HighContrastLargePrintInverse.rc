@@ -10,12 +10,8 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
 
 gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
 
-gtk-font-name = "@LARGEPRINT_FONT@"
-
 style "default"
 {
-  font_name = "@LARGEPRINT_FONT@"
-
   GtkWidget::focus-line-pattern = "\10\2"
   GtkWidget::focus-line-width = 3
   GtkHSV::focus-line-pattern = "\0"

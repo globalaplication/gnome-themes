@@ -15,5 +15,9 @@ config.guess
 config.sub
 ltmain.sh
 stamp-h
-autom4te.cache
 libgtkhtml-2.0.pc
+intltool-extract
+intltool-merge
+intltool-update
+stamp-h1
+autom4te-2.53.cache

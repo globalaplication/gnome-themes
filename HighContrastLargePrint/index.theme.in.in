@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+_Name=High Contrast Large
+_Comment=Large print, high contrast theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=HighContrast
+IconTheme=HighContrast
+MetacityTheme=Atlanta
+ApplicationFont=@LARGEPRINT_FONT@
+

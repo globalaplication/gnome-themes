@@ -1,4 +1,3 @@
 Makefile
 Makefile.in
-gtkrc
-gtkrc.in
+index.theme
