@@ -7,7 +7,35 @@ AM_INIT_AUTOMAKE(gnome-themes, 0.1)
 
 AM_MAINTAINER_MODE
 
+### Icon sizes for all large print themes
+
+LARGEPRINT_DND="48,48"
+LARGEPRINT_MENU="32,32"
+LARGEPRINT_PANEL_MENU="48,48"
+LARGEPRINT_LARGE_TOOLBAR="48,48"
+LARGEPRINT_SMALL_TOOLBAR="32,32"
+LARGEPRINT_BUTTON="32,32"
+LARGEPRINT_DIALOG="64,64"
+
+LARGEPRINT_ICON_SIZES="gtk-dnd=$LARGEPRINT_DND:gtk-menu=$LARGEPRINT_MENU:panel-menu=$LARGEPRINT_PANEL_MENU:gtk-large-toolbar=$LARGEPRINT_LARGE_TOOLBAR:gtk-small-toolbar=$LARGEPRINT_SMALL_TOOLBAR:gtk-button=$LARGEPRINT_BUTTON:gtk-dialog=$LARGEPRINT_DIALOG"
+
+LARGEPRINT_FONT="sans 18"
+
+### Generate gtkrc.in and Makefile.in for each theme
+
+for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse HighContrastLargePrintInverse LowContrast LowContrastLargePrint;  do
+	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
+
+done
+
+for theme in LargePrint HighContrastLargePrint HighContrastLargePrintInverse LowContrastLargePrint; do
+	cat common/all-stock-icons.data $theme/pixmaps/$theme.makefile > $theme/pixmaps/Makefile.am
+
+done
+
 AC_SUBST(prefix)
+AC_SUBST(LARGEPRINT_ICON_SIZES)
+AC_SUBST(LARGEPRINT_FONT)
 
 AC_OUTPUT([
 Makefile
@@ -52,7 +80,6 @@ LowContrastLargePrint/icons/48x48/apps/Makefile
 LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc
-LowContrast/pixmaps/Makefile
 LowContrast/icons/Makefile
 LowContrast/icons/48x48/Makefile
 LowContrast/icons/48x48/apps/Makefile
