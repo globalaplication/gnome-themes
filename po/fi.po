@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-19 00:44+0200\n"
+"POT-Creation-Date: 2003-01-26 00:26+0200\n"
+"PO-Revision-Date: 2003-01-26 00:16+0200\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team <gnome-fi-laatu@lists."
 "sourceforge.net>\n"
@@ -74,72 +74,72 @@ msgstr "Pieni kontrasti (suurikokoinen)"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "Pehmeät väriliukumat sinivihreillä korostuksilla"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "Kevyt ulkonäkö, korkea suorituskyky"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Minimalistinen ulkonäkö"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr ""
+msgstr "Mist"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Ocean Dream"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Merenrannan värit"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "Pelkistetty"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Pehmeän lasimainen ulkonäkö"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Smokey Blue"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Flat-Blue"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Sandy"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Smokey-Blue"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Smokey-Red"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "Gnomen oletusteema"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "Gnome"
