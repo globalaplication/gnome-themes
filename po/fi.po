@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-18 00:11+0200\n"
-"PO-Revision-Date: 2003-01-18 00:20+0200\n"
+"POT-Creation-Date: 2003-01-19 00:41+0200\n"
+"PO-Revision-Date: 2003-01-19 00:44+0200\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team "
 "<gnome-fi-laatu@lists.sourceforge.net>\n"
@@ -22,11 +22,11 @@ msgstr "Musta teksti ja kuvakkeet valkoisella taustalla"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Korkea kontrasti"
+msgstr "Suuri kontrasti"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Korkea kontrasti (käänteinen)"
+msgstr "Suuri kontrasti (käänteinen)"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -34,7 +34,7 @@ msgstr "Valkoinen teksti ja kuvakkeet mustalla taustalla"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large"
-msgstr "Korkea kontrasti (suuri)"
+msgstr "Suuri kontrasti (suuri)"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -42,7 +42,7 @@ msgstr "Suurikokoinen musta teksti ja kuvakkeet valkoisella taustalla"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Korkea kontrasti suurikokoisena (käänteinen)"
+msgstr "Suuri kontrasti suurikokoisena (käänteinen)"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -58,7 +58,7 @@ msgstr "Suurikokoinen teksti ja kuvakkeet"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Matala kontrasti"
+msgstr "Pieni kontrasti"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -70,5 +70,5 @@ msgstr "Suurikokoinen himmeä teksti ja kuvakkeet"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Matala kontrasti (suurikokoinen)"
+msgstr "Pieni kontrasti (suurikokoinen)"
 
