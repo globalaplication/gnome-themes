@@ -1,5 +1,6 @@
-HighContrast/index.theme.in
-HighContrastInverse/index.theme.in
-HighContrastLargePrint/index.theme.in
-HighContrastLargePrintInverse/index.theme.in
-LargePrint/index.theme.in
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+[type: gettext/ini] HighContrast/index.theme.in
+[type: gettext/ini] HighContrast/index.theme.in
+[type: gettext/ini] HighContrastInverse/index.theme.in
+[type: gettext/ini] HighContrastInverse/index.theme.in

@@ -1,5 +1,12 @@
+2002-11-25  Christian Rose  <menthos@menthos.com>
+
+	* .cvsignore: Added more entries.
+	* POTFILES.in: Added xgettext hints.
+	* sv.po: Added Swedish translation.
+
 2002-11-25  Calum Benson  <calum.benson@sun.com>
 
 	Added ChangeLog so the blinking thing will compile :)
 
 	* ChangeLog: added
+
