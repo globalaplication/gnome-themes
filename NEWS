@@ -1,9 +1,33 @@
+2.10.0
+======
+
+Bump version number for 2.10 release; no code changes.
+
+
+2.9.95
+======
+
+Fixes:
+        2005-03-03  Elijah Newren  <newren@gmail.com>
+        Add these files (they used to be named gnome-clock.png, but got
+        lost from cvs when doing the rename).  Fixes #168905.
+
+New/updated translations:
+
+        2005-03-03  Abel Cheung  <maddog@linuxhall.org>
+        * zh_TW.po: Updated traditional Chinese translation from GNOME HK Team
+
 2.9.94
 ======
 
 Fixes:
 	Remove different-coloured buttons from Simple theme, which
 	were intended for the default gtk+ theme.
+
+2.9.93
+======
+
+Forgot to release this one :/
 
 2.9.92
 ======
