@@ -1,5 +1,33 @@
 2002-11-22  Calum Benson  <calum.benson@sun.com>
 
+	Added printman icons.  Not integrated into theme files yet
+	as required work hasn't been done on application.
+
+	* HighContrastLargePrint/pixmaps/printer-broken.png:
+	* HighContrastLargePrint/pixmaps/printer-default.png:
+	* HighContrastLargePrint/pixmaps/printer-inkjet.png:
+	* HighContrastLargePrint/pixmaps/printer-personal-laser.png:
+	* HighContrastLargePrint/pixmaps/printer-workgroup-laser.png:
+	* HighContrastLargePrintInverse/pixmaps/printer-broken.png:
+	* HighContrastLargePrintInverse/pixmaps/printer-default.png:
+	* HighContrastLargePrintInverse/pixmaps/printer-inkjet.png:
+	* HighContrastLargePrintInverse/pixmaps/printer-personal-laser.png:
+	* HighContrastLargePrintInverse/pixmaps/printer-workgroup-laser.png
+	:
+	* LargePrint/pixmaps/printer-broken.png:
+	* LargePrint/pixmaps/printer-default.png:
+	* LargePrint/pixmaps/printer-inkjet.png:
+	* LargePrint/pixmaps/printer-personal-laser.png:
+	* LargePrint/pixmaps/printer-workgroup-laser.png:
+	* LowContrastLargePrint/pixmaps/printer-broken.png:
+	* LowContrastLargePrint/pixmaps/printer-default.png:
+	* LowContrastLargePrint/pixmaps/printer-inkjet.png:
+	* LowContrastLargePrint/pixmaps/printer-personal-laser.png:
+	* LowContrastLargePrint/pixmaps/printer-workgroup-laser.png:
+	* common/all-stock-icons.data:
+
+2002-11-22  Calum Benson  <calum.benson@sun.com>
+
 	New mimetype icons from Suzanna.
 
 	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-compressed.png
