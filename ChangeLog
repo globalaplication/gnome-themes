@@ -1,3 +1,10 @@
+2003-09-16  Calum Benson  <calum.benson@sun.com>
+
+	* gtk-themes/Grand-Canyon/gtkrc:
+	
+	Fix inverted checkbox states (#109208, patch
+	from guillaume.melquiond@ens-lyon.fr)
+
 2003-09-08  Calum Benson <calum.benson@sun.com>
 
 	* configure.in: Bumped revision for 2.4.0 tarball.
