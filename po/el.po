@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-09-06 12:12+0300\n"
+"POT-Creation-Date: 2004-09-13 13:42+0100\n"
 "PO-Revision-Date: 2004-09-06 12:13+0300\n"
 "Last-Translator: Kostas Papadimas <pkst@gnome.org>\n"
 "Language-Team:  <nls@tux.hellug.gr>\n"
@@ -156,4 +156,3 @@ msgstr "Smokey-Blue"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
-

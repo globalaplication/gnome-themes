@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
+"POT-Creation-Date: 2004-09-13 13:42+0100\n"
 "PO-Revision-Date: 2003-08-20 06:42+0300\n"
 "Last-Translator: Tomas Kuliavas <tokul@users.sourceforge.net>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
@@ -77,6 +77,14 @@ msgstr "Crux"
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
 msgstr "Persiliejančios spalvos su teal akcentais"
+
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr ""
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr ""
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"

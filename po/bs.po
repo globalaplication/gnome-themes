@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-07-27 19:48+0200\n"
+"POT-Creation-Date: 2004-09-13 13:42+0100\n"
 "PO-Revision-Date: 2004-07-28 03:11+0200\n"
 "Last-Translator: Kemal Sanjta <gomez@lugzdk.ba>\n"
 "Language-Team: Bosnian <+>\n"
@@ -80,6 +80,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Blagi nagib sa blagim posvjetljenjem"
 
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr ""
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr ""
+
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
 msgstr "Dusty orange izgled"
@@ -143,4 +151,3 @@ msgstr "Smokey-Plava"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-Crvena"
-

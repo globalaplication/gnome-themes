@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2004-09-06 21:53+0100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-09-13 13:42+0100\n"
 "PO-Revision-Date: 2004-09-06 21:53+0100\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: \n"
@@ -70,8 +71,7 @@ msgstr "Large muted text and icons"
 msgid "Low Contrast Large Print"
 msgstr "Low Contrast Large Print"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
 
@@ -150,4 +150,3 @@ msgstr "Smokey-Blue"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
-
