@@ -12,6 +12,32 @@
 	* gorilla/gtk-2.0/stock_mic.svg:
 	* gorilla/gtk-2.0/stock_ok.svg:
 	* gorilla/gtk-2.0/stock_volume.svg: SVG stock
+
+	* gorilla/gtk-2.0/stock_add.svg:
+	* gorilla/gtk-2.0/stock_bold.svg:
+	* gorilla/gtk-2.0/stock_cancel.svg:
+	* gorilla/gtk-2.0/stock_cdrom.svg:
+	* gorilla/gtk-2.0/stock_clear.svg:
+	* gorilla/gtk-2.0/stock_close.svg:
+	* gorilla/gtk-2.0/stock_convert.svg:
+	* gorilla/gtk-2.0/stock_copy.svg:
+	* gorilla/gtk-2.0/stock_cut.svg:
+	* gorilla/gtk-2.0/stock_delete.svg:
+	* gorilla/gtk-2.0/stock_dialog_warning.svg:
+	* gorilla/gtk-2.0/stock_dnd.svg:
+	* gorilla/gtk-2.0/stock_dnd_multiple.svg:
+	* gorilla/gtk-2.0/stock_execute.svg:
+	* gorilla/gtk-2.0/stock_find-and-replace.svg:
+	* gorilla/gtk-2.0/stock_find.svg:
+	* gorilla/gtk-2.0/stock_floppy.svg:
+	* gorilla/gtk-2.0/stock_go-back.svg:
+	* gorilla/gtk-2.0/stock_go-down.svg:
+	* gorilla/gtk-2.0/stock_go-forward.svg:
+	* gorilla/gtk-2.0/stock_go-up.svg:
+	* gorilla/gtk-2.0/stock_goto-bottom.svg:
+	* gorilla/gtk-2.0/stock_goto-first.svg:
+	* gorilla/gtk-2.0/stock_goto-last.svg:
+	* gorilla/gtk-2.0/stock_goto-top.svg: phew, can't sleep
 	
 2003-01-13  Jakub Steiner <jimmac@ximian.com>
 
