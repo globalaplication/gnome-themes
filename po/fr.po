@@ -1,15 +1,16 @@
 # French Tranlation of gnome-themes.
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Copyright (C) 2002-2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Baptiste Mille-Mathias <bmm80@ifrance.com>, 2002.
 # Christophe Fergeau <teuf@users.sourceforge.net>, 2003.
+# Christophe Merlet (RedFox) <redfox@redfoxcenter.org>, 2003.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 0.4\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-25 14:45+0100\n"
-"Last-Translator: Christophe Fergeau <teuf@users.sourceforge.net>\n"
+"Project-Id-Version: gnome-themes 1.0\n"
+"POT-Creation-Date: 2003-01-26 21:47+0100\n"
+"PO-Revision-Date: 2003-01-26 21:45+0100\n"
+"Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -113,7 +114,7 @@ msgstr "Apparence 3D traditionnelle"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Une douce apparence glacée"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
