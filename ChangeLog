@@ -1,3 +1,17 @@
+2004-06-01  Calum Benson  <calum.benson@sun.com>
+
+	Add themed JDS menu stripe and generic high contrast icons
+	for a bunch of applications.
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-application-generic
+	.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-folder-generic.png: add
+	* HighContrastLargePrint/icons/48x48/apps/mozilla-icon.png: add
+	* HighContrastLargePrint/icons/48x48/apps/symlinks.dat: add
+
 2004-05-31  Dinesh Nadarajah <dinesh_list@sbcglobal.net>
 
         * ta.po: Added/Updated Tamil Translation.
