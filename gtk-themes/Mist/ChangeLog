@@ -1,5 +1,11 @@
 2003-12-13  Dave Camp  <dave@ximian.com>
 
+	* src/mist-style.c: (set_transparency), (scale_or_ref),
+	(render_icon), (mist_style_class_init): Render insensitive icons
+	with transparency and desaturation, and without pixelization.
+
+2003-12-13  Dave Camp  <dave@ximian.com>
+
 	* Theme/gtkrc: Lightened fg[INSENSITIVE] a bit.
 	* src/mist-style.c: (get_shadow_type), (draw_box): Fixed up
 	spin buttons a bit.
