@@ -74,3 +74,255 @@ msgstr "Stor text med låg kontrast"
 
 #~ msgid "High Contrast Large Print"
 #~ msgstr "Stor text med hög kontrast"
+
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+msgid "Crux"
+msgstr "Crux"
+
+#: desktop-themes/Crux/index.theme.in.h:2
+msgid "Smooth gradients with teal highlights"
+msgstr "Mjuka gradienter med blågröna framtoningar"
+
+#: desktop-themes/Default/index.theme.in.h:1
+msgid "Default"
+msgstr "Standard"
+
+#: desktop-themes/Default/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Tunnt utseende, hög prestanda"
+
+#: desktop-themes/Mist/index.theme.in.h:1
+msgid "A minimalistic appearance"
+msgstr "Minimalistiskt utseende"
+
+#: desktop-themes/Mist/index.theme.in.h:2
+msgid "Mist"
+msgstr "Dimma"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:1
+msgid "Ocean Dream"
+msgstr "Havsdröm"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+msgid "The colours of the seashore"
+msgstr "Kustens färger"
+
+#: desktop-themes/Plain/index.theme.in.h:1
+msgid "Plain"
+msgstr "Enkel"
+
+#: desktop-themes/Plain/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Traditionellt hårdkantat 3D-utseende"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:1
+msgid "A soft glassy appearance"
+msgstr "Ett mjukt glaslikt utseende"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+msgid "Smokey Blue"
+msgstr "Rökig blå"
+
+#: gtk-themes/Crux/src/test.glade.h:2
+#, no-c-format
+msgid "%P %%"
+msgstr "%P %%"
+
+#: gtk-themes/Crux/src/test.glade.h:3
+msgid "Bar"
+msgstr "Apa"
+
+#: gtk-themes/Crux/src/test.glade.h:4
+msgid "Foo"
+msgstr "Apa"
+
+#: gtk-themes/Crux/src/test.glade.h:5
+msgid "New"
+msgstr "Ny"
+
+#: gtk-themes/Crux/src/test.glade.h:6
+msgid "New File"
+msgstr "Ny fil"
+
+#: gtk-themes/Crux/src/test.glade.h:7
+msgid "Open"
+msgstr "Öppna"
+
+#: gtk-themes/Crux/src/test.glade.h:8
+msgid "Open File"
+msgstr "Öppna fil"
+
+#: gtk-themes/Crux/src/test.glade.h:9
+msgid "Pick a color"
+msgstr "Välj en färg"
+
+#: gtk-themes/Crux/src/test.glade.h:10
+msgid "Project1"
+msgstr "Projekt1"
+
+#: gtk-themes/Crux/src/test.glade.h:11
+msgid "Radio 1"
+msgstr "Radio 1"
+
+#: gtk-themes/Crux/src/test.glade.h:12
+msgid "Radio 2"
+msgstr "Radio 2"
+
+#: gtk-themes/Crux/src/test.glade.h:13
+msgid "Radio 3"
+msgstr "Radio 3"
+
+#: gtk-themes/Crux/src/test.glade.h:14
+msgid "Sample Button"
+msgstr "Exempelknapp"
+
+#: gtk-themes/Crux/src/test.glade.h:15
+msgid "Sample check button"
+msgstr "Exempelkryssruta"
+
+#: gtk-themes/Crux/src/test.glade.h:16
+msgid "Save"
+msgstr "Spara"
+
+#: gtk-themes/Crux/src/test.glade.h:17
+msgid "Save File"
+msgstr "Spara fil"
+
+#: gtk-themes/Crux/src/test.glade.h:18
+msgid "Sub 1"
+msgstr "Under 1"
+
+#: gtk-themes/Crux/src/test.glade.h:19
+msgid "Sub 2"
+msgstr "Under 2"
+
+#: gtk-themes/Crux/src/test.glade.h:20
+msgid "Test one"
+msgstr "Test ett"
+
+#: gtk-themes/Crux/src/test.glade.h:21
+msgid "Test three"
+msgstr "Test tre"
+
+#: gtk-themes/Crux/src/test.glade.h:22
+msgid "Test two"
+msgstr "Test två"
+
+#: gtk-themes/Crux/src/test.glade.h:23
+msgid "Text entry field"
+msgstr "Textinmatningsfält"
+
+#: gtk-themes/Crux/src/test.glade.h:24
+msgid "This is a test."
+msgstr "Detta är ett test."
+
+#: gtk-themes/Crux/src/test.glade.h:25
+msgid "_New File"
+msgstr "_Ny fil"
+
+#: gtk-themes/Crux/src/test.glade.h:26
+msgid "button2"
+msgstr "button2"
+
+#: gtk-themes/Crux/src/test.glade.h:27
+msgid "button3"
+msgstr "button3"
+
+#: gtk-themes/Crux/src/test.glade.h:28
+msgid "button4"
+msgstr "button4"
+
+#: gtk-themes/Crux/src/test.glade.h:29
+msgid "gtk-ok"
+msgstr "gtk-ok"
+
+#: gtk-themes/Crux/src/test.glade.h:30
+msgid "radiobutton1"
+msgstr "radioknapp1"
+
+#: gtk-themes/Crux/src/test.glade.h:31
+msgid "radiobutton2"
+msgstr "radioknapp2"
+
+#: gtk-themes/Crux/src/test.glade.h:32
+msgid "toggle"
+msgstr "växla"
+
+#: gtk-themes/Crux/src/test.glade.h:33
+msgid "www.eazel.com"
+msgstr "www.eazel.com"
+
+#: icon-themes/Flat-Blue/index.theme.in.h:1
+msgid "Flat-Blue"
+msgstr "Platt-blå"
+
+#: icon-themes/Sandy/index.theme.in.h:1
+msgid "Sandy"
+msgstr "Sandig"
+
+#: icon-themes/Smokey-Blue/index.theme.in.h:1
+msgid "Smokey-Blue"
+msgstr "Rökig-blå"
+
+#: icon-themes/Smokey-Red/index.theme.in.h:1
+msgid "Smokey-Red"
+msgstr "Rökig-röd"
+
+#: icon-themes/gnome/index.theme.in.h:1
+msgid "Default Gnome Theme"
+msgstr "Gnome-standardtema"
+
+#: icon-themes/gnome/index.theme.in.h:2
+msgid "Gnome"
+msgstr "Gnome"
+
+#~ msgid "Default GNOME Theme"
+#~ msgstr "GNOME-standardtema"
+
+#~ msgid "GNOME"
+#~ msgstr "GNOME"
+
+#~ msgid "Black-on-white text and icons"
+#~ msgstr "Svart text och ikoner på vit botten"
+
+#~ msgid "High Contrast"
+#~ msgstr "Hög kontrast"
+
+#~ msgid "High Contrast Inverse"
+#~ msgstr "Inverterad hög kontrast"
+
+#~ msgid "White-on-black text and icons"
+#~ msgstr "Vit text och ikoner på svart botten"
+
+#~ msgid "High Contrast Large"
+#~ msgstr "Stor text med hög kontrast"
+
+#~ msgid "Large black-on-white text and icons"
+#~ msgstr "Stor svart text och ikoner på vit botten"
+
+#~ msgid "High Contrast Large Print Inverse"
+#~ msgstr "Inverterad stor text med hög kontrast"
+
+#~ msgid "Large white-on-black text and icons"
+#~ msgstr "Stor vit text och ikoner på svart botten"
+
+#~ msgid "Large Print"
+#~ msgstr "Stor text"
+
+#~ msgid "Large text and icons"
+#~ msgstr "Stor text och ikoner"
+
+#~ msgid "Low Contrast"
+#~ msgstr "Låg kontrast"
+
+#~ msgid "Muted text and icons"
+#~ msgstr "Dämpad text och ikoner"
+
+#~ msgid "Large muted text and icons"
+#~ msgstr "Stor dämpad text och ikoner"
+
+#~ msgid "Low Contrast Large Print"
+#~ msgstr "Stor text med låg kontrast"
+
+#~ msgid "High Contrast Large Print"
+#~ msgstr "Stor text med hög kontrast"

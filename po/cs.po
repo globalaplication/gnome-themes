@@ -69,3 +69,205 @@ msgstr "Velký méně kontrastní text a ikony"
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "Nízký kontrast velké písmo"
+
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+msgid "Crux"
+msgstr "Crux"
+
+#: desktop-themes/Crux/index.theme.in.h:2
+msgid "Smooth gradients with teal highlights"
+msgstr "Hladké přechody se zelenomodrým zvýrazněním"
+
+#: desktop-themes/Default/index.theme.in.h:1
+msgid "Default"
+msgstr "Výchozí"
+
+#: desktop-themes/Default/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Tenký vzhled, vysoký výkon"
+
+#: desktop-themes/Mist/index.theme.in.h:1
+msgid "A minimalistic appearance"
+msgstr "Minimalistický vzhled"
+
+#: desktop-themes/Mist/index.theme.in.h:2
+msgid "Mist"
+msgstr "Mlha"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:1
+msgid "Ocean Dream"
+msgstr "Mořský sen"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+msgid "The colours of the seashore"
+msgstr "Barvy mořské pláže"
+
+#: desktop-themes/Plain/index.theme.in.h:1
+msgid "Plain"
+msgstr "Jednoduché"
+
+#: desktop-themes/Plain/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Tradiční trojrozměrný vzhled s ostrými hranami"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:1
+msgid "A soft glassy appearance"
+msgstr "Něžný skelnatý vzhled"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+msgid "Smokey Blue"
+msgstr "Kouřová modrá"
+
+#: gtk-themes/Crux/src/test.glade.h:2
+#, no-c-format
+msgid "%P %%"
+msgstr "%P %%"
+
+#: gtk-themes/Crux/src/test.glade.h:3
+msgid "Bar"
+msgstr "Bar"
+
+#: gtk-themes/Crux/src/test.glade.h:4
+msgid "Foo"
+msgstr "Foo"
+
+#: gtk-themes/Crux/src/test.glade.h:5
+msgid "New"
+msgstr "Nový"
+
+#: gtk-themes/Crux/src/test.glade.h:6
+msgid "New File"
+msgstr "Nový soubor"
+
+#: gtk-themes/Crux/src/test.glade.h:7
+msgid "Open"
+msgstr "Otevřít"
+
+#: gtk-themes/Crux/src/test.glade.h:8
+msgid "Open File"
+msgstr "Otevřít soubor"
+
+#: gtk-themes/Crux/src/test.glade.h:9
+msgid "Pick a color"
+msgstr "Vyberte barvu"
+
+#: gtk-themes/Crux/src/test.glade.h:10
+msgid "Project1"
+msgstr "Projekt1"
+
+#: gtk-themes/Crux/src/test.glade.h:11
+msgid "Radio 1"
+msgstr "Radio 1"
+
+#: gtk-themes/Crux/src/test.glade.h:12
+msgid "Radio 2"
+msgstr "Radio 2"
+
+#: gtk-themes/Crux/src/test.glade.h:13
+msgid "Radio 3"
+msgstr "Radio 3"
+
+#: gtk-themes/Crux/src/test.glade.h:14
+msgid "Sample Button"
+msgstr "Vzorové tlačítko"
+
+#: gtk-themes/Crux/src/test.glade.h:15
+msgid "Sample check button"
+msgstr "Vzorové zaškrtávací tlačítko"
+
+#: gtk-themes/Crux/src/test.glade.h:16
+msgid "Save"
+msgstr "Uložit"
+
+#: gtk-themes/Crux/src/test.glade.h:17
+msgid "Save File"
+msgstr "Uložit soubor"
+
+#: gtk-themes/Crux/src/test.glade.h:18
+msgid "Sub 1"
+msgstr "Pod 1"
+
+#: gtk-themes/Crux/src/test.glade.h:19
+msgid "Sub 2"
+msgstr "Pod 2"
+
+#: gtk-themes/Crux/src/test.glade.h:20
+msgid "Test one"
+msgstr "Test jedna"
+
+#: gtk-themes/Crux/src/test.glade.h:21
+msgid "Test three"
+msgstr "Test tři"
+
+#: gtk-themes/Crux/src/test.glade.h:22
+msgid "Test two"
+msgstr "Test dvě"
+
+#: gtk-themes/Crux/src/test.glade.h:23
+msgid "Text entry field"
+msgstr "Textové vstupní pole"
+
+#: gtk-themes/Crux/src/test.glade.h:24
+msgid "This is a test."
+msgstr "Toto je test."
+
+#: gtk-themes/Crux/src/test.glade.h:25
+msgid "_New File"
+msgstr "_Nový soubor"
+
+#: gtk-themes/Crux/src/test.glade.h:26
+msgid "button2"
+msgstr "tlačítko2"
+
+#: gtk-themes/Crux/src/test.glade.h:27
+msgid "button3"
+msgstr "tlačítko3"
+
+#: gtk-themes/Crux/src/test.glade.h:28
+msgid "button4"
+msgstr "tlačítko4"
+
+#: gtk-themes/Crux/src/test.glade.h:29
+msgid "gtk-ok"
+msgstr "gtk-ok"
+
+#: gtk-themes/Crux/src/test.glade.h:30
+msgid "radiobutton1"
+msgstr "radiotlačítko1"
+
+#: gtk-themes/Crux/src/test.glade.h:31
+msgid "radiobutton2"
+msgstr "radiotlačítko2"
+
+#: gtk-themes/Crux/src/test.glade.h:32
+msgid "toggle"
+msgstr "přepínač"
+
+#: gtk-themes/Crux/src/test.glade.h:33
+msgid "www.eazel.com"
+msgstr "www.eazel.com"
+
+#: icon-themes/Flat-Blue/index.theme.in.h:1
+msgid "Flat-Blue"
+msgstr "Hladká modrá"
+
+#: icon-themes/Sandy/index.theme.in.h:1
+msgid "Sandy"
+msgstr "Písečné"
+
+#: icon-themes/Smokey-Blue/index.theme.in.h:1
+msgid "Smokey-Blue"
+msgstr "Kouřová modrá"
+
+#: icon-themes/Smokey-Red/index.theme.in.h:1
+msgid "Smokey-Red"
+msgstr "Kouřová červená"
+
+#: icon-themes/gnome/index.theme.in.h:1
+msgid "Default Gnome Theme"
+msgstr "Výchozí téma GNOME"
+
+#: icon-themes/gnome/index.theme.in.h:2
+msgid "Gnome"
+msgstr "GNOME"
+

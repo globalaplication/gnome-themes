@@ -1,3 +1,15 @@
+2003-01-23  Seth Nickell  <snickell@stanford.edu>
+
+	* POTFILES.in:
+	* POTFILES.skip:
+	* cs.po:
+	* es.po:
+	* no.po:
+	* sv.po:
+
+	I hope I didn't break anything :/ Tried to merge in the
+	translations from gnome-desktop-themes.
+	
 2003-01-23  Stanislav Visnovsky  <visnovsky@nenya.ms.mff.cuni.cz>
 
 	* sk.po: Added Slovak translation.
