@@ -6,8 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.2.1\n"
-"POT-Creation-Date: 2003-03-14 14:25+0900\n"
-"PO-Revision-Date: 2003-03-14 05:30+0900\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-08-24 00:18+0900\n"
+"PO-Revision-Date: 2003-08-24 00:18+0900\n"
 "Last-Translator: Young-Ho, Cha <ganadist@mizi.com>\n"
 "Language-Team: GTP Korean <gnome-kr-translation@gnome.or.kr>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +32,7 @@ msgid "White-on-black text and icons"
 msgstr "검은 바탕에 흰 글씨와 아이콘"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+msgid "High Contrast Large Print"
 msgstr "고대비 확대"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
@@ -141,15 +142,3 @@ msgstr "푸르스름"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "붉으스름"
-
-#~ msgid "Default"
-#~ msgstr "기본 테마"
-
-#~ msgid "Plain"
-#~ msgstr "단순"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "기본 그놈 테마"
-
-#~ msgid "Gnome"
-#~ msgstr "그놈"
