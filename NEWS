@@ -3,6 +3,7 @@
 
 Bugfixes:
 - Fix issues reported by sparse/gcc (Kjartan Maraas, bug #150348)
+- Use gnome-autogen.sh (Fernando Herrera, bug #143918)
 
 2.7.91
 =======
