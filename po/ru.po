@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-31 08:31+0300\n"
+"POT-Creation-Date: 2003-02-03 20:20+0000\n"
 "PO-Revision-Date: 2003-01-31 08:35+0300\n"
 "Last-Translator: Dmitry G. Mastrukov <dmitry@taurussoft.org>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
@@ -142,4 +142,3 @@ msgstr "Дымчато-голубая"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Дымчато-красная"
-

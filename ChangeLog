@@ -1,3 +1,19 @@
+2003-02-03  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrint/icons/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+	* README:
+	* configure.in:
+	* gtk-themes/Simple/gtkrc:
+
+	As per Bill's request, move the non-core a11y themes' 
+	index.theme files aside after installation unless the
+	build has been configured with --enable-all-themes.
+	Remove dependency on thinice engine from Simple theme.
+
 2003-02-01  Duarte Loreto <happyguy_pt@hotmail.com>
 
         * configure.in: Added "pt" to ALL_LINGUAS.
