@@ -1,4 +1,4 @@
-SUBDIRS=	po common HighContrast LargePrint LowContrastLargePrint \
+SUBDIRS=	common HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
 		HighContrastLargePrintInverse HighContrastInverse
 
