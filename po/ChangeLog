@@ -1,3 +1,7 @@
+2003-01-13  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
+
+	* es.po: Updated Spanish translation. 
+
 2003-01-12  Christian Neumair  <chris@gnome-de.org>
 
 	* POTFILES.skip: Added, contains all theme.in files which are generated
