@@ -14,6 +14,8 @@ icon_DATA=	\
 		gdict.png \
                 gedit-icon.png \
                 gkb.png \
+		gnome-application-generic.png \
+		gnome-folder-generic.png \
                 gnome-applications.png \
                 gnome-audio2.png \
                 gnome-calc3.png \
@@ -63,8 +65,21 @@ icon_DATA=	\
                 gnome-workspace.png \
                 gucharmap.png \
                 launcher-program.png \
+		mozilla-icon.png \
                 perfmeter.png \
                 window-capplet.png \
 		$(NULL)
 
-EXTRA_DIST=	$(icon_DATA)
+EXTRA_DIST=	$(icon_DATA) \
+		symlinks.dat
+
+install: install-am
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
+ 
+uninstall-symlinks:
+	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
+		if test -h $(DESTDIR)$(icondir)/$$p; then \
+			rm -f $(DESTDIR)$(icondir)/$$p; \
+		fi; \
+	done
+uninstall-am: uninstall-iconDATA uninstall-symlinks

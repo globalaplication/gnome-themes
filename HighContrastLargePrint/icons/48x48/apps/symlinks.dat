@@ -1,0 +1,7 @@
+# NO BLANK LINES ALLOWED
+#
+gnome-application-generic.png: gok.png gnopernicus.png jDictionary.png jEdit.png jGraphPad.png gthumb.png gnome-pdf.png postscript-viewer.png sun_java.png glow.png gaim.png gnomemeeting-logo-icon.png gtkam-camera.png jmplay.48.png media-player-48.png realplayer.xpm gnome-planner.png glade-2.png gdm.png gnome-other.png gconf-editor.png jDiskReport.png procman.png
+#
+gnome-application-generic.png: evolution-1.4.png staroffice-writer.png star.png staroffice-impress.png staroffice-calc.png 
+#
+gnome-folder-generic.png: gnome-applications.png gnome-settings.png administration.png
