@@ -1,3 +1,9 @@
+Mon Mar  8 17:09:41 2004  Jonathan Blandford  <jrb@redhat.com>
+
+	* src/crux-draw.c (draw_extension): Language Lawyer patch from
+	Jeff Law: "A compound statement must end with a statement, even if
+	it's an empty statement."
+
 2004-02-12  Dan Williams <dcbw@redhat.com
 
 	* src/crux-draw.c

@@ -2129,6 +2129,7 @@ draw_extension (GtkStyle *style,
 	    break;
 
 	default:			/* gcc drugging */
+	  ;
 	}
 	paint_background_area (style, window, state_type, area,
 			       x, y, width, height);
