@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/SmoothGNOME/gtk-2.0
+themedir = $(datadir)/themes/SimplySmooth/gtk-2.0
 
 theme_DATA = gtkrc iconrc 
 #	stock_apply.png stock_bottom.png \

@@ -1,5 +1,14 @@
 2004-07-27  Calum Benson  <calum.benson@sun.com>
 
+	Fix up some brokenness in the SimplySmooth theme addition.
+
+	* desktop-themes/SimplySmooth/Makefile.am:
+	* desktop-themes/SimplySmooth/index.theme:
+	* gtk-themes/SimplySmooth/Makefile.am:
+	* gtk-themes/SimplySmooth/gtkrc:
+
+2004-07-27  Calum Benson  <calum.benson@sun.com>
+
 	Add the SmoothGNOME theme, now called SimplySmooth
 	(for now at least).  Note: haven't yet added the
 	icon theme part, pending discussions on desktop-devel.
