@@ -24,8 +24,10 @@ style "default"
         text[SELECTED]          = "#FFFFFF"
         text[INSENSITIVE]       = "#555555"
 
-	GtkRange::slider_width = 11
-	GtkRange::stepper_size = 11
+	GtkRange::trough_border = 0
+	GtkRange::slider_width = 15
+	GtkRange::stepper_size = 15
+
 	GtkScrollbar::min_slider_length = 15
 	GtkCheckButton::indicator_size=10
 	GtkRadioButton::indicator_size=12

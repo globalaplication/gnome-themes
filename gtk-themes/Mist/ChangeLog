@@ -1,3 +1,10 @@
+2003-03-08  Dave Camp  <dave@ximian.com>
+
+	* Theme/gtkrc:
+	* src/mist-style.c: (draw_shadow), (draw_box), (draw_arrow): Updated
+	to handle and use GtkRange::trough_border, made the scrollbars a 
+	bit wider.  This also fixes the gorilla theme's scrollbars.
+
 2002-11-11  Dave Camp  <dave@ximian.com>
 
 	* Started one of these things.

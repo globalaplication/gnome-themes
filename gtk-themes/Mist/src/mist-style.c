@@ -409,36 +409,7 @@ draw_shadow(GtkStyle *style,
 		gdk_window_get_size (window, &entry_width, &entry_height);
 		if (entry_width != width || entry_height != height)
 			return;
-	}
-	
-#ifndef GTK1
-	/* Make sure stepper and slider outlines "overlap" - taken from
-	 * bluecurve */
-	if (DETAIL("slider") && widget && GTK_IS_RANGE (widget)) {
-		GtkAdjustment *adj = GTK_RANGE (widget)->adjustment;
-		if (adj->value <= adj->lower &&
-		    (GTK_RANGE (widget)->has_stepper_a ||
-		     GTK_RANGE (widget)->has_stepper_b)) {
-			if (GTK_IS_VSCROLLBAR (widget)) {
-				height += 1;
-				y -= 1;
-			} else if (GTK_IS_HSCROLLBAR (widget)) {
-				width += 1;
-				x -= 1;
-			}
-		}
-		
-		if (adj->value >= adj->upper - adj->page_size &&
-		    (GTK_RANGE (widget)->has_stepper_c ||
-		     GTK_RANGE (widget)->has_stepper_d)) {
-			if (GTK_IS_VSCROLLBAR (widget)) {
-				height += 1;
-			} else if (GTK_IS_HSCROLLBAR (widget)) {
-				width += 1;
-			}
-		}
-	}
-#endif
+	}	
 
 	draw_rect_with_shadow (style, window, widget, state_type,
 			       shadow_type, NULL, x, y, width, height);
@@ -723,15 +694,8 @@ draw_box(GtkStyle *style,
 		y += 1;
 		width -= 2;
 		height -= 2;
-	} else if (DETAIL ("slider") 
-		   || DETAIL ("hscale") 
-		   || DETAIL ("vscale")) {
-		x -= 1;
-		y -= 1;
-		width += 2;
-		height += 2;
 	}
-
+		
 	light_gc = style->light_gc[state_type];
 	dark_gc = style->dark_gc[state_type];
 	
@@ -764,11 +728,11 @@ draw_box(GtkStyle *style,
 		gdk_draw_rectangle (window,
 				    style->bg_gc[GTK_STATE_ACTIVE],
 				    TRUE,
-				    x + 1, y + 1, width - 3, height - 3);
+				    x, y, width - 1, height - 1);
 		gdk_draw_rectangle (window,
 				    style->dark_gc[state_type],
 				    FALSE,
-				    x + 1, y + 1, width - 3, height - 3);
+				    x, y, width - 1, height - 1);
 #endif
 	} else if (DETAIL("menubar")
 		   || DETAIL ("dockitem_bin") 
@@ -807,12 +771,34 @@ draw_box(GtkStyle *style,
 				    FALSE,
 				    x, y, width - 1, height - 1);
 	} else {
-		if (DETAIL ("vscrollbar") || DETAIL ("hscrollbar")) {
-			x -= 1;
-			y -= 1;
-			width += 2;
-			height += 2;
+#ifndef GTK1
+		/* Make sure stepper and slider outlines "overlap" - taken from
+		 * bluecurve */
+		if (DETAIL("slider") && widget && GTK_IS_RANGE (widget)) {
+			GtkAdjustment *adj = GTK_RANGE (widget)->adjustment;
+			if (adj->value <= adj->lower &&
+			    (GTK_RANGE (widget)->has_stepper_a ||
+			     GTK_RANGE (widget)->has_stepper_b)) {
+				if (GTK_IS_VSCROLLBAR (widget)) {
+					height += 1;
+					y -= 1;
+				} else if (GTK_IS_HSCROLLBAR (widget)) {
+					width += 1;
+					x -= 1;
+				}
+			}
+			
+			if (adj->value >= adj->upper - adj->page_size &&
+			    (GTK_RANGE (widget)->has_stepper_c ||
+			     GTK_RANGE (widget)->has_stepper_d)) {
+				if (GTK_IS_VSCROLLBAR (widget)) {
+					height += 1;
+				} else if (GTK_IS_HSCROLLBAR (widget)) {
+					width += 1;
+				}
+			}
 		}
+#endif
 		
 		gtk_style_apply_default_background(style, window,
 						   widget && !GTK_WIDGET_NO_WINDOW(widget),
@@ -1447,7 +1433,7 @@ draw_arrow (GtkStyle      *style,
 	    int           height)
 {
 	sanitize_size (window, &width, &height);
-	
+
 	if (detail && strcmp (detail, "spinbutton") == 0) {
 		x += (width - 7) / 2;
 		
@@ -1466,8 +1452,7 @@ draw_arrow (GtkStyle      *style,
 		y += (height - ARROW_SMALL) / 2;
 		
 		draw_varrow (window, style->black_gc, shadow, area, arrow_type,
-			     x, y, ARROW_LARGE, ARROW_SMALL);
-		
+			     x, y, ARROW_LARGE, ARROW_SMALL);		
 	} else if (detail && strcmp (detail, "hscrollbar") == 0) {
 		draw_box (style, window, state, shadow, area,
 			  widget, detail, x, y, width, height);
