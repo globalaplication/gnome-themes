@@ -730,6 +730,12 @@ draw_arrow(GtkStyle * style,
       gc3 = NULL;
       gc4 = NULL;
       break;
+    case GTK_SHADOW_NONE:
+      gc1 = style->bg_gc[state_type];
+      gc2 = style->bg_gc[state_type];
+      gc3 = NULL;
+      gc4 = NULL;
+      break;
     default:
       return;
     }
