@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themese VERSION\n"
-"POT-Creation-Date: 2003-01-11 20:05+0100\n"
+"POT-Creation-Date: 2003-01-23 14:02-0800\n"
 "PO-Revision-Date: 2003-01-12 02:05+0100\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
@@ -118,135 +118,6 @@ msgstr "Něžný skelnatý vzhled"
 msgid "Smokey Blue"
 msgstr "Kouřová modrá"
 
-#: gtk-themes/Crux/src/test.glade.h:2
-#, no-c-format
-msgid "%P %%"
-msgstr "%P %%"
-
-#: gtk-themes/Crux/src/test.glade.h:3
-msgid "Bar"
-msgstr "Bar"
-
-#: gtk-themes/Crux/src/test.glade.h:4
-msgid "Foo"
-msgstr "Foo"
-
-#: gtk-themes/Crux/src/test.glade.h:5
-msgid "New"
-msgstr "Nový"
-
-#: gtk-themes/Crux/src/test.glade.h:6
-msgid "New File"
-msgstr "Nový soubor"
-
-#: gtk-themes/Crux/src/test.glade.h:7
-msgid "Open"
-msgstr "Otevřít"
-
-#: gtk-themes/Crux/src/test.glade.h:8
-msgid "Open File"
-msgstr "Otevřít soubor"
-
-#: gtk-themes/Crux/src/test.glade.h:9
-msgid "Pick a color"
-msgstr "Vyberte barvu"
-
-#: gtk-themes/Crux/src/test.glade.h:10
-msgid "Project1"
-msgstr "Projekt1"
-
-#: gtk-themes/Crux/src/test.glade.h:11
-msgid "Radio 1"
-msgstr "Radio 1"
-
-#: gtk-themes/Crux/src/test.glade.h:12
-msgid "Radio 2"
-msgstr "Radio 2"
-
-#: gtk-themes/Crux/src/test.glade.h:13
-msgid "Radio 3"
-msgstr "Radio 3"
-
-#: gtk-themes/Crux/src/test.glade.h:14
-msgid "Sample Button"
-msgstr "Vzorové tlačítko"
-
-#: gtk-themes/Crux/src/test.glade.h:15
-msgid "Sample check button"
-msgstr "Vzorové zaškrtávací tlačítko"
-
-#: gtk-themes/Crux/src/test.glade.h:16
-msgid "Save"
-msgstr "Uložit"
-
-#: gtk-themes/Crux/src/test.glade.h:17
-msgid "Save File"
-msgstr "Uložit soubor"
-
-#: gtk-themes/Crux/src/test.glade.h:18
-msgid "Sub 1"
-msgstr "Pod 1"
-
-#: gtk-themes/Crux/src/test.glade.h:19
-msgid "Sub 2"
-msgstr "Pod 2"
-
-#: gtk-themes/Crux/src/test.glade.h:20
-msgid "Test one"
-msgstr "Test jedna"
-
-#: gtk-themes/Crux/src/test.glade.h:21
-msgid "Test three"
-msgstr "Test tři"
-
-#: gtk-themes/Crux/src/test.glade.h:22
-msgid "Test two"
-msgstr "Test dvě"
-
-#: gtk-themes/Crux/src/test.glade.h:23
-msgid "Text entry field"
-msgstr "Textové vstupní pole"
-
-#: gtk-themes/Crux/src/test.glade.h:24
-msgid "This is a test."
-msgstr "Toto je test."
-
-#: gtk-themes/Crux/src/test.glade.h:25
-msgid "_New File"
-msgstr "_Nový soubor"
-
-#: gtk-themes/Crux/src/test.glade.h:26
-msgid "button2"
-msgstr "tlačítko2"
-
-#: gtk-themes/Crux/src/test.glade.h:27
-msgid "button3"
-msgstr "tlačítko3"
-
-#: gtk-themes/Crux/src/test.glade.h:28
-msgid "button4"
-msgstr "tlačítko4"
-
-#: gtk-themes/Crux/src/test.glade.h:29
-msgid "gtk-ok"
-msgstr "gtk-ok"
-
-#: gtk-themes/Crux/src/test.glade.h:30
-msgid "radiobutton1"
-msgstr "radiotlačítko1"
-
-#: gtk-themes/Crux/src/test.glade.h:31
-msgid "radiobutton2"
-msgstr "radiotlačítko2"
-
-#: gtk-themes/Crux/src/test.glade.h:32
-msgid "toggle"
-msgstr "přepínač"
-
-#: gtk-themes/Crux/src/test.glade.h:33
-msgid "www.eazel.com"
-msgstr "www.eazel.com"
-
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Hladká modrá"
@@ -271,3 +142,98 @@ msgstr "Výchozí téma GNOME"
 msgid "Gnome"
 msgstr "GNOME"
 
+#~ msgid "%P %%"
+#~ msgstr "%P %%"
+
+#~ msgid "Bar"
+#~ msgstr "Bar"
+
+#~ msgid "Foo"
+#~ msgstr "Foo"
+
+#~ msgid "New"
+#~ msgstr "Nový"
+
+#~ msgid "New File"
+#~ msgstr "Nový soubor"
+
+#~ msgid "Open"
+#~ msgstr "Otevřít"
+
+#~ msgid "Open File"
+#~ msgstr "Otevřít soubor"
+
+#~ msgid "Pick a color"
+#~ msgstr "Vyberte barvu"
+
+#~ msgid "Project1"
+#~ msgstr "Projekt1"
+
+#~ msgid "Radio 1"
+#~ msgstr "Radio 1"
+
+#~ msgid "Radio 2"
+#~ msgstr "Radio 2"
+
+#~ msgid "Radio 3"
+#~ msgstr "Radio 3"
+
+#~ msgid "Sample Button"
+#~ msgstr "Vzorové tlačítko"
+
+#~ msgid "Sample check button"
+#~ msgstr "Vzorové zaškrtávací tlačítko"
+
+#~ msgid "Save"
+#~ msgstr "Uložit"
+
+#~ msgid "Save File"
+#~ msgstr "Uložit soubor"
+
+#~ msgid "Sub 1"
+#~ msgstr "Pod 1"
+
+#~ msgid "Sub 2"
+#~ msgstr "Pod 2"
+
+#~ msgid "Test one"
+#~ msgstr "Test jedna"
+
+#~ msgid "Test three"
+#~ msgstr "Test tři"
+
+#~ msgid "Test two"
+#~ msgstr "Test dvě"
+
+#~ msgid "Text entry field"
+#~ msgstr "Textové vstupní pole"
+
+#~ msgid "This is a test."
+#~ msgstr "Toto je test."
+
+#~ msgid "_New File"
+#~ msgstr "_Nový soubor"
+
+#~ msgid "button2"
+#~ msgstr "tlačítko2"
+
+#~ msgid "button3"
+#~ msgstr "tlačítko3"
+
+#~ msgid "button4"
+#~ msgstr "tlačítko4"
+
+#~ msgid "gtk-ok"
+#~ msgstr "gtk-ok"
+
+#~ msgid "radiobutton1"
+#~ msgstr "radiotlačítko1"
+
+#~ msgid "radiobutton2"
+#~ msgstr "radiotlačítko2"
+
+#~ msgid "toggle"
+#~ msgstr "přepínač"
+
+#~ msgid "www.eazel.com"
+#~ msgstr "www.eazel.com"

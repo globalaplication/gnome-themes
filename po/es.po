@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.es\n"
-"POT-Creation-Date: 2003-01-13 12:09+0100\n"
+"POT-Creation-Date: 2003-01-23 14:02-0800\n"
 "PO-Revision-Date: 2003-01-13 10:38-0300\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
@@ -119,135 +119,6 @@ msgstr "Una apariencia cristalina suave"
 msgid "Smokey Blue"
 msgstr "Azul humeante"
 
-#: gtk-themes/Crux/src/test.glade.h:2
-#, no-c-format
-msgid "%P %%"
-msgstr "%P %%"
-
-#: gtk-themes/Crux/src/test.glade.h:3
-msgid "Bar"
-msgstr "Bar"
-
-#: gtk-themes/Crux/src/test.glade.h:4
-msgid "Foo"
-msgstr "Foo"
-
-#: gtk-themes/Crux/src/test.glade.h:5
-msgid "New"
-msgstr "Nuevo"
-
-#: gtk-themes/Crux/src/test.glade.h:6
-msgid "New File"
-msgstr "Archivo nuevo"
-
-#: gtk-themes/Crux/src/test.glade.h:7
-msgid "Open"
-msgstr "Abrir"
-
-#: gtk-themes/Crux/src/test.glade.h:8
-msgid "Open File"
-msgstr "Abrir archivo"
-
-#: gtk-themes/Crux/src/test.glade.h:9
-msgid "Pick a color"
-msgstr "Seleccione un color"
-
-#: gtk-themes/Crux/src/test.glade.h:10
-msgid "Project1"
-msgstr "Project1"
-
-#: gtk-themes/Crux/src/test.glade.h:11
-msgid "Radio 1"
-msgstr "Radio 1"
-
-#: gtk-themes/Crux/src/test.glade.h:12
-msgid "Radio 2"
-msgstr "Radio 2"
-
-#: gtk-themes/Crux/src/test.glade.h:13
-msgid "Radio 3"
-msgstr "Radio 3"
-
-#: gtk-themes/Crux/src/test.glade.h:14
-msgid "Sample Button"
-msgstr "Botón de ejemplo"
-
-#: gtk-themes/Crux/src/test.glade.h:15
-msgid "Sample check button"
-msgstr "Botón de chequeo de ejemplo"
-
-#: gtk-themes/Crux/src/test.glade.h:16
-msgid "Save"
-msgstr "Guardar"
-
-#: gtk-themes/Crux/src/test.glade.h:17
-msgid "Save File"
-msgstr "Guardar el archivo"
-
-#: gtk-themes/Crux/src/test.glade.h:18
-msgid "Sub 1"
-msgstr "Sub 1"
-
-#: gtk-themes/Crux/src/test.glade.h:19
-msgid "Sub 2"
-msgstr "Sub 2"
-
-#: gtk-themes/Crux/src/test.glade.h:20
-msgid "Test one"
-msgstr "Prueba uno"
-
-#: gtk-themes/Crux/src/test.glade.h:21
-msgid "Test three"
-msgstr "Prueba tres"
-
-#: gtk-themes/Crux/src/test.glade.h:22
-msgid "Test two"
-msgstr "Prueba dos"
-
-#: gtk-themes/Crux/src/test.glade.h:23
-msgid "Text entry field"
-msgstr "Campo de entrada de prueba"
-
-#: gtk-themes/Crux/src/test.glade.h:24
-msgid "This is a test."
-msgstr "Esto es una prueba."
-
-#: gtk-themes/Crux/src/test.glade.h:25
-msgid "_New File"
-msgstr "Archivo _nuevo"
-
-#: gtk-themes/Crux/src/test.glade.h:26
-msgid "button2"
-msgstr "button2"
-
-#: gtk-themes/Crux/src/test.glade.h:27
-msgid "button3"
-msgstr "button3"
-
-#: gtk-themes/Crux/src/test.glade.h:28
-msgid "button4"
-msgstr "button4"
-
-#: gtk-themes/Crux/src/test.glade.h:29
-msgid "gtk-ok"
-msgstr "gtk-ok"
-
-#: gtk-themes/Crux/src/test.glade.h:30
-msgid "radiobutton1"
-msgstr "radiobutton1"
-
-#: gtk-themes/Crux/src/test.glade.h:31
-msgid "radiobutton2"
-msgstr "radiobutton2"
-
-#: gtk-themes/Crux/src/test.glade.h:32
-msgid "toggle"
-msgstr "activar"
-
-#: gtk-themes/Crux/src/test.glade.h:33
-msgid "www.eazel.com"
-msgstr "www.eazel.com"
-
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Azul plano"
@@ -272,3 +143,98 @@ msgstr "Tema predeterminado de GNOME"
 msgid "Gnome"
 msgstr "GNOME"
 
+#~ msgid "%P %%"
+#~ msgstr "%P %%"
+
+#~ msgid "Bar"
+#~ msgstr "Bar"
+
+#~ msgid "Foo"
+#~ msgstr "Foo"
+
+#~ msgid "New"
+#~ msgstr "Nuevo"
+
+#~ msgid "New File"
+#~ msgstr "Archivo nuevo"
+
+#~ msgid "Open"
+#~ msgstr "Abrir"
+
+#~ msgid "Open File"
+#~ msgstr "Abrir archivo"
+
+#~ msgid "Pick a color"
+#~ msgstr "Seleccione un color"
+
+#~ msgid "Project1"
+#~ msgstr "Project1"
+
+#~ msgid "Radio 1"
+#~ msgstr "Radio 1"
+
+#~ msgid "Radio 2"
+#~ msgstr "Radio 2"
+
+#~ msgid "Radio 3"
+#~ msgstr "Radio 3"
+
+#~ msgid "Sample Button"
+#~ msgstr "Botón de ejemplo"
+
+#~ msgid "Sample check button"
+#~ msgstr "Botón de chequeo de ejemplo"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Save File"
+#~ msgstr "Guardar el archivo"
+
+#~ msgid "Sub 1"
+#~ msgstr "Sub 1"
+
+#~ msgid "Sub 2"
+#~ msgstr "Sub 2"
+
+#~ msgid "Test one"
+#~ msgstr "Prueba uno"
+
+#~ msgid "Test three"
+#~ msgstr "Prueba tres"
+
+#~ msgid "Test two"
+#~ msgstr "Prueba dos"
+
+#~ msgid "Text entry field"
+#~ msgstr "Campo de entrada de prueba"
+
+#~ msgid "This is a test."
+#~ msgstr "Esto es una prueba."
+
+#~ msgid "_New File"
+#~ msgstr "Archivo _nuevo"
+
+#~ msgid "button2"
+#~ msgstr "button2"
+
+#~ msgid "button3"
+#~ msgstr "button3"
+
+#~ msgid "button4"
+#~ msgstr "button4"
+
+#~ msgid "gtk-ok"
+#~ msgstr "gtk-ok"
+
+#~ msgid "radiobutton1"
+#~ msgstr "radiobutton1"
+
+#~ msgid "radiobutton2"
+#~ msgstr "radiobutton2"
+
+#~ msgid "toggle"
+#~ msgstr "activar"
+
+#~ msgid "www.eazel.com"
+#~ msgstr "www.eazel.com"

@@ -281,48 +281,5 @@ msgstr "Gnome"
 
 #~ msgid "GNOME"
 #~ msgstr "GNOME"
-
-#~ msgid "Black-on-white text and icons"
-#~ msgstr "Svart text och ikoner på vit botten"
-
-#~ msgid "High Contrast"
-#~ msgstr "Hög kontrast"
-
-#~ msgid "High Contrast Inverse"
-#~ msgstr "Inverterad hög kontrast"
-
-#~ msgid "White-on-black text and icons"
-#~ msgstr "Vit text och ikoner på svart botten"
-
-#~ msgid "High Contrast Large"
-#~ msgstr "Stor text med hög kontrast"
-
-#~ msgid "Large black-on-white text and icons"
-#~ msgstr "Stor svart text och ikoner på vit botten"
-
-#~ msgid "High Contrast Large Print Inverse"
-#~ msgstr "Inverterad stor text med hög kontrast"
-
-#~ msgid "Large white-on-black text and icons"
-#~ msgstr "Stor vit text och ikoner på svart botten"
-
 #~ msgid "Large Print"
 #~ msgstr "Stor text"
-
-#~ msgid "Large text and icons"
-#~ msgstr "Stor text och ikoner"
-
-#~ msgid "Low Contrast"
-#~ msgstr "Låg kontrast"
-
-#~ msgid "Muted text and icons"
-#~ msgstr "Dämpad text och ikoner"
-
-#~ msgid "Large muted text and icons"
-#~ msgstr "Stor dämpad text och ikoner"
-
-#~ msgid "Low Contrast Large Print"
-#~ msgstr "Stor text med låg kontrast"
-
-#~ msgid "High Contrast Large Print"
-#~ msgstr "Stor text med hög kontrast"
