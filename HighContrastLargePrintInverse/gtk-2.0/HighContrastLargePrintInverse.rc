@@ -22,6 +22,7 @@ style "default"
   GtkTreeView::expander_size = 20
 #  GtkWidget::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_aspect_ratio = 0.1
+  GtkTextView::cursor_color    = { 0.00, 0.80, 0.80 }
   GtkEntry::cursor_aspect_ratio = 0.1
   NautilusIconContainer::frame_text = 1
 

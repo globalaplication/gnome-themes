@@ -19,6 +19,7 @@ style "default"
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
   GtkEntry::cursor_color    = { 0.80, 0.00, 0.00 }
+  GtkTextView::cursor_color    = { 0.80, 0.00, 0.00 }
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkEntry::cursor_aspect_ratio = 0.1
 
