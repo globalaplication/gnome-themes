@@ -1,13 +1,14 @@
-# gnome-themes Portuguese translation.
-# Copyright (C) 2003 Gnome Theme
-# This file is distributed under the same license as the gnome-theme package.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2003.
+# gnome-themes' Portuguese translation.
+# Copyright (C) 2003, 2004 gnome-themes
+# This file is distributed under the same license as the gnome-themes package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.4\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
-"PO-Revision-Date: 2003-05-13 22:15+0100\n"
+"Project-Id-Version: 2.6\n"
+"Report-Msgid-Bugs-To: Duarte Loreto <happyguy_pt@hotmail.com>\n"
+"POT-Creation-Date: 2004-01-04 16:19+0000\n"
+"PO-Revision-Date: 2004-01-04 16:30+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: pt <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +33,7 @@ msgstr "Texto e ícones em branco-sobre-preto"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Impressão Grande Alto Contraste"
+msgstr "Impressão Grande de Alto Contraste"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -40,7 +41,7 @@ msgstr "Texto e ícones grandes em preto-sobre-branco"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Alto Contraste Grande Impresso Invertido"
+msgstr "Impressão Grande de Alto Contraste Invertido"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -48,7 +49,7 @@ msgstr "Texto e ícones grandes em branco-sobre-preto"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "Impresso Grande"
+msgstr "Impressão Grande"
 
 #: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
@@ -68,7 +69,7 @@ msgstr "Texto e ícones grandes silenciosos"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Baixo Contraste Impressão Grande"
+msgstr "Impressão Grande de Baixo Contraste"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
@@ -108,7 +109,7 @@ msgstr "Simples"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "Aparência leve, alta performance"
+msgstr "Aparência leve, de alto desempenho"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -136,8 +137,8 @@ msgstr "Arenoso"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Azul-Fumo"
+msgstr "Azul-Esfumado"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Vermelho-Fumo"
+msgstr "Vermelho-Esfumado"
