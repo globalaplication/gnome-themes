@@ -30,8 +30,8 @@ style "panel-icons"
 #       stock ["panel-applet"] =        {{""}}
 #       stock ["panel-desktop"] =       {{""}}
 
-	stock ["commandline_browser"] =	{{"stock_commandline-browser.xpm"}}
-	stock ["commandline_history"] =	{{"stock_commandline-history.xpm"}}
+	stock ["commandline-browser"] =	{{"stock_commandline-browser.xpm"}}
+	stock ["commandline-history"] =	{{"stock_commandline-history.xpm"}}
 
 }
 class "GtkWidget" style "panel-icons"
