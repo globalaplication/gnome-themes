@@ -16,7 +16,7 @@ icon_DATA=	\
 		gnome-mime-video.png \
 		$(NULL)
 
-EXTRA_DIST=	$(icon_DATA)
+EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
 install: install-am

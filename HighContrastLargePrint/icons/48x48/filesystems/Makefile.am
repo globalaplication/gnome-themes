@@ -17,7 +17,7 @@ icon_DATA=	\
                 gnome-fs-trash-full.png \
 		$(NULL)
 
-EXTRA_DIST=	$(icon_DATA)
+EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
 install: install-am
