@@ -1,3 +1,8 @@
+2003-05-03  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* HighContrastLargePrint/index.theme.in.in: Fix name.
+	Fixes bug #102432.
+
 2003-05-02  Guntupalli Karunakar  <karunakar@freedomink.org>
 
 	* configure.in: Added "hi" in ALL_LINGUAS.
