@@ -298,7 +298,7 @@ style "menuitem"
 	function        = CHECK
 	recolorable     = TRUE
 	shadow          = IN
-	overlay_file    = "m3d_all_normal.png"
+	overlay_file    = "3d_all_normal.png"
 	overlay_stretch = FALSE
       }
     image 

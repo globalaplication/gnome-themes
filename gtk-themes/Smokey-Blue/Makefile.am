@@ -1,6 +1,6 @@
 themedir = $(datadir)/themes/Smokey-Blue/gtk-2.0
 
-theme_DATA= 
+theme_DATA=  \
 	bubble-blue.png \
 	bubble-blue-prelight.png \
 	bubble-blue-pressed.png \
