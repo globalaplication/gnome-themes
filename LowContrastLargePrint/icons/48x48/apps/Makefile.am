@@ -57,6 +57,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		perfmeter.png \
 		file-roller.png \
 		gcalctool.png \
+		gucharmap.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)
