@@ -1,3 +1,9 @@
+2003-01-23  Seth Nickell  <snickell@stanford.edu>
+
+	* sv.po:
+
+	Remove some duplicate definitions.
+
 2003-01-24  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* no.po: Updated Norwegian translation.

@@ -281,5 +281,3 @@ msgstr "Gnome"
 
 #~ msgid "GNOME"
 #~ msgstr "GNOME"
-#~ msgid "Large Print"
-#~ msgstr "Stor text"
