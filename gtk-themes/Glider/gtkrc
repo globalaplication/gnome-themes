@@ -1,8 +1,8 @@
-# Theme Name  : SmoothGNOME
+# Theme Name  : Glider
 # Author(s)   : Link Dupont <link@subpop.net>
 # Description : A very basic, conservative theme, using the Smooth engine and
 #               HIG colors.
-#               This is the blue variant.
+#               This is Glider, the gnome-themes version of SmoothGNOME..
 
 include "iconrc"
 
@@ -42,7 +42,7 @@ style "default"
 	base[SELECTED] = "#7590AE" # Blue Medium
 	base[NORMAL] = "#FFFFFF" # White
 	base[PRELIGHT] = "#FFFFFF" # White
-	base[INSENSITIVE] = "#FFFFFF" # White
+	base[INSENSITIVE] = "#DEDCD7" # Variant of Basic 3D Highlight
 
 	text[ACTIVE] = "#000000" # Black
 	text[SELECTED] = "#FFFFFF" # White
@@ -61,15 +61,15 @@ style "default"
 			vdirection = horizontal
 			shade1 = 1.05
 			shade2 = 0.95
-	    }
+		}
 
 		edge
 		{
-		    line
-		    {
-		        style = smooth
-		        thickness = 1
-		    }
+			line
+			{
+				style = smooth
+				thickness = 1
+			}
 		}
 
 		trough
@@ -115,12 +115,22 @@ style "default"
 			motif = FALSE
 		}
 
+		button
+		{
+			embeddable = TRUE
+		}
+
 		arrow
 		{
 			style = cleanice
 			solid = TRUE
 			xpadding = 0
 			ypadding = 0
+
+			INSENSITIVE
+			{
+				etched = TRUE
+			}
 		}
 	}
 }
@@ -172,15 +182,15 @@ style "menuitem"
 		
 		option
 		{
-		    style = circle
-		    motif = FALSE
-		    edge
-		    {
-		        line
-		        {
-		            style = smooth
-		        }
-		    }
+			style = circle
+			motif = FALSE
+			edge
+			{
+				line
+				{
+					style = smooth
+				}
+			}
 		}
 
 		arrow
@@ -189,6 +199,11 @@ style "menuitem"
 			solid = TRUE
 			xpadding = 0
 			ypadding = 0
+
+			INSENSITIVE
+			{
+				etched = TRUE
+			}
 		}
 	}
 }
@@ -202,10 +217,10 @@ style "toolbar"
 
 	engine "smooth"
 	{
-	    fill
-	    {
-	        style = solid
-	    }
+		fill
+		{
+			style = solid
+		}
 		edge
 		{
 			line
@@ -213,6 +228,20 @@ style "toolbar"
 				style = smooth
 				thickness = 1
 			}
+		}
+		grip
+		{
+			fill
+			{
+				style = shaded
+				hdirection = vertical
+				vdirection = horizontal
+				shade1 = 1.05
+				shade2 = 0.95
+			}
+			style = dots_in
+			count = 3
+			spacing = 2
 		}
 	}
 }
@@ -260,6 +289,14 @@ style "hscrollbar"
 			count = 3
 			spacing = 2
 		}
+
+		focus
+		{
+			foreground[ACTIVE] = "#7590AE"
+			foreground[SELECTED] = "#7590AE"
+			foreground[NORMAL] = "#7590AE"
+			foreground[PRELIGHT] = "#7590AE"
+		}
 	
 		arrow
 		{
@@ -267,6 +304,11 @@ style "hscrollbar"
 			solid = TRUE
 			xpadding = 1
 			ypadding = 1
+
+			INSENSITIVE
+			{
+				etched = TRUE
+			}
 		}
 	}
 }
@@ -278,6 +320,7 @@ class "*HScale*"                style "hscrollbar"
 style "progressbar"
 {
 	bg[PRELIGHT] = "#7590AE"
+	fg[PRELIGHT] = "#FFFFFF" # White
 	xthickness = 1
 	ythickness = 1
 }
@@ -315,12 +358,25 @@ style "vscrollbar"
 			count = 3
 			spacing = 2
 		}
+
+		focus
+		{
+			foreground[ACTIVE] = "#7590AE"
+			foreground[SELECTED] = "#7590AE"
+			foreground[NORMAL] = "#7590AE"
+			foreground[PRELIGHT] = "#7590AE"
+		}
 	
 		arrow {
 			style = cleanice
 			solid = TRUE
 			xpadding = 1
 			ypadding = 1
+
+			INSENSITIVE
+			{
+				etched = TRUE
+			}
 		}
 	}
 }
@@ -357,3 +413,9 @@ style "textentry"
     base[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
 }
 widget_class "*GtkEntry" style "textentry"
+
+style "treeview"
+{
+	GtkWidget::focus_padding = 1
+}
+widget_class "*TreeView*" style "treeview"
