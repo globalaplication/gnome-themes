@@ -45,6 +45,8 @@ icon_DATA=	\
 		gnome-run.png \
 		gnome-screenshot.png \
 		gnome-searchtool.png \
+		gnome-searchtool-animation-rest.png \
+		gnome-searchtool-animation.png \
                 gnome-session.png \
                 gnome-settings-accessibility-keyboard.png \
                 gnome-settings-accessibility-technologies.png \
