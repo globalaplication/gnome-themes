@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-25 12:51+0100\n"
+"PO-Revision-Date: 2003-01-31 15:41+0100\n"
 "Last-Translator: Luca Ferretti <elle.ucainfinito.it>\n"
 "Language-Team: Italian <tp@list.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -79,13 +79,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Gradienti armoniosi con decorazioni verde anatra"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Aspetto delicatamente cristallino"
+msgstr "Aspetto arancione impolverato"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Grand Canyon"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -105,7 +104,7 @@ msgstr "I colori della spiaggia"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Semplice"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -121,7 +120,7 @@ msgstr "Smokey blu"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Tradizionale"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -142,15 +141,3 @@ msgstr "Smokey blu"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey rosso"
-
-#~ msgid "Default"
-#~ msgstr "Predefinito"
-
-#~ msgid "Plain"
-#~ msgstr "Semplice"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "Tema predefinito di GNOME"
-
-#~ msgid "Gnome"
-#~ msgstr "GNOME"
