@@ -25,12 +25,12 @@ echo "Generating configuration files for gnome-themes, please wait...."
 echo;
 
 for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse HighContrastLargePrintInverse LowContrast LowContrastLargePrint;  do
-	echo "Generating $theme/gtkrc.in"
+	echo "Generating $theme/gtk-2.0/gtkrc.in"
 	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
 done
 
 for theme in LargePrint HighContrastLargePrint HighContrastLargePrintInverse LowContrastLargePrint; do
-	echo "Generating $theme/Makefile.am"
+	echo "Generating $theme/pixmaps/Makefile.am"
 	cat common/all-stock-icons.data $theme/pixmaps/$theme.makefile > $theme/pixmaps/Makefile.am
 
 done
