@@ -27,6 +27,7 @@ AC_SUBST(LARGEPRINT_FONT)
 
 AC_OUTPUT([
 Makefile
+common/Makefile
 HighContrast/Makefile
 HighContrast/gtk-2.0/Makefile
 HighContrast/gtk-2.0/gtkrc
