@@ -61,3 +61,13 @@ class "GtkWidget" style "default"
 class "GtkMenuItem*"	style "menu"
 class "GtkCheckButton" style "togglebuttons"
 class "GtkRadioButton" style "togglebuttons"
+
+style "button" = "default"
+{
+  bg[NORMAL]       = "#D1D0CD"
+  bg[PRELIGHT]     = "#E7E2DA"
+  bg[ACTIVE]       = "#CCCCC0"
+}
+
+class "GtkButton" style "button"
+widget_class "*.GtkButton.*" style "button"
