@@ -1,3 +1,9 @@
+2003-05-09  Calum Benson  <calum.benson@sun.com>
+
+	* src/crux-draw.c: (paint_bullet):
+
+	Patch from Filip Van Raemdonck, fixes #105315.
+
 2003-01-20  Seth Nickell  <snickell@stanford.edu>
 
 	* Makefile.am:

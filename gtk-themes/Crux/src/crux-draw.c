@@ -661,7 +661,7 @@ paint_tick (GdkWindow *window, GdkGC *gc, int x, int y)
 static void
 paint_bullet (GdkWindow *window, GdkGC *gc, int x, int y)
 {
-#define PIXEL(a, b) gdk_draw_point (window, gc, x + a, x + b)
+#define PIXEL(a, b) gdk_draw_point (window, gc, x + a, y + b)
 
     PIXEL (0, 0); PIXEL (0, -1); PIXEL (-1, 0); PIXEL (-1, -1);
     PIXEL (1, -1); PIXEL (2, -1); PIXEL (-1, 1); PIXEL (-1, 2);
