@@ -1,6 +1,28 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-mixer.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-window-manager.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-window-properties.p
+	ng: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-mixer.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-window-manag
+	er.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-window-prope
+	rties.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-mixer.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-window-manager.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-window-properties.pn
+	g: remove
+
+	Rename Volume Control app icon so it works again, and rename Window
+	capplet icon to the right thing this time :/
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/default-applications-capp
 	let.png: remove
 	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-default-ap
