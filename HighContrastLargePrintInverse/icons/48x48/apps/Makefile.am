@@ -25,7 +25,7 @@ icon_DATA=	\
                 gnome-cdplayer-icon.png \
                 gnome-cd.png \
                 gnome-character-map.png \
-                gnome-clock.png \
+                clock.png \
                 gnome-devel.png \
                 gnome-eog.png \
                 gnome-ghex.png  \

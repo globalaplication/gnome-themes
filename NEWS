@@ -1,3 +1,32 @@
+2.9.92
+======
+
+Fixes:
+	2005-02-24  Thomas Wood  <thos@gnome.org>
+       	Resolves bug 167446: Use icon theme for stock icons in Glider
+
+New/updated translations:
+	 2005-02-21  Christophe Merlet  <redfox@redfoxcenter.org>
+       	* fr.po: Updated French translation.
+
+	2005-02-13  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+       	* th.po: Updated Thai translation.
+
+2.9.91
+======
+
+Fixes:
+   * Replace gnome-clock.png with clock.png, fixes #156724 
+      <muktha.narayan@wipro.com>
+
+New/updated translations:
+	2005-01-30  Alessio Frusciante  <algol@firenze.linux.it>
+       * it.po: Updated Italian translation.
+
+	2005-01-29  Priit Laes  <plaes@cvs.gnome.org>
+       * et.po: Translation updated.
+
+
 2.9.90
 ======
 2005-01-12  Thomas Wood  <thos@gnome.org>
