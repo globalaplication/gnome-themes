@@ -7,6 +7,7 @@
 	* gorilla/scalable/emblems/emblem-noread.svg:
 	* gorilla/scalable/emblems/emblem-nowrite.svg:
 	* gorilla/scalable/emblems/emblem-package.svg:
+	* gorilla/scalable/emblems/emblem-relax.svg:
 	
 	* gorilla/scalable/filesystems/gnome-fs-blockdev.svg:
 	* gorilla/scalable/filesystems/gnome-fs-bookmark.svg:
@@ -24,6 +25,7 @@
 	* gorilla/scalable/mimetypes/gnome-compressed.svg:
 	* gorilla/scalable/mimetypes/gnome-mime-application-x-deb.svg:
 	* gorilla/scalable/mimetypes/gnome-mime-application-x-rpm.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-application-pgp.svg:
 
 2003-01-13  Laurent Dhima  <laurenti@alblinux.net>
 
