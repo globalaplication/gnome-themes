@@ -1,3 +1,9 @@
+2004-01-13  Calum Benson  <calum.benson@sun.com>
+
+	* configure.in:
+
+	Bump version for tarball.
+
 2004.01.09  Arafat Medini <lumina@silverpen.de>
                                                                                 
 	* configure.in: Added Arabic Locale "ar" to ALL_LINGUAS
