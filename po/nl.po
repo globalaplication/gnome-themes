@@ -1,14 +1,13 @@
-# Dutch translation of the gnome-themes
-# Copyright (C) 1999,2000 Free Software Foundation, Inc.
-# This file is distributed under the same license as the gnome-themes package
+# Gnome-themes vertaling
+#
 # Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>, 2003
-# Tino Meinen <a.t.meinen@chello.nl>, 2003
+# Reinout van Schouwen <reinout@cs.vu.nl>, 2003
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
-"POT-Creation-Date: 2003-01-31 05:03+0100\n"
-"PO-Revision-Date: 2003-01-31 12:22+0100\n"
-"Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
+"POT-Creation-Date: 2003-01-31 12:04+0100\n"
+"PO-Revision-Date: 2003-01-31 14:21+0100\n"
+"Last-Translator: Reinout van Schouwen <reinout@cs.vu.nl>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +79,7 @@ msgstr "Subtiel kleurverloop met groene accenten"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "Een stoffig oranje uiterlijk"
+msgstr "Stoffig oranje uiterlijk"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
@@ -104,7 +103,7 @@ msgstr "De kleuren van de zeekust"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr "Simpel"
+msgstr "Eenvoudig"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -128,7 +127,7 @@ msgstr "Het traditionele 3D-uiterlijk met harde randen"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Egaal-blauw"
+msgstr "Plat en blauw"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
@@ -141,3 +140,15 @@ msgstr "Rokerig blauw"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rokerig rood"
+
+#~ msgid "Default"
+#~ msgstr "Standaard"
+
+#~ msgid "Plain"
+#~ msgstr "Normaal"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Standaard GNOME-thema"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"
