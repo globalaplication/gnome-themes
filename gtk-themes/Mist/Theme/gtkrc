@@ -30,6 +30,7 @@ style "default"
 
 	GtkScrollbar::min_slider_length = 15
 	GtkCheckButton::indicator_size=10
+	GtkCheckMenuItem::indicator_size=10
 	GtkRadioButton::indicator_size=12
 #	GtkStatusbar::shadow_type = 
 	

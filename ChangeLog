@@ -1,3 +1,16 @@
+2004-02-24  Narayana Pattipati <narayana.pattipati@wipro.com>
+
+	* gtk-themes/Crux/gtkrc.in:
+	* gtk-themes/LightHouseBlue/gtkrc:
+	* gtk-themes/Mist/Theme/gtkrc:
+	* gtk-themes/Simple/gtkrc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* LargePrint/gtk-2.0/LargePrint.rc:
+	* ThinIce/gtk-2.0/gtkrc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
+	Add GtkCheckMenuItem::indicator_size property value to the themes. 
+	Fixes bugzilla bug#131659
+
 2004-02-06  Robert Sedak  <robert.sedak@sk.htnet.hr>
 
         * configure.in: Added "hr" (Croatian) to ALL_LINGUAS.

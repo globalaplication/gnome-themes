@@ -5,6 +5,7 @@ style "default"
   GtkRange::stepper_size = 12
   GtkScrollbar::min_slider_length = 14
   GtkCheckButton::indicator_size = 12
+  GtkCheckMenuItem::indicator_size = 12
 
   fg[NORMAL]                      = "#000000"
   fg[ACTIVE]                      = "#314a82"
