@@ -1,5 +1,10 @@
 2004-08-16  Christian Rose  <menthos@menthos.com>
 
+	* bs.po: Added Bosnian translation by
+	Kemal Sanjta <gomez@lugzdk.ba>.
+
+2004-08-16  Christian Rose  <menthos@menthos.com>
+
 	* POTFILES.in: Added missing file entry.
 	* POTFILES.skip: Removed no longer existing files.
 	* .cvsignore: Added and sorted some entries.
