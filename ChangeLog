@@ -1,5 +1,11 @@
 2003-05-09  Calum Benson  <calum.benson@sun.com>
 
+	* gtk-themes/Simple/gtkrc:
+
+	Fixes #109303 - report/fix by Xan Lopez (xan@masilla.org)
+
+2003-05-09  Calum Benson  <calum.benson@sun.com>
+
 	* README:
 	* autogen.sh:
 
