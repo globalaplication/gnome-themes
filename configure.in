@@ -72,7 +72,7 @@ AC_SUBST(GTK_VERSION)
 ### Icon sizes for all large print themes
 
 
-ALL_LINGUAS="am be bg ca cs da de el es et fa fi fr he hu id it ja ko lv mk mn ms nl no pl pt pt_BR ro ru sk sl sq sv th tr uk vi zh_CN zh_TW"
+ALL_LINGUAS="am az be bg ca cs da de el es et fa fi fr he hu id it ja ko lv mk mn ms nl no pl pt pt_BR ro ru sk sl sq sv th tr uk vi zh_CN zh_TW"
 AM_GLIB_GNU_GETTEXT
 
 LARGEPRINT_DND="48,48"
