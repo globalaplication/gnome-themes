@@ -24,6 +24,7 @@
 ;;; ### Versions ###
 ;;;
 ;;; 1.00.00 Initial release
+;;; 1.00.01 Fixed typo 
 ;;;
 ;;; ### Inline Documentation ###
 ;;;
@@ -56,7 +57,7 @@
 ;;; Look for ";; @" comments
 
 ;; The function, hardcoded values for now
-(define (script-fu-low-constrast-preset filename)
+(define (script-fu-low-contrast-preset filename)
 
   (let* ((image (car (file-png-load 1 filename filename)))
          (drawable (car (gimp-image-active-drawable image))))

@@ -1,3 +1,961 @@
+2002-10-24  Calum Benson  <calum.benson@sun.com>
+
+	Added start-here, emblems, devices, mimetypes and filesystem
+	icons for all themes, and fixed a typo in Guillermo's
+	GIMP script.
+
+	* HighContrastInverse/icons/index.theme:
+	* HighContrastLargePrint/icons/48x48/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-starthere.png:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-cdrom-audio.
+	png:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-cdrom.png:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-floppy.png:
+	* HighContrastLargePrint/icons/48x48/emblems/emblem-noread.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory
+	-accept.icon:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory
+	-accept.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory
+	.icon:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory
+	.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-executabl
+	e.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-ftp.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-home.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-nfs.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-regular.p
+	ng:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-share.png
+	:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-smb.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-trash-emp
+	ty.png:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-trash-ful
+	l.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-compressed.png
+	:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-library.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-msword.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-pdf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-pgp-encrypted.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-pgp-keys.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-pgp.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-postscript.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-qif.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-rtf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.lotus-1-2-3.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.ms-excel.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.ms-powerpoint.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.rn-realmedia.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.stardivision.calc.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.stardivision.impress.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.stardivision.writer.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.sun.xml.calc.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.sun.xml.impress.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-vnd.sun.xml.writer.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-abiword.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-applix-spreadsheet.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-applix-word.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-arj.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-backup.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-bzip.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-compress.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-core-file.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-dc-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-deb.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-dia-diagram.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-e-theme.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-afm.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-bdf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-linux-psf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-pcf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-sunos-news.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-font-ttf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gameboy-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-genesis-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gnome-app-info.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gnumeric.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gtktalog.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-gzip.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-java-byte-code.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-kde-app-info.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-killustrator.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-kpresenter.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-kspread.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-kword.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-mrproject.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-msx-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-n64-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-nes-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-object-file.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-ogg.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-php.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-python-bytecode.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-reject.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-rpm.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-scheme.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-smil.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-sms-rom.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-sql.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-stuffit.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicati
+	on-x-tex.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-ac3
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-bas
+	ic.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-a
+	iff.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-i
+	t.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-m
+	idi.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-m
+	od.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-m
+	p3.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-p
+	n-realaudio.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-s
+	3m.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-s
+	tm.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-u
+	law.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-v
+	oc.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-w
+	av.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-x
+	i.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-x
+	m.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio.png
+	:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-bmp
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-gif
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-ief
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-jpe
+	g.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-png
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-svg
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-tif
+	f.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-3
+	ds.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-a
+	pplix-graphic.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-c
+	mu-raster.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-l
+	wo.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-l
+	ws.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-p
+	ortable-anymap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-p
+	ortable-bitmap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-p
+	ortable-graymap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-p
+	ortable-pixmap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-p
+	sd.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-r
+	gb.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-t
+	ga.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-x
+	bitmap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-x
+	cf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-x
+	fig.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-x
+	pixmap.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-x
+	windowdump.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image.png
+	:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-css.
+	png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-html
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-au
+	thors.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c+
+	+.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c-
+	header.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c.
+	png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-co
+	pying.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-cr
+	edits.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-cs
+	h.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-ha
+	skell.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-in
+	stall.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-ja
+	va.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-li
+	terate-haskell.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-ly
+	x.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-ma
+	kefile.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-pa
+	tch.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-pe
+	rl.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-py
+	thon.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-re
+	adme.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-sh
+	.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-sq
+	l.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-tr
+	off-man.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-zs
+	h.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-xml.
+	png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-mpe
+	g.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-qui
+	cktime.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-m
+	s-asf.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-m
+	s-wmv.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-m
+	svideo.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-x-font-af
+	m.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-package.png:
+	* HighContrastLargePrint/icons/48x48/mimetypes/stock_new.png:
+	* HighContrastLargePrintInverse/icons/48x48/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-starthere.pn
+	g:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-cdrom
+	-audio.png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-cdrom
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-flopp
+	y.png:
+	* HighContrastLargePrintInverse/icons/48x48/emblems/emblem-noread.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-di
+	rectory-accept.icon:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-di
+	rectory-accept.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-di
+	rectory.icon:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-di
+	rectory.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-ex
+	ecutable.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-ft
+	p.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-ho
+	me.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-nf
+	s.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-re
+	gular.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-sh
+	are.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-sm
+	b.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-tr
+	ash-empty.png:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-tr
+	ash-full.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-compres
+	sed.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-library
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-msword.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-pdf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-pgp-encrypted.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-pgp-keys.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-pgp.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-postscript.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-qif.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-rtf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.lotus-1-2-3.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.ms-excel.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.ms-powerpoint.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.rn-realmedia.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.stardivision.calc.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.stardivision.impress.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.stardivision.writer.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.sun.xml.calc.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.sun.xml.impress.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-vnd.sun.xml.writer.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-abiword.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-applix-spreadsheet.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-applix-word.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-arj.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-backup.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-bzip.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-compress.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-core-file.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-dc-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-deb.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-dia-diagram.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-e-theme.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-afm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-bdf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-linux-psf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-pcf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-sunos-news.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-font-ttf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gameboy-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-genesis-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gnome-app-info.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gnumeric.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gtktalog.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-gzip.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-java-byte-code.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-kde-app-info.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-killustrator.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-kpresenter.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-kspread.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-kword.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-mrproject.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-msx-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-n64-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-nes-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-object-file.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-ogg.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-php.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-python-bytecode.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-reject.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-rpm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-scheme.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-smil.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-sms-rom.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-sql.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-stuffit.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-ap
+	plication-x-tex.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-ac3.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-basic.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-aiff.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-it.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-midi.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-mod.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-mp3.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-pn-realaudio.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-s3m.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-stm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-ulaw.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-voc.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-wav.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-xi.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio-x-xm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-au
+	dio.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-bmp.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-gif.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-ief.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-jpeg.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-png.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-svg.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-tiff.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-3ds.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-applix-graphic.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-cmu-raster.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-lwo.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-lws.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-portable-anymap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-portable-bitmap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-portable-graymap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-portable-pixmap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-psd.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-rgb.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-tga.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-xbitmap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-xcf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-xfig.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-xpixmap.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age-x-xwindowdump.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-im
+	age.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-css.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-html.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-authors.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-c++.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-c-header.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-c.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-copying.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-credits.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-csh.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-haskell.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-install.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-java.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-literate-haskell.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-lyx.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-makefile.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-patch.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-perl.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-python.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-readme.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-sh.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-sql.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-troff-man.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-x-zsh.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt-xml.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-te
+	xt.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo-mpeg.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo-quicktime.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo-x-ms-asf.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo-x-ms-wmv.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-vi
+	deo-x-msvideo.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-
+	font-afm.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-package
+	.png:
+	* LowContrastLargePrint/icons/48x48/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-starthere.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-art.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-camera.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-documents.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-mail.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-multimedia.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-noread.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-package.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-pictures.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-sound.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-symbolic-link.pn
+	g:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-trash.png:
+	* LowContrastLargePrint/icons/48x48/emblems/emblem-web.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-blockdev.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-bookmark-m
+	issing.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-bookmark.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-chardev.pn
+	g:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory-
+	accept.icon:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory-
+	accept.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory.
+	icon:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-directory.
+	png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-executable
+	.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-fifo.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-ftp.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-home.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-loading-ic
+	on.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-nfs.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-regular.ic
+	on:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-regular.pn
+	g:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-share.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-smb.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-socket.png
+	:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-trash-empt
+	y.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-trash-full
+	.png:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-web.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-compressed.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-library.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-msword.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-pdf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-pgp-encrypted.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-pgp-keys.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-pgp.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-postscript.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-qif.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-rtf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.lotus-1-2-3.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.ms-excel.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.ms-powerpoint.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.rn-realmedia.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.stardivision.calc.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.stardivision.impress.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.stardivision.writer.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.sun.xml.calc.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.sun.xml.impress.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-vnd.sun.xml.writer.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-abiword.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-applix-spreadsheet.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-applix-word.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-arj.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-backup.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-bzip.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-compress.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-core-file.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-dc-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-deb.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-dia-diagram.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-e-theme.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-afm.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-bdf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-linux-psf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-pcf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-sunos-news.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-font-ttf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-gameboy-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-genesis-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-gnome-app-info.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-gnumeric.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-gtktalog.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-gzip.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-java-byte-code.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-kde-app-info.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-killustrator.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-kpresenter.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-kspread.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-kword.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-mrproject.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-msx-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-n64-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-nes-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-object-file.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-ogg.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-php.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-python-bytecode.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-reject.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-rpm.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-scheme.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-smil.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-sms-rom.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-sql.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-stuffit.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-tex.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-ac3.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-basi
+	c.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-ai
+	ff.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-it
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-mi
+	di.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-mo
+	d.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-mp
+	3.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-pn
+	-realaudio.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-s3
+	m.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-st
+	m.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-ul
+	aw.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-vo
+	c.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-wa
+	v.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-xi
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio-x-xm
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-audio.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-bmp.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-gif.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-ief.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-jpeg
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-png.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-svg.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-tiff
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-3d
+	s.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-ap
+	plix-graphic.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-cm
+	u-raster.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-lw
+	o.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-lw
+	s.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-po
+	rtable-anymap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-po
+	rtable-bitmap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-po
+	rtable-graymap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-po
+	rtable-pixmap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-ps
+	d.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-rg
+	b.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-tg
+	a.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-xb
+	itmap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-xc
+	f.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-xf
+	ig.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-xp
+	ixmap.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image-x-xw
+	indowdump.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-image.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-css.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-html.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-aut
+	hors.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c++
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c-h
+	eader.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-c.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-cop
+	ying.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-cre
+	dits.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-csh
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-has
+	kell.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-ins
+	tall.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-jav
+	a.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-lit
+	erate-haskell.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-lyx
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-mak
+	efile.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-pat
+	ch.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-per
+	l.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-pyt
+	hon.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-rea
+	dme.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-sh.
+	png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-sql
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-tro
+	ff-man.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-x-zsh
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text-xml.p
+	ng:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-text.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-mpeg
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-quic
+	ktime.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-ms
+	-asf.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-ms
+	-wmv.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-video-x-ms
+	video.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-x-font-afm
+	.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-package.png:
+	* README:
+	* configure.in:
+	* low-contrast-preset.scm:
+
 2002-10-18  Calum Benson  <calum.benson@sun.com>
 
 	Added a few new icons from Suzanna, and deleted all the 

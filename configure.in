@@ -48,6 +48,10 @@ HighContrastLargePrint/pixmaps/Makefile
 HighContrastLargePrint/icons/Makefile
 HighContrastLargePrint/icons/48x48/Makefile
 HighContrastLargePrint/icons/48x48/apps/Makefile
+HighContrastLargePrint/icons/48x48/mimetypes/Makefile
+HighContrastLargePrint/icons/48x48/filesystems/Makefile
+HighContrastLargePrint/icons/48x48/devices/Makefile
+HighContrastLargePrint/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/Makefile
 HighContrastLargePrintInverse/gtk-2.0/Makefile
 HighContrastLargePrintInverse/gtk-2.0/gtkrc
@@ -55,6 +59,10 @@ HighContrastLargePrintInverse/pixmaps/Makefile
 HighContrastLargePrintInverse/icons/Makefile
 HighContrastLargePrintInverse/icons/48x48/Makefile
 HighContrastLargePrintInverse/icons/48x48/apps/Makefile
+HighContrastLargePrintInverse/icons/48x48/devices/Makefile
+HighContrastLargePrintInverse/icons/48x48/emblems/Makefile
+HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile
+HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile
 LowContrastLargePrint/Makefile
 LowContrastLargePrint/gtk-2.0/Makefile
 LowContrastLargePrint/gtk-2.0/gtkrc
@@ -62,6 +70,10 @@ LowContrastLargePrint/pixmaps/Makefile
 LowContrastLargePrint/icons/Makefile
 LowContrastLargePrint/icons/48x48/Makefile
 LowContrastLargePrint/icons/48x48/apps/Makefile
+LowContrastLargePrint/icons/48x48/devices/Makefile
+LowContrastLargePrint/icons/48x48/emblems/Makefile
+LowContrastLargePrint/icons/48x48/filesystems/Makefile
+LowContrastLargePrint/icons/48x48/mimetypes/Makefile
 LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc

@@ -47,3 +47,8 @@ Use the low-contrast-preset.scm GIMP script in this directory to create a low
 contrast icon from a regular-coloured icon.  (Read the comments in the script
 for instructions on how to install and use it.)  Thanks to Guillermo for
 providing this!
+
+Note: In GIMP, Input=0/0.6/255, Output=75/255 seems to give results 
+closer to the icons Suzanna converted in Photoshop, but plugging these 
+values into this script seems to give different results from doing it 
+manually in the Levels dialog :/
