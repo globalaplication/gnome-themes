@@ -25,7 +25,6 @@ install: install-am
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
 	if test -h $(DESTDIR)$(icondir)/$$p; then \
-		echo $$p; \
 		rm -f $(DESTDIR)$(icondir)/$$p; \
 	fi; \
 	done

@@ -22,3 +22,12 @@ EXTRA_DIST=	$(icon_DATA)
 
 install: install-am
 	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
+
+uninstall-symlinks:
+	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
+	if test -h $(DESTDIR)$(icondir)/$$p; then \
+		rm -f $(DESTDIR)$(icondir)/$$p; \
+	fi; \
+	done
+
+uninstall-am: uninstall-iconDATA uninstall-symlinks
