@@ -24,6 +24,7 @@ style "default"
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_color    = "#00cccc"
   GtkEntry::cursor_aspect_ratio = 0.1
+  GtkCheckButton::indicator_size = 18
   NautilusIconContainer::frame_text = 1
 
   fg[NORMAL]      = "white"

@@ -14,6 +14,12 @@
 	Lightened text[INSENSITIVE] and fg[INSENSITIVE] for better 
 	visibility.
 
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* LargePrint/gtk-2.0/LargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
+	Added GtkCheckButton::indicator_size = 18, 
+        increasing indicator size from 13 to 18.
+
 2003-05-09  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
                                                                                
         * configure.in: Added cy to ALL_LINGUAS
