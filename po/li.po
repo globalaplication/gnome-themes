@@ -1,4 +1,4 @@
-fu# Limburgish translation of Gnome-themes
+# Limburgish translation of Gnome-themes
 # Mathieu van Woerkom <mathieu@brabants.org>, 2003
 msgid ""
 msgstr ""
