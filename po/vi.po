@@ -6,8 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-themes for Gnome v2.2.x\n"
-"POT-Creation-Date: 2003-03-16 12:01+0100\n"
-"PO-Revision-Date: 2003-03-16 21:33+0700\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-09-28 12:09+0200\n"
+"PO-Revision-Date: 2003-10-02 09:54+0700\n"
 "Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
 "Language-Team: Gnome-Vi <Gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +32,8 @@ msgid "White-on-black text and icons"
 msgstr "Biểu tượng và chữ trắng nền đen"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Lớn, độ tương phản cao"
+msgid "High Contrast Large Print"
+msgstr "In lớn, độ tương phản cao"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -141,4 +142,3 @@ msgstr ""
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr ""
-
