@@ -1,9 +1,11 @@
-(Not yet released)
+(HEAD)
 =================
 
 Enhancements:
 
-- Added Smooth engine (Andrew Johnson). Automake 1.7 now required.
+- Added Simply Smooth theme and Smooth Engine (Andrew Johnson, Link Dupont).
+  Automake 1.7 now required.
+- More JDS menu converage for HC/HCI themes.
 
 2.7.3
 =====
