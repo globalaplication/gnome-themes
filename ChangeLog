@@ -1,3 +1,16 @@
+2003-07-24  Calum Benson  <calum.benson@sun.com>
+
+	Change stock media icon IDs from cdplayer-* to media-*,
+	and added a stock record icon. Affects a11y themes only,
+	fixes #96083. 
+
+	* HighContrastLargePrint/pixmaps/media-record.png: added
+	* HighContrastLargePrintInverse/pixmaps/media-record.png: added
+	* LargePrint/pixmaps/media-record.png: added
+	* LowContrastLargePrint/pixmaps/media-record.png: added
+	* common/all-stock-icons.data:
+	* common/media-stock-icons.rc:
+
 2003-07-12  Pablo Saratxaga  <pablo@mandrakesoft.com>
 
 	* configure.in: Added Walloon (wa) to ALL_LINGUAS
