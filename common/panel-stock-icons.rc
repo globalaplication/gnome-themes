@@ -31,7 +31,13 @@ style "panel-icons"
 #       stock ["panel-applet"] =        {{""}}
 #       stock ["panel-desktop"] =       {{""}}
 
-	stock ["commandline_browser"] =	{{"stock_commandline-browser.xpm"}}
-	stock ["commandline_history"] =	{{"stock_commandline-history.xpm"}}
+	stock ["panel-arrow-left"] =	{{"stock_panel_hide_left.png"}}
+	stock ["panel-arrow-right"] =	{{"stock_panel_hide_right.png"}}
+	stock ["panel-arrow-up"] =	{{"stock_panel_hide_up.png"}}
+	stock ["panel-arrow-down"] =	{{"stock_panel_hide_down.png"}}
+
+	stock ["commandline-browser"] =	{{"stock_commandline-browser.xpm"}}
+	stock ["commandline-history"] =	{{"stock_commandline-history.xpm"}}
+
 }
 class "GtkWidget" style "panel-icons"

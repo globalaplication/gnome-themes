@@ -1,3 +1,27 @@
+2003-01-20  Calum Benson  <set EMAIL_ADDRESS environment variable>
+
+	reviewed by: <delete if not using a buddy>
+
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_down.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_left.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_right.png:
+	* HighContrastLargePrint/pixmaps/stock_panel_hide_up.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_down.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_left.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_right.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_panel_hide_up.png:
+	* LargePrint/pixmaps/stock_panel_hide_down.png:
+	* LargePrint/pixmaps/stock_panel_hide_left.png:
+	* LargePrint/pixmaps/stock_panel_hide_right.png:
+	* LargePrint/pixmaps/stock_panel_hide_up.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_down.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_left.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_right.png:
+	* LowContrastLargePrint/pixmaps/stock_panel_hide_up.png:
+	* common/all-stock-icons.data:
+	* common/panel-stock-icons.rc:
+	* configure.in:
+
 2002-12-10  Calum Benson  <calum.benson@sun.com>
 
 	Added large print nautilus themes.
