@@ -60,7 +60,6 @@ class "GtkWidget" style "media-icons"
 
 style "default"
 {
-  font_name = "sans 10"
 
   GtkWidget::focus-line-pattern = "\2\1"
   GtkWidget::focus-line-width = 1

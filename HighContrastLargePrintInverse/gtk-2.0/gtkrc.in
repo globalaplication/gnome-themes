@@ -80,7 +80,7 @@ style "default"
   fg[NORMAL]      = { 1.00, 1.00, 1.00 }
   text[NORMAL]      = { 1.00, 1.00, 1.00 }
   bg[NORMAL]      = { 0.10, 0.10, 0.10 }
-  base[NORMAL]    = { 0.10, 0.10, 0.10 }
+  base[NORMAL]    = { 0.15, 0.15, 0.15 }
 
   fg[INSENSITIVE]      = { 0.4, 0.4, 0.4 }
   bg[INSENSITIVE]      = { 0.25, 0.25, 0.23 }
