@@ -1,4 +1,4 @@
-# Gnome yn Gymraeg.
+# gnome-themes yn Gymraeg.
 # Copyright (C) 2003 Free Software Foundation, Inc.
 # www.gyfieithu.co.uk <kyfieithu@dotmon.com>, 2003
 # and contributors.
