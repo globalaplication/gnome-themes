@@ -1,26 +1,35 @@
-2.6.1
+2.7.1
 =====
 
-New/updated translations:
+Bugfixes:
+- 126829, window menu icons not visible in a11y themes
 
+Enhancements:
+- Better mimetype coverage for HC and HCI themes.
+- Better use of symlinking for HC and HCI themes (=smaller tarball).
+- Some CVS surgery.
+
+New/updated translations:
 2004-04-15  Andras Timar  <timar@gnome.hu>
        * hu.po: Updated Hungarian translation.
 
-2004-04-08  Guntupalli Karunakar  <karunakar@freedomink.org>
+2004-04-09  Guntupalli Karunakar  <karunakar@freedomink.org>
         * gu.po: Added Gujurati translation by
-       Gujarati Team <magnet@magnet-i.com>.
+        Gujarati Team <magnet@magnet-i.com>.
 
-2004-04-03  Samúel Jón Gunnarsson  <sammi@techattack.nu>
+004-04-03  Samúel Jón Gunnarsson  <sammi@techattack.nu>
        * is.po: Updated Icelandic translation by
        Helgi Þormar Þorbjörnsson  <helgi@trance.is>
 
-2004-03-29  Guntupalli Karunakar  <karunakar@freedomink.org>
-       * pa.po: Added Punjabi translation by
-       jaswinder singh <jaswinderlinux@netscape.net>.
+2004-03-25  Guntupalli Karunakar  <karunakar@freedomink.org>
+        * pa.po: Added Punjabi translation by
+        Jaswinder Singh Phulewala <jaswinderlinux@netscape.net>.
+
+2004-03-23  Jordi Mallach  <jordi@sindominio.net>
+       * ca.po: Updated Catalan translation.
 
 2004-03-23  Åsmund Skjæveland  <aasmunds@fys.uio.no>
        * nn.po: Added Norwegian Nynorsk translation.
-
 
 2.6.0
 =====
