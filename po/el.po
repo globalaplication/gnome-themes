@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes VERSION\n"
-"POT-Creation-Date: 2003-02-03 20:20+0000\n"
+"POT-Creation-Date: 2003-02-03 12:59-0800\n"
 "PO-Revision-Date: 2002-12-25 12:37+0200\n"
 "Last-Translator: Kostas Papadimas <pkst@gmx.net>\n"
 "Language-Team: Greek <nls@tux.hellug.gr>\n"

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.mn\n"
-"POT-Creation-Date: 2003-02-03 20:20+0000\n"
+"POT-Creation-Date: 2003-02-03 12:59-0800\n"
 "PO-Revision-Date: 2003-01-31 09:38+0100\n"
 "Last-Translator: Sanlig Badral <badral@chinggis.com>\n"
 "Language-Team: Mongolian <mn@li.org>\n"

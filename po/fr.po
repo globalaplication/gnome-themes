@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.1.99\n"
-"POT-Creation-Date: 2003-02-03 20:20+0000\n"
+"POT-Creation-Date: 2003-02-03 12:59-0800\n"
 "PO-Revision-Date: 2003-02-01 20:25+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
