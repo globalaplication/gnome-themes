@@ -1,3 +1,11 @@
+2004-07-29  Calum Benson  <calum.benson@sun.com>
+
+	More JDS menu coverage.
+
+	* HighContrastLargePrint/icons/48x48/apps/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/apps/symlinks.dat:
+	* NEWS:
+
 2004-06-23  Calum Benson  <calum.benson@sun.com>
 
 	Fix symlinking so it works when building an RPM, too.
