@@ -8,7 +8,7 @@ I'm just getting all the icons into cvs so we don't lose them... we'll need some
 
 Easiest way to see them in action right now is to:
 
-- create a ~/.icons/default directory, containing Alex's default index.theme file from freedesktop.org.  (Hint:  just copy one of the <themename>/icons/index.theme files in this module and remove the "Inherits" line).
+- create a ~/.icons/default directory, containing Alex's default index.theme file from freedesktop.org.  (Hint:  just copy one of the <themename>/icons/index.theme files in this module, remove the "Inherits" line, and change the name on the "Name=" line to be 'default').
 
 $ mkdir ~/.icons/<themename>
 
@@ -16,9 +16,7 @@ $ cp -r <themename>/icons/* ~/.icons/<themename>/
 
 - choose <themename> from Applications->Desktop Prefs->Theme
 
-$ gconftool-2 -s /desktop/gnome/interface/icon_theme <themename> --type=string
-
-- restart the panel for good measure
+$ gconftool-2 -s /desktop/gnome/interface/icon_theme "<themename>" --type=string
 
 
 2. To create low contrast icons in GIMP from the original coloured icon
