@@ -1,5 +1,3 @@
-# translation of gnome-themes.HEAD.po to Spanish
-# translation of gnome-themes.HEAD.es.po to Spanish
 # translation of gnome-themes to Spanish
 # Copyright © 2002 The GNOME-Software Foundation
 # This file is distributed under the same license as the gnome-themes package.
@@ -10,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2003-08-28 11:00+0200\n"
+"POT-Creation-Date: 2004-08-17 23:24+0200\n"
+"PO-Revision-Date: 2004-08-17 23:25+0200\n"
 "Last-Translator: Francisco Javier F. Serrador <serrador@arrakis.es>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -82,6 +80,14 @@ msgstr "Crux"
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
 msgstr "Degradados suaves con resaltados pardos"
+
+#: desktop-themes/Glider/index.theme.in.h:1
+msgid "Glider"
+msgstr "Glider"
+
+#: desktop-themes/Glider/index.theme.in.h:2
+msgid "Simple, smooth and aesthetically pleasing"
+msgstr "Simple, suave y estéticamente complaciente"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
