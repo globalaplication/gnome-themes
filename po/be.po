@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Ales Nyakhaychyk <i18n@infonet.by>, 2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-themes 2.1\n"
+"POT-Creation-Date: 2002-11-26 05:56+0100\n"
+"PO-Revision-Date: 2002-11-27 21:23+0200\n"
+"Last-Translator: Ales Nyakhaychyk <i18n@infonet.by>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Чорны па беламу тэкст і значкі"
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Высокі кантраст"
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Перавернуты высокі кантраст"
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Белым па чорнаму тэкст і значкі"
+
