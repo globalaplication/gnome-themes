@@ -1,3 +1,7 @@
+2004-03-10  Alexander Winston  <alexander.winston@comcast.net>
+
+	* configure.in: Added en_CA to ALL_LINGUAS.
+
 2004-03-09  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
