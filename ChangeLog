@@ -1,3 +1,16 @@
+2003-12-09  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInver
+	se.rc:
+	* LargePrint/gtk-2.0/LargePrint.rc:
+	* LowContrastLargePrint/gtk-2.0/LowContrastLargePrint.rc:
+
+	Add expander-size and expander-spacing properties.  Still doesn't
+	work however, until bug #126282 is fixed.
+
+	* configure.in: bump revision for tarball
+
 2003-12-03  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/emblems/emblem-important.png:

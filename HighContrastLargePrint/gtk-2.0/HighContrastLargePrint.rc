@@ -30,6 +30,9 @@ style "default"
   GtkEntry::cursor_aspect_ratio = 0.1
   GtkCheckButton::indicator_size = 18
   NautilusIconContainer::frame_text = 1
+  GtkExpander::expander-size = 24
+  GtkExpander::expander-spacing = 8
+
 
   fg[NORMAL]      = "black"
   text[NORMAL]      = "black"

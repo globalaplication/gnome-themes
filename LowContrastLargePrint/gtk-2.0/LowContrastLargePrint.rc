@@ -27,6 +27,9 @@ style "default"
   GtkTextView::cursor_color    = { 0.60, 0.40, 0.40 }
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkEntry::cursor_aspect_ratio = 0.1
+  GtkExpander::expander-size = 24
+  GtkExpander::expander-spacing = 8
+
 
   fg[NORMAL]      = { 0.40, 0.40, 0.40 }
   text[NORMAL]      = { 0.40, 0.40, 0.40 }
