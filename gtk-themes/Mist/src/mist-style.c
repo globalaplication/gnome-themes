@@ -1232,26 +1232,7 @@ draw_handle(GtkStyle *style,
 	g_return_if_fail(window != NULL);
 	
 	sanitize_size (window, &width, &height);
-	
-	if (DETAIL("paned")) {
-		int i;
-		
-		light_gc = style->light_gc[state_type];
-		dark_gc = style->dark_gc[state_type];
-		if (orientation == GTK_ORIENTATION_HORIZONTAL) {
-			for (i = x + 5; i < x + width - 5; i += 10) {
-				mist_dot(window, light_gc, dark_gc,
-					 i, y + height / 2);
-			}
-		} else {
-			for (i = y + 5; i < y + height - 5; i += 10) {
-				mist_dot(window, light_gc, dark_gc,
-					 x + width / 2, i);
-			}
-		}
-		return;
-	}
-	
+
 	gtk_paint_box(style, window, state_type, shadow_type, area, widget,
 		      detail, x, y, width, height);
 	

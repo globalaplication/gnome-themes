@@ -1,5 +1,10 @@
 2003-12-13  Dave Camp  <dave@ximian.com>
 
+	* src/mist-style.c: (draw_handle): Only draw three dots on paned
+	widgets.
+
+2003-12-13  Dave Camp  <dave@ximian.com>
+
 	* Theme/gtkrc: Lightened the active color a bit.
 	* src/mist-style.c: (draw_shadow): Draw a border on top of status bars.
 	(draw_box): Don't draw a border on the right hand side of dockitems.
