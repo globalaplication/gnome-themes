@@ -1,20 +1,23 @@
+# translation of el.po to Greek
 # gnome-themes.
 # Copyright (C) Free Software Foundation Inc. 2002,2003
 # This file is distributed under the same license as the PACKAGE package.
-# Kostas Papadimas <pkst@gmx.net>, 2002,2003
 # kostas:32 messages, 20 Feb2003
+# kostas:15Aug2003, ome more update
+# Kostas Papadimas <pkst@gmx.net>, 2002,2003
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes VERSION\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-02-20 18:41+0200\n"
+"Project-Id-Version: el\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-08-15 19:36+0300\n"
+"PO-Revision-Date: 2003-08-15 19:37+0300\n"
 "Last-Translator: Kostas Papadimas <pkst@gmx.net>\n"
 "Language-Team: Greek <nls@tux.hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.0\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -33,8 +36,8 @@ msgid "White-on-black text and icons"
 msgstr "Λευκό σε μαύρα εικονιδια και κείμενο"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Μεγάλη Υψηλή αντίθεση"
+msgid "High Contrast Large Print"
+msgstr "Υψηλή αντίθεση με μεγάλους χαρακτήρες"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -143,3 +146,4 @@ msgstr "Smokey-Blue"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
+
