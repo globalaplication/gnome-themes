@@ -1,3 +1,20 @@
+2003-12-03  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/emblems/emblem-important.png:
+	* HighContrastLargePrint/icons/48x48/emblems/emblem-noread.png:
+	* HighContrastLargePrint/icons/48x48/emblems/emblem-personal.png:
+	* HighContrastLargePrint/icons/48x48/emblems/emblem-special.png:
+	* HighContrastLargePrintInverse/icons/48x48/emblems/emblem-importan
+	t.png:
+	* HighContrastLargePrintInverse/icons/48x48/emblems/emblem-noread.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/emblems/emblem-personal
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/emblems/emblem-special.
+	png:
+
+	Add some high contrast emblems, provided by Luca Feretti.
+
 2003-11-27  Calum Benson  <calum.benson@sun.com>
 
 	Make minicommander icons bigger for large print themes.
