@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-22 20:35+0100\n"
+"POT-Creation-Date: 2003-01-24 20:33+0100\n"
+"PO-Revision-Date: 2003-01-24 21:21+0100\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
@@ -72,72 +72,72 @@ msgstr "Lavkontrast, stor"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "Bløde farveovergange med højlys"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "Tyndt og hurtigt"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Minimalistisk udseende"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr ""
+msgstr "Tåge"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Havdrøm"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Farverne fra stranden"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "Almindelig"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Traditionel 3d-udseende med hårde kanter"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Et blødt, glasagtigt udseende"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Røgblå"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Flad blå"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Sandet"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Røgblå"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Røgrød"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "Standardtemaet til Gnome"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "Gnome"
