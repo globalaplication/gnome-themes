@@ -1,3 +1,10 @@
+2003-01-20  Seth Nickell  <snickell@stanford.edu>
+
+	* Makefile.am:
+	* check-data.sh:
+
+	Pass make dist.
+
 2003-01-10  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
 
 	* configure.in: Added Russian to ALL_LINGUAS.

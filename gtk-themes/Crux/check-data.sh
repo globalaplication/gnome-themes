@@ -8,7 +8,7 @@ images=`grep \.png gtkrc.in | sed -e 's/^.*image *= *"\(.*\)".*$/\1/'`
 missing=no
 
 for f in $images; do
-  fgrep $f data/Makefile.am >/dev/null \
+  fgrep $f pixmaps/Makefile.am >/dev/null \
       || { missing=yes; echo "data/Makefile.am is missing $f"; }
 done
 

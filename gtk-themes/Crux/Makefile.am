@@ -4,13 +4,9 @@ SUBDIRS = src pixmaps
 EXTRA_DIST =			\
 	gtkrc.in		\
 	make-gtkrc.pl		\
-	crux.spec.in		\
 	check-data.sh
 
-dist-hook: spec-hook check-data
-
-spec-hook : crux.spec
-	cp $^ $(distdir)
+dist-hook: check-data
 
 check-data : check-data.sh
 	$(SHELL) $<
