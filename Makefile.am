@@ -16,7 +16,6 @@ install: install-recursive
 		if !(test -d $$nautilusthemedir); then \
 			mkdir $$nautilusthemedir ; \
 		fi; \
-		chmod a+r $$nautilusthemedir ; \
 	$(LN_S) -f "$$iconthemedir/apps/gnome-starthere.png" "$$nautilusthemedir/gnome-starthere.png" ; \
 	$(LN_S) -f "$$iconthemedir/devices/gnome-dev-cdrom-audio.png" "$$nautilusthemedir/i-cdrom.png" ; \
 	$(LN_S) -f "$$iconthemedir/devices/gnome-dev-cdrom.png" "$$nautilusthemedir/i-cdrom.png" ; \
@@ -175,4 +174,5 @@ install: install-recursive
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-video-x-msvideo.png" "$$nautilusthemedir/gnome-video-x-msvideo.png" ; \
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-video-x-ms-wmv.png" "$$nautilusthemedir/gnome-video-x-ms-wmv.png" ; \
 	$(LN_S) -f "$$iconthemedir/mimetypes/gnome-mime-x-font-afm.png" "$$nautilusthemedir/gnome-x-font-afm.png" ; \
+	chmod -R a+r $$nautilusthemedir ; \
 	done
