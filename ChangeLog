@@ -1,3 +1,16 @@
+2003-04-16  Calum Benson  <set EMAIL_ADDRESS environment variable>
+
+	* configure.in:
+
+	Added panel-button property to LargePrint themes, so the
+	panel hide buttons size properly.
+
+2003-04-04  Calum Benson  <calum.benson@sun.com>
+
+	* configure.in:
+
+	Bump revision for 2.3.1 tarball.
+
 2003-03-14  Malcolm Tredinnick <malcolm@commsecure.com.au>
 
 	* */.../*/.cvsignore: Add .cvsignore files all over the place to
