@@ -290,7 +290,7 @@ style "menuitem"
 	function        = CHECK
 	recolorable     = TRUE
 	shadow          = OUT
-	overlay_file    = "mcheck2.png"
+	overlay_file    = "check2.png"
 	overlay_stretch = FALSE
       }
     image
@@ -403,7 +403,7 @@ style "slider" {
 			recolorable	= FALSE
 			state		= INSENSITIVE
 			detail		= "trough"
-			file		= "<none>"
+#			file		= "<none>"
 			orientation	= HORIZONTAL
 		}
 		image {
@@ -411,7 +411,7 @@ style "slider" {
 			state		= INSENSITIVE
 			recolorable	= FALSE
 			detail		= "trough"
-			file		= "<none>"
+#			file		= "<none>"
 			orientation	= VERTICAL
 		}
 		# TROUGH NORMAL
@@ -809,9 +809,9 @@ style "spin"
 
 
 style "tooltip"{
-	bg_pixmap[NORMAL]      = "<none>"
-	bg_pixmap[PRELIGHT]    = "<none>"
-	bg_pixmap[ACTIVE]      = "<none>"
-	bg_pixmap[INSENSITIVE] = "<none>"
+#	bg_pixmap[NORMAL]      = "<none>"
+#	bg_pixmap[PRELIGHT]    = "<none>"
+#	bg_pixmap[ACTIVE]      = "<none>"
+#	bg_pixmap[INSENSITIVE] = "<none>"
 }
 widget "gtk-tooltips" style "tooltip"

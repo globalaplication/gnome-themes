@@ -1,3 +1,17 @@
+2003-01-30  Seth Nickell  <snickell@stanford.edu>
+
+	* COPYING:
+
+	GPL license.
+	
+	* gtk-themes/Grand-Canyon/gtkrc:
+
+	Fix so it doesn't generate a bunch of warnings.
+	
+	* po/POTFILES.in:
+
+	Add desktop-themes/Grand-Canyon/index.theme.in
+	
 2003-01-27  Takeshi AIHANA <aihana@gnome.gr.jp>
 
 	* configure.in: Added ja into ALL_LINGUAS
