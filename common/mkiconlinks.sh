@@ -10,8 +10,7 @@
 # $(icondir)/filename3 ... $(icondir)/filenameN.
 
 exec < $1
-
-echo $icondir
+cd $2
 
 read NEXTLINE 
 while [ ! -z "$NEXTLINE" ] ; do
@@ -23,12 +22,13 @@ while [ ! -z "$NEXTLINE" ] ; do
 	LINKTO=`echo $NEXTLINE | awk '/:/{for (i=2; i<=NF; i++) print $i}'`
 
 	if [ ! -z "$LINKTO" ] ; then
-		echo "Creating symlinks to $2/$ORIG_FILE"
+		echo "Creating symlinks to `pwd`/$ORIG_FILE"
 	fi
 
 	#Link each pair in turn
 	for i in $LINKTO ; do
-		ln -s -f "$2/$ORIG_FILE" "$2/$i"
+		ln -s -f "$ORIG_FILE" "$i"
+#		echo $i >> removable.txt
 	done
 
 	read NEXTLINE 
