@@ -86,6 +86,27 @@ draw_varrow (GdkWindow     *window,
 
 static GtkStyleClass *parent_class = NULL;
 
+
+static GtkShadowType
+get_shadow_type (GtkStyle *style, const char *detail, GtkShadowType requested)
+{
+    GtkShadowType retval = GTK_SHADOW_NONE;
+
+    if (requested != GTK_SHADOW_NONE) {
+        retval = GTK_SHADOW_ETCHED_IN;
+    }
+
+    if (DETAIL ("dockitem") || DETAIL ("handlebox_bin") || DETAIL ("spinbutton_up") || DETAIL ("spinbutton_down")) {
+        retval = GTK_SHADOW_NONE;
+    } else if (DETAIL ("button") || DETAIL ("togglebutton") || DETAIL ("notebook") || DETAIL ("optionmenu")) {
+        retval = requested;
+    } else if (DETAIL ("menu")) {
+        retval = GTK_SHADOW_ETCHED_IN;
+    }
+
+    return retval;
+}
+
 static void
 calculate_arrow_geometry (GtkArrowType  arrow_type,
 			  gint         *x,
@@ -1544,6 +1565,8 @@ draw_tab(GtkStyle * style,
                 x, y, width, height);
 }
 
+
+
 static void
 draw_shadow_gap(GtkStyle * style,
                 GdkWindow * window,
@@ -1560,47 +1583,133 @@ draw_shadow_gap(GtkStyle * style,
                 gint gap_x,
                 gint gap_width)
 {
-  GdkRectangle        rect;
+	GdkGC *gc1 = NULL;
+	GdkGC *gc2 = NULL;
+	
+	g_return_if_fail (window != NULL);
+	
+	sanitize_size (window, &width, &height);
+	shadow_type = get_shadow_type (style, detail, shadow_type);
+	
+	switch (shadow_type) {
+	case GTK_SHADOW_NONE:
+		return;
+	case GTK_SHADOW_IN:
+		gc1 = style->dark_gc[state_type];
+		gc2 = style->light_gc[state_type];
+		break;
+	case GTK_SHADOW_OUT:
+		gc1 = style->light_gc[state_type];
+		gc2 = style->dark_gc[state_type];
+		break;
+	case GTK_SHADOW_ETCHED_IN:
+	case GTK_SHADOW_ETCHED_OUT:
+		gc1 = style->dark_gc[state_type];
+		gc2 = style->dark_gc[state_type];
+	}
 
-  g_return_if_fail(style != NULL);
-  g_return_if_fail(window != NULL);
+	if (area) {
+		gdk_gc_set_clip_rectangle (gc1, area);
+		gdk_gc_set_clip_rectangle (gc2, area);
+	}
+	
+	switch (gap_side) {
+        case GTK_POS_TOP:
+		if (gap_x > 0) {
+			gdk_draw_line (window, gc1, 
+				       x, y, 
+				       x + gap_x, y);
+		}
+		if ((width - (gap_x + gap_width)) > 0) {
+			gdk_draw_line (window, gc1, 
+				       x + gap_x + gap_width - 1, y,
+				       x + width - 1, y);
+		}
+		gdk_draw_line (window, gc1, 
+			       x, y, 
+			       x, y + height - 1);
+		gdk_draw_line (window, gc2,
+			       x + width - 1, y,
+			       x + width - 1, y + height - 1);
+		gdk_draw_line (window, gc2,
+			       x, y + height - 1,
+			       x + width - 1, y + height - 1);
+		break;
+        case GTK_POS_BOTTOM:
+		gdk_draw_line (window, gc1,
+			       x, y,
+			       x + width - 1, y);
+		gdk_draw_line (window, gc1, 
+			       x, y, 
+			       x, y + height - 1);
+		gdk_draw_line (window, gc2,
+			       x + width - 1, y,
+			       x + width - 1, y + height - 1);
 
-  gtk_paint_shadow(style, window, state_type, shadow_type, area, widget, detail,
-                   x, y, width, height);
+		if (gap_x > 0) {
+			gdk_draw_line (window, gc2, 
+				       x, y + height - 1, 
+				       x + gap_x, y + height - 1);
+		}
+		if ((width - (gap_x + gap_width)) > 0) {
+			gdk_draw_line (window, gc2, 
+				       x + gap_x + gap_width - 1, y + height - 1,
+				       x + width - 1, y + height - 1);
+		}
+		
+		break;
+        case GTK_POS_LEFT:
+		gdk_draw_line (window, gc1,
+			       x, y,
+			       x + width - 1, y);
+		if (gap_x > 0) {
+			gdk_draw_line (window, gc1, 
+				       x, y,
+				       x, y + gap_x);
+		}
+		if ((height - (gap_x + gap_width)) > 0) {
+			gdk_draw_line (window, gc1, 
+				       x, y + gap_x + gap_width - 1,
+				       x, y + height - 1);
+		}
+		gdk_draw_line (window, gc2,
+			       x + width - 1, y,
+			       x + width - 1, y + height - 1);
+		gdk_draw_line (window, gc2,
+			       x, y + height - 1,
+			       x + width - 1, y + height - 1);
+		break;
+        case GTK_POS_RIGHT:
+		gdk_draw_line (window, gc1,
+			       x, y,
+			       x + width - 1, y);
+		gdk_draw_line (window, gc1, 
+			       x, y, 
+			       x, y + height - 1);
 
-  switch (gap_side)
-    {
-    case GTK_POS_TOP:
-      rect.x = x + gap_x;
-      rect.y = y;
-      rect.width = gap_width;
-      rect.height = 2;
-      break;
-    case GTK_POS_BOTTOM:
-      rect.x = x + gap_x;
-      rect.y = y + height - 2;
-      rect.width = gap_width;
-      rect.height = 2;
-      break;
-    case GTK_POS_LEFT:
-      rect.x = x;
-      rect.y = y + gap_x;
-      rect.width = 2;
-      rect.height = gap_width;
-      break;
-    case GTK_POS_RIGHT:
-      rect.x = x + width - 2;
-      rect.y = y + gap_x;
-      rect.width = 2;
-      rect.height = gap_width;
-      break;
-    }
 
-  gtk_style_apply_default_background(style, window,
-                                     widget && !GTK_WIDGET_NO_WINDOW(widget),
-                                     state_type, area,
-                                     rect.x, rect.y, rect.width, rect.height);
+		if (gap_x > 0) {
+			gdk_draw_line (window, gc2, 
+				       x + width - 1, y,
+				       x + width - 1, y + gap_x);
+		}
+		if ((height - (gap_x + gap_width)) > 0) {
+			gdk_draw_line (window, gc2, 
+				       x + width - 1, y + gap_x + gap_width - 1,
+				       x + width - 1, y + height - 1);
+		}
+		gdk_draw_line (window, gc2,
+			       x, y + height - 1,
+			       x + width - 1, y + height - 1);
+
+	}
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (gc1, NULL);
+		gdk_gc_set_clip_rectangle (gc2, NULL);
+	}
 }
+
 
 static void
 draw_box_gap(GtkStyle * style,
@@ -1618,46 +1727,17 @@ draw_box_gap(GtkStyle * style,
              gint gap_x,
              gint gap_width)
 {
-  GdkRectangle        rect;
+    sanitize_size (window, &width, &height);
 
-  g_return_if_fail(style != NULL);
-  g_return_if_fail(window != NULL);
-
-  gtk_paint_box(style, window, state_type, shadow_type, area, widget, detail,
-                x, y, width, height);
-
-  switch (gap_side)
-    {
-    case GTK_POS_TOP:
-      rect.x = x + gap_x;
-      rect.y = y;
-      rect.width = gap_width;
-      rect.height = 2;
-      break;
-    case GTK_POS_BOTTOM:
-      rect.x = x + gap_x;
-      rect.y = y + height - 2;
-      rect.width = gap_width;
-      rect.height = 2;
-      break;
-    case GTK_POS_LEFT:
-      rect.x = x;
-      rect.y = y + gap_x;
-      rect.width = 2;
-      rect.height = gap_width;
-      break;
-    case GTK_POS_RIGHT:
-      rect.x = x + width - 2;
-      rect.y = y + gap_x;
-      rect.width = 2;
-      rect.height = gap_width;
-      break;
-    }
-
-  gtk_style_apply_default_background(style, window,
-                                     widget && !GTK_WIDGET_NO_WINDOW(widget),
-                                     state_type, area, rect.x, rect.y, rect.width, rect.height);
+    gtk_style_apply_default_background(style, window,
+            widget && !GTK_WIDGET_NO_WINDOW(widget),
+            state_type, area,
+            x, y, width, height);
+    draw_shadow_gap (style, window, state_type, shadow_type,
+            area, widget, detail, x, y, width, height,
+            gap_side, gap_x, gap_width);
 }
+
 
 static void
 draw_extension(GtkStyle * style,
@@ -1677,6 +1757,8 @@ draw_extension(GtkStyle * style,
 
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
+
+  sanitize_size (window, &width, &height);
 
   gtk_paint_box(style, window, state_type, shadow_type, area, widget, detail,
                 x, y, width, height);
@@ -2353,8 +2435,12 @@ thinice_style_class_init (ThiniceStyleClass *klass)
   style_class->draw_option = draw_option;
   style_class->draw_tab = draw_tab;
   style_class->draw_shadow_gap = draw_shadow_gap;
+
+  /* box around notebooks */
   style_class->draw_box_gap = draw_box_gap;
+  /* the tab */
   style_class->draw_extension = draw_extension;
+
   /*style_class->draw_focus = draw_focus;*/
   style_class->draw_slider = draw_slider;
   style_class->draw_handle = draw_handle;
