@@ -1,6 +1,10 @@
-2002-10-09  Calum Benson  <set EMAIL_ADDRESS environment variable>
+2002-10-09  Calum Benson  <calum.benson@sun.com>
 
-	reviewed by: <delete if not using a buddy>
+	* common/gtk-stock-icons.rc:
+
+	Added 'terminal-edit' icon, used by gnome-terminal.
+
+2002-10-09  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrast/icons/48x48/apps/Makefile.am:
 	* HighContrastInverse/icons/48x48/apps/Makefile.am:
@@ -9,9 +13,9 @@
 	* LowContrast/icons/48x48/apps/Makefile.am:
 	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
 
-2002-10-09  Calum Benson  <set EMAIL_ADDRESS environment variable>
+	Fixed misnaming of 'gnome-icon-transparent.png' in all themes.
 
-	reviewed by: <delete if not using a buddy>
+2002-10-09  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrast/icons/48x48/apps/gnome-logo-icon-transparen.png:
 	* HighContrast/icons/48x48/apps/gnome-logo-icon-transparent.png:
@@ -33,6 +37,8 @@
 	.png:
 	* LowContrastLargePrint/icons/48x48/apps/gnome-logo-icon-transparen
 	t.png:
+	
+	Fixed misnaming of 'gnome-icon-transparent.png' in all themes.
 
 2002-10-03  Calum Benson  <calum.benson@sun.com>
 
