@@ -902,6 +902,31 @@ draw_check(GtkStyle *style,
 		gdk_draw_rectangle(window,
 				   widget->style->base_gc[GTK_STATE_SELECTED],
 				   TRUE, x + 2, y + 2, width - 5, height - 5);
+	} else if (shadow_type == GTK_SHADOW_ETCHED_IN) { /* inconsistent */
+#define gray50_width 2
+#define gray50_height 2
+		GdkBitmap *stipple;
+		static const char gray50_bits[] = {
+			0x02, 0x01
+		};
+		
+		stipple = gdk_bitmap_create_from_data (window,
+						       gray50_bits, 
+						       gray50_width,
+						       gray50_height);
+  
+		gdk_gc_set_fill (widget->style->base_gc[GTK_STATE_SELECTED],
+				 GDK_STIPPLED);
+		gdk_gc_set_stipple (widget->style->base_gc[GTK_STATE_SELECTED],
+				    stipple);
+		gdk_draw_rectangle(window,
+				   widget->style->base_gc[GTK_STATE_SELECTED],
+				   TRUE, x + 2, y + 2, width - 5, height - 5);
+		gdk_gc_set_fill (widget->style->base_gc[GTK_STATE_SELECTED],
+				 GDK_SOLID);
+
+#undef gray50_width
+#undef gray50_height 
 	}
 }
 
