@@ -1,5 +1,17 @@
 2004-05-13  Calum Benson  <calum.benson@sun.com>
 
+Complete gorilla tree pruning.
+
+	Remove:
+	* gorilla/gtk-2.0/*:
+	* gorilla/gtk/*:
+	* gorilla/scalable/devices/*:
+	* gorilla/scalable/emblems/*:
+	* gorilla/scalable/filesystems/*:
+	* gorilla/scalable/mimetypes/*:
+
+2004-05-13  Calum Benson  <calum.benson@sun.com>
+
 Minor tree surgery; split (unbuilt) gorilla theme into gtk-theme and icon-theme.
 
 	Removed:	
