@@ -18,33 +18,33 @@ style "panel-icons"
 {
 	stock ["panel-run"] =		{{"stock_run.png", *,*,*}}
 	stock ["panel-searchtool"] =	{{"stock_searchtool.png", *,*,*}}
-#	stock ["panel-screenshot"] =	{{"", *,*,*}}
+	stock ["panel-screenshot"] =	{{"stock_screenshot.png", *,*,*}}
 	stock ["panel-lockscreen"] =	{{"stock_lockscreen.png", *,*,*}}
 	stock ["panel-logout"] =	{{"stock_logout.png", *,*,*}}
 	stock ["panel-gnome-logo"] =	{{"stock_gnome-logo.png", *,*,*}}
 
-#	stock ["panel-debian"] =	{{"", *,*,*}}
-#	stock ["panel-suse"] =		{{"", *,*,*}}
 	stock ["panel-cde"] =		{{"stock_cde-menu.png", *,*,*}}
+#TBD	stock ["panel-debian"] =	{{"", *,*,*}}
+#TBD	stock ["panel-kde"] =		{{"", *,*,*}}
+#TBD	stock ["panel-suse"] =		{{"", *,*,*}}
 
-#	stock ["panel-amusements"] =	{{"", *,*,*}}
-#	stock ["panel-multimedia"] =	{{"", *,*,*}}
+#TBD	stock ["panel-amusements"] =	{{"", *,*,*}}
+	stock ["panel-multimedia"] =	{{"stock_multimedia.png", *,*,*}}
 
 	stock ["panel-internet"] =	{{"stock_internet.png", *,*,*}}
 	stock ["panel-utility"] =	{{"stock_gnome-util.png", *,*,*}}
 
-#	stock ["panel-corner-type"] =	{{"", *,*,*}}
-#	stock ["panel-edge-type"] =	{{"", *,*,*}}
-#	stock ["panel-floating-type"] =	{{"", *,*,*}}
-#	stock ["panel-sliding-type"] =	{{"", *,*,*}}
-#	stock ["panel-menu-type"] =	{{"", *,*,*}}
+	stock ["panel-corner-type"] =	{{"stock_corner-panel.png", *,*,*}}
+	stock ["panel-edge-type"] =	{{"stock_edge-panel.png", *,*,*}}
+	stock ["panel-floating-type"] =	{{"stock_floating-panel.png", *,*,*}}
+	stock ["panel-sliding-type"] =	{{"stock_sliding-panel.png", *,*,*}}
+	stock ["panel-menu-type"] =	{{"stock_menu-panel.png", *,*,*}}
 
 	stock ["panel-launcher"] =	{{"stock_launcher-program.png", *,*,*}}
 
-#	stock ["panel-drawer"] =	{{"", *,*,*}}
+	stock ["panel-drawer"] =	{{"stock_drawer.png", *,*,*}}
 #	stock ["panel-applet"] =	{{"", *,*,*}}
 #	stock ["panel-desktop"] =	{{"", *,*,*}}
-#	stock ["panel-kde"] =		{{"", *,*,*}}
 
 }
 
