@@ -61,6 +61,7 @@ thinice_tab(GtkStyle * style,
             gint width,
             gint height);
 
+#if 0
 static void
 draw_harrow (GdkWindow     *window,
              GdkGC         *gc,
@@ -81,9 +82,90 @@ draw_varrow (GdkWindow     *window,
              gint           y,
              gint           width,
              gint           height);
+#endif
 
 static GtkStyleClass *parent_class = NULL;
 
+static void
+calculate_arrow_geometry (GtkArrowType  arrow_type,
+			  gint         *x,
+			  gint         *y,
+			  gint         *width,
+			  gint         *height)
+{
+  gint w = *width;
+  gint h = *height;
+  
+  switch (arrow_type)
+    {
+    case GTK_ARROW_UP:
+    case GTK_ARROW_DOWN:
+      w += (w % 2) - 1;
+      h = (w / 2 + 1);
+      
+      if (h > *height)
+	{
+	  h = *height;
+	  w = 2 * h - 1;
+	}
+      
+      if (arrow_type == GTK_ARROW_DOWN)
+	{
+	  if (*height % 2 == 1 || h % 2 == 0)
+	    *height += 1;
+	}
+      else
+	{
+	  if (*height % 2 == 0 || h % 2 == 0)
+	    *height -= 1;
+	}
+      break;
+
+    case GTK_ARROW_RIGHT:
+    case GTK_ARROW_LEFT:
+      h += (h % 2) - 1;
+      w = (h / 2 + 1);
+      
+      if (w > *width)
+	{
+	  w = *width;
+	  h = 2 * w - 1;
+	}
+      
+      if (arrow_type == GTK_ARROW_RIGHT)
+	{
+	  if (*width % 2 == 1 || w % 2 == 0)
+	    *width += 1;
+	}
+      else
+	{
+	  if (*width % 2 == 0 || w % 2 == 0)
+	    *width -= 1;
+	}
+      break;
+      
+    default:
+      /* should not be reached */
+      break;
+    }
+
+  *x += (*width - w) / 2;
+  *y += (*height - h) / 2;
+  *height = h;
+  *width = w;
+}
+static void
+sanitize_size (GdkWindow *window,
+	       gint      *width,
+	       gint      *height)
+{
+  if ((*width == -1) && (*height == -1))
+    gdk_window_get_size (window, width, height);
+  else if (*width == -1)
+    gdk_window_get_size (window, width, NULL);
+  else if (*height == -1)
+    gdk_window_get_size (window, NULL, height);
+}
 
 static void
 draw_hline(GtkStyle * style,
@@ -194,12 +276,7 @@ draw_shadow(GtkStyle     *style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   if (DETAIL("entry") || DETAIL("text")) {
       gint entry_width;
@@ -435,6 +512,8 @@ draw_polygon(GtkStyle * style,
     }
 }
 
+#if 0
+void
 draw_shadearrow(GtkStyle * style,
                 GdkWindow * window,
                 GtkStateType state_type,
@@ -495,7 +574,78 @@ draw_shadearrow(GtkStyle * style,
     }
 
 }
+#endif
 
+static void
+draw_black_arrow (GdkWindow     *window,
+	    GdkGC         *gc,
+	    GdkRectangle  *area,
+	    GtkArrowType   arrow_type,
+	    gint           x,
+	    gint           y,
+	    gint           width,
+	    gint           height)
+{
+  gint i, j;
+
+  if (area)
+    gdk_gc_set_clip_rectangle (gc, area);
+
+  if (arrow_type == GTK_ARROW_DOWN)
+    {
+      for (i = 0, j = 0; i < height; i++, j++)
+	gdk_draw_line (window, gc, x + j, y + i, x + width - j - 1, y + i);
+    }
+  else if (arrow_type == GTK_ARROW_UP)
+    {
+      for (i = height - 1, j = 0; i >= 0; i--, j++)
+	gdk_draw_line (window, gc, x + j, y + i, x + width - j - 1, y + i);
+    }
+  else if (arrow_type == GTK_ARROW_LEFT)
+    {
+      for (i = width - 1, j = 0; i >= 0; i--, j++)
+	gdk_draw_line (window, gc, x + i, y + j, x + i, y + height - j - 1);
+    }
+  else if (arrow_type == GTK_ARROW_RIGHT)
+    {
+      for (i = 0, j = 0; i < width; i++, j++)
+	gdk_draw_line (window, gc, x + i, y + j, x + i, y + height - j - 1);
+    }
+
+  if (area)
+    gdk_gc_set_clip_rectangle (gc, NULL);
+}
+
+static void
+draw_arrow(GtkStyle * style,
+           GdkWindow * window,
+           GtkStateType state,
+           GtkShadowType shadow,
+           GdkRectangle * area,
+           GtkWidget * widget,
+           const gchar *detail,
+           GtkArrowType arrow_type,
+           gint fill, gint x, gint y, gint width, gint height)
+{
+  gint original_width, original_x;
+  
+  sanitize_size (window, &width, &height);
+
+  original_width = width;
+  original_x = x;
+
+  calculate_arrow_geometry (arrow_type, &x, &y, &width, &height);
+  
+  if (detail && strcmp (detail, "menuitem") == 0)
+    x = original_x + original_width - width;
+
+  if (state == GTK_STATE_INSENSITIVE)
+    draw_black_arrow (window, style->white_gc, area, arrow_type,
+		x + 1, y + 1, width, height);
+  draw_black_arrow (window, style->fg_gc[state], area, arrow_type,
+	      x, y, width, height);
+}
+#if 0
 static void
 draw_arrow(GtkStyle * style,
            GdkWindow * window,
@@ -561,12 +711,7 @@ draw_arrow(GtkStyle * style,
       return;
     }
 
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   half_width = width / 2;
   half_height = height / 2;
@@ -664,8 +809,10 @@ draw_arrow(GtkStyle * style,
         }
     }
 }
+#endif
 
 
+#if 0
 static void
 draw_harrow (GdkWindow     *window,
              GdkGC         *gc,
@@ -772,6 +919,7 @@ draw_varrow (GdkWindow     *window,
   if (area)
     gdk_gc_set_clip_rectangle (gc, NULL);
 }
+#endif
 
 static void
 draw_diamond(GtkStyle * style,
@@ -792,12 +940,7 @@ draw_diamond(GtkStyle * style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   half_width = width / 2;
   half_height = height / 2;
@@ -959,12 +1102,7 @@ draw_box(GtkStyle * style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   light_gc = style->light_gc[state_type];
   dark_gc = style->dark_gc[state_type];
@@ -1230,12 +1368,7 @@ draw_flat_box(GtkStyle * style,
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
 
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   gc1 = style->bg_gc[state_type];
 
@@ -1853,12 +1986,7 @@ draw_handle(GtkStyle * style,
   printf("draw_handle(state=%d, shadow=%d, detail=%s, [%d,%d]@[%d,%d]\n",
          state_type, shadow_type, detail?detail:"nul",width,height,x,y);
 #endif
-  if ((width == -1) && (height == -1))
-    gdk_window_get_size(window, &width, &height);
-  else if (width == -1)
-    gdk_window_get_size(window, &width, NULL);
-  else if (height == -1)
-    gdk_window_get_size(window, NULL, &height);
+  sanitize_size(window, &width, &height);
 
   if (DETAIL("paned")) 
     {
