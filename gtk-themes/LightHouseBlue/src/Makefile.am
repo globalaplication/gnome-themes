@@ -13,3 +13,4 @@ liblighthouseblue_la_SOURCES = 	\
 liblighthouseblue_la_LDFLAGS = -module -avoid-version
 liblighthouseblue_la_LIBADD =  $(GTKTHEME_LIBS)
 
+EXTRA_DIST = util.c
