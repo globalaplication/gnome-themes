@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD\n"
+"Project-Id-Version: gnome-themes.HEAD.sq\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-01-15 14:28+0100\n"
-"PO-Revision-Date: 2004-01-15 14:30+0100\n"
+"POT-Creation-Date: 2004-02-01 19:34+0100\n"
+"PO-Revision-Date: 2004-02-01 19:33+0100\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +106,7 @@ msgstr "Ngjyrat e bregdetit"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr "Thjeshtë"
+msgstr "E thjeshtë"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -143,4 +143,3 @@ msgstr "Smokey-Blu"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-i kuq"
-
