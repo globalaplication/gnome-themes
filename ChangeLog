@@ -1,3 +1,10 @@
+2003-02-03  Calum Benson  <calum.benson@sun.com>
+
+	* Makefile.am:
+
+	Applied patch from laca to make symlinks relative.
+
+
 2003-01-20  Calum Benson  <set EMAIL_ADDRESS environment variable>
 
 	reviewed by: <delete if not using a buddy>
