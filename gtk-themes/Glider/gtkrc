@@ -414,6 +414,12 @@ widget_class "*GtkEntry" style "textentry"
 
 style "treeview"
 {
-	GtkWidget::focus_padding = 1
+    GtkWidget::focus_padding = 1
 }
 widget_class "*TreeView*" style "treeview"
+
+style "ephybug"
+{
+    GtkWidget::interior_focus = 1
+}
+widget "*Ephy*Location*" style "ephybug"
