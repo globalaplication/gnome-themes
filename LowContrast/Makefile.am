@@ -13,5 +13,6 @@ DISTCLEANFILES= index.theme
 
 if CORE_THEMES_ONLY
 install: install-recursive
-	mv $(DESTDIR)$(datadir)/themes/LowContrast/index.theme $(DESTDIR)$(datadir)/themes/LowContrast/index.theme~
+	rm -f $(DESTDIR)$(datadir)/themes/LowContrast/index.theme~
+	mv $(DESTDIR)$(datadir)/themes/LowContrast/index.theme $(DESTDIR)$(datadir)/themes/LowContrast/index.theme.disabled
 endif

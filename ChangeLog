@@ -1,4 +1,17 @@
-2003-09-30  Calum Benson  <calum.benson@sun.com>
+2003-10-06  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+
+	Change name of installed but disabled theme files to 
+	index.theme.disabled, and remove any such files that
+	were installed by previous versions of gnome-themes
+	(which went by the name of index.theme~).
+	Fixes #121778.
+
+2003-10-06  Calum Benson  <calum.benson@sun.com>
  
         * gtk-themes/Grand-Canyon/gtkrc: 
 
