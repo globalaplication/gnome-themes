@@ -49,6 +49,7 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		media-prev.png media-next.png \
                 media-stop.png media-eject.png \
                 media-play.png media-pause.png \
+		media-backward.png media-forward.png \
 		volume-mute.png volume-zero.png \
 		volume-min.png volume-medium.png volume-max.png \
 		double-click-on.png double-click-off.png double-click-maybe.png \
