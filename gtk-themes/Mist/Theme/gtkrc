@@ -42,7 +42,6 @@ style "default"
 	NautilusIconContainer::light_info_color="#bbbbbb"
 	NautilusIconContainer::highlight_alpha=200
 
-
 	engine "mist"
  	{
 	}
@@ -50,6 +49,8 @@ style "default"
 
 style "menuitem"
 {
+	ythickness = 2
+	xthickness = 2
         text[PRELIGHT]          = "#ffffff"
         fg[PRELIGHT]          = "#ffffff"
 }

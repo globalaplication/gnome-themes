@@ -288,11 +288,11 @@ draw_hline(GtkStyle *style,
 	    || DETAIL ("slider")
 	    || DETAIL("vscale")) {
 		gdk_draw_line (window, style->dark_gc[state_type], 
-			       x1, y + 1, x2, y + 1);
+			       x1, y, x2, y);
 #ifdef GTK1
 	} else if (DETAIL ("label")) {
 		gdk_draw_line (window, style->fg_gc[state_type], 
-			       x1, y + 1, x2, y + 1);
+			       x1, y, x2, y);
 #endif		
 	} else {
 		thickness_light = YTHICKNESS(style) / 2;
