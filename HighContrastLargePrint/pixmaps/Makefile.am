@@ -46,7 +46,7 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		stock_drawer.png stock_screenshot.png \
 		media-prev.png media-next.png \
                 media-stop.png media-eject.png \
-                media-play-pause.png
+                media-play.png media-pause.png
 
 
 EXTRA_DIST=	$(pixmap_DATA)

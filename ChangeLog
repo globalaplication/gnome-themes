@@ -1,3 +1,33 @@
+2002-09-18  Calum Benson  <calum.benson@sun.com>
+
+	Completed removal of Sun-specific icons (forgot to
+	update makefiles last time), removed media-play-pause
+	icons and replaced them with separate play and pause
+	icons as that's what cd player applet (and others)
+	should use going forward (see patch in #87232)
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrast/icons/48x48/apps/Makefile.am:
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	* HighContrastInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/pixmaps/Makefile.am:
+	* HighContrastLargePrint/pixmaps/media-play-pause.png:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/pixmaps/Makefile.am:
+	* HighContrastLargePrintInverse/pixmaps/media-play-pause.png:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LargePrint/pixmaps/Makefile.am:
+	* LargePrint/pixmaps/media-play-pause.png:
+	* LowContrast/gtk-2.0/gtkrc.in:
+	* LowContrast/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/pixmaps/Makefile.am:
+	* LowContrastLargePrint/pixmaps/media-play-pause.png:
+
 2002-09-18  Glynn Foster  <glynn.foster@sun.com>
 
 	* Makefile.am: dist the gimp script fu.

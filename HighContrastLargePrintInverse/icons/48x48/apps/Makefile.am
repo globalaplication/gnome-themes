@@ -1,13 +1,8 @@
 pixmapdir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/apps/
 
-pixmap_DATA=	002_text_document.png gnome-info.png \
-		004_spreadsheet_document.png \
-		gnome-logo-icon-transparen.png \
-		006_drawing_document.png \
+pixmap_DATA=	gnome-logo-icon-transparen.png \
 		gnome-log.png \
-		008_presentation_document.png \
 		gnome-mailcheck.png \
-		012_html_document.png \
 		gnome-mini-commander.png \
 		accessibility-directory.png \
 		gnome-mixer-applet.png \
@@ -26,9 +21,7 @@ pixmap_DATA=	002_text_document.png gnome-info.png \
 		gnome-util.png \
 		font-capplet.png \
 		gnome-windows.png \
-		ForteDeveloper.png \
 		gnome-workspace.png \
-		ForteForJava.png \
 		keyboard-capplet.png \
 		gedit-icon.png \
 		keyboard-shortcut.png \
@@ -40,27 +33,16 @@ pixmap_DATA=	002_text_document.png gnome-info.png \
 		gnome-ccmime.png \
 		mouse-capplet.png \
 		gnome-ccthemes.png \
-		mozicon50.png \
 		gnome-cdplayer-icon.png	\
-		pdasync.png \
 		gnome-cd.png \
-		perfmeter.png \
 		gnome-character-map.png	\
-		print-manager.png \
 		gnome-clock.png	\
-		sdtaudiocontrol.48.png \
 		gnome-devel.png	\
-		sdtjmplay.48.png \
 		gnome-eog.png \
-		SDtpowermgr.48.png \
 		gnome-ghex.png	\
-		smartcard.32.png \
 		gnome-ghostview.png \
-		SMC.png \
 		gnome-globe.png	\
-		so52_48_4bit.png \
 		gnome-graphics.png \
-		so_printeradmin.png \
 		gnome-grecord.png \
 		sound-capplet.png \
 		gnome-help.png	\

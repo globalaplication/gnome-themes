@@ -54,7 +54,8 @@ style "media-icons"
 {
 
 	stock ["cdplayer-stop"] =    	{{"media-stop.png"}}
-	stock ["cdplayer-play-pause"] =	{{"media-play-pause.png"}}
+	stock ["cdplayer-play"] =	{{"media-play.png"}}
+	stock ["cdplayer-pause"] =	{{"media-pause.png"}}
 	stock ["cdplayer-prev"] =	{{"media-prev.png"}}
 	stock ["cdplayer-next"] =	{{"media-next.png"}}
 	stock ["cdplayer-eject"] =	{{"media-eject.png"}}
