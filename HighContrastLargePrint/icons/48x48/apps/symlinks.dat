@@ -1,7 +1,31 @@
 # NO BLANK LINES ALLOWED
 #
-gnome-application-generic.png: gok.png gnopernicus.png jDictionary.png jEdit.png jGraphPad.png gthumb.png gnome-pdf.png postscript-viewer.png sun_java.png glow.png gaim.png gnomemeeting-logo-icon.png gtkam-camera.png jmplay.48.png media-player-48.png realplayer.xpm gnome-planner.png glade-2.png gdm.png gnome-other.png gconf-editor.png jDiskReport.png procman.png
+# Applications
+gnome-application-generic.png: gok.png gnopernicus.png jDictionary.png jEdit.png jGraphPad.png gthumb.png gnome-pdf.png postscript-viewer.png sun_java.png glow.png gaim.png gnomemeeting-logo-icon.png gtkam-camera.png jmplay.48.png media-player-48.png realplayer.xpm gnome-planner.png glade-2.png gnome-monitor.png
 #
-gnome-application-generic.png: evolution-1.4.png staroffice-writer.png star.png staroffice-impress.png staroffice-calc.png 
+# Games
+gnome-joystick.png: gataxx.png gnome-blackjack.png gnect-icon.png gnotski-icon.png gnome-mahjongg.png gnome-gnomine.png gnome-nibbles.png gnome-gnobots2.png gnome-gsame.png gnome-stones.png gnome-gtali.png gnome-gnotravex.png glines.png iagno.png
 #
-gnome-folder-generic.png: gnome-applications.png gnome-settings.png administration.png
+# Utilities
+gnome-system.png: gdm.png gnome-other.png gconf-editor.png jDiskReport.png procman.png
+#
+# Preferences
+keyboard.png: acme-48.png gnome-settings-im.png
+gnome-ccscreensaver.png: screensaver.png gnome-screensaver.png
+gnome-application-generic.png: password.png gnome-palm.png gnome-remote-desktop.png
+gnome-globe.png: stock_proxy.png
+# Submenus
+gnome-folder-generic.png: gnome-applications.png gnome-settings.png
+#
+# System Preferences
+advanced-directory.png: config-language.png stock_timezone.png gnome-lockscreen.png gnome-modem.png xsane.png serviceconf.png config-users.png gnome-lockscreen.png administration.png config-xfree.png gnome-ftp.png
+gnome-application-generic.png: serviceconf.png disks.png logviewer.png administration.png
+gnome-globe.png: network.png network-config.png gnome-server-config.png web-browser.png
+gdm.png: hwbrowser.png
+gnome-settings-sound.png: sound-capplet.png
+#
+# Evolution
+gnome-application-generic.png: evolution-1.4.png evolution.png
+#
+# StarOffice
+staroffice-writer.png star.png staroffice-impress.png staroffice-calc.png 

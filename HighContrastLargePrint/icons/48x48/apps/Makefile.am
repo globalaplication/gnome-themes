@@ -64,6 +64,7 @@ icon_DATA=	\
                 gnome-windows.png \
                 gnome-workspace.png \
                 gucharmap.png \
+		keyboard.png \
                 launcher-program.png \
 		mozilla-icon.png \
                 perfmeter.png \
