@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-theme\n"
 "POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2003-01-07 10:33+EDT\n"
+"PO-Revision-Date: 2003-01-24 09:30+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <locales@geez.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,52 +32,44 @@ msgid "White-on-black text and icons"
 msgstr "ነጭ በጥቁር ጽሑፍ እና ቁልፎች"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large"
-msgstr "ከፍተኛ ልዩነት"
+msgstr "ትልቅ ከፍተኛ ልዩነት"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large black-on-white text and icons"
-msgstr "ጥቁር በነጭ ጽሑፍ እና ቁልፎች"
+msgstr "ትልቅ ጥቁር በነጭ ጽሑፍ እና ቁልፎች"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print Inverse"
-msgstr "ከፍተኛ የመገልበጥ ልዩነት"
+msgstr "ትልቅ ከፍተኛ ልዩነት እና ትልቅ የፊደል ቅርጽ"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large white-on-black text and icons"
-msgstr "ነጭ በጥቁር ጽሑፍ እና ቁልፎች"
+msgstr "ትልቅ ነጭ በጥቁር ጽሑፍ እና ቁልፎች"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr ""
+msgstr "ትልቅ የፊደል ቅርጽ"
 
 #: LargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large text and icons"
-msgstr "ጥቁር በነጭ ጽሑፍ እና ቁልፎች"
+msgstr "ትልቅ ጥቁር በነጭ ጽሑፍ እና ቁልፎች"
 
 #: LowContrast/index.theme.in.h:1
-#, fuzzy
 msgid "Low Contrast"
-msgstr "ከፍተኛ ልዩነት"
+msgstr "ትንሽ ከፍተኛ ልዩነት"
 
 #: LowContrast/index.theme.in.h:2
-#, fuzzy
 msgid "Muted text and icons"
-msgstr "ነጭ በጥቁር ጽሑፍ እና ቁልፎች"
+msgstr ""
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "Large muted text and icons"
-msgstr "ጥቁር በነጭ ጽሑፍ እና ቁልፎች"
+msgstr ""
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr ""
+msgstr "ትንሽ ከፍተኛ ልዩነት እና ትልቅ የፊደል ቅርጽ"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
@@ -89,7 +81,7 @@ msgstr ""
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "የነበረው"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -113,7 +105,7 @@ msgstr ""
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "ቀላል"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -145,8 +137,8 @@ msgstr ""
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "የነበረው የኖም ጭብጥ"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "የኖም"
