@@ -60,6 +60,7 @@ style "default"
   GtkScale::slider_length = 16
   GtkCheckButton::indicator_size = 10
   GtkCheckButton::indicator_spacing = 3
+  GtkCheckMenuItem::indicator_size = 10
 
   #GtkMenuBar::shadow_type = GTK_SHADOW_NONE
   GtkToolBar::shadow_type = GTK_SHADOW_NONE

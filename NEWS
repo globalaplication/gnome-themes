@@ -1,26 +1,49 @@
-What's new in 2.5.90
-====================
+2.5.91
+======
 
 New/updated translations:
 
-+2003-02-17  Paisa Seeluangsawat  <paisa@users.sf.net>
-+
-+       * th.po: Updated Thai translation.
-+
-+2004-02-14  Danilo � egan  <dsegan@gmx.net>
-+
-+       * sr.po, sr@Latn.po: Reviewed Serbian translation by Aleksandar
-+         Urosevic
+2004-03-08  Alexander Winston  <alexander.winston@comcast.net>
+
+       * en_CA.po: Added Canadian English translation at "32 translated
+       messages" status.
+
+2004-03-06  Mətin Əmirov  <metin@karegen.com>
+
+       * az.po: Translation updated.
+
+2004-03-06  Changwoo Ryu  <cwryu@debian.org>
+
+       * ko.po: Updated Korean translation.
+
+2004-03-04  Nikos Charonitakis  <frolix68@yahoo.gr>
+
+       * el.po: Updated Greek translation.
+
+2003-02-17  Paisa Seeluangsawat  <paisa@users.sf.net>
+  
+        * th.po: Updated Thai translation.
+
+
+2.5.90
+======
+
+New/updated translations:
+
+2004-02-14  Danilo � egan  <dsegan@gmx.net>
+
+       * sr.po, sr@Latn.po: Reviewed Serbian translation by Aleksandar
+         Urosevic
 
 BugFixes:
 
-+2004-02-24  Calum Benson <calum.benson@sun.com>
-+
-+       Add PanelToplevel::arrow-size property to large print themes.
-+       Fixes #110939.
-+
-+2004-02-24  Narayana Pattipati <narayana.pattipati@wipro.com>
-+
-+       Add GtkCheckMenuItem::indicator_size property value to the
-themes.
-+       Fixes bugzilla bug#131659
+2004-02-24  Calum Benson <calum.benson@sun.com>
+
+       Add PanelToplevel::arrow-size property to large print themes.
+       Fixes #110939.
+
+2004-02-24  Narayana Pattipati <narayana.pattipati@wipro.com>
+
+       Add GtkCheckMenuItem::indicator_size property value to the
+hemes.
+       Fixes bugzilla bug#131659
