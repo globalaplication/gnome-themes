@@ -1,3 +1,20 @@
+2003-11-27  Calum Benson  <calum.benson@sun.com>
+
+	Make minicommander icons bigger for large print themes.
+	Fixes #96086 properly.
+
+	* HighContrastLargePrint/pixmaps/stock_commandline-browser.xpm:
+	* HighContrastLargePrint/pixmaps/stock_commandline-history.xpm:
+	* HighContrastLargePrintInverse/pixmaps/stock_commandline-browser.x
+	pm:
+	* HighContrastLargePrintInverse/pixmaps/stock_commandline-history.x
+	pm:
+	* LargePrint/pixmaps/stock_commandline-browser.xpm:
+	* LargePrint/pixmaps/stock_commandline-history.xpm:
+	* LowContrastLargePrint/pixmaps/stock_commandline-browser.xpm:
+	* LowContrastLargePrint/pixmaps/stock_commandline-history.xpm:
+	* configure.in:
+
 2003-10-06  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/Makefile.am:
