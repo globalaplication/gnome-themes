@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0.6\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-25 18:39+0100\n"
+"POT-Creation-Date: 2003-01-31 15:41+0100\n"
+"PO-Revision-Date: 2003-01-31 15:49+0100\n"
 "Last-Translator: Benjamin Greiner <nadaschauher@gmx.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,13 +79,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Smaragdgrünes Thema mit weichen Farbverläufen"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Weiche, glasartige Oberfläche"
+msgstr "Staubig und rostrot"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Grand Canyon"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -105,7 +104,7 @@ msgstr "Die Farben der Meeresküste"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Schlicht"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -113,7 +112,7 @@ msgstr "Schlank und schnell"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "Weiche, glasartige Oberfläche"
+msgstr "Eine weiche Oberfläche wie Glas"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
@@ -121,15 +120,15 @@ msgstr "Blauer Rauch"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Traditionell"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "Traditionelle 3D-Oberfläche mit harten Konturen"
+msgstr "Traditionelle, hartkantige 3D-Oberfläche"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Einfach-Blau"
+msgstr "Flaches Blau"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
@@ -142,15 +141,3 @@ msgstr "Blauer Rauch"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Roter Rauch"
-
-#~ msgid "Default"
-#~ msgstr "Standard"
-
-#~ msgid "Plain"
-#~ msgstr "Schlicht"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "GNOME-Vorgabethema"
-
-#~ msgid "Gnome"
-#~ msgstr "GNOME"
