@@ -14,7 +14,7 @@ AC_SUBST(GETTEXT_PACKAGE)
 
 AM_MAINTAINER_MODE
 
-AC_PROG_INTLTOOL([0.22])
+AC_PROG_INTLTOOL([0.23])
 AC_PROG_CC
 
 ### Icon sizes for all large print themes
