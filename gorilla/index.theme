@@ -1,3 +1,14 @@
+[Desktop Entry]
+Name=Gorilla
+Type=X-GNOME-Metatheme
+Comment=The vector mono Godess
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=gorilla
+MetacityTheme=gorilla
+IconTheme=gorilla
+
 [Icon Theme]
 Name=gorilla
 Comment=Vector Theme

@@ -1,3 +1,30 @@
+2003-01-13  Jakub Steiner <jimmac@ximian.com>
+
+	* gorilla/scalable/devices/gnome-dev-symlink.svg:
+	* gorilla/scalable/devices/gnome-dev-network.svg:
+	
+	* gorilla/scalable/emblems/emblem-symbolic-link.svg:
+	* gorilla/scalable/emblems/emblem-noread.svg:
+	* gorilla/scalable/emblems/emblem-nowrite.svg:
+	* gorilla/scalable/emblems/emblem-package.svg:
+	
+	* gorilla/scalable/filesystems/gnome-fs-blockdev.svg:
+	* gorilla/scalable/filesystems/gnome-fs-bookmark.svg:
+	* gorilla/scalable/filesystems/gnome-fs-bookmark-missing.svg:
+	* gorilla/scalable/filesystems/gnome-fs-nfs.svg:
+	* gorilla/scalable/filesystems/gnome-fs-smb.svg:
+	* gorilla/scalable/filesystems/gnome-fs-ftp.svg:
+	* gorilla/scalable/filesystems/gnome-fs-web.svg:
+	* gorilla/scalable/filesystems/gnome-fs-chardev.svg: redo in
+	  future
+	* gorilla/scalable/filesystems/gnome-fs-network.svg:
+	* gorilla/scalable/filesystems/gnome-fs-server.svg: redo
+
+	* gorilla/scalable/mimetypes/gnome-package.svg:
+	* gorilla/scalable/mimetypes/gnome-compressed.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-application-x-deb.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-application-x-rpm.svg:
+
 2003-01-13  Laurent Dhima  <laurenti@alblinux.net>
 
 	* configure.in: Added sq(Albanian) to ALL_LINGUAS.
