@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 2.1.99\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-31 12:37+0100\n"
+"Project-Id-Version: gnome-themes 2.3.2.1\n"
+"POT-Creation-Date: 2003-06-04 14:07+0200\n"
+"PO-Revision-Date: 2003-06-04 14:08+0200\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid "White-on-black text and icons"
 msgstr "Text i icones en blanc sobre negre"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Contrast alt gran"
+msgid "High Contrast Large Print"
+msgstr "Contrast alt amb impressió gran"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -40,7 +40,7 @@ msgstr "Text i icones grans en negre sobre blanc"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Contrast alt invertit per a impressió gran"
+msgstr "Contrast alt invertit amb impressió gran"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -68,7 +68,7 @@ msgstr "Text i icones grans en mat"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Contrast baix per a impressió gran"
+msgstr "Contrast baix amb impressió gran"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
