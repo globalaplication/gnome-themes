@@ -1,3 +1,7 @@
+2002-12-16  Ole Laursen  <olau@hardworking.dk>
+
+	* configure.in: Added Danish (da) to ALL_LINGUAS.
+
 2002-12-15  Pablo Saratxaga  <pablo@mandrakesoft.com>
 
 	* configure.in: Added Vietnamese (vi) to ALL_LINGUAS
