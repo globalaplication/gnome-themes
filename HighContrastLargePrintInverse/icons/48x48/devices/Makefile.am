@@ -1,19 +1,21 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/devices
+icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/devices/
 
 icon_DATA=	\
 		gnome-dev-cdrom.png \
 		gnome-dev-floppy.png \
+		gnome-dev-harddisk.png \
 		gnome-dev-keyboard.png \
 		gnome-dev-mouse-optical.png \
+		gnome-dev-printer.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
 install: install-am
-		$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
 
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \

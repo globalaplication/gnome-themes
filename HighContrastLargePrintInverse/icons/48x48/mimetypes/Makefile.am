@@ -27,6 +27,6 @@ uninstall-symlinks:
 	if test -h $(DESTDIR)$(icondir)/$$p; then \
 		rm -f $(DESTDIR)$(icondir)/$$p; \
 	fi; \
-	done
+done
 
 uninstall-am: uninstall-iconDATA uninstall-symlinks

@@ -5,14 +5,18 @@ icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/apps/
 icon_DATA=	\
                 accessibility-directory.png \
                 advanced-directory.png \
+		ax-applet.png \
                 charpick.png \
 		display-capplet.png \
+		evolution-1.4.png \
 		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
 		gdict.png \
                 gedit-icon.png \
                 gkb.png \
+		gnome-application-generic.png \
+		gnome-folder-generic.png \
                 gnome-applications.png \
                 gnome-audio2.png \
                 gnome-calc3.png \
@@ -37,6 +41,7 @@ icon_DATA=	\
                 gnome-mailcheck.png \
 		gnome-main-menu.png \
                 gnome-mini-commander.png \
+		gnome-mixer.png \
                 gnome-mixer-applet.png \
                 gnome-mixer.png \
                 gnome-multimedia.png \
@@ -60,10 +65,24 @@ icon_DATA=	\
                 gnome-windows.png \
                 gnome-workspace.png \
                 gucharmap.png \
+		keyboard.png \
                 launcher-program.png \
+		mozilla-icon.png \
                 perfmeter.png \
+		star.png \
                 window-capplet.png \
 		$(NULL)
 
+EXTRA_DIST=	$(icon_DATA) \
+		symlinks.dat
 
-EXTRA_DIST=	$(icon_DATA)
+install: install-am
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
+ 
+uninstall-symlinks:
+	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
+		if test -h $(DESTDIR)$(icondir)/$$p; then \
+			rm -f $(DESTDIR)$(icondir)/$$p; \
+		fi; \
+	done
+uninstall-am: uninstall-iconDATA uninstall-symlinks
