@@ -409,10 +409,20 @@ draw_shadow(GtkStyle *style,
 		gdk_window_get_size (window, &entry_width, &entry_height);
 		if (entry_width != width || entry_height != height)
 			return;
-	}	
+	}
+	
+	if (DETAIL("frame") && widget->parent && GTK_IS_STATUSBAR (widget->parent)) {
+		if (shadow_type != GTK_SHADOW_NONE) {
+			gdk_draw_line (window, 
+				       style->dark_gc[GTK_STATE_NORMAL], 
+				       x, y, 
+				       x + width - 1, y);
 
-	draw_rect_with_shadow (style, window, widget, state_type,
-			       shadow_type, NULL, x, y, width, height);
+		}
+	} else {
+		draw_rect_with_shadow (style, window, widget, state_type,
+				       shadow_type, NULL, x, y, width, height);
+	}
 }
 
 static void
@@ -744,12 +754,6 @@ draw_box(GtkStyle *style,
 				       style->dark_gc[GTK_STATE_NORMAL], 
 				       x, y + height - 1, 
 				       x + width - 1, y + height - 1);
-			if (!DETAIL ("dockitem") && !DETAIL ("handlebox")) {
-				gdk_draw_line (window, 
-					       style->dark_gc[GTK_STATE_NORMAL], 
-					       x + width - 1, 
-					       y, x + width - 1, y + height - 1);
-			}
 
 		}
 	} else if (DETAIL("tab")) {
@@ -1288,6 +1292,169 @@ draw_handle(GtkStyle *style,
 	gdk_gc_set_clip_rectangle(dark_gc, NULL);
 }
 
+static void
+draw_resize_grip(GtkStyle *style,
+		 GdkWindow *window,
+		 GtkStateType state_type,
+		 GdkRectangle *area,
+		 GtkWidget *widget,
+		 const char *detail,
+		 GdkWindowEdge edge,
+		 int x,
+		 int y,
+		 int width,
+		 int height)
+{
+	GdkGC *light_gc, *dark_gc;
+	GdkRectangle dest;
+	int xi, yi;
+	int max_x, max_y;
+	int threshold;
+	
+	g_return_if_fail(style != NULL);
+	g_return_if_fail(window != NULL);
+	
+	sanitize_size (window, &width, &height);
+	
+	if (area) {
+		gdk_gc_set_clip_rectangle (style->light_gc[state_type], area);
+		gdk_gc_set_clip_rectangle (style->dark_gc[state_type], area);
+	}
+
+	switch (edge) {
+	case GDK_WINDOW_EDGE_NORTH_WEST:
+		/* make it square */
+		if (width < height) {
+			height = width;
+		}
+		else if (height < width) {
+			width = height;
+		}
+		break;
+	case GDK_WINDOW_EDGE_NORTH:
+		if (width < height) {
+			height = width;
+		}
+		break;
+	case GDK_WINDOW_EDGE_NORTH_EAST:
+		/* make it square, aligning to top right */
+		if (width < height) {
+			height = width;
+		} else if (height < width) {
+			x += (width - height);
+			width = height;
+		}
+		break;
+	case GDK_WINDOW_EDGE_WEST:
+		if (height < width) {
+			width = height;
+		}
+		break;
+	case GDK_WINDOW_EDGE_EAST:
+		/* aligning to right */
+		if (height < width) {
+			x += (width - height);
+			width = height;
+		}
+		break;
+	case GDK_WINDOW_EDGE_SOUTH_WEST:
+		/* make it square, aligning to bottom left */
+		if (width < height) {
+			y += (height - width);
+			height = width;
+		} else if (height < width) {
+			width = height;
+		}
+		break;
+	case GDK_WINDOW_EDGE_SOUTH:
+		/* align to bottom */
+		if (width < height) {
+			y += (height - width);
+			height = width;
+		}
+		break;
+	case GDK_WINDOW_EDGE_SOUTH_EAST:
+		/* make it square, aligning to bottom right */
+		if (width < height) {
+			y += (height - width);
+			height = width;
+		} else if (height < width) {
+			x += (width - height);
+			width = height;
+		}
+		break;
+	default:
+		g_assert_not_reached ();
+	}
+	
+	gtk_style_apply_default_background (style, window, FALSE,
+					    state_type, area,
+					    x, y, width, height);
+
+	light_gc = style->light_gc[state_type];
+	dark_gc = style->dark_gc[state_type];
+
+	max_x = (width - 2) / 5;
+	max_y = (height - 2) / 5;
+	
+	threshold = max_x;
+	
+	for (xi = 0; xi <= max_x; xi++) {
+		for (yi = 0; yi <= max_y; yi++) {
+			gboolean draw_dot;
+			
+			switch (edge) {
+			case GDK_WINDOW_EDGE_NORTH:
+			case GDK_WINDOW_EDGE_WEST:
+			case GDK_WINDOW_EDGE_EAST:
+			case GDK_WINDOW_EDGE_SOUTH:
+				draw_dot = TRUE;
+				break;
+			case GDK_WINDOW_EDGE_NORTH_WEST:
+				draw_dot = (xi + yi <= threshold);
+				break;
+			case GDK_WINDOW_EDGE_NORTH_EAST:
+				draw_dot = (xi >= yi);
+				break;
+			case GDK_WINDOW_EDGE_SOUTH_WEST:
+				draw_dot = (xi <= yi);
+				break;
+			case GDK_WINDOW_EDGE_SOUTH_EAST:
+				draw_dot = (xi + yi >= threshold);
+				break;
+			default:
+				g_assert_not_reached ();
+			}
+			
+			if (draw_dot) {
+				mist_dot(window,
+					 light_gc, dark_gc,
+					 x + (xi * 5) + 2,
+					 y + (yi * 5) + 2);
+			}
+		}
+	}
+#if 0	
+	mist_dot(window,
+		 light_gc, dark_gc,
+		 x + width / 2 - modx,
+		 y + height / 2 - mody);
+	mist_dot(window,
+		 light_gc, dark_gc,
+		 x + width / 2,
+		 y + height / 2);
+	mist_dot(window,
+		 light_gc, dark_gc,
+		 x + width / 2 + modx,
+		 y + height / 2 + mody);                                                              
+#endif
+	if (area)
+	{
+		gdk_gc_set_clip_rectangle (style->light_gc[state_type], NULL);
+		gdk_gc_set_clip_rectangle (style->dark_gc[state_type], NULL);
+	}
+}
+
 #ifndef GTK1
 
 GType mist_type_style = 0;
@@ -1339,6 +1506,7 @@ mist_style_class_init (MistStyleClass *klass)
 	style_class->draw_box_gap = draw_box_gap;
 	style_class->draw_extension = draw_extension;
 	style_class->draw_handle = draw_handle;
+	style_class->draw_resize_grip = draw_resize_grip;
 }
 
 #else 

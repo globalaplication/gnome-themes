@@ -6,14 +6,14 @@ style "default"
         fg[PRELIGHT]            = "#000000"
         fg[SELECTED]            = "#ffffff"
         
-        bg[ACTIVE]              = "#bbbbbb"
+        bg[ACTIVE]              = "#cdcdcd"
 	bg[NORMAL]              = "#eaeaea"
         bg[INSENSITIVE]         = "#dddddd"
         bg[PRELIGHT]            = "#f6f6f6"
         bg[SELECTED]            = "#4a5e7d"
 
         base[NORMAL]            = "#ffffff"
-        base[ACTIVE]            = "#aaaaaa"
+        base[ACTIVE]            = "#cdcdcd"
         base[INSENSITIVE]       = "#ffffff"
         base[PRELIGHT]          = "#eaeaea"
 	base[SELECTED]          = "#4a5e7d"
@@ -31,7 +31,7 @@ style "default"
 	GtkScrollbar::min_slider_length = 15
 	GtkCheckButton::indicator_size=10
 	GtkRadioButton::indicator_size=12
-	GtkStatusbar::shadow_type = none
+#	GtkStatusbar::shadow_type = 
 	
 	GtkNotebook::tab_vborder = 1
 	GtkNotebook::tab_hborder = 1
