@@ -5,8 +5,10 @@ icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/devices/
 icon_DATA=	\
 		gnome-dev-cdrom.png \
 		gnome-dev-floppy.png \
+		gnome-dev-harddisk.png \
 		gnome-dev-keyboard.png \
 		gnome-dev-mouse-optical.png \
+		gnome-dev-printer.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
