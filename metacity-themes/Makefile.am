@@ -36,7 +36,3 @@ dist-hook:
 		    	cp $$i $(distdir)/$$THEME;					\
 	  	 done)									\
 	done
-
-#Keep this hack in until 2.8.0 is released
-install: install-am
-	        rm -rf $(DESTDIR)$(datadir)/themes/SimplySmooth

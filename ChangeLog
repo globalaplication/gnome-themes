@@ -1,3 +1,13 @@
+2004-09-15  Calum Benson  <calum.benson@sun.com>
+
+	* desktop-themes/Glider/Makefile.am:
+	* gtk-themes/Glider/Makefile.am:
+	* metacity-themes/Makefile.am:
+
+	Remove the hacks to delete any SimplySmooth directories
+	that 2.7.x versions of gnome-themes might have installed--
+	should be no longer required.
+
 2004-09-14  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:

@@ -8,8 +8,4 @@ theme_DATA = gtkrc iconrc \
 	stock_refresh.png stock_right.png \
 	stock_top.png stock_up.png
 
-#Keep this hack in until 2.8.0 is released
-install: install-am
-	        rm -rf $(DESTDIR)$(datadir)/themes/SimplySmooth/gtk-2.0
-
 EXTRA_DIST = $(theme_DATA)

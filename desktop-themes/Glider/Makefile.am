@@ -7,9 +7,5 @@ themedir = $(datadir)/themes/$(THEME_NAME)
 
 theme_DATA = index.theme
 
-#Keep this hack in until 2.8.0 is released
-install: install-am
-	rm -rf $(DESTDIR)$(datadir)/themes/SimplySmooth
- 
 DISTCLEANFILES=index.theme
 EXTRA_DIST=index.theme.in index.theme
