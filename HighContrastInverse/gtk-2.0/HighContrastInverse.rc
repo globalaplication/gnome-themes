@@ -14,6 +14,10 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
 style "default"   
 { 
   engine "hcengine" {}	
+
+# For Java Desktop System
+  PanelMenu::stripe-gradient-top = "#000033"
+  PanelMenu::stripe-gradient-bottom = "#000033"
   
   GtkWidget::focus-line-pattern = "\2\1"
   GtkWidget::focus-line-width = 1

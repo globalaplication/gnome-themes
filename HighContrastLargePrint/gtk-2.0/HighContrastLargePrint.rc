@@ -15,6 +15,10 @@ gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
 style "default"
 {
   engine "hcengine" {}
+
+# For Java Desktop System
+  PanelMenu::stripe-gradient-top = "#000000"
+  PanelMenu::stripe-gradient-bottom = "#000000"
 	
   GtkWidget::focus-line-pattern = "\10\2"
   GtkWidget::focus-line-width = 3
