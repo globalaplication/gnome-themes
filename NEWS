@@ -1,8 +1,39 @@
+2.7.3
+=====
+
+Bugfixes:
+- Fix HC/HCI symlinking so that it works when installed from an RPM, too.
+  (Calum Benson/Erwann Chenede)
+
+New/updated translations:
+2004-06-29  Ivan Stojmirov <stojmir@linux.net.mk>
+
+       * mk.po: Updated Macedonian translation.
+
+2004-06-28  Laurent Dhima  <laurenti@alblinux.net>
+
+       * sq.po: Translation updated.
+
+2004-06-09  Alexander Shopov  <ash@contact.bg>
+
+       * bg.po: Updated Bulgarian translation by
+       Rostislav Raykov <zbrox@i-space.org>
+
+2.7.2
+=====
+
+Enhancements:
+
+- Add themed menu stripe for JDS, and generic HC/HCI icons
+for a bunch of applications. (Calum Benson)
+
+
 2.7.1
 =====
 
 Bugfixes:
-- 126829, window menu icons not visible in a11y themes
+- 126829, window menu icons not visible in a11y themes. 
+  (Calum Benson/Havoc Pennington)
 
 Enhancements:
 - Better mimetype coverage for HC and HCI themes.
