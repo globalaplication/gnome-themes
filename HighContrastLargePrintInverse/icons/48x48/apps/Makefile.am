@@ -17,7 +17,6 @@ icon_DATA=	\
                 gkb.png \
 		gnome-application-generic.png \
 		gnome-folder-generic.png \
-                gnome-applications.png \
                 gnome-audio2.png \
                 gnome-calc3.png \
                 gnome-ccmime.png \
