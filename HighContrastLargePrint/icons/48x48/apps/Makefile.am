@@ -5,11 +5,13 @@ icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/apps/
 icon_DATA=	\
                 accessibility-directory.png \
                 advanced-directory.png \
+		ax-applet.png \
                 behavior-capplet.png \
                 charpick.png \
 		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
+		gdict.png \
                 gedit-icon.png \
                 gkb.png \
                 gnome-applications.png \

@@ -1,3 +1,17 @@
+2004-03-19  Calum Benson <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/ax-applet.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gdict.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/ax-applet.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gdict.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am: 
+	* LowContrastLargePrint/icons/48x48/apps/ax-applet.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gdict.png: add
+
+	Add menu icons for gdict and accessx-status applet.
+
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:

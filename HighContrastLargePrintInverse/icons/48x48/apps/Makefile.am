@@ -10,6 +10,7 @@ icon_DATA=	\
 		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
+		gdict.png \
                 gedit-icon.png \
                 gkb.png \
                 gnome-applications.png \
