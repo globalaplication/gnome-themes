@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.2\n"
-"POT-Creation-Date: 2003-05-06 03:08+0200\n"
-"PO-Revision-Date: 2003-04-09 12:52+0100\n"
+"POT-Creation-Date: 2003-08-08 03:34+0200\n"
+"PO-Revision-Date: 2003-08-08 03:34+0200\n"
 "Last-Translator: Goran Rakić <gox@devbase.net>\n"
 "Language-Team: Serbian (sr) <serbiangnome-lista@nongnu.org>\n"
 "MIME-Version: 1.0\n"
@@ -33,9 +33,8 @@ msgid "White-on-black text and icons"
 msgstr "Текст и иконе у белој боји на црној подлози"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print"
-msgstr "Увећани велики контраст"
+msgstr "Увећани приказ са великим контрастом"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
