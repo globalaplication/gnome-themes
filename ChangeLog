@@ -1,3 +1,137 @@
+2002-09-08  Calum Benson  <calum.benson@sun.com>
+
+	Added missing HCLPI icons to bring it up to same
+	status as the other themes.
+
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/icons/48x48/apps/002_text_document.
+	png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/004_spreadsheet_do
+	cument.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/006_drawing_docume
+	nt.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/008_presentation_d
+	ocument.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/012_html_document.
+	png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/ForteDeveloper.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/ForteForJava.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/SDtpowermgr.48.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/accessibility-dire
+	ctory.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/accessibility-keyb
+	oard-capplet.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/advanced-directory
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/background-capplet
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/behavior-capplet.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/apps/charpick.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/default-applicatio
+	ns-capplet.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/font-capplet.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gedit-icon.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-applications
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-audio2.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-calc3.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-ccmime.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-ccthemes.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-cd.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-cdplayer-ico
+	n.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-character-ma
+	p.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-clock.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-devel.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-eog.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-ghex.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-ghostview.pn
+	g:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-globe.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-graphics.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-grecord.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-help.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-home.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-info.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-log.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-logo-icon-tr
+	ansparen.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-mailcheck.pn
+	g:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-mini-command
+	er.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-mixer-applet
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-multimedia.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-panel.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-session.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-system.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-terminal.png
+	:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-util.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-windows.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-workspace.pn
+	g:
+	* HighContrastLargePrintInverse/icons/48x48/apps/keyboard-capplet.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/apps/keyboard-shortcut.
+	png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/launcher-program.p
+	ng:
+	* HighContrastLargePrintInverse/icons/48x48/apps/metacity-propertie
+	s.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/mouse-capplet.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/mozicon50.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/pdasync.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/perfmeter.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/print-manager.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/sdtaudiocontrol.48
+	.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/sdtjmplay.48.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/smartcard.32.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/smc.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/so52_48_4bit.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/so_printeradmin.pn
+	g:
+	* HighContrastLargePrintInverse/icons/48x48/apps/sound-capplet.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/window-capplet.png
+	:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* HighContrastLargePrintInverse/pixmaps/Makefile.am:
+	* HighContrastLargePrintInverse/pixmaps/stock-lockscreen.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_cde-menu.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_corner-panel.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_dnd.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_dnd_multiple.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_drawer.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_edge-panel.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_floating-panel.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_gnome-logo.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_gnome-run.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_gnome-searchtool.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_gnome-util.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_internet.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_launcher-program.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_lockscreen.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_logout.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_menu-panel.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_multimedia.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_no.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_run.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_screenshot.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_searchtool.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_sliding-panel.png:
+	* HighContrastLargePrintInverse/pixmaps/stock_yes.png:
+
 2002-09-02  Calum Benson  <calum.benson@sun.com>
 
 	Set large print panel icon sizes to 48x48.
@@ -8,7 +142,7 @@
 	* LowContrast/gtk-2.0/gtkrc.in:
 	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
 
-2002-09-02  Calum Benson  <set EMAIL_ADDRESS environment variable>
+2002-09-02  Calum Benson  <calum.benson@sun.com>
 
 	Added suzanna's latest LCLP icons, and a couple that were missing
 	from the HCLP theme.
