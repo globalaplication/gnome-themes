@@ -236,11 +236,11 @@
 
       <image filename="active-top-center-left.png" 
              x="4" y="0" 
-             width="title_width+20" 
+             width="title_width" 
              height="height"/>
 
       <image filename="active-top-center-mid-left.png" 
-	     x="(4+title_width+20) `min` (title_width-30)"
+	     x="(4+title_width+20) `min` (title_width)"
              y="0" width="object_width" height="height"/>
 
       <image filename="active-top-center-right.png"
@@ -273,7 +273,7 @@
       <image filename="active-bottom-right-border.png"
              x="title_width/2+150" 
              y="height - object_height" 
-             width="(width -183) `max` 0"
+             width="(width -163) `max` 0"
              height="object_height"/>
 
       <image filename="active-bottom-right-corner.png" 
