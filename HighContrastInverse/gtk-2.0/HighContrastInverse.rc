@@ -33,8 +33,8 @@ style "default"
   EelEditableLabel::cursor_aspect_ratio = 0.1
   NautilusIconContainer::frame_text = 1
   
-  fg[NORMAL]      = "white"
-  text[NORMAL]      = "white"
+  fg[NORMAL]      = "#ffffff"
+  text[NORMAL]      = "#ffffff"
   bg[NORMAL]      = "#000033" 
   base[NORMAL]    = "#000033"
 
@@ -45,16 +45,16 @@ style "default"
 
   fg[PRELIGHT]    = "#003333"
   text[PRELIGHT]    = "#003333"
-  bg[PRELIGHT]    = "white"
-  base[PRELIGHT]    = "white"
+  bg[PRELIGHT]    = "#ffffff"
+  base[PRELIGHT]    = "#ffffff"
 
-  fg[ACTIVE]      = "white"
-  text[ACTIVE]      = "white"
+  fg[ACTIVE]      = "#ffffff"
+  text[ACTIVE]      = "#ffffff"
   bg[ACTIVE]      = "#666699"
   base[ACTIVE]      = "#666699"
 
   fg[SELECTED]    = "#000033"
   text[SELECTED]    = "#000033"
-  bg[SELECTED]    = "white"
+  bg[SELECTED]    = "#ffffff"
   base[SELECTED]    = "#ffcccc"
 

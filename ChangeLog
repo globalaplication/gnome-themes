@@ -1,3 +1,15 @@
+2004-08-23  Calum Benson  <calum.benson@sun.com>
+
+	Switch all colours to hex triplets for consistency.
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInver
+	se.rc:
+	* LowContrast/gtk-2.0/LowContrast.rc:
+	* LowContrastLargePrint/gtk-2.0/LowContrastLargePrint.rc:
+
 2004-08-18  Calum Benson  <calum.benson@sun.com>
 
 	Fix issues reported by sparse/gcc (Kjartan Maraas, bug #150348)
