@@ -1,3 +1,7 @@
+2004.01.09  Arafat Medini <lumina@silverpen.de>
+                                                                                
+	* configure.in: Added Arabic Locale "ar" to ALL_LINGUAS
+
 2004-01-07  Narayana Pattipati <narayana.pattipati@wipro.com>
 
 	* HighContrast/gtk-2.0/HighContrast.rc:
