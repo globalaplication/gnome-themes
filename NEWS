@@ -1,3 +1,20 @@
+2.5.92
+======
+
+Bugfixes:
+
+2004-03-15  Calum Benson  <calum.benson@sun.com>
+
+       * gtk-engines/hc-engine/hc-style.c: (draw_dot):
+        Remove bogus semi-colon, fixes #136846 (Kjartan Maraas)
+
+New/updated translations:
+
+2004-03-14  Maxim Dziumanenko <mvd@mylinux.com.ua>
+
+       * uk.po: Updated Ukrainian translation
+
+
 2.5.91
 ======
 

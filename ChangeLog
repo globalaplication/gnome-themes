@@ -1,3 +1,11 @@
+2004-03-15  Calum Benson  <calum.benson@sun.com>
+
+	* configure.in:
+	Bump revision for tarball.
+
+	* gtk-engines/hc-engine/hc-style.c: (draw_dot):
+	 Remove bogus semi-colon, fixes #136846 (Kjartan Maraas)
+
 2004-03-10  Alexander Winston  <alexander.winston@comcast.net>
 
 	* configure.in: Added en_CA to ALL_LINGUAS.
