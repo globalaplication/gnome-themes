@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the crux package.
 # Dmitry G. Mastrukov <dmitry@taurussoft.org>, 2003.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-24 15:12+0300\n"
+"POT-Creation-Date: 2003-01-31 08:31+0300\n"
+"PO-Revision-Date: 2003-01-31 08:35+0300\n"
 "Last-Translator: Dmitry G. Mastrukov <dmitry@taurussoft.org>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -73,20 +72,19 @@ msgstr "Низкоконтрастная крупная для печати"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr "Кракс"
+msgstr "Южный крест"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
 msgstr "Гладкие переходы, имитирующие окраску чирка"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Мягкий гладкий вид"
+msgstr "Пыльный красноватый вид"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Большой каньон"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -106,7 +104,7 @@ msgstr "Цвета океанического побережья"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Простая"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -122,7 +120,7 @@ msgstr "Голубая дымка"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Традиционная"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -139,20 +137,9 @@ msgstr "Песчаник"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Дымчато-синяя"
+msgstr "Дымчато-голубая"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Дымчато-красная"
 
-#~ msgid "Default"
-#~ msgstr "Исходная"
-
-#~ msgid "Plain"
-#~ msgstr "Плоская"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "Стандартная тема среды Гном"
-
-#~ msgid "Gnome"
-#~ msgstr "Гном"
