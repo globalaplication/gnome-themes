@@ -1,3 +1,5 @@
+# translation of mk.po to Macedonian
+# translation of mk.po to
 # translation of gnome-themes.HEAD.mk.po to Macedonian
 # translation of gnome-themes.HEAD.po to Macedonian
 # This file is distributed under the same license as the PACKAGE package.
@@ -7,9 +9,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD.mk\n"
+"Project-Id-Version: mk\n"
 "POT-Creation-Date: 2003-04-10 04:02+0200\n"
-"PO-Revision-Date: 2003-04-14 16:42+0200\n"
+"PO-Revision-Date: 2003-04-16 15:04+0200\n"
 "Last-Translator: Ivan Stojmirov <stojmir@linux.net.mk>\n"
 "Language-Team: Macedonian <gnomk-main@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +21,7 @@ msgstr ""
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Црно -на- бело текст и икони"
+msgstr "Црно-на-бело текст и икони"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
