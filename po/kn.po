@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-theme  \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-10-07 04:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Yogeesh MB <yogeeshappa.mathighatta@wipro.com>\n"
+"Language-Team: Gnome Kannada Team <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "ಬಿಳಿದರ ಮೇಲೆ ಕರಿಯ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr ""
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr ""
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "ಕರಿದರ ಮೇಲೆ ಬಿಳಿಯ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large Print"
+msgstr ""
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "ದೊಡ್ಡದಾದ ಬಿಳಿದರ ಮೇಲೆ ಕರಿಯ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನ"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr ""
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "ದೊಡ್ಡದಾದ ಕರಿದರ ಮೇಲೆ ಬಿಳಿಯ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "ದೊಡ್ಡ ಮುದ್ರಣ"
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "ದೊಡ್ಡದಾದ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr ""
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "ಸದ್ದಿಲ್ಲದ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "ದೊಡ್ಡದಾದ ಸದ್ದಿಲ್ಲದ ಪಠ್ಯ ಮತ್ತು ಲಾಂಛನಗಳು"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr ""
+
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+msgid "Crux"
+msgstr "ಕ್ರಕ್ಸ"
+
+#: desktop-themes/Crux/index.theme.in.h:2
+msgid "Smooth gradients with teal highlights"
+msgstr ""
+
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+msgid "Dusty orange appearance"
+msgstr "ಧೂಳುಮಿಶ್ರಿತ ಕಿತ್ತಳೆ ತೋರಿಕೆ"
+
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
+
+#: desktop-themes/Mist/index.theme.in.h:1
+msgid "A minimalistic appearance"
+msgstr ""
+
+#: desktop-themes/Mist/index.theme.in.h:2
+msgid "Mist"
+msgstr "ಇಬ್ಬನಿ"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:1
+msgid "Ocean Dream"
+msgstr "ಸಾಗರ ಕನಸು"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+msgid "The colours of the seashore"
+msgstr "ಸಮುದ್ರತಟದ ಬಣ್ಣಗಳು"
+
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr "ಸರಳ"
+
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr ""
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:1
+msgid "A soft glassy appearance"
+msgstr ""
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+msgid "Smokey Blue"
+msgstr "ಧೂಮ ನೀಲಿ"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr "ಸಾಂಪ್ರದಾಯಕ"
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr ""
+
+#: icon-themes/Flat-Blue/index.theme.in.h:1
+msgid "Flat-Blue"
+msgstr "ಚಪ್ಪಟೆ-ನೀಲಿ"
+
+#: icon-themes/Sandy/index.theme.in.h:1
+msgid "Sandy"
+msgstr "ಮರಳಿನ"
+
+#: icon-themes/Smokey-Blue/index.theme.in.h:1
+msgid "Smokey-Blue"
+msgstr "ಧೂಮ ನೀಲಿ"
+
+#: icon-themes/Smokey-Red/index.theme.in.h:1
+msgid "Smokey-Red"
+msgstr "ಧೂಮ ಕೆಂಪು"
