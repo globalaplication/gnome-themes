@@ -20,7 +20,7 @@ EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
 install: install-am
-	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(icondir)
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)
 
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
