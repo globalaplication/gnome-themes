@@ -616,6 +616,7 @@ draw_black_arrow (GdkWindow     *window,
     gdk_gc_set_clip_rectangle (gc, NULL);
 }
 
+#if 0
 static void
 draw_arrow(GtkStyle * style,
            GdkWindow * window,
@@ -645,7 +646,7 @@ draw_arrow(GtkStyle * style,
   draw_black_arrow (window, style->fg_gc[state], area, arrow_type,
 	      x, y, width, height);
 }
-#if 0
+#endif
 static void
 draw_arrow(GtkStyle * style,
            GdkWindow * window,
@@ -663,6 +664,7 @@ draw_arrow(GtkStyle * style,
   GdkGC              *gc4;
   gint                half_width;
   gint                half_height;
+  gint                ax, ay, aw, ah;
 
   g_return_if_fail(style != NULL);
   g_return_if_fail(window != NULL);
@@ -712,6 +714,11 @@ draw_arrow(GtkStyle * style,
     }
 
   sanitize_size(window, &width, &height);
+  ax = x;
+  ay = y;
+  aw = width;
+  ah = height;
+  calculate_arrow_geometry (arrow_type, &ax, &ay, &aw, &ah);
 
   half_width = width / 2;
   half_height = height / 2;
@@ -761,41 +768,43 @@ draw_arrow(GtkStyle * style,
           thinice_dot(window, gc1, gc2, x + half_width, y + half_height);
           break;
         case MARKS_ARROW:
-          if (arrow_type == GTK_ARROW_UP || arrow_type == GTK_ARROW_DOWN) {
-            if (width == DEFAULT_SCROLLTHUMB_SIZE / 2) {
-              x--;
-            }
-            width+=1;
-          } else {
-            if (height == DEFAULT_SCROLLTHUMB_SIZE / 2) {
-              y--;
-            }
-            height+=1;
-          }
-          draw_shadearrow(style, window, state_type, shadow_type, area, widget, detail, arrow_type,
-                          fill, x, y, width, height);
+          if (state_type == GTK_STATE_INSENSITIVE)
+            draw_black_arrow (window, style->white_gc, area, arrow_type,
+                              ax + 1, ay + 1, aw, ah);
+          draw_black_arrow (window, style->fg_gc[state_type], area, arrow_type,
+                  ax, ay, aw, ah);
           break;
         case MARKS_SLASH:
         default:
-          thinice_slash_one(window, gc1, gc2, x, y, width, height);
+          thinice_slash_one(window, gc1, gc2, x, y, width - 1, height - 1);
           break;
         }
     }
   else if DETAIL("spinbutton")
     {
-      draw_shadearrow(style, window, state_type, shadow_type, area, widget, detail, arrow_type,
-                      fill, x, y, width, height);
+      if (state_type == GTK_STATE_INSENSITIVE)
+        draw_black_arrow (window, style->white_gc, area, arrow_type,
+                          ax + 1, ay + 1, aw, ah);
+      draw_black_arrow (window, style->fg_gc[state_type], area, arrow_type,
+                        ax, ay, aw, ah);
     }
   else if (DETAIL("menuitem"))
     {
-      width-=2;
-      draw_shadearrow(style, window, state_type, shadow_type, area, widget, detail, arrow_type,
-                      fill, x, y, width, height);
+      ax = x + width - aw;
+
+      if (state_type == GTK_STATE_INSENSITIVE)
+        draw_black_arrow (window, style->white_gc, area, arrow_type,
+                          ax + 1, ay + 1, aw, ah);
+      draw_black_arrow (window, style->fg_gc[state_type], area, arrow_type,
+                        ax, ay, aw, ah);
     }
   else
     {
-      draw_shadearrow(style, window, state_type, shadow_type, area, widget, detail, arrow_type,
-                      fill, x, y, width, height);
+      if (state_type == GTK_STATE_INSENSITIVE)
+        draw_black_arrow (window, style->white_gc, area, arrow_type,
+                          ax + 1, ay + 1, aw, ah);
+      draw_black_arrow (window, style->fg_gc[state_type], area, arrow_type,
+                        ax, ay, aw, ah);
     }
 
   if (area)
@@ -809,7 +818,6 @@ draw_arrow(GtkStyle * style,
         }
     }
 }
-#endif
 
 
 #if 0
@@ -2167,10 +2175,10 @@ thinice_slash_one(GdkWindow *window,
 {
   gint centerx, centery, thick;
 
-  centerx = (width - 1)/2 + x;
-  centery = (height - 1)/2 + y;
+  centerx = width/2 + x;
+  centery = height/2 + y;
 
-  thick = ((width < height?width-1:height-1) >> 1) - 2;
+  thick = ((width < height?width:height) >> 1);
   gdk_draw_line(window, gc2,
                 centerx - thick, centery + thick,
                 centerx + thick, centery - thick);

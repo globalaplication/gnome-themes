@@ -2,10 +2,11 @@
 style "default"
 {
   GtkOptionMenu::indicator_spacing = { 3, 2, 1, 1 }
-  GtkRange::slider_width = 12
-  GtkRange::stepper_size = 12
+  GtkRange::slider_width = 11
+  GtkRange::stepper_size = 11
   GtkScrollbar::min_slider_length = 14
   GtkCheckButton::indicator_size = 10
+  GtkButton::default_border = { 0, 0, 0, 0 }
 
   fg[NORMAL]       = "#000000"
   fg[ACTIVE]       = "#000000"
@@ -42,7 +43,7 @@ style "default"
 
     # How to draw paned stuff
     # Can be: NONE, SOME (currently 5), FULL
-    paned_dots = FULL
+    paned_dots = SOME
   }
 }
 
