@@ -8,20 +8,21 @@
 	<!ENTITY st4 "stroke-width:0.8794;">
 	<!ENTITY st5 "fill:url(#aigrd2);stroke:none;">
 	<!ENTITY st6 "opacity:0.25;stroke:none;">
-	<!ENTITY st7 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
-	<!ENTITY st8 "fill:url(#aigrd4);stroke:none;">
+	<!ENTITY st7 "fill:none;stroke:none;">
+	<!ENTITY st8 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+	<!ENTITY st9 "fill:url(#aigrd4);stroke:none;">
 ]>
-<svg  width="23px" height="19.2px" viewBox="0 0 23 19.2" xml:space="preserve">
-	<g id="Layer_x0020_4" style="&st7;">
-		<path style="&st4;" d="M10.2,10.8c-0.9,0-7.1,0-7.1,0c-1.5,0-2.6,1.2-2.6,2.6c0,1.5,1.2,2.6,2.6,2.6c0,0,6.2,0,7.1,0c0.9,1.6,2.7,2.6,4.6,2.6c1.9,0,3.6-1,4.6-2.6c0.3,0,0.7,0,0.7,0c1.5,0,2.6-1.2,2.6-2.6c0-1.5-1.2-2.6-2.6-2.6c0,0-0.4,0-0.7,0
-			c-0.9-1.6-2.7-2.6-4.6-2.6c-1.9,0-3.6,1-4.6,2.6z"/>
-		<linearGradient id="aigrd1" gradientUnits="userSpaceOnUse" x1="11.522" y1="15.3438" x2="11.522" y2="11.9898">
+<svg  width="24pt" height="24pt" viewBox="0 0 24 24" xml:space="preserve">
+	<g id="Layer_x0020_4" style="&st8;">
+		<path style="&st4;" d="M10.8,13.6c-0.9,0-7.1,0-7.1,0c-1.5,0-2.6,1.2-2.6,2.6c0,1.5,1.2,2.6,2.6,2.6c0,0,6.2,0,7.1,0c0.9,1.6,2.7,2.6,4.6,2.6c1.9,0,3.6-1,4.6-2.6c0.3,0,0.7,0,0.7,0c1.5,0,2.6-1.2,2.6-2.6c0-1.5-1.2-2.6-2.6-2.6c0,0-0.4,0-0.7,0
+			C19,12,17.3,11,15.4,11c-1.9,0-3.6,1-4.6,2.6z"/>
+		<linearGradient id="aigrd1" gradientUnits="userSpaceOnUse" x1="12.1655" y1="18.1416" x2="12.1655" y2="14.7877">
 			<stop  offset="0" style="stop-color:#B4B4B4"/>
 			<stop  offset="0.3423" style="stop-color:#898785"/>
 			<stop  offset="1" style="stop-color:#3D3D3D"/>
 		</linearGradient>
-		<path style="&st0;" d="M21.8,13.5c0,1-0.8,1.8-1.8,1.8H3.1c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8H20c1,0,1.8,0.8,1.8,1.8z"/>
-		<radialGradient id="aigrd2" cx="15.8965" cy="15.0957" r="6.5902" fx="15.8965" fy="15.0957" gradientUnits="userSpaceOnUse">
+		<path style="&st0;" d="M22.4,16.3c0,1-0.8,1.8-1.8,1.8H3.7c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8h16.9c1,0,1.8,0.8,1.8,1.8z"/>
+		<radialGradient id="aigrd2" cx="16.54" cy="17.8936" r="6.5902" fx="16.54" fy="17.8936" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#3F89BE"/>
 			<stop  offset="7.357431e-002" style="stop-color:#3D83BB"/>
 			<stop  offset="0.1853" style="stop-color:#3773B3"/>
@@ -41,8 +42,8 @@
 			<stop  offset="0.9913" style="stop-color:#201F21"/>
 			<stop  offset="1" style="stop-color:#000000"/>
 		</radialGradient>
-		<path style="&st5;" d="M19.1,13.5c0,2.4-2,4.4-4.4,4.4s-4.4-2-4.4-4.4s2-4.4,4.4-4.4s4.4,2,4.4,4.4z"/>
-		<linearGradient id="aigrd3" gradientUnits="userSpaceOnUse" x1="12.792" y1="10.7021" x2="16.3761" y2="15.1934">
+		<path style="&st5;" d="M19.8,16.3c0,2.4-2,4.4-4.4,4.4s-4.4-2-4.4-4.4s2-4.4,4.4-4.4s4.4,2,4.4,4.4z"/>
+		<linearGradient id="aigrd3" gradientUnits="userSpaceOnUse" x1="13.4355" y1="13.5" x2="17.0197" y2="17.9912">
 			<stop  offset="0" style="stop-color:#FFFFFF"/>
 			<stop  offset="0.1663" style="stop-color:#FAF9FC"/>
 			<stop  offset="0.3527" style="stop-color:#ECE8F3"/>
@@ -51,9 +52,9 @@
 			<stop  offset="0.9578" style="stop-color:#8F7FBB"/>
 			<stop  offset="1" style="stop-color:#8777B7"/>
 		</linearGradient>
-		<path style="&st1;" d="M11.1,13.8c0.4,4.4,10.1-0.8,5.5-3.5c-2.8-1.7-5.8,0.4-5.5,3.5z"/>
-		<path style="&st3;" d="M20.5,6H3.2l17.3-4.7l0,4.7z"/>
-		<linearGradient id="aigrd4" gradientUnits="userSpaceOnUse" x1="11.437" y1="3.0156" x2="16.73" y2="11.9247">
+		<path style="&st1;" d="M11.8,16.6c0.4,4.4,10.1-0.8,5.5-3.5c-2.8-1.7-5.8,0.4-5.5,3.5z"/>
+		<path style="&st3;" d="M21.1,8.8H3.8l17.3-4.7l0,4.7z"/>
+		<linearGradient id="aigrd4" gradientUnits="userSpaceOnUse" x1="12.0806" y1="5.8135" x2="17.3735" y2="14.7225">
 			<stop  offset="0" style="stop-color:#FFFFFF"/>
 			<stop  offset="6.478091e-002" style="stop-color:#FAFAFA"/>
 			<stop  offset="0.1372" style="stop-color:#EDEDED"/>
@@ -64,8 +65,11 @@
 			<stop  offset="0.7022" style="stop-color:#E4E4E4"/>
 			<stop  offset="1" style="stop-color:#B5B5B5"/>
 		</linearGradient>
-		<path style="&st8;" d="M20.5,6H3.2l17.3-4.7l0,4.7z"/>
-		<path style="&st6;" d="M20.5,1.3l0,4.7H3.2l16.9-0.5l0.4-4.2z"/>
-		<path style="&st2;" d="M20.5,1.3l0,0.5L3.2,6l17.3-4.7z"/>
+		<path style="&st9;" d="M21.1,8.8H3.8l17.3-4.7l0,4.7z"/>
+		<path style="&st6;" d="M21.1,4.1l0,4.7H3.8l16.9-0.5l0.4-4.2z"/>
+		<path style="&st2;" d="M21.1,4.1l0,0.5L3.8,8.8l17.3-4.7z"/>
+	</g>
+	<g id="Layer_x0020_2" style="&st8;">
+		<path style="&st7;" d="M24,24H0V0h24v24z"/>
 	</g>
 </svg>

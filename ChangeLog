@@ -1,5 +1,9 @@
 2003-01-15  Jakub Steiner <jimmac@ximian.com>
 
+	* gorilla/gtk-2.0/*.svg: added bounding box. all stock
+
+2003-01-15  Jakub Steiner <jimmac@ximian.com>
+
 	* gorilla/gtk/gtkrc:
 	* gorilla/gtk-2.0/gtkrc: started converting gtk themes (png->svg)
 	* gorilla/gtk-2.0/stock_about.svg:
