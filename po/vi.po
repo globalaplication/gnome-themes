@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-themes for Gnome v2.1.x\n"
-"POT-Creation-Date: 2002-11-26 05:56+0100\n"
-"PO-Revision-Date: 2002-12-14 11:12+0700\n"
+"POT-Creation-Date: 2003-01-19 04:58+0100\n"
+"PO-Revision-Date: 2003-01-19 20:31+0700\n"
 "Last-Translator: Trinh Minh Thanh <tmthanh@linuxmail.org>\n"
 "Language-Team: Gnome-Vi Team <Gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,3 +30,42 @@ msgstr "Độ tương phản cao ngược lại"
 msgid "White-on-black text and icons"
 msgstr "Biểu tượng và chữ trắng nền đen"
 
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large"
+msgstr "Lớn, độ tương phản cao"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Biểu tượng và chữ đen nền trắng lớn"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Lớn, độ tương phản cao ngược lại"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Biểu tượng và chữ trắng nền đen lớn"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "In lớn"
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Biểu tượng và chữ đen nền trắng lớn"
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Độ tương phản thấp"
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr ""
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr ""
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "In lớn, độ tương phản thấp"
