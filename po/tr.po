@@ -1,71 +1,218 @@
 # Turkish translation of gnome-themes.
-# Copyright (C) 2003 gnome-themes' copyright holder
+# Copyright (C) 2003 gnome-themes' copyright holders
 # This file is distributed under the same license as the gnome-themes package.
+# Barbaros Ulutas <tebarul@yahoo.com>, 2002.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gt\n"
-"POT-Creation-Date: 2003-01-18 12:10+0100\n"
-"PO-Revision-Date: 2003-01-18 16:22+0000\n"
-"Last-Translator: Görkem Çetin <gorkem@gelecek.com.tr>\n"
+"Project-Id-Version: gnome-desktop-themes\n"
+"POT-Creation-Date: 2003-01-23 19:01+0100\n"
+"PO-Revision-Date: 2003-01-24 00:05+0200\n"
+"Last-Translator: Barbaros Ulutas <tebarul@yahoo.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Beyaz üzerine siyah metin ve simgeler"
+#: desktop-themes/Crux/index.theme.in.h:1
+#: icon-themes/Crux/index.theme.in.h:1
+msgid "Crux"
+msgstr "Püf Noktasi"
 
-#: HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "Yüksek Parlaklık"
+#: desktop-themes/Crux/index.theme.in.h:2
+msgid "Smooth gradients with teal highlights"
+msgstr "Deniz mavisi vurgularla yumusak egimler"
 
-#: HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "Ters Yüksek Parlaklık"
+#: desktop-themes/Default/index.theme.in.h:1
+msgid "Default"
+msgstr "Öntanimli"
 
-#: HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "Siyah üzerine beyaz metin ve simgeler"
+#: desktop-themes/Default/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Ince görünüm, yüksek basarim"
 
-#: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Yüksek Parlaklık (Büyük)"
+#: desktop-themes/Mist/index.theme.in.h:1
+msgid "A minimalistic appearance"
+msgstr "Minimalist bir görünüm"
 
-#: HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Beyaz üzerine siyah metin ve simgeler (büyük)"
+#: desktop-themes/Mist/index.theme.in.h:2
+msgid "Mist"
+msgstr "Sis"
 
-#: HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
+#: desktop-themes/Ocean-Dream/index.theme.in.h:1
+msgid "Ocean Dream"
+msgstr "Okyanus Rüyasi"
+
+#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+msgid "The colours of the seashore"
+msgstr "Deniz kiyisi renkleri"
+
+#: desktop-themes/Plain/index.theme.in.h:1
+msgid "Plain"
+msgstr "Düz"
+
+#: desktop-themes/Plain/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Geleneksel sert köseli 3D görünüm"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:1
+msgid "A soft glassy appearance"
+msgstr "Yumusak camsi bir görünüm"
+
+#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+msgid "Smokey Blue"
+msgstr "Dumanli Mavi"
+
+#: gtk-themes/Crux/src/test.glade.h:2
+#, no-c-format
+msgid "%P %%"
+msgstr "%P %%"
+
+#: gtk-themes/Crux/src/test.glade.h:3
+msgid "Bar"
+msgstr "Çubuk"
+
+#: gtk-themes/Crux/src/test.glade.h:4
+msgid "Foo"
 msgstr ""
 
-#: HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr ""
+#: gtk-themes/Crux/src/test.glade.h:5
+msgid "New"
+msgstr "Yeni"
 
-#: LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr ""
+#: gtk-themes/Crux/src/test.glade.h:6
+msgid "New File"
+msgstr "Yeni Dosya"
 
-#: LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Büyük metin ve simgeler"
+#: gtk-themes/Crux/src/test.glade.h:7
+msgid "Open"
+msgstr "Aç"
 
-#: LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Düşük Parlaklık"
+#: gtk-themes/Crux/src/test.glade.h:8
+msgid "Open File"
+msgstr "Dosya Aç"
 
-#: LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Yumuşak metin ve simgeler"
+#: gtk-themes/Crux/src/test.glade.h:9
+msgid "Pick a color"
+msgstr "Renk al"
 
-#: LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Yumuşak metin ve simgeler (büyük)"
+#: gtk-themes/Crux/src/test.glade.h:10
+msgid "Project1"
+msgstr "Tasari1"
 
-#: LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr ""
+#: gtk-themes/Crux/src/test.glade.h:11
+msgid "Radio 1"
+msgstr "Radyo 1"
+
+#: gtk-themes/Crux/src/test.glade.h:12
+msgid "Radio 2"
+msgstr "Radyo 2"
+
+#: gtk-themes/Crux/src/test.glade.h:13
+msgid "Radio 3"
+msgstr "Radyo 3"
+
+#: gtk-themes/Crux/src/test.glade.h:14
+msgid "Sample Button"
+msgstr "Örnek Tus"
+
+#: gtk-themes/Crux/src/test.glade.h:15
+msgid "Sample check button"
+msgstr "Örnek onay tusu"
+
+#: gtk-themes/Crux/src/test.glade.h:16
+msgid "Save"
+msgstr "Kaydet"
+
+#: gtk-themes/Crux/src/test.glade.h:17
+msgid "Save File"
+msgstr "Dosyayi Kaydet"
+
+#: gtk-themes/Crux/src/test.glade.h:18
+msgid "Sub 1"
+msgstr "Alt 1"
+
+#: gtk-themes/Crux/src/test.glade.h:19
+msgid "Sub 2"
+msgstr "Alt 2"
+
+#: gtk-themes/Crux/src/test.glade.h:20
+msgid "Test one"
+msgstr "Deneme bir"
+
+#: gtk-themes/Crux/src/test.glade.h:21
+msgid "Test three"
+msgstr "Deneme üç"
+
+#: gtk-themes/Crux/src/test.glade.h:22
+msgid "Test two"
+msgstr "Deneme iki"
+
+#: gtk-themes/Crux/src/test.glade.h:23
+msgid "Text entry field"
+msgstr "Metin giris alani"
+
+#: gtk-themes/Crux/src/test.glade.h:24
+msgid "This is a test."
+msgstr "Bu bir denemedir."
+
+#: gtk-themes/Crux/src/test.glade.h:25
+msgid "_New File"
+msgstr "Ye_ni Dosya"
+
+#: gtk-themes/Crux/src/test.glade.h:26
+msgid "button2"
+msgstr "tus2"
+
+#: gtk-themes/Crux/src/test.glade.h:27
+msgid "button3"
+msgstr "tus3"
+
+#: gtk-themes/Crux/src/test.glade.h:28
+msgid "button4"
+msgstr "tus4"
+
+#: gtk-themes/Crux/src/test.glade.h:29
+msgid "gtk-ok"
+msgstr "gtk-ok"
+
+#: gtk-themes/Crux/src/test.glade.h:30
+msgid "radiobutton1"
+msgstr "radyo tus1"
+
+#: gtk-themes/Crux/src/test.glade.h:31
+msgid "radiobutton2"
+msgstr "radyo tus2"
+
+#: gtk-themes/Crux/src/test.glade.h:32
+msgid "toggle"
+msgstr "geçis"
+
+#: gtk-themes/Crux/src/test.glade.h:33
+msgid "www.eazel.com"
+msgstr "www.eazel.com"
+
+#: icon-themes/Flat-Blue/index.theme.in.h:1
+msgid "Flat-Blue"
+msgstr "Düz Mavi"
+
+#: icon-themes/Sandy/index.theme.in.h:1
+msgid "Sandy"
+msgstr "Kumlu"
+
+#: icon-themes/Smokey-Blue/index.theme.in.h:1
+msgid "Smokey-Blue"
+msgstr "Dumanli Mavi"
+
+#: icon-themes/Smokey-Red/index.theme.in.h:1
+msgid "Smokey-Red"
+msgstr "Dumanli Kirmizi"
+
+#: icon-themes/gnome/index.theme.in.h:1
+msgid "Default Gnome Theme"
+msgstr "Öntanimli Gnome Temasi"
+
+#: icon-themes/gnome/index.theme.in.h:2
+msgid "Gnome"
+msgstr "Gnome"
 
