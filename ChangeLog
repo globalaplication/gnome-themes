@@ -1,3 +1,11 @@
+2003-02-03  Seth Nickell  <snickell@stanford.edu>
+
+	* configure.in:
+	* gtk-themes/Simple/gtkrc:
+
+	Argh! No haxoring themes. ThinIce we can depend
+	on released.
+	
 2003-02-03  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/Makefile.am:

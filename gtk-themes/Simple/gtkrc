@@ -30,19 +30,19 @@ style "default"
   text[SELECTED]  = "#000000"
   text[INSENSITIVE] = "#000000"
 
-  engine "lighthouseblue" {}
-  #{
-  #  # Do you want the scrollbar handles rectangular or a bit shaped?
-  #  rect_scrollbar = TRUE
-  #
-  #  # The following variables are semi-generic, can be applied to
-  #  # different widget classes etc..
-  #
-  #  # Mark type 1 is used on scrollbar handles, handleboxes etc
-  #  mark_type1 = DOT
-  #  # Mark type 2 is used on scrollbar buttons
-  #  mark_type2 = ARROW
-  #}
+  engine "thinice"
+  {
+    # Do you want the scrollbar handles rectangular or a bit shaped?
+    rect_scrollbar = TRUE
+
+    # The following variables are semi-generic, can be applied to
+    # different widget classes etc..
+
+    # Mark type 1 is used on scrollbar handles, handleboxes etc
+    mark_type1 = DOT
+    # Mark type 2 is used on scrollbar buttons
+    mark_type2 = ARROW
+  }
 }
 
 style "menu" = "default"
