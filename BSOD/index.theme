@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BSOD
+Comment=Blue Screen of Death
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BSOD
+IconTheme=BSOD
+MetacityTheme=Atlanta
