@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-02-18 04:00+0100\n"
-"PO-Revision-Date: 2004-02-17 22:35-0600\n"
+"PO-Revision-Date: 2004-02-22 21:56-0600\n"
 "Last-Translator: Paisa Seeluangsawat <paisa@users.sf.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -120,14 +120,13 @@ msgstr "ดูอ่อนๆสะท้อนแสง"
 msgid "Smokey Blue"
 msgstr "ฟ้าหม่น"
 
-# It's the default traditional theme.  Probably should stress "default" over "old".
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr "ปกติ"
+msgstr "ดั้งเดิม"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "สามมิติ ขอบเข้ม เหมือนทั่วไป"
+msgstr "ชุดตกแต่งสามมิติแบบที่ มีมาตั้งแต่รุ่นดั้งเดิม"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
