@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themese VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-08-18 11:52+0200\n"
-"PO-Revision-Date: 2004-08-18 15:49+0200\n"
+"POT-Creation-Date: 2004-09-05 11:52+0200\n"
+"PO-Revision-Date: 2004-09-05 16:04+0200\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr "Glider"
 
 #: desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "Jednoduché, hladké a esteticky potešující"
+msgstr "Jednoduché, hladké a esteticky potěšující"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
