@@ -1,3 +1,52 @@
+2004-03-22  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/behavior-capplet.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/display-capplet.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-main-menu.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-ui-behavio
+	r.png: add
+	* HighContrastLargePrint/icons/48x48/apps/mouse-capplet.png: remove
+	* HighContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-mouse-optica
+	l.png: add
+	* HighContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/filesystems/gnome-fs-network.p
+	ng: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/behavior-capplet.p
+	ng: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/display-capplet.pn
+	g: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-main-menu.pn
+	g: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-ui-
+	behavior.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/mouse-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-mouse
+	-optical.png: add
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am
+	:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-ne
+	twork.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/behavior-capplet.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/display-capplet.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-main-menu.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-ui-behavior
+	.png: add
+	* LowContrastLargePrint/icons/48x48/apps/mouse-capplet.png: remove
+	* LowContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/devices/gnome-dev-mouse-optical
+	.png: add
+	* LowContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/filesystems/gnome-fs-network.pn
+	g: add
+
+	Fix the Menus & Toolbars and Mouse capplet icons, and add new ones
+	for Display Resolution, Main Menu and Browse Network.
+
 2004-03-20  Gareth Owen  <gowen72@yahoo.com>
 
 	* configure.in: Added en_GB to ALL_LINGUAS

@@ -6,8 +6,8 @@ icon_DATA=	\
                 accessibility-directory.png \
                 advanced-directory.png \
 		ax-applet.png \
-                behavior-capplet.png \
                 charpick.png \
+		display-capplet.png \
 		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
@@ -36,6 +36,7 @@ icon_DATA=	\
                 gnome-log.png \
 		gnome-logo-icon-transparent.png \
                 gnome-mailcheck.png \
+		gnome-main-menu.png \
                 gnome-mini-commander.png \
                 gnome-mixer-applet.png \
                 gnome-mixer.png \
@@ -50,6 +51,7 @@ icon_DATA=	\
                 gnome-settings.png \
                 gnome-settings-sound.png \
                 gnome-settings-theme.png \
+		gnome-settings-ui-behavior.png \
                 gnome-starthere.png \
                 gnome-system.png \
                 gnome-terminal.png \
@@ -59,7 +61,6 @@ icon_DATA=	\
                 gnome-workspace.png \
                 gucharmap.png \
                 launcher-program.png \
-                mouse-capplet.png \
                 perfmeter.png \
                 window-capplet.png \
 		$(NULL)

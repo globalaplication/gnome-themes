@@ -7,6 +7,7 @@ icon_DATA=	\
 		gnome-dev-cdrom.png \
 		gnome-dev-floppy.png \
 		gnome-dev-keyboard.png \
+		gnome-dev-mouse-optical.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)

@@ -18,6 +18,7 @@ icon_DATA =\
 	gnome-fs-ftp.png \
 	gnome-fs-home.png \
 	gnome-fs-loading-icon.png \
+	gnome-fs-network.png \
 	gnome-fs-nfs.png \
 	gnome-fs-regular.icon \
 	gnome-fs-regular.png \
