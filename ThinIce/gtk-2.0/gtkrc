@@ -8,22 +8,26 @@ style "default"
   GtkCheckButton::indicator_size = 10
   GtkButton::default_border = { 0, 0, 0, 0 }
 
-  fg[NORMAL]       = "#000000"
-  fg[ACTIVE]       = "#000000"
-  fg[PRELIGHT]     = "#F0F0F0"
-  fg[SELECTED]     = "#FFFFFF"
-  fg[INSENSITIVE]  = "#747474"
-  bg[NORMAL]       = "#D3D3DD"
-  bg[ACTIVE]       = "#C1C1CC"
-  bg[PRELIGHT]     = "#7080C0"
-  bg[SELECTED]     = "#336699"
-  bg[INSENSITIVE]  = "#D3D3DD"
-  base[NORMAL]     = "#E5E5F7"
-  base[ACTIVE]     = "#808080"
-  base[PRELIGHT]   = "#E5E5F7"
-  base[INSENSITIVE]= "#D3D3DD"
-  base[SELECTED]   = "#7080C0"
-  text[INSENSITIVE]= "#747474"
+  fg[NORMAL]        = "#000000"
+  fg[ACTIVE]        = "#000000"
+  fg[PRELIGHT]      = "#000000"
+  fg[SELECTED]      = "#FFFFFF"
+  fg[INSENSITIVE]   = "#747474"
+  bg[NORMAL]        = "#D3D3DD"
+  bg[ACTIVE]        = "#C1C1CC"
+  bg[PRELIGHT]      = "#E5E5F7"
+  bg[SELECTED]      = "#336699"
+  bg[INSENSITIVE]   = "#D3D3DD"
+  base[NORMAL]      = "#E5E5F7"
+  base[ACTIVE]      = "#808080"
+  base[PRELIGHT]    = "#E5E5F7"
+  base[SELECTED]    = "#336699"
+  base[INSENSITIVE] = "#E5E5F7"
+  text[NORMAL]      = "#000000"
+  text[ACTIVE]      = "#FFFFFF"
+  text[PRELIGHT]    = "#000000"
+  text[SELECTED]    = "#FFFFFF"
+  text[INSENSITIVE] = "#747474"
 
   #font_name = "Sans 10"
   engine "thinice"
@@ -48,5 +52,32 @@ style "default"
   }
 }
 
-class "GtkWidget" style "default"
+style "tooltips" {
+  bg[NORMAL] = "#EEE1B3"
+  fg[NORMAL] = "#000000"
+}
 
+style "progress-bar" {
+  bg[PRELIGHT] = "#336699"
+  fg[PRELIGHT] = "#FFFFFF"
+  bg[NORMAL]   = "#C1C1CC"
+}
+
+style "menu-item" {
+  bg[PRELIGHT]   = "#336699"
+  fg[PRELIGHT]   = "#FFFFFF"
+  base[PRELIGHT] = "#336699"
+  text[PRELIGHT] = "#FFFFFF"
+}
+
+class "GtkWidget" style "default"
+widget "gtk-tooltips*" style "tooltips"
+class "GtkProgressBar" style "progress-bar"
+class "GtkMenuItem" style "menu-item"
+widget_class "*.GtkMenuItem.*" style "menu-item"
+widget_class "*.GtkAccelMenuItem.*" style "menu-item"
+widget_class "*.GtkRadioMenuItem.*" style "menu-item"
+widget_class "*.GtkCheckMenuItem.*" style "menu-item"
+widget_class "*.GtkImageMenuItem.*" style "menu-item"
+widget_class "*.GtkSeparatorMenuItem.*" style "menu-item"
+widget_class "*.GtkRadioMenuItem.*" style "menu-item"
