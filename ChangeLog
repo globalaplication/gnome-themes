@@ -1,5 +1,15 @@
 2004-11-29  Calum Benson  <calum.benson@sun.com>
 
+	* LowContrastLargePrint/icons/48x48/apps/gnome-run.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-screenshot.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-searchtool.png:
+	* configure.in:
+
+	*Sigh* Commit all the icons this time... change configure to reflect
+	respun tarball.
+
+2004-11-29  Calum Benson  <calum.benson@sun.com>
+
 	* configure.in:
 
 	Post-release bump.
