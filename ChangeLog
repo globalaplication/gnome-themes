@@ -1,3 +1,8 @@
+2003-07-04  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* gtk-engines/thinice/thinice_theme_draw.c: (draw_slider):
+	Fix a leak. gdk_region_destroy() the clip region.
+
 2003-07-01  Richard Hult  <richard@imendio.com>
 
 	* AUTHORS: Update my email address.

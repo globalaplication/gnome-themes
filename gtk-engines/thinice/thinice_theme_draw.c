@@ -1924,6 +1924,8 @@ draw_slider(GtkStyle * style,
       gdk_gc_set_clip_region(style->light_gc[state_type], clipreg);
       gdk_gc_set_clip_region(style->dark_gc[state_type], clipreg);
 
+      gdk_region_destroy (clipreg);
+
       if (!rect)
         {
           rec.x = x;
