@@ -4,8 +4,6 @@
 #               HIG colors.
 #               This is Glider, the gnome-themes version of SmoothGNOME..
 
-include "iconrc"
-
 style "default"
 {
 	GtkWidget::interior_focus = 0

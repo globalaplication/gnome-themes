@@ -1,3 +1,10 @@
+2005-02-24  Thomas Wood  <thos@gnome.org>
+
+	* gtk-themes/Glider/Makefile.am:
+	* gtk-themes/Glider/gtkrc:
+
+	Resolves bug 167446: Use icon theme for stock icons in Glider
+
 2005-01-29  Dennis Cranston <dennis_cranston@yahoo.com>
 
 	* LowContrastLargePrint/icons/48x48/apps/
