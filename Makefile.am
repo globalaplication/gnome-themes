@@ -1,4 +1,4 @@
 SUBDIRS=	HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
-		HighContrastLargePrintInverse
+		HighContrastLargePrintInverse HighContrastInverse
 

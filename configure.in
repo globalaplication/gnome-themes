@@ -17,6 +17,12 @@ HighContrast/gtk-2.0/gtkrc
 HighContrast/icons/Makefile
 HighContrast/icons/48x48/Makefile
 HighContrast/icons/48x48/apps/Makefile
+HighContrastInverse/Makefile
+HighContrastInverse/gtk-2.0/Makefile
+HighContrastInverse/gtk-2.0/gtkrc
+HighContrastInverse/icons/Makefile
+HighContrastInverse/icons/48x48/Makefile
+HighContrastInverse/icons/48x48/apps/Makefile
 LargePrint/Makefile
 LargePrint/gtk-2.0/Makefile
 LargePrint/gtk-2.0/gtkrc

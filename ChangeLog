@@ -1,5 +1,92 @@
 2002-09-13  Calum Benson  <calum.benson@sun.com>
 
+	Added a HighContrastInverse theme.
+
+	* HighContrastInverse/Makefile.am:
+	* HighContrastInverse/gtk-2.0/Makefile.am:
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	* HighContrastInverse/icons/48x48/Makefile.am:
+	* HighContrastInverse/icons/48x48/apps/002_text_document.png:
+	* HighContrastInverse/icons/48x48/apps/004_spreadsheet_document.png
+	:
+	* HighContrastInverse/icons/48x48/apps/006_drawing_document.png:
+	* HighContrastInverse/icons/48x48/apps/008_presentation_document.pn
+	g:
+	* HighContrastInverse/icons/48x48/apps/012_html_document.png:
+	* HighContrastInverse/icons/48x48/apps/ForteDeveloper.png:
+	* HighContrastInverse/icons/48x48/apps/ForteForJava.png:
+	* HighContrastInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastInverse/icons/48x48/apps/SDtpowermgr.48.png:
+	* HighContrastInverse/icons/48x48/apps/SMC.png:
+	* HighContrastInverse/icons/48x48/apps/accessibility-directory.png:
+	* HighContrastInverse/icons/48x48/apps/accessibility-keyboard-cappl
+	et.png:
+	* HighContrastInverse/icons/48x48/apps/advanced-directory.png:
+	* HighContrastInverse/icons/48x48/apps/background-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/behavior-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/charpick.png:
+	* HighContrastInverse/icons/48x48/apps/default-applications-capplet
+	.png:
+	* HighContrastInverse/icons/48x48/apps/font-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/gedit-icon.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-applications.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-audio2.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-calc3.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-ccmime.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-ccthemes.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-cd.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-cdplayer-icon.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-character-map.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-clock.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-devel.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-eog.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-ghex.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-ghostview.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-globe.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-graphics.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-grecord.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-help.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-home.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-info.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-log.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-logo-icon-transparen.p
+	ng:
+	* HighContrastInverse/icons/48x48/apps/gnome-mailcheck.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-mini-commander.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-mixer-applet.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-multimedia.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-panel.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-session.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-settings.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-system.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-terminal.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-util.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-windows.png:
+	* HighContrastInverse/icons/48x48/apps/gnome-workspace.png:
+	* HighContrastInverse/icons/48x48/apps/keyboard-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/keyboard-shortcut.png:
+	* HighContrastInverse/icons/48x48/apps/launcher-program.png:
+	* HighContrastInverse/icons/48x48/apps/metacity-properties.png:
+	* HighContrastInverse/icons/48x48/apps/mouse-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/mozicon50.png:
+	* HighContrastInverse/icons/48x48/apps/pdasync.png:
+	* HighContrastInverse/icons/48x48/apps/perfmeter.png:
+	* HighContrastInverse/icons/48x48/apps/print-manager.png:
+	* HighContrastInverse/icons/48x48/apps/sdtaudiocontrol.48.png:
+	* HighContrastInverse/icons/48x48/apps/sdtjmplay.48.png:
+	* HighContrastInverse/icons/48x48/apps/smartcard.32.png:
+	* HighContrastInverse/icons/48x48/apps/smc.png:
+	* HighContrastInverse/icons/48x48/apps/so52_48_4bit.png:
+	* HighContrastInverse/icons/48x48/apps/so_printeradmin.png:
+	* HighContrastInverse/icons/48x48/apps/sound-capplet.png:
+	* HighContrastInverse/icons/48x48/apps/window-capplet.png:
+	* HighContrastInverse/icons/Makefile.am:
+	* HighContrastInverse/icons/index.theme:
+	* Makefile.am:
+	* configure.in:
+
+2002-09-13  Calum Benson  <calum.benson@sun.com>
+
 	* HighContrast/gtk-2.0/gtkrc.in:
 	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
 
