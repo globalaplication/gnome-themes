@@ -1,6 +1,6 @@
-INCLUDES = $(GTKTHEME_CFLAGS) -DG_LOG_DOMAIN=\"LighthouseBlueEngine\"
+INCLUDES = $(THEME_ENGINE_CFLAGS) -DG_LOG_DOMAIN=\"LighthouseBlueEngine\"
 
-enginedir = $(libdir)/gtk-2.0/$(GTK_BINARY_VERSION)/engines
+enginedir = $(libdir)/gtk-2.0/$(GTK_VERSION)/engines
 engine_LTLIBRARIES = liblighthouseblue.la
 
 liblighthouseblue_la_SOURCES = 	\
@@ -11,6 +11,6 @@ liblighthouseblue_la_SOURCES = 	\
 	lighthouseblue_style.c
 
 liblighthouseblue_la_LDFLAGS = -module -avoid-version
-liblighthouseblue_la_LIBADD =  $(GTKTHEME_LIBS)
+liblighthouseblue_la_LIBADD =  $(THEME_ENGINE_LIBS)
 
 EXTRA_DIST = util.c

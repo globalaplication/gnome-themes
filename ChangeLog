@@ -1,3 +1,42 @@
+2004-09-04  James Henstridge  <james@jamesh.id.au>
+
+	* configure.in: update and simplify the configure script a bit.
+	Remove the duplicate pkg-config checks.
+
+	* autogen.sh: remove the code used to generate the gtkrc.in files.
+
+	* LargePrint/gtk-2.0/gtkrc.in: 
+	* HighContrast/gtk-2.0/gtkrc.in: 
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in: 
+	* HighContrastInverse/gtk-2.0/gtkrc.in: 
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in: 
+	* LowContrast/gtk-2.0/gtkrc.in: 
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in: rename from $theme.rc,
+	and use the new autoconf substitutions to pull in the common
+	content.
+
+	* configure.in: use AC_SUBST_FILE to add substitutions for the
+	gtkrc fragments common to the a11y themes.
+
+	* autogen.sh: remove the code to generate some of the makefiles.
+
+	* LargePrint/pixmaps/Makefile.am: 
+	* HighContrastLargePrint/pixmaps/Makefile.am: 
+	* HighContrastLargePrintInverse/pixmaps/Makefile.am: 
+	* LowContrastLargePrint/pixmaps/Makefile.am: moved from
+	$theme.makefile, and use the "include" statement to pull in the
+	common definitions.
+
+	* configure.in: remove about 60 makefiles
+
+	* icon-themes/Crux/Makefile.am: 
+	* icon-themes/Flat-Blue/Makefile.am: 
+	* icon-themes/Sandy/Makefile.am: 
+	* icon-themes/Smokey-Red/Makefile.am: 
+	* icon-themes/Smokey-Blue/Makefile.am: handle images in
+	subdirectories directly.  This gives the same result, but is a lot
+	faster.
+
 2004-09-15  Calum Benson  <calum.benson@sun.com>
 
 	* desktop-themes/Glider/Makefile.am:
@@ -989,7 +1028,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
         * configure.in: Added "pa" (Punjabi) to ALL_LINGUAS.
 
-2004-03-23  Åsmund Skjæveland  <aasmunds@fys.uio.no>
+2004-03-23  Ãsmund SkjÃ¦veland  <aasmunds@fys.uio.no>
 
 	* configure.in: Added 'nn' to ALL_LINGUAS.
 	* po/nn.po: Added Norwegian Nynorsk translation.
@@ -1600,7 +1639,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 	Added missing "NautilusIconContainer::frame_text = 1" to HC themes.
 
-2003-05-06  Danilo Šegan  <dsegan@gmx.net>
+2003-05-06  Danilo Å egan  <dsegan@gmx.net>
 
 	* configure.in: Added "sr" and "sr@Latn" to ALL_LINGUAS.
 
@@ -1659,7 +1698,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 	* configure.in: Added "fa" to ALL_LINGUAS.
 
-2003-02-20  Tõivo Leedjärv  <toivo@linux.ee>
+2003-02-20  TÃµivo LeedjÃ¤rv  <toivo@linux.ee>
 
 	* configure.in: Added et to ALL_LINGUAS.
 
