@@ -1,3 +1,27 @@
+2005-03-31  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/symlinks.dat:
+	* HighContrastLargePrint/icons/index.theme:
+	* HighContrastLargePrintInverse/icons/48x48/apps/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* LargePrint/icons/index.theme:
+	* LowContrastLargePrint/icons/index.theme:
+
+	Add more symlinks for 'missing' HC icons.
+
+ 2005-03-03  Shakti Sen  <shprasad@novell.com>
+
+       * LargePrint/icons/index.theme:
+       * HighContrastLargePrint/icons/index.theme:
+       * HighContrastLargePrintInverse/icons/index.theme:
+       * LowContrastLargePrint/icons/index.theme:
+
+       Adding 'Hidden=true' not to show these themes in 'Icons' tab of
+       gnome-theme-manager->Theme Details->Icons list.
+
+       This will fix #168977 when #168348 is fixed (and should have
+       no noticeable effect in the meantime).
+
 2005-03-24  Adi Attar  <aattar@cvs.gnome.org>
 
 	* configure.in: Added 'xh' to ALL_LINGUAS.
