@@ -39,7 +39,7 @@
 ;;; and there:
 ;;; for i in *.png
 ;;; do
-;;;     gimp -i -s -b "(script-fu-low-constrast-preset \"${PWD}${i}\")" \
+;;;     gimp -i -s -b "(script-fu-low-contrast-preset \"${PWD}${i}\")" \
 ;;;                   "(gimp-quit 0)"
 ;;; done
 ;;; It will take a while and must be run from inside a X11 session
