@@ -1,5 +1,8 @@
 2003-01-07  Jakub Steiner <jimmac@ximian.com>
 
+	* gorilla/scalable/mimetypes/gnome-mime-audio.svg:
+	* gorilla/scalable/mimetypes/gnome-mime-video.svg: not quite
+     working now (inheritance clash)
 	* gorilla/scalable/filesystems/gnome-fs-home.svg: size fix
 	* gorilla/index.theme: temporary emblem size fix
 
