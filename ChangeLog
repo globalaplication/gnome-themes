@@ -2,6 +2,17 @@
 
 	reviewed by: <delete if not using a buddy>
 
+	* HighContrast/icons/48x48/apps/Makefile.am:
+	* HighContrastInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* LowContrast/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+
+2002-10-09  Calum Benson  <set EMAIL_ADDRESS environment variable>
+
+	reviewed by: <delete if not using a buddy>
+
 	* HighContrast/icons/48x48/apps/gnome-logo-icon-transparen.png:
 	* HighContrast/icons/48x48/apps/gnome-logo-icon-transparent.png:
 	* HighContrastInverse/icons/48x48/apps/gnome-logo-icon-transparen.p

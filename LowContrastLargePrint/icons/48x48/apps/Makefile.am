@@ -1,6 +1,6 @@
 pixmapdir=	$(datadir)/icons/LowContrastLargePrint/48x48/apps/
 
-pixmap_DATA=	gnome-logo-icon-transparen.png \
+pixmap_DATA=	gnome-logo-icon-transparent.png \
 		gnome-log.png \
 		gnome-mailcheck.png \
 		gnome-mini-commander.png \
