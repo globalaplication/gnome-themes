@@ -10,7 +10,7 @@
 
 pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
 
-gtk-icon-sizes = "dnd 64,64:menu 32,32:panel-menu 48,48:large-toolbar 48,48:small-toolbar 48,48:button 32,32:dialog 64,64"
+gtk-icon-sizes = "dnd=64,64:menu=32,32:panel-menu=48,48:large-toolbar=48,48:small-toolbar=48,48:button=32,32:dialog=64,64"
 
 gtk-font-name = "sans 18"
 

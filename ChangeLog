@@ -1,3 +1,16 @@
+2002-09-27  Calum Benson  <calum.benson@sun.com>
+
+	Icon size syntax changed to match that required by
+	Owen's patch for #70648.  Consequently, gtk HEAD
+	(later than 25-Sep-02) is currently required for icon
+	sizing to work.
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+
 2002-09-19  Calum Benson  <calum.benson@sun.com>
 
 	Made icon themes depend on 'gnome' rather than 'default',
