@@ -1,3 +1,5 @@
+NULL=
+
 pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		stock_attach.png stock_bold.png stock_book.png \
 		stock_cancel.png stock_cdrom.png stock_clear.png \
@@ -45,4 +47,6 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		media-prev.png media-next.png \
                 media-stop.png media-eject.png \
                 media-play.png media-pause.png \
-		stock_amusements.png
+		stock_amusements.png \
+		$(NULL)
+

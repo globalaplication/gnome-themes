@@ -1,6 +1,9 @@
-pixmapdir=	$(datadir)/icons/HighContrastLargePrint/48x48/emblems/
+NULL=
 
-pixmap_DATA=	\
-		emblem-noread.png
+icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/emblems/
 
-EXTRA_DIST=	$(pixmap_DATA)
+icon_DATA=	\
+		emblem-noread.png \
+		$(NULL)
+
+EXTRA_DIST=	$(icon_DATA)
