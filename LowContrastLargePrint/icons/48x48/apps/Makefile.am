@@ -1,6 +1,8 @@
-pixmapdir=	$(datadir)/icons/LowContrastLargePrint/48x48/apps/
+NULL=
 
-pixmap_DATA=	gnome-logo-icon-transparent.png \
+icondir=	$(datadir)/icons/LowContrastLargePrint/48x48/apps/
+
+icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-log.png \
 		gnome-mailcheck.png \
 		gnome-mini-commander.png \
@@ -50,6 +52,8 @@ pixmap_DATA=	gnome-logo-icon-transparent.png \
 		gnome-home.png \
 		gnome-joystick.png \
                 gkb.png \
-                gnome-ccscreensaver.png
+                gnome-ccscreensaver.png \
+		gnome-starthere.png \
+		$(NULL)
 
-EXTRA_DIST=	$(pixmap_DATA)
+EXTRA_DIST=	$(icon_DATA)
