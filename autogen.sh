@@ -11,7 +11,6 @@ for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse 
 	echo "#Do not edit it by hand if building from cvs." >> $theme/gtk-2.0/gtkrc.in
 	echo "#See README for more details." >> $theme/gtk-2.0/gtkrc.in
 	echo "#======" >> $theme/gtk-2.0/gtkrc.in
-	cat $theme/gtk-2.0/gtkrc.in
 	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc common/capplet-stock-icons.rc >> $theme/gtk-2.0/gtkrc.in
 done
 
