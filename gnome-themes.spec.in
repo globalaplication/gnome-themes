@@ -27,10 +27,20 @@ rm -rf ${RPM_BUILD_ROOT}
 
 %files -f %{name}.lang
 %defattr(-, root, root)
+%{_libdir}/gtk-2.0/@GTK_BINARY_VERSION@/engines/*.so*
+%{_datadir}/eazel-engine
+%{_libdir}/gtk-2.0/@GTK_BINARY_VERSION@/engines/*.so*
+%{_datadir}/eazel-engine
 %{_datadir}/icons/*
 %{_datadir}/themes/*
 %doc AUTHORS COPYING README
 
 %changelog
+* Fri Jan 24 2003 Yanko Kaneti <yaneti@declera.com>
+- Accomodate for the gnome-desktop-themes merge
+
+* Fri Jan 24 2003 Yanko Kaneti <yaneti@declera.com>
+- Accomodate for the gnome-desktop-themes merge
+
 * Fri Jan 17 2003 Yanko Kaneti <yaneti@declera.com>
 - First spec
