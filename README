@@ -1,3 +1,6 @@
+Note to maintainers: because of the long filenames involved in this module,
+'make dist' will fail with versions of GNU tar > 1.12.
+
 ==========================================================================
 NOTE: The remainder of this README applies only to the 7 accessibility 
       themes in this module:
