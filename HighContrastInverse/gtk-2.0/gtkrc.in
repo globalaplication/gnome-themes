@@ -12,35 +12,35 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
 
 style "panel-icons"
 {
-	stock ["panel-run"] =		{{"stock_run.png", *,*,*}}
-	stock ["panel-searchtool"] =	{{"stock_searchtool.png", *,*,*}}
-	stock ["panel-screenshot"] =	{{"stock_screenshot.png", *,*,*}}
-	stock ["panel-lockscreen"] =	{{"stock_lockscreen.png", *,*,*}}
-	stock ["panel-logout"] =	{{"stock_logout.png", *,*,*}}
-	stock ["panel-gnome-logo"] =	{{"stock_gnome-logo.png", *,*,*}}
+	stock ["panel-run"] =		{{"stock_run.png"}}
+	stock ["panel-searchtool"] =	{{"stock_searchtool.png"}}
+	stock ["panel-screenshot"] =	{{"stock_screenshot.png"}}
+	stock ["panel-lockscreen"] =	{{"stock_lockscreen.png"}}
+	stock ["panel-logout"] =	{{"stock_logout.png"}}
+	stock ["panel-gnome-logo"] =	{{"stock_gnome-logo.png"}}
 
-	stock ["panel-cde"] =		{{"stock_cde-menu.png", *,*,*}}
-#TBD	stock ["panel-debian"] =	{{"", *,*,*}}
-#TBD	stock ["panel-kde"] =		{{"", *,*,*}}
-#TBD	stock ["panel-suse"] =		{{"", *,*,*}}
+	stock ["panel-cde"] =		{{"stock_cde-menu.png"}}
+#TBD	stock ["panel-debian"] =	{{""}}
+#TBD	stock ["panel-kde"] =		{{""}}
+#TBD	stock ["panel-suse"] =		{{""}}
 
-#TBD	stock ["panel-amusements"] =	{{"", *,*,*}}
-	stock ["panel-multimedia"] =	{{"stock_multimedia.png", *,*,*}}
+#TBD	stock ["panel-amusements"] =	{{""}}
+	stock ["panel-multimedia"] =	{{"stock_multimedia.png"}}
 
-	stock ["panel-internet"] =	{{"stock_internet.png", *,*,*}}
-	stock ["panel-utility"] =	{{"stock_gnome-util.png", *,*,*}}
+	stock ["panel-internet"] =	{{"stock_internet.png"}}
+	stock ["panel-utility"] =	{{"stock_gnome-util.png"}}
 
-	stock ["panel-corner-type"] =	{{"stock_corner-panel.png", *,*,*}}
-	stock ["panel-edge-type"] =	{{"stock_edge-panel.png", *,*,*}}
-	stock ["panel-floating-type"] =	{{"stock_floating-panel.png", *,*,*}}
-	stock ["panel-sliding-type"] =	{{"stock_sliding-panel.png", *,*,*}}
-	stock ["panel-menu-type"] =	{{"stock_menu-panel.png", *,*,*}}
+	stock ["panel-corner-type"] =	{{"stock_corner-panel.png"}}
+	stock ["panel-edge-type"] =	{{"stock_edge-panel.png"}}
+	stock ["panel-floating-type"] =	{{"stock_floating-panel.png"}}
+	stock ["panel-sliding-type"] =	{{"stock_sliding-panel.png"}}
+	stock ["panel-menu-type"] =	{{"stock_menu-panel.png"}}
 
-	stock ["panel-launcher"] =	{{"stock_launcher-program.png", *,*,*}}
+	stock ["panel-launcher"] =	{{"stock_launcher-program.png"}}
 
-	stock ["panel-drawer"] =	{{"stock_drawer.png", *,*,*}}
-#	stock ["panel-applet"] =	{{"", *,*,*}}
-#	stock ["panel-desktop"] =	{{"", *,*,*}}
+	stock ["panel-drawer"] =	{{"stock_drawer.png"}}
+#	stock ["panel-applet"] =	{{""}}
+#	stock ["panel-desktop"] =	{{""}}
 
 }
 
@@ -112,8 +112,8 @@ style "default"
   stock["gtk-dialog-error"] =  {{ "stock_dialog_error.png" }}
   stock["gtk-dialog-warning"] =  {{ "stock_dialog_warning.png" }}
 
-#  stock["gtk-stock-dnd"] = {{ "stock_dnd.png" }} does not exist
-#  stock["gtk-stock-dnd-multiple"] = {{ "stock_dnd_multiple.png" }} does not exist
+  stock["gtk-stock-dnd"] = {{ "stock_dnd.png" }} 
+  stock["gtk-stock-dnd-multiple"] = {{ "stock_dnd_multiple.png" }} 
 
   stock["gtk-add"] =	       {{ "stock_add.png" }}
   stock["gtk-apply"] =	       {{ "stock_apply.png" }}
@@ -150,7 +150,7 @@ style "default"
   stock["gtk-justify-right"] =	{{ "stock_justify-right.png" }}
   stock["gtk-missing-image"] =	{{ "stock_missing-image.png" }}
   stock["gtk-new"] =	     	{{ "stock_new.png" }}
-#  stock["gtk-no"] =		{{ "stock_no.png" }} does not exist
+  stock["gtk-no"] =		{{ "stock_no.png" }} 
   stock["gtk-ok"] =		{{ "stock_ok.png" }}
   stock["gtk-open"] =		{{ "stock_open.png" }} 
   stock["gtk-paste"] =		{{ "stock_paste.png" }}
@@ -175,7 +175,7 @@ style "default"
   stock["gtk-undelete"] =	{{ "stock_undelete.png" }}
   stock["gtk-underline"] =	{{ "stock_underline.png" }}
   stock["gtk-undo"] =		{{ "stock_undo.png" }}
-#  stock["gtk-yes"] =		{{ "stock_yes.png" }} does not exist
+  stock["gtk-yes"] =		{{ "stock_yes.png" }} 
   stock["gtk-zoom-100"] =	{{ "stock_zoom-100.png" }}
   stock["gtk-zoom-fit"] =	{{ "stock_zoom-fit.png" }}
   stock["gtk-zoom-in"] =	{{ "stock_zoom-in.png" }}

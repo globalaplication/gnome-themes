@@ -149,8 +149,8 @@ style "default"
   stock["gtk-save-as"] =	{{ "stock_save_as.png" }}
   stock["gtk-select-color"] =	{{ "stock_select-color.png" }}
   stock["gtk-select-font"] =	{{ "stock_font.png" }}
-  stock["gtk-sort-ascending"] =	{{ "stock_sort-ascending.png" }}
-  stock["gtk-sort-descending"] ={{ "stock_sort-descending.png" }}
+  stock["gtk-sort-ascending"] =	{{ "stock_sort_ascending.png" }}
+  stock["gtk-sort-descending"] ={{ "stock_sort_descending.png" }}
   stock["gtk-spell-check"] =	{{ "stock_spellcheck.png" }}
   stock["gtk-stop"] =		{{ "stock_stop.png" }}
   stock["gtk-strikethrough"] =	{{ "stock_text_strikethrough.png" }}
