@@ -1,3 +1,13 @@
+2002-09-02  Calum Benson  <calum.benson@sun.com>
+
+	Set large print panel icon sizes to 48x48.
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LowContrast/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+
 2002-09-02  Calum Benson  <set EMAIL_ADDRESS environment variable>
 
 	Added suzanna's latest LCLP icons, and a couple that were missing
