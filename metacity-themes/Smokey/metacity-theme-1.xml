@@ -179,7 +179,7 @@
 
 <draw_ops name="menu_button_normal">
   <include name="bg_active"/>
-  <icon alpha="0.25" x="1" y="height/2 - width/2" width="width - 1" height="width"/>
+  <icon alpha="1.0" x="1" y="height/2 - width/2" width="width - 1" height="width"/>
 </draw_ops>
 
 <draw_ops name="menu_button_pressed">
