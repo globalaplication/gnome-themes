@@ -13,39 +13,7 @@
 	* common/all-stock-icons.data:
 	* common/panel-stock-icons.rc:
 
-	Added mini-commander icons, for use by the patch in #96086.
-
-Thu Nov 21 14:59:24 2002  Jonathan Blandford  <jrb@redhat.com>
-
-	* */.cvsignore: Shut up, cvs
-
-	* HighContrast/index.theme.in: Added metatheme file
-	* HighContrast/Makefile.am: support added.
-
-	* HighContrastInverse/index.theme.in: Added metatheme file
-	* HighContrastInverse/Makefile.am: support added.
-
-	* HighContrastLargePrint/index.theme.in.in: Added metatheme file
-	* HighContrastLargePrint/Makefile.am: support added.
-	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc: remove
-	font from here.
-
-	* HighContrastLargePrintInverse/index.theme.in.in: Added metatheme file
-	* HighContrastLargePrintInverse/Makefile.am: support added.
-	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
-	remove font from here.
-
-	* LargePrint/index.theme.in.in: Added metatheme file
-	* LargePrint/Makefile.am: support added.
-	* LargePrint/gtk-2.0/LargePrint.rc: remove font from here.
-
-	* LowContrast/index.theme.in: Added metatheme file
-	* LowContrast/Makefile.am: support added.
-
-	* LowContrastLargePrint/index.theme.in.in: Added metatheme file
-	* LowContrastLargePrint/Makefile.am: support added.
-	* LowContrastLargePrint/gtk-2.0/LowContrastLargePrint.rc: remove
-	font from here.
+	Added mini-commander icons, for use by patch in #96086.
 
 2002-11-06  Calum Benson  <calum.benson@sun.com>
 

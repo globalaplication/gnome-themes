@@ -40,7 +40,6 @@ aclocal $ACLOCAL_FLAGS;
 autoheader;
 automake --add-missing;
 autoconf;
-glib-gettextize --force;
-intltoolize --force;
+
 ./configure $@ --enable-maintainer-mode --enable-compile-warnings
 

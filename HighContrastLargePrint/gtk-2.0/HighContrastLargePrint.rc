@@ -12,8 +12,12 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
 
 gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
 
+gtk-font-name = "@LARGEPRINT_FONT@"
+
 style "default"
 {
+  font_name = "sans 18"
+
   GtkWidget::focus-line-pattern = "\10\2"
   GtkWidget::focus-line-width = 3
   GtkHSV::focus-line-pattern = "\0"

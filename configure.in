@@ -5,23 +5,9 @@ AM_CONFIG_HEADER(config.h)
 
 AM_INIT_AUTOMAKE(gnome-themes, 0.3)
 
-# Honor aclocal flags
-ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
-
-
-GETTEXT_PACKAGE=gnome-themes
-AC_SUBST(GETTEXT_PACKAGE)
-
 AM_MAINTAINER_MODE
 
-AC_PROG_INTLTOOL([0.22])
-AC_PROG_CC
-
 ### Icon sizes for all large print themes
-
-
-ALL_LINGUAS=""
-AM_GLIB_GNU_GETTEXT
 
 LARGEPRINT_DND="48,48"
 LARGEPRINT_MENU="32,32"
@@ -51,13 +37,11 @@ HighContrastInverse/gtk-2.0/Makefile
 HighContrastInverse/gtk-2.0/gtkrc
 HighContrastInverse/icons/Makefile
 LargePrint/Makefile
-LargePrint/index.theme.in
 LargePrint/gtk-2.0/Makefile
 LargePrint/gtk-2.0/gtkrc
 LargePrint/pixmaps/Makefile
 LargePrint/icons/Makefile
 HighContrastLargePrint/Makefile
-HighContrastLargePrint/index.theme.in
 HighContrastLargePrint/gtk-2.0/Makefile
 HighContrastLargePrint/gtk-2.0/gtkrc
 HighContrastLargePrint/pixmaps/Makefile
@@ -69,7 +53,6 @@ HighContrastLargePrint/icons/48x48/filesystems/Makefile
 HighContrastLargePrint/icons/48x48/devices/Makefile
 HighContrastLargePrint/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/Makefile
-HighContrastLargePrintInverse/index.theme.in
 HighContrastLargePrintInverse/gtk-2.0/Makefile
 HighContrastLargePrintInverse/gtk-2.0/gtkrc
 HighContrastLargePrintInverse/pixmaps/Makefile
@@ -81,7 +64,6 @@ HighContrastLargePrintInverse/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile
 HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile
 LowContrastLargePrint/Makefile
-LowContrastLargePrint/index.theme.in
 LowContrastLargePrint/gtk-2.0/Makefile
 LowContrastLargePrint/gtk-2.0/gtkrc
 LowContrastLargePrint/pixmaps/Makefile
@@ -96,6 +78,5 @@ LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc
 LowContrast/icons/Makefile
-po/Makefile.in
 ])
 
