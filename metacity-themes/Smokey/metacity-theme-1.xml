@@ -77,13 +77,17 @@
   <image filename="button-shine.png" alpha="0.5" x="0" y="0" width="width" height="height - 1"/>
 </draw_ops>
 
+<draw_ops name="button_pressed">
+  <image filename="button-pressed.png" alpha="1.0" x="0" y="0" width="width" height="height - 1"/>
+</draw_ops>
+
 <draw_ops name="button_pressed_shine">
-  <image filename="button-shine.png" alpha="1.0" x="0" y="0" width="width" height="height - 1"/>
+  <image filename="button-pressed-shine.png" alpha="0.5" x="0" y="0" width="width" height="height - 1"/>
 </draw_ops>
 
 <draw_ops name="minimize_button">
   <image filename="button-base.png" alpha="0.8" x="0" y="0" width="width" height="height - 1"/>
-  <image filename="minimize.png" colorize="gtk:fg[SELECTED]" alpha="0.6" x="2" y="2" width="width-4" height="height-4"/>
+  <image filename="minimize.png" colorize="gtk:fg[SELECTED]" alpha="1.0" x="2" y="2" width="width-4" height="height-4"/>
 </draw_ops>
 
 <draw_ops name="minimize_button_semi">
@@ -93,7 +97,7 @@
 
 <draw_ops name="maximize_button">
   <image filename="button-base.png" alpha="0.8" x="0" y="0" width="width" height="height - 1"/>
-  <image filename="maximize.png" colorize="gtk:fg[SELECTED]" alpha="0.6" x="2" y="2" width="width-4" height="height-4"/>
+  <image filename="maximize.png" colorize="gtk:fg[SELECTED]" alpha="1.0" x="2" y="2" width="width-4" height="height-4"/>
 </draw_ops>
 
 <draw_ops name="maximize_button_semi">
@@ -103,7 +107,7 @@
 
 <draw_ops name="close_button">
   <image filename="button-base.png" alpha="0.8" x="0" y="0" width="width" height="height - 1"/>
-  <image filename="close.png" colorize="gtk:fg[SELECTED]" alpha="0.6" x="2" y="2" width="width-4" height="height-4"/>
+  <image filename="close.png" colorize="gtk:fg[SELECTED]" alpha="1.0" x="2" y="2" width="width-4" height="height-4"/>
 </draw_ops>
 
 <draw_ops name="close_button_semi">
@@ -126,6 +130,7 @@
 <draw_ops name="minimize_button_pressed">
   <include name="bg_active"/>
   <include name="minimize_button"/>
+  <include name="button_pressed"/>
   <include name="button_pressed_shine"/>
 </draw_ops>
 
@@ -144,6 +149,7 @@
 <draw_ops name="maximize_button_pressed">
   <include name="bg_active"/>
   <include name="maximize_button"/>
+  <include name="button_pressed"/>
   <include name="button_pressed_shine"/>
 </draw_ops>
 
@@ -162,6 +168,7 @@
 <draw_ops name="close_button_pressed">
   <include name="bg_active"/>
   <include name="close_button"/>
+  <include name="button_pressed"/>
   <include name="button_pressed_shine"/>
 </draw_ops>
 
