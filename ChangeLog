@@ -1,5 +1,18 @@
 2002-11-22  Calum Benson  <calum.benson@sun.com>
 
+	A stab at more descriptive comments for the accessible
+	metathemes, need a better word than 'muted' though :/
+
+	* HighContrast/index.theme.in:
+	* HighContrastInverse/index.theme.in:
+	* HighContrastLargePrint/index.theme.in.in:
+	* HighContrastLargePrintInverse/index.theme.in.in:
+	* LargePrint/index.theme.in.in:
+	* LowContrast/index.theme.in:
+	* LowContrastLargePrint/index.theme.in.in:
+
+2002-11-22  Calum Benson  <calum.benson@sun.com>
+
 	Added printman icons.  Not integrated into theme files yet
 	as required work hasn't been done on application.
 
