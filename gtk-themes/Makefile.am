@@ -1,1 +1,1 @@
-SUBDIRS=Crux Grand-Canyon LightHouseBlue Mist Simple Smokey-Blue
+SUBDIRS=Crux Grand-Canyon LightHouseBlue Mist Simple Smokey-Blue ThinIce

@@ -3,7 +3,6 @@ SUBDIRS=	gtk-themes gtk-engines metacity-themes icon-themes \
 		common HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
 		HighContrastLargePrintInverse HighContrastInverse \
-		ThinIce \
 		po
 
 EXTRA_DIST = \

@@ -110,6 +110,8 @@ gtk-themes/Mist/Makefile
 gtk-themes/Mist/src/Makefile
 gtk-themes/Mist/Theme/Makefile
 gtk-themes/Smokey-Blue/Makefile
+gtk-themes/ThinIce/Makefile
+gtk-themes/ThinIce/gtk-2.0/Makefile
 metacity-themes/Makefile
 icon-themes/Makefile
 icon-themes/Crux/Makefile
@@ -233,8 +235,6 @@ LowContrast/Makefile
 LowContrast/gtk-2.0/Makefile
 LowContrast/gtk-2.0/gtkrc
 LowContrast/icons/Makefile
-ThinIce/Makefile
-ThinIce/gtk-2.0/Makefile
 po/Makefile.in
 ])
 

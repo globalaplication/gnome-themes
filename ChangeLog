@@ -1,5 +1,26 @@
 2004-05-13  Calum Benson  <calum.benson@sun.com>
 
+Minor tree surgery; slot ThinIce into gtk-themes dir.
+
+	Modify:
+	* Makefile.am:
+	* configure.in:
+	Add:
+	* gtk-themes/Makefile.am:
+	* gtk-themes/ThinIce/.cvsignore:
+	* gtk-themes/ThinIce/Makefile.am:
+	* gtk-themes/ThinIce/gtk-2.0/.cvsignore:
+	* gtk-themes/ThinIce/gtk-2.0/Makefile.am:
+	* gtk-themes/ThinIce/gtk-2.0/gtkrc:
+	Remove:
+	* ThinIce/.cvsignore:
+	* ThinIce/Makefile.am:
+	* ThinIce/gtk-2.0/.cvsignore:
+	* ThinIce/gtk-2.0/Makefile.am:
+	* ThinIce/gtk-2.0/gtkrc:
+
+2004-05-13  Calum Benson  <calum.benson@sun.com>
+
 Fixes #126829, window menu icons not visible in a11y themes.
 
 	Modified: 
