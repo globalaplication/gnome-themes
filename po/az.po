@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-07-10 04:51+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-08-11 12:13+0200\n"
 "PO-Revision-Date: 2003-07-10 19:19+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
 "Language-Team: Azerbaijani <gnome@azitt.com>\n"
@@ -70,8 +71,7 @@ msgstr "Böyük mat mətn və timsallar"
 msgid "Low Contrast Large Print"
 msgstr "Alçaq Kontrast Böyük Çap"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
 
@@ -142,4 +142,3 @@ msgstr "Tüstülü-Mavi"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Tüstülü-Qırmızı"
-
