@@ -2,14 +2,15 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # T.M.Thanh <tmthanh@yahoo.com>, 2002.
+# Nguyen Thai Ngoc Duy <pclouds@vnlinux.org>, 2004.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome-themes.vi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-08-03 13:26+0100\n"
-"PO-Revision-Date: 2003-09-13 10:33+0700\n"
-"Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
+"PO-Revision-Date: 2004-04-08 08:47+0700\n"
+"Last-Translator: pclouds <pclouds@vnlinux.org>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +82,7 @@ msgstr ""
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "Diệm mạo màu da cam xỉn"
+msgstr "Diện mạo màu da cam xỉn"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
@@ -89,7 +90,7 @@ msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "Diệm mạo nguyên thủy"
+msgstr "Diện mạo nguyên thủy"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
@@ -109,11 +110,11 @@ msgstr "Đơn giản"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "diệm mạo nghèo nàn, độ thực thi cao"
+msgstr "Diện mạo nghèo nàn, độ thực thi cao"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "Diệm mạo thủy tinh mịn"
+msgstr "Diện mạo thủy tinh mịn"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
@@ -125,7 +126,7 @@ msgstr "Truyền thống"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "Diệm mạo bờ đậm 3D truyền thống"
+msgstr "Diện mạo bờ đậm 3D truyền thống"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
