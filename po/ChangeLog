@@ -1,3 +1,7 @@
+2003-06-12  Gil "Dolfin" Osher <dolfin@rpg.org.il>
+
+	* he.po: Updated Hebrew translation.
+
 2003-06-12  Laurent Dhima  <laurenti@alblinux.net>
 
 	* sq.po: Updated Albanian translation.
@@ -59,7 +63,7 @@
 	* POTFILES.skip: Add icon-themes/gnome/index.theme.in.
 	* zh_TW.po: Updated traditional Chinese translation.
 
-2003-05-06  Danilo Å egan  <dsegan@gmx.net>
+2003-05-06  Danilo ? egan  <dsegan@gmx.net>
 
 	* sr.po, sr@Latn.po: Added Serbian translation by 
 	http://Prevod.org/.
@@ -172,7 +176,7 @@
 
 	* fa.po: Added Persian translation.
 
-2003-02-20  TÃµivo LeedjÃ¤rv  <toivo@linux.ee>
+2003-02-20  T?µivo Leedj?¤rv  <toivo@linux.ee>
 
 	* et.po: Added Estonian translation.
 
@@ -185,7 +189,7 @@
 	* be.po: Updated Belarusian translation
 	from Belarusian team <i18n@infonet.by>.
 
-2003-03-17  SamÃºel JÃ³n Gunnarsson <sammi@techattack.nu>
+2003-03-17  Sam?ºel J?³n Gunnarsson <sammi@techattack.nu>
 
 	* is.po: Added Icelandic translation
 	from Icelandic team <gnome@techattack.nu>
@@ -443,7 +447,7 @@
 
 2003-01-19  Marius Andreiana <marius galuna.ro>
 
-	* ro.po: added ( thanks to Mi?Â…?ÂŸu Moldovan )
+	* ro.po: added ( thanks to Mi??…??Ÿu Moldovan )
 
 2003-01-19  Sami Pesonen  <sampeson@iki.fi>
 
