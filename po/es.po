@@ -7,13 +7,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.es\n"
 "POT-Creation-Date: 2003-01-31 12:04+0100\n"
-"PO-Revision-Date: 2003-01-31 14:00-0300\n"
+"PO-Revision-Date: 2003-01-31 22:21+0100\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -81,11 +80,11 @@ msgstr "Gradientes suaves con resaltados pardos"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "Una apariencia anaranjada sucia"
+msgstr "Apariencia polvorienta anaranjada"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr "Gran cañon"
+msgstr "Gran cañón"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -93,7 +92,7 @@ msgstr "Una apariencia minimalista"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr "Místico"
+msgstr "Bruma"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
@@ -142,109 +141,4 @@ msgstr "Azul humeante"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rojo humeante"
-
-#~ msgid "Default"
-#~ msgstr "Predeterminado"
-
-#~ msgid "Plain"
-#~ msgstr "Plano"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "Tema predeterminado de GNOME"
-
-#~ msgid "Gnome"
-#~ msgstr "GNOME"
-
-#~ msgid "%P %%"
-#~ msgstr "%P %%"
-
-#~ msgid "Bar"
-#~ msgstr "Bar"
-
-#~ msgid "Foo"
-#~ msgstr "Foo"
-
-#~ msgid "New"
-#~ msgstr "Nuevo"
-
-#~ msgid "New File"
-#~ msgstr "Archivo nuevo"
-
-#~ msgid "Open"
-#~ msgstr "Abrir"
-
-#~ msgid "Open File"
-#~ msgstr "Abrir archivo"
-
-#~ msgid "Pick a color"
-#~ msgstr "Seleccione un color"
-
-#~ msgid "Project1"
-#~ msgstr "Project1"
-
-#~ msgid "Radio 1"
-#~ msgstr "Radio 1"
-
-#~ msgid "Radio 2"
-#~ msgstr "Radio 2"
-
-#~ msgid "Radio 3"
-#~ msgstr "Radio 3"
-
-#~ msgid "Sample Button"
-#~ msgstr "Botón de ejemplo"
-
-#~ msgid "Sample check button"
-#~ msgstr "Botón de chequeo de ejemplo"
-
-#~ msgid "Save"
-#~ msgstr "Guardar"
-
-#~ msgid "Save File"
-#~ msgstr "Guardar el archivo"
-
-#~ msgid "Sub 1"
-#~ msgstr "Sub 1"
-
-#~ msgid "Sub 2"
-#~ msgstr "Sub 2"
-
-#~ msgid "Test one"
-#~ msgstr "Prueba uno"
-
-#~ msgid "Test three"
-#~ msgstr "Prueba tres"
-
-#~ msgid "Test two"
-#~ msgstr "Prueba dos"
-
-#~ msgid "Text entry field"
-#~ msgstr "Campo de entrada de prueba"
-
-#~ msgid "This is a test."
-#~ msgstr "Esto es una prueba."
-
-#~ msgid "_New File"
-#~ msgstr "Archivo _nuevo"
-
-#~ msgid "button2"
-#~ msgstr "button2"
-
-#~ msgid "button3"
-#~ msgstr "button3"
-
-#~ msgid "button4"
-#~ msgstr "button4"
-
-#~ msgid "gtk-ok"
-#~ msgstr "gtk-ok"
-
-#~ msgid "radiobutton2"
-#~ msgstr "radiobutton2"
-
-#~ msgid "toggle"
-#~ msgstr "activar"
-
-#~ msgid "www.eazel.com"
-#~ msgstr "www.eazel.com"
 
