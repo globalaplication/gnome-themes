@@ -1,3 +1,8 @@
+2002-12-06  Glynn Foster  <glynn.foster@sun.com>
+
+	* common/gtk-stock-icons.rc: Add icon for session properties 
+	dialog that uses "session-stock-edit".
+
 2002-12-03  Calum Benson  <calum.benson@sun.com>
 
 	Add HighContrastInverse and LowContrast nautilus themes.
