@@ -1,5 +1,11 @@
 2002-08-23  Calum Benson  <calum.benson@sun.com>
 
+	* HighContrast/gtk-2.0/gtkrc.in:
+
+	Make the stock panel icons work with HighContrast theme too...
+
+2002-08-23  Calum Benson  <calum.benson@sun.com>
+
 	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
 	* HighContrastLargePrint/pixmaps/Makefile.am:
 	* HighContrastLargePrint/pixmaps/stock-lockscreen.png:
