@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-27 10:01--500\n"
 "Last-Translator: Yuriy Syrota <yuri@renome.rovno.ua>\n"
 "Language-Team: Ukrainian <linux@linux.org.ua>\n"
@@ -69,8 +69,7 @@ msgstr "Великі неконтрастні тест і піктограми"
 msgid "Low Contrast Large Print"
 msgstr "Низькоконтрастна велика для друку"
 
-#: desktop-themes/Crux/index.theme.in.h:1
-#: icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Кракс"
 
@@ -78,13 +77,14 @@ msgstr "Кракс"
 msgid "Smooth gradients with teal highlights"
 msgstr "Гладкі переходи, що імітують забарвлення чирка"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Початкова"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "М'який гладкий вигляд"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Невибагливий вигляд, висока продуктивність"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -102,13 +102,13 @@ msgstr "Океанська мрія"
 msgid "The colours of the seashore"
 msgstr "Кольори океанського узбережжя"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Плоска"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Традиційний гострокутний тривимірний вигляд"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Невибагливий вигляд, висока продуктивність"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -117,6 +117,14 @@ msgstr "М'який гладкий вигляд"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Синій туман"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Традиційний гострокутний тривимірний вигляд"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -134,11 +142,14 @@ msgstr "Туманно-синя"
 msgid "Smokey-Red"
 msgstr "Туманно-червона"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Стандартна тема середовища GNOME"
+#~ msgid "Default"
+#~ msgstr "Початкова"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "GNOME"
+#~ msgid "Plain"
+#~ msgstr "Плоска"
 
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Стандартна тема середовища GNOME"
+
+#~ msgid "Gnome"
+#~ msgstr "GNOME"

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-24 17:35+0100\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2001-07-29 12:32+0200\n"
 "Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -78,13 +78,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Mehki prelivi z modrozelenimi poudarki"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Privzeta"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Mehak steklen izgled"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Tenak izgled, visoko storilna"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -102,13 +103,13 @@ msgstr "Oceanske sanje"
 msgid "The colours of the seashore"
 msgstr "Barve morske obale"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Pusta"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Tradicionalen močno-obrobljen izgled 3D"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Tenak izgled, visoko storilna"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -117,6 +118,14 @@ msgstr "Mehak steklen izgled"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Dimno modra"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Tradicionalen močno-obrobljen izgled 3D"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -134,10 +143,14 @@ msgstr "Dimno-modra"
 msgid "Smokey-Red"
 msgstr "Dimno-rdeča"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Gnomova privzeta tema"
+#~ msgid "Default"
+#~ msgstr "Privzeta"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Pusta"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Gnomova privzeta tema"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

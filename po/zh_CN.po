@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-08 20:09+0800\n"
 "Last-Translator: Funda Wang <fundawang@en2china.com>\n"
 "Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
@@ -86,12 +86,12 @@ msgstr ""
 msgid "Smooth gradients with teal highlights"
 msgstr ""
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+msgid "Dusty orange appearance"
 msgstr ""
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
 msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
@@ -110,12 +110,12 @@ msgstr ""
 msgid "The colours of the seashore"
 msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
 msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
 msgstr ""
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
@@ -124,6 +124,14 @@ msgstr ""
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
 msgstr ""
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
@@ -140,12 +148,4 @@ msgstr ""
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
-
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr ""
-
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
 msgstr ""

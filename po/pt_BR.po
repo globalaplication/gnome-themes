@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.0\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-14 02:45-0300\n"
 "Last-Translator: Evandro Fernandes Giovanini <evandrofg@ig.com.br>\n"
 "Language-Team: Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>\n"
@@ -79,13 +79,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Gradientes suaves"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Padrão"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Aparência levemente cristalina"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Aparência leve, boa performance"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -103,13 +104,13 @@ msgstr "Ocean Dream"
 msgid "The colours of the seashore"
 msgstr "As cores do litoral"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Plain"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Aparência tradicional de bordas em 3D"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Aparência leve, boa performance"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -118,6 +119,14 @@ msgstr "Aparência levemente cristalina"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Smokey Blue"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Aparência tradicional de bordas em 3D"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -135,10 +144,14 @@ msgstr "Smokey-Blue"
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Tema Padrão do GNOME"
+#~ msgid "Default"
+#~ msgstr "Padrão"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "GNOME"
+#~ msgid "Plain"
+#~ msgstr "Plain"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Tema Padrão do GNOME"
+
+#~ msgid "Gnome"
+#~ msgstr "GNOME"

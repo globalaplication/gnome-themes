@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 1.0\n"
-"POT-Creation-Date: 2003-01-26 21:47+0100\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-26 21:45+0100\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
@@ -80,13 +80,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Aspect arrondi avec des reflets pourpres"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Défaut"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Une douce apparence glacée"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Apparence sobre, performances élevées"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -104,13 +105,13 @@ msgstr "Ocean Dream"
 msgid "The colours of the seashore"
 msgstr "Les couleurs de l'océan"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Classique"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Apparence 3D traditionnelle"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Apparence sobre, performances élevées"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -119,6 +120,14 @@ msgstr "Une douce apparence glacée"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Smokey-Blue"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Apparence 3D traditionnelle"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -136,10 +145,14 @@ msgstr "Smokey-Blue"
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Thème Gnome par défaut"
+#~ msgid "Default"
+#~ msgstr "Défaut"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Classique"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Thème Gnome par défaut"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

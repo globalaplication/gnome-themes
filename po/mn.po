@@ -1,4 +1,3 @@
-
 # translation of gnome-themes.HEAD.po to mongolian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
@@ -7,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.mn\n"
-"POT-Creation-Date: 2003-01-24 12:22+0100\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-29 10:14GMT\n"
 "Last-Translator: \n"
 "Language-Team:  <C@li.org>\n"
@@ -80,13 +79,14 @@ msgstr "Хүндрэл"
 msgid "Smooth gradients with teal highlights"
 msgstr "Өндөр цацралтат оюутай толигор уусалт"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Стандарт"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Зөөлөн шилэн харагдалт"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Сийрэг харагдалт, өндөр чадавхи"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -104,13 +104,13 @@ msgstr "Тэнгисийн зүүд"
 msgid "The colours of the seashore"
 msgstr "Тэнгисийн эргийн өнгө"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Тал"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Уламжилалт хатуу өнцөгт 3 хэмжээст харагдалт"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Сийрэг харагдалт, өндөр чадавхи"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -119,6 +119,14 @@ msgstr "Зөөлөн шилэн харагдалт"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Утаан цэнхэр"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Уламжилалт хатуу өнцөгт 3 хэмжээст харагдалт"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -136,11 +144,14 @@ msgstr "Утаан-цэнхэр"
 msgid "Smokey-Red"
 msgstr "Утаан-улаан"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Стандарт Gnome хэлбэр"
+#~ msgid "Default"
+#~ msgstr "Стандарт"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Тал"
 
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Стандарт Gnome хэлбэр"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

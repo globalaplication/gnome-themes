@@ -1,5 +1,21 @@
 2003-01-30  Seth Nickell  <snickell@stanford.edu>
 
+	* configure.in:
+	* desktop-themes/Default/Makefile.am:
+	* desktop-themes/Default/index.theme.in:
+	* desktop-themes/Makefile.am:
+	* desktop-themes/Plain/Makefile.am:
+	* desktop-themes/Plain/index.theme.in:
+	* desktop-themes/Simple/Makefile.am:
+	* desktop-themes/Simple/index.theme.in:
+	* desktop-themes/Traditional/Makefile.am:
+	* desktop-themes/Traditional/index.theme.in:
+	* po/POTFILES.in:
+
+	Do name changes... Default->Simple, Plain->Traditional
+	
+2003-01-30  Seth Nickell  <snickell@stanford.edu>
+
 	* po/POTFILES.in:
 
 	Remove gnome icon theme from translation.	

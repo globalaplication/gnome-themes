@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-24 12:13+0100\n"
 "Last-Translator: Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
@@ -74,13 +74,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Subtiel kleurverloop met groene accenten"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Standaard"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Een zacht glasachtig uiterlijk"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Rank uiterlijk, hoge snelheid"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -98,13 +99,13 @@ msgstr "Oceaandroom"
 msgid "The colours of the seashore"
 msgstr "De kleuren van de zeekust"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Normaal"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Het traditionele 3D-uiterlijk met harde randen"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Rank uiterlijk, hoge snelheid"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -113,6 +114,14 @@ msgstr "Een zacht glasachtig uiterlijk"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Rokerig blauw"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Het traditionele 3D-uiterlijk met harde randen"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -130,10 +139,14 @@ msgstr "Rokerig blauw"
 msgid "Smokey-Red"
 msgstr "Rokerig rood"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Standaard GNOME-thema"
+#~ msgid "Default"
+#~ msgstr "Standaard"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Normaal"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Standaard GNOME-thema"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

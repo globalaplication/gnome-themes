@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes CVS\n"
-"POT-Creation-Date: 2003-01-26 20:43+0100\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-26 21:15+0100\n"
 "Last-Translator: Andras Timar <timar@gnome.hu>\n"
 "Language-Team: Hungarian <hu@gnome.hu>\n"
@@ -78,13 +78,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Finom színátmenetek kékeszöld kiemelésekkel"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Alapértelmezett"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Puha üveges megjelenés"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Egyszerű megjelenés, nagy teljesítmény"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -102,13 +103,13 @@ msgstr "Óceánparti álom"
 msgid "The colours of the seashore"
 msgstr "A tengerpart színei"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Egyszerű"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "A hagyományos éles szélű három dimenziós megjelenés"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Egyszerű megjelenés, nagy teljesítmény"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -117,6 +118,14 @@ msgstr "Puha üveges megjelenés"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Füstös kék"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "A hagyományos éles szélű három dimenziós megjelenés"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -134,10 +143,14 @@ msgstr "Füstös kék"
 msgid "Smokey-Red"
 msgstr "Füstös piros"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Alapértelmezett GNOME-téma"
+#~ msgid "Default"
+#~ msgstr "Alapértelmezett"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Egyszerű"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Alapértelmezett GNOME-téma"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

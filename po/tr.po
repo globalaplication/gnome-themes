@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-desktop-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-24 00:05+0200\n"
 "Last-Translator: Barbaros Ulutas <tebarul@yahoo.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -78,13 +78,14 @@ msgstr "Püf Noktasi"
 msgid "Smooth gradients with teal highlights"
 msgstr "Deniz mavisi vurgularla yumusak egimler"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Öntanimli"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Yumusak camsi bir görünüm"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Ince görünüm, yüksek basarim"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -102,13 +103,13 @@ msgstr "Okyanus Rüyasi"
 msgid "The colours of the seashore"
 msgstr "Deniz kiyisi renkleri"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Düz"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Geleneksel sert köseli 3D görünüm"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Ince görünüm, yüksek basarim"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -117,6 +118,15 @@ msgstr "Yumusak camsi bir görünüm"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Dumanli Mavi"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+#, fuzzy
+msgid "Traditional"
+msgstr "radyo tus1"
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Geleneksel sert köseli 3D görünüm"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -134,13 +144,17 @@ msgstr "Dumanli Mavi"
 msgid "Smokey-Red"
 msgstr "Dumanli Kirmizi"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Öntanimli Gnome Temasi"
+#~ msgid "Default"
+#~ msgstr "Öntanimli"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Düz"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Öntanimli Gnome Temasi"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"
 
 #~ msgid "%P %%"
 #~ msgstr "%P %%"
@@ -222,9 +236,6 @@ msgstr "Gnome"
 
 #~ msgid "gtk-ok"
 #~ msgstr "gtk-ok"
-
-#~ msgid "radiobutton1"
-#~ msgstr "radyo tus1"
 
 #~ msgid "radiobutton2"
 #~ msgstr "radyo tus2"

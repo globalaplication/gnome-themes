@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-26 01:35+0200\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-26 01:31+0200\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team <gnome-fi-laatu@lists."
@@ -80,13 +80,14 @@ msgstr "Pulma"
 msgid "Smooth gradients with teal highlights"
 msgstr "Pehmeät väriliukumat sinivihreillä korostuksilla"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Oletus"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Pehmeän lasimainen ulkoasu"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Kevyt ulkonäkö, korkea suorituskyky"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -104,13 +105,13 @@ msgstr "Meriunelma"
 msgid "The colours of the seashore"
 msgstr "Merenrannan värit"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Pelkistetty"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Kevyt ulkonäkö, korkea suorituskyky"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -119,6 +120,14 @@ msgstr "Pehmeän lasimainen ulkoasu"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Savuisen sininen"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -136,10 +145,14 @@ msgstr "Savunsininen"
 msgid "Smokey-Red"
 msgstr "Savunpunainen"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Gnomen oletusteema"
+#~ msgid "Default"
+#~ msgstr "Oletus"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Pelkistetty"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Gnomen oletusteema"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

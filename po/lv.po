@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-24 23:05+0200\n"
 "Last-Translator: Artis Trops <hornet@navigator.lv>\n"
 "Language-Team: Latvian <ll10nt@os.lv>\n"
@@ -78,13 +78,14 @@ msgstr "Krukss"
 msgid "Smooth gradients with teal highlights"
 msgstr "Gludeni slīpumi un krīkļa izgaismojumi"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Noklusētā"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Viegli stiklains izskats"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Vājāks izskats, labāka veiktspēja"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -102,13 +103,13 @@ msgstr "Okeāna Sapnis"
 msgid "The colours of the seashore"
 msgstr "Jūras krasta krāsas"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Vienkārš"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Tradicionāls stūrains 3D"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Vājāks izskats, labāka veiktspēja"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -117,6 +118,14 @@ msgstr "Viegli stiklains izskats"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Dūmakaini Zils"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+msgid "Traditional"
+msgstr ""
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Tradicionāls stūrains 3D"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -134,10 +143,14 @@ msgstr "Dūmakaini Zils"
 msgid "Smokey-Red"
 msgstr "Dūmakaini Sarkans"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Noklusētā Gnome Tēma"
+#~ msgid "Default"
+#~ msgstr "Noklusētā"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "Gnome"
+#~ msgid "Plain"
+#~ msgstr "Vienkārš"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Noklusētā Gnome Tēma"
+
+#~ msgid "Gnome"
+#~ msgstr "Gnome"

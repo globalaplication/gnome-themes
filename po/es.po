@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.es\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-30 14:16-0800\n"
 "PO-Revision-Date: 2003-01-13 10:38-0300\n"
 "Last-Translator: Pablo Gonzalo del Campo <pablodc@bigfoot.com>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
@@ -79,13 +79,14 @@ msgstr "Crux"
 msgid "Smooth gradients with teal highlights"
 msgstr "Gradientes suaves con resaltados pardos"
 
-#: desktop-themes/Default/index.theme.in.h:1
-msgid "Default"
-msgstr "Predeterminado"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#, fuzzy
+msgid "Dusty orange appearance"
+msgstr "Una apariencia cristalina suave"
 
-#: desktop-themes/Default/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Apariencia plana, alto desempeño"
+#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+msgid "Grand Canyon"
+msgstr ""
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -103,13 +104,13 @@ msgstr "Sueño oceánico"
 msgid "The colours of the seashore"
 msgstr "Los colores de la orilla del mar"
 
-#: desktop-themes/Plain/index.theme.in.h:1
-msgid "Plain"
-msgstr "Plano"
+#: desktop-themes/Simple/index.theme.in.h:1
+msgid "Simple"
+msgstr ""
 
-#: desktop-themes/Plain/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Apariencia tradicional de bordes 3D duros"
+#: desktop-themes/Simple/index.theme.in.h:2
+msgid "Thin appearance, high performance"
+msgstr "Apariencia plana, alto desempeño"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -118,6 +119,15 @@ msgstr "Una apariencia cristalina suave"
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
 msgstr "Azul humeante"
+
+#: desktop-themes/Traditional/index.theme.in.h:1
+#, fuzzy
+msgid "Traditional"
+msgstr "radiobutton1"
+
+#: desktop-themes/Traditional/index.theme.in.h:2
+msgid "Traditional hard-edged 3D appearance"
+msgstr "Apariencia tradicional de bordes 3D duros"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
@@ -135,13 +145,17 @@ msgstr "Azul humeante"
 msgid "Smokey-Red"
 msgstr "Rojo humeante"
 
-#: icon-themes/gnome/index.theme.in.h:1
-msgid "Default Gnome Theme"
-msgstr "Tema predeterminado de GNOME"
+#~ msgid "Default"
+#~ msgstr "Predeterminado"
 
-#: icon-themes/gnome/index.theme.in.h:2
-msgid "Gnome"
-msgstr "GNOME"
+#~ msgid "Plain"
+#~ msgstr "Plano"
+
+#~ msgid "Default Gnome Theme"
+#~ msgstr "Tema predeterminado de GNOME"
+
+#~ msgid "Gnome"
+#~ msgstr "GNOME"
 
 #~ msgid "%P %%"
 #~ msgstr "%P %%"
@@ -226,9 +240,6 @@ msgstr "GNOME"
 
 #~ msgid "gtk-ok"
 #~ msgstr "gtk-ok"
-
-#~ msgid "radiobutton1"
-#~ msgstr "radiobutton1"
 
 #~ msgid "radiobutton2"
 #~ msgstr "radiobutton2"
