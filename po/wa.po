@@ -85,11 +85,11 @@ msgstr "Degradés doûs di bleu-vert"
 
 #: desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
-msgstr ""
+msgstr "Glider"
 
 #: desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr ""
+msgstr "Simpe, doûs eyet plaijhant a rwaitî"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
