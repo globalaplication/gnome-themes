@@ -1,15 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# gnome-themes faylının Azərbaycan dilinə tərcüməsi.
+# Copyright (C) 2003 Mətin Əmirov
+# This file is distributed under the same license as the gnome-themes package.
+# Mətin Əmirov <metin@karegen.com>, 2003.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-03-07 22:15+0200\n"
+"POT-Creation-Date: 2003-07-10 04:51+0200\n"
+"PO-Revision-Date: 2003-07-10 19:19+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
-"Language-Team: Azerbaijani Turkic <az@li.org>\n"
+"Language-Team: Azerbaijani <gnome@azitt.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,31 +20,31 @@ msgstr "Ağ üstündə qara mətn və timsallar"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Yüksək Parlaqlıq"
+msgstr "Yüksək Kontrast"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Tərs Yüksək Parlaqlıq"
+msgstr "Tərs Yüksək Kontrast"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "Qara üstündə ağ mətn və timsallar"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
-msgstr "Geniş Yüksək Parlaqlıq"
+msgid "High Contrast Large Print"
+msgstr "Böyük Çap Yüksək Kontrast"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Ağ üstündə geniş qara mətn və timsallar"
+msgstr "Ağ üstündə böyük qara mətn və timsallar"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Geniş Yüksək Parlaqlıq Tərs Çap"
+msgstr "Böyük Yüksək Kontrast Tərs Çap"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Qara üstündə ağ geniş mətn və timsallar"
+msgstr "Qara üstündə ağ böyük mətn və timsallar"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -56,7 +56,7 @@ msgstr "Böyük mətn və timsallar"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Alçaq Parlaqlıq"
+msgstr "Alçaq Kontrast"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -64,13 +64,14 @@ msgstr "Mat mətn və timsallar"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Geniş mat mətn və timsallar"
+msgstr "Böyük mat mətn və timsallar"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Alçaq Parlaqlıq Geniş Çap"
+msgstr "Alçaq Kontrast Böyük Çap"
 
-#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1
+#: icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
 
@@ -108,7 +109,7 @@ msgstr "Sadə"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "Zərif görünüş, yüksək performans"
+msgstr "Zərif görünüş, yüksək keyfiyyət"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -141,3 +142,4 @@ msgstr "Tüstülü-Mavi"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Tüstülü-Qırmızı"
+
