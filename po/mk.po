@@ -1,26 +1,27 @@
-# translation of gnome-themes.HEAD.mk.po to 
+# translation of gnome-themes.HEAD.mk.po to
 # translation of mk.po to Macedonian
 # translation of mk.po to
 # translation of gnome-themes.HEAD.mk.po to Macedonian
 # translation of gnome-themes.HEAD.po to Macedonian
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# Igor Petreski <dierektor@pcinfo.com.mk>, 2002
-# Ivan Stojmirov <stojmir@linux.net.mk>, 2003
-# Darko Nikolovski <darkon@macedonia.homelinux.org>, 2003
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Igor Petreski <dierektor@pcinfo.com.mk>, 2002.
+# Ivan Stojmirov <stojmir@linux.net.mk>, 2003.
+# Darko Nikolovski <darkon@macedonia.homelinux.org>, 2003.
+# Arangel Angov <ufo@linux.net.mk>, 2004.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.mk\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
-"PO-Revision-Date: 2003-06-15 09:41+0200\n"
-"Last-Translator: \n"
-"Language-Team:  <mk@li.org>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-06-21 20:58+0200\n"
+"PO-Revision-Date: 2004-06-25 18:40+0200\n"
+"Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
+"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Report-Msgid-Bugs-To: \n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: KBabel 1.3.1\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -28,11 +29,11 @@ msgstr "Црно-на-бело текст и икони"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Висок Контраст"
+msgstr "Висок контраст"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Висок Контраст Инверзно"
+msgstr "Висок контраст инверзно"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -40,7 +41,7 @@ msgstr "Бело -на- црно текст и икони"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Јак Контраст Големи букви"
+msgstr "Јак контраст големи букви"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -48,7 +49,7 @@ msgstr "Големи црно -на- бело текст и икони"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Јак Контраст, Големи букви Инверзно"
+msgstr "Јак контраст, големи букви инверзно"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -56,7 +57,7 @@ msgstr "Големи црно-бели текст и икони"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "Големи Букви"
+msgstr "Големи букви"
 
 #: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
@@ -64,7 +65,7 @@ msgstr "Голем текст и икони"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Низок Контраст"
+msgstr "Низок контраст"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -92,7 +93,7 @@ msgstr "Темно портокалов изглед"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr "Grand Canyon"
+msgstr "Големиот кањон"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -104,48 +105,49 @@ msgstr "Mist"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr "Ocean Dream"
+msgstr "Океански сон"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr "Бооите на брегот"
+msgstr "Боите на брегот"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr "Просто"
+msgstr "Едноставно"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "Thin appearance, high performance"
+msgstr "Лесен изглед, високи перформанси"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "A soft glassy appearance"
+msgstr "Мек стаклен изглед"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr "Smokey Blue"
+msgstr "Сино зачадено"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr "Traditional"
+msgstr "Традиционално"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "Traditional hard-edged 3D appearance"
+msgstr "Традиционален 3D изглед"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Flat-Blue"
+msgstr "Рамно сино"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "Sandy"
+msgstr "Песокливо"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
+msgstr "Сино зачадено"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Smokey-Red"
+msgstr "Црвено зачадено"
+
