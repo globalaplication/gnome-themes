@@ -1,6 +1,36 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/default-applications-capp
+	let.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-default-ap
+	plications.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-window-properties.p
+	ng: add
+	* HighContrastLargePrint/icons/48x48/apps/metacity-properties.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/default-applicatio
+	ns-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-def
+	ault-applications.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-window-prope
+	rties.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/metacity-propertie
+	s.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/default-applications-cappl
+	et.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-default-app
+	lications.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-window-properties.pn
+	g: add
+	* LowContrastLargePrint/icons/48x48/apps/metacity-properties.png: remove
+
+	Rename Window and Preferred Apps icons so they work again.
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-keybinding
 	s.png: add
 	* HighContrastLargePrint/icons/48x48/apps/keyboard-shortcut.png:remove

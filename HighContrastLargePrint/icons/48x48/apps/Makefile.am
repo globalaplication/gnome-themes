@@ -19,7 +19,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		charpick.png \
 		gnome-system.png \
 		gnome-terminal.png \
-		default-applications-capplet.png \
+		gnome-settings-default-applications.png \
 		gnome-util.png \
 		gnome-settings-font.png \
 		gnome-windows.png \
@@ -31,7 +31,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		launcher-program.png \
 		gnome-audio2.png \
 		gnome-calc3.png \
-		metacity-properties.png \
+		gnome-window-manager.png \
 		gnome-ccmime.png \
 		mouse-capplet.png \
 		gnome-settings-theme.png \
