@@ -10,7 +10,10 @@ EXTRA_DIST = \
 
 install: install-recursive
 	for t in HighContrast LowContrast HighContrastInverse; do \
-		iconthemename="$$t"LargePrint ; \
+		case $$t in \
+			HighContrast | LowContrast) iconthemename="$$t"LargePrint ;; \
+			HighContrastInverse) iconthemename=HighContrastLargePrintInverse ;;\
+		esac ; \
 		iconthemedir="$(datadir)"/icons/"$$iconthemename"/48x48 ; \
 		nautilusthemedir="$(datadir)"/pixmaps/nautilus/"$$t" ; \
 		if !(test -d $$nautilusthemedir); then \
