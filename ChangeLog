@@ -1,5 +1,63 @@
 2002-09-12  Calum Benson  <calum.benson@sun.com>
 
+	Make icon themes install in $(prefix)/share/icons.
+
+	* AUTHORS:
+	* HighContrast/Makefile.am:
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/SMC.png:
+	* HighContrastLargePrintInverse/icons/Makefile.am:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* LargePrint/Makefile.am:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LargePrint/icons/Makefile.am:
+	* LargePrint/icons/index.theme:
+	* LargePrint/pixmaps/Makefile.am:
+	* LargePrint/pixmaps/media-backward.png:
+	* LargePrint/pixmaps/media-eject.png:
+	* LargePrint/pixmaps/media-forward.png:
+	* LargePrint/pixmaps/media-next.png:
+	* LargePrint/pixmaps/media-play-pause.png:
+	* LargePrint/pixmaps/media-prev.png:
+	* LargePrint/pixmaps/media-stop.png:
+	* LargePrint/pixmaps/stock_back.png:
+	* LargePrint/pixmaps/stock_cde-menu.png:
+	* LargePrint/pixmaps/stock_connect.png:
+	* LargePrint/pixmaps/stock_corner-panel.png:
+	* LargePrint/pixmaps/stock_disconnect.png:
+	* LargePrint/pixmaps/stock_drawer.png:
+	* LargePrint/pixmaps/stock_edge-panel.png:
+	* LargePrint/pixmaps/stock_empty.png:
+	* LargePrint/pixmaps/stock_execute.png:
+	* LargePrint/pixmaps/stock_find-and-replace.png:
+	* LargePrint/pixmaps/stock_floating-panel.png:
+	* LargePrint/pixmaps/stock_gnome-logo.png:
+	* LargePrint/pixmaps/stock_gnome-util.png:
+	* LargePrint/pixmaps/stock_internet.png:
+	* LargePrint/pixmaps/stock_launcher-program.png:
+	* LargePrint/pixmaps/stock_lockscreen.png:
+	* LargePrint/pixmaps/stock_logout.png:
+	* LargePrint/pixmaps/stock_menu-panel.png:
+	* LargePrint/pixmaps/stock_multimedia.png:
+	* LargePrint/pixmaps/stock_run.png:
+	* LargePrint/pixmaps/stock_screenshot.png:
+	* LargePrint/pixmaps/stock_searchtool.png:
+	* LargePrint/pixmaps/stock_sliding-panel.png:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/Makefile.am:
+	* configure.in:
+
+2002-09-12  Calum Benson  <calum.benson@sun.com>
+
 	* HighContrast/gtk-2.0/gtkrc.in:
 	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
 	* HighContrastLargePrint/pixmaps/Makefile.am:
