@@ -1,0 +1,80 @@
+# Slovenian translation file for gnome-themes.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Andraz Tori <andraz.tori1@guest.arnes.si> 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-themes\n"
+"POT-Creation-Date: 2002-06-16 15:37+0200\n"
+"PO-Revision-Date: 2001-07-29 12:32+0200\n"
+"Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Besedilo in ikone belo na črnem"
+
+#: HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Visok kontrast"	# G:0 K:1 O:0
+
+#: HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Obrnjen visok kontrast"
+
+#: HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Besedilo in ikone belo na črnem"
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large"
+msgstr "Velika, visok kontrast"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Velika, besedilo in ikone črno na belem"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Visok kontrast, velik izpis, obrnjeno"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Velika, besedilo in ikone belo na črnem "
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Velik izpis"
+
+#: LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Veliko besedilo in ikone"
+
+#: LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Nizek kontrast"
+
+#: LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Medla besedila in ikone"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Velika, medla besedila in ikone "
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Nizek kontrast, velik izpis"
+
+# Smart report:
+# Total untranslated messages in file: 14 
+# Translations made:
+# full: 0
+# smart: 0
+# cond: 1
+# total: 1 ; distinct: 1
+
+
