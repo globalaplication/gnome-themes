@@ -1,3 +1,9 @@
+2004-05-28  Calum Benson  <calum.benson@sun.com>
+
+	* common/mkiconlinks.sh: add
+	To help with installing 'generic' a11y icons
+	for those apps that don't have specific ones.
+
 2004-05-13  Calum Benson  <calum.benson@sun.com>
 
 Complete gorilla tree pruning.
