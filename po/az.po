@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-09-13 13:42+0100\n"
-"PO-Revision-Date: 2003-07-10 19:19+0200\n"
+"POT-Creation-Date: 2004-09-14 11:55+0200\n"
+"PO-Revision-Date: 2004-09-14 16:56+0200\n"
 "Last-Translator: Mətin Əmirov <metin@karegen.com>\n"
 "Language-Team: Azerbaijani <translation-team-az@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,8 @@ msgstr "Böyük mat mətn və timsallar"
 msgid "Low Contrast Large Print"
 msgstr "Alçaq Kontrast Böyük Çap"
 
-#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Crux/index.theme.in.h:1
+#: icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "Crux"
 
@@ -81,11 +82,11 @@ msgstr "Açıq mavi parlaq nöqtəli yumuşaq qradientlər"
 
 #: desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
-msgstr ""
+msgstr "Glayder"
 
 #: desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr ""
+msgstr "Sadə, yumuşaq və estetik"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
@@ -150,3 +151,4 @@ msgstr "Tüstülü-Mavi"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Tüstülü-Qırmızı"
+
