@@ -1,3 +1,12 @@
+2004-02-12  Dan Williams <dcbw@redhat.com
+
+	* src/crux-draw.c
+
+	Correct drawing of focus around buttons,
+	as it was off by 1 pixel on bottom and right.
+	Also fix some assumptions that Crux is
+	drawing into a window (it could be a pixmap).
+
 2003-09-17  Seth Nickell  <seth@gnome.org>
 
 	* src/Makefile.am:

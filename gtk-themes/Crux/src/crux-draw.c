@@ -451,7 +451,10 @@ paint_default (eazel_theme_data *theme_data,
     int window_width, window_height;
     int i;
 
-    gdk_window_get_size (window, &window_width, &window_height);
+	width--;
+	height--;
+
+    gdk_drawable_get_size (window, &window_width, &window_height);
 
     /* If trying to draw a box that's too big for the dimensions of
        the window, iteratively reduce the thickness until a value
@@ -473,10 +476,13 @@ paint_default (eazel_theme_data *theme_data,
     {
 	/* XXX this doesn't work, the background of the window
 	   XXX is white, not grey */
-	gdk_window_clear_area (window, x, y, 1, 1);
-	gdk_window_clear_area (window, x + width, y, 1, 1);
-	gdk_window_clear_area (window, x, y + height, 1, 1);
-	gdk_window_clear_area (window, x + width, y + height, 1, 1);
+        if ( GDK_IS_WINDOW(window) )
+        {
+            gdk_window_clear_area (window, x, y, 1, 1);
+            gdk_window_clear_area (window, x + width, y, 1, 1);
+            gdk_window_clear_area (window, x, y + height, 1, 1);
+            gdk_window_clear_area (window, x + width, y + height, 1, 1);
+        }
     }
 
     for (i = 0; i < thickness; i++)
@@ -485,15 +491,18 @@ paint_default (eazel_theme_data *theme_data,
 	int y_i = y + i;
 	int w_i = width - (i * 2);
 	int h_i = height - (i * 2);
-
+	
 	int d_corner = (corner && i == 0) ? corner : 0;
 
 	gdk_draw_line (window, gc, x_i + d_corner, y_i,
-		       x_i + w_i - d_corner , y_i);
+		       x_i + w_i - d_corner, y_i);
+
 	gdk_draw_line (window, gc, x_i + w_i, y_i + d_corner,
-		       x_i + w_i, y_i + h_i - d_corner);
+		       x_i + w_i, y_i + h_i - d_corner );
+
 	gdk_draw_line (window, gc, x_i + w_i - d_corner, y_i + h_i,
-		       x_i + d_corner, y_i + h_i);
+		       x_i + d_corner, y_i + h_i );
+
 	gdk_draw_line (window, gc, x_i, y+i + h_i - d_corner,
 		       x_i, y_i + d_corner);
     }
@@ -1253,8 +1262,8 @@ draw_box (GtkStyle *style,
 		     theme_data->default_thickness,
 		     x - (theme_data->default_thickness),
 		     y - (theme_data->default_thickness),
-		     width + theme_data->default_thickness * 2 - 1,
-		     height + theme_data->default_thickness * 2 - 1);
+		     width + theme_data->default_thickness * 2,
+		     height + theme_data->default_thickness * 2 );
 	    }
 	}
 	if (area)
