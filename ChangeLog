@@ -1,3 +1,16 @@
+2004-06-03  Calum Benson  <calum.benson@sun.com>
+
+	Last of the changes (hopefully) to ensure complete coverage
+	of JDS menu for HC theme.
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/evolution-1.4.png:
+	* HighContrastLargePrint/icons/48x48/apps/star.png:
+	* HighContrastLargePrint/icons/48x48/apps/symlinks.dat:
+	* HighContrastLargePrint/icons/48x48/devices/symlinks.dat:
+	* HighContrastLargePrint/icons/48x48/filesystems/Makefile.am:
+
 2004-06-01  Calum Benson  <calum.benson@sun.com>
 
 	Add themed JDS menu stripe and generic high contrast icons

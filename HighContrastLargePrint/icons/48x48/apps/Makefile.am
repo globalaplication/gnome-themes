@@ -8,6 +8,7 @@ icon_DATA=	\
 		ax-applet.png \
                 charpick.png \
 		display-capplet.png \
+		evolution-1.4.png \
 		file-manager.png \
                 file-roller.png \
                 gcalctool.png \
@@ -68,6 +69,7 @@ icon_DATA=	\
                 launcher-program.png \
 		mozilla-icon.png \
                 perfmeter.png \
+		star.png \
                 window-capplet.png \
 		$(NULL)
 

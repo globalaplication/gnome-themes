@@ -15,17 +15,21 @@ gnome-ccscreensaver.png: screensaver.png gnome-screensaver.png
 gnome-application-generic.png: password.png gnome-palm.png gnome-remote-desktop.png
 gnome-globe.png: stock_proxy.png
 # Submenus
-gnome-folder-generic.png: gnome-applications.png gnome-settings.png
+gnome-folder-generic.png: gnome-applications.png 
 #
 # System Preferences
-advanced-directory.png: config-language.png stock_timezone.png gnome-lockscreen.png gnome-modem.png xsane.png serviceconf.png config-users.png gnome-lockscreen.png administration.png config-xfree.png gnome-ftp.png
+advanced-directory.png: config-language.png stock_timezone.png gnome-lockscreen.png gnome-modem.png xsane.png serviceconf.png config-users.png gnome-lockscreen.png administration.png config-xfree.png gnome-ftp.png gnome-desktop-config.png
+#
 gnome-application-generic.png: serviceconf.png disks.png logviewer.png administration.png
+#
 gnome-globe.png: network.png network-config.png gnome-server-config.png web-browser.png
+#
 gdm.png: hwbrowser.png
+#
 gnome-settings-sound.png: sound-capplet.png
 #
 # Evolution
-gnome-application-generic.png: evolution-1.4.png evolution.png
+evolution-1.4.png: evolution.png
 #
 # StarOffice
-staroffice-writer.png star.png staroffice-impress.png staroffice-calc.png 
+star.png: staroffice-writer.png staroffice-impress.png staroffice-calc.png 

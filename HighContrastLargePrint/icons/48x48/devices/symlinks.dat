@@ -8,3 +8,5 @@ gnome-dev-mouse-optical.png: gnome-dev-mouse-ball.png
 #
 # Link all removable disc icons to gnome-dev-floppy.png
 gnome-dev-floppy.png: gnome-dev-jazdisk.png gnome-dev-zipdisk.png
+#
+gnome-dev-harddisk.png: gnome-dev-removable.png
