@@ -8,7 +8,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		gnome-mini-commander.png \
 		accessibility-directory.png \
 		gnome-mixer-applet.png \
-		accessibility-keyboard-capplet.png \
+		gnome-settings-accessibility-keyboard.png \
 		gnome-multimedia.png \
 		advanced-directory.png \
 		gnome-panel.png \
@@ -24,7 +24,7 @@ icon_DATA=	gnome-logo-icon-transparent.png \
 		font-capplet.png \
 		gnome-windows.png \
 		gnome-workspace.png \
-		keyboard-capplet.png \
+		gnome-dev-keyboard.png \
 		gedit-icon.png \
 		keyboard-shortcut.png \
 		gnome-applications.png \

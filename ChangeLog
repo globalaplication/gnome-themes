@@ -1,3 +1,30 @@
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/accessibility-keyboard-ca
+	pplet.png: remove
+	* HighContrastLargePrint/icons/48x48/apps/gnome-dev-keyboard.png: add
+	* HighContrastLargePrint/icons/48x48/apps/gnome-settings-accessibil
+	ity-keyboard.png: add
+	* HighContrastLargePrint/icons/48x48/apps/keyboard-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-dev-keyboard
+	.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-settings-acc
+	essibility-keyboard.png: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/accessibility-keyboard-capplet.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/apps/keyboard-capplet.p
+	ng: remove
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/accessibility-keyboard-cap
+	plet.png: remove
+	* LowContrastLargePrint/icons/48x48/apps/gnome-dev-keyboard.png: add
+	* LowContrastLargePrint/icons/48x48/apps/gnome-settings-accessibili
+	ty-keyboard.png: add
+	* LowContrastLargePrint/icons/48x48/apps/keyboard-capplet.png: remove
+
+	Rename keyboard and keyboard accessibility icons so they work again.
+
 2004-03-19  set Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
