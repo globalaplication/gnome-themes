@@ -20,7 +20,7 @@ AC_PROG_CC
 ### Icon sizes for all large print themes
 
 
-ALL_LINGUAS="bg ca cs da es fr he ms no sv vi"
+ALL_LINGUAS="bg ca cs da es fr he lv ms no sv vi"
 AM_GLIB_GNU_GETTEXT
 
 LARGEPRINT_DND="48,48"
