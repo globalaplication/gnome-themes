@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-31 15:41+0100\n"
+"POT-Creation-Date: 2003-06-16 11:11+0200\n"
+"PO-Revision-Date: 2003-06-16 11:13+0200\n"
 "Last-Translator: Luca Ferretti <elle.ucainfinito.it>\n"
 "Language-Team: Italian <tp@list.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid "White-on-black text and icons"
 msgstr "Bianco su nero per testo ed icone"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large"
+msgid "High Contrast Large Print"
 msgstr "Forte contrasto, caratteri larghi"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
