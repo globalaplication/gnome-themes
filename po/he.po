@@ -2,13 +2,13 @@
 # translation of gnome-themes.HEAD.po to Hebrew
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002
+# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002,2003
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.he\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
-"PO-Revision-Date: 2002-12-05 22:53+0200\n"
+"POT-Creation-Date: 2003-01-27 04:56+0100\n"
+"PO-Revision-Date: 2003-01-27 13:54+0200\n"
 "Last-Translator: Gil 'Dolfin' Osher <dolfin@rpg.org.il>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,72 +74,73 @@ msgstr "ניגוד נמוך הדפסה מוגדלת"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "העיקר"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "הדרגתיות חלקה עם הדגשי טורקיז"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "מראה דק, ביצועים גבוהים"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "מראה מינימליסטי"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr ""
+msgstr "ערפל"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "חלום אוקיינוס"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "צבעי חוף הים"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "פשוט"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "המראה המסורתי עם קצוות התלת-מימד הבולטים"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "מראה זכוכית עדין"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "עשן כחול"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "כחול שטוח"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "חולי"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "עשן כחול"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "עשן אדום"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "ערכת הנושא ברירת המחדל של Gnome"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "Gnome"
+
