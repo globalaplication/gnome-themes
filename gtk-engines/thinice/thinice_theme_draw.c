@@ -1865,6 +1865,11 @@ draw_handle(GtkStyle * style,
       int i, w, h;
       int start_i, end_i;
 
+      dest.x = x;
+      dest.y = y;
+      dest.width = width;
+      dest.height = height;
+
       light_gc = style->light_gc[state_type];
       dark_gc = style->dark_gc[state_type];
       if (orientation == GTK_ORIENTATION_HORIZONTAL)
@@ -1886,10 +1891,11 @@ draw_handle(GtkStyle * style,
         end_i = 0;
         break;
       }
+      gdk_gc_set_clip_rectangle(light_gc, &dest);
+      gdk_gc_set_clip_rectangle(dark_gc, &dest);
+
       if (orientation == GTK_ORIENTATION_HORIZONTAL)
         {
-          start_i = MAX(start_i, x);
-          end_i = MIN(end_i, width - 3);
           for (i=x + start_i; i <= x + end_i; i+=8)
             {
               thinice_dot(window, light_gc, dark_gc, i, y + height / 2);
@@ -1897,13 +1903,13 @@ draw_handle(GtkStyle * style,
         }
       else
         {
-          start_i = MAX(start_i, y);
-          end_i = MIN(end_i, height - 3);
           for (i=y + start_i; i <= y + end_i; i+=8)
             {
               thinice_dot(window, light_gc, dark_gc, x + width / 2, i);
             }
         }
+      gdk_gc_set_clip_rectangle(light_gc, NULL);
+      gdk_gc_set_clip_rectangle(dark_gc, NULL);
       return;
     }
   gtk_paint_box(style, window, state_type, shadow_type, area, widget,
@@ -1937,42 +1943,34 @@ draw_handle(GtkStyle * style,
       switch (THINICE_RC_STYLE (style->rc_style)->mark_type1)
         {
         case MARKS_INVSLASH: /* Inverse //:es */
-          thinice_slash_two(window,
-                            dark_gc, light_gc,
+          thinice_slash_two(window, dark_gc, light_gc,
                             x, y, width, height);
           break;
         case MARKS_DOT: /* Dots */
-          thinice_dot(window,
-                      light_gc, dark_gc,
+          thinice_dot(window, light_gc, dark_gc,
                       x + width / 2 - modx,
                       y + height / 2 - mody);
-          thinice_dot(window,
-                      light_gc, dark_gc,
+          thinice_dot(window, light_gc, dark_gc,
                       x + width / 2,
                       y + height / 2);
-          thinice_dot(window,
-                      light_gc, dark_gc,
+          thinice_dot(window, light_gc, dark_gc,
                       x + width / 2 + modx,
                       y + height / 2 + mody);
           break;
         case MARKS_INVDOT: /* Inverted dots */
-          thinice_dot(window,
-                      dark_gc, light_gc,
+          thinice_dot(window, dark_gc, light_gc,
                       x + width / 2 - modx,
                       y + height / 2 - mody);
-          thinice_dot(window,
-                      dark_gc, light_gc,
+          thinice_dot(window, dark_gc, light_gc,
                       x + width / 2,
                       y + height / 2);
-          thinice_dot(window,
-                      dark_gc, light_gc,
+          thinice_dot(window, dark_gc, light_gc,
                       x + width / 2 + modx,
                       y + height / 2 + mody);
           break;
 	case MARKS_SLASH:
         default:
-          thinice_slash_two(window,
-                            light_gc, dark_gc,
+          thinice_slash_two(window, light_gc, dark_gc,
                             x, y, width, height);
           break;
         }
