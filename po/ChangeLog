@@ -1,3 +1,7 @@
+2003-06-12  Laurent Dhima  <laurenti@alblinux.net>
+
+	* sq.po: Updated Albanian translation.
+
 2003-06-09  Christian Rose  <menthos@menthos.com>
 
 	* li.po: Fix garbage in header that made the po file invalid.
