@@ -58,5 +58,7 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		double-click-on.png double-click-off.png double-click-maybe.png \
 		printer-default.png printer-broken.png printer-inkjet.png \
 		printer-personal-laser.png printer-workgroup-laser.png \
+		metacity-minimize.png metacity-maximize.png \
+		metacity-delete.png \
 		$(NULL)
 

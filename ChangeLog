@@ -1,3 +1,25 @@
+2004-05-13  Calum Benson  <calum.benson@sun.com>
+
+Fixes bug #126829, window menu icons not visible in some a11y themes.
+
+	Modified:
+	* autogen.sh:
+	* common/all-stock-icons.data:
+	* common/metacity-stock-icons.rc:
+	Added:
+	* HighContrastLargePrint/pixmaps/metacity-delete.png:
+	* HighContrastLargePrint/pixmaps/metacity-maximize.png:
+	* HighContrastLargePrint/pixmaps/metacity-minimize.png:
+	* HighContrastLargePrintInverse/pixmaps/metacity-delete.png:
+	* HighContrastLargePrintInverse/pixmaps/metacity-maximize.png:
+	* HighContrastLargePrintInverse/pixmaps/metacity-minimize.png:
+	* LargePrint/pixmaps/metacity-delete.png:
+	* LargePrint/pixmaps/metacity-maximize.png:
+	* LargePrint/pixmaps/metacity-minimize.png:
+	* LowContrastLargePrint/pixmaps/metacity-delete.png:
+	* LowContrastLargePrint/pixmaps/metacity-maximize.png:
+	* LowContrastLargePrint/pixmaps/metacity-minimize.png:
+
 2004-04-08  Guntupalli Karunakar  <karunakar@freedomink.org>
 
         * configure.in: Added "gu" (Gujarati) to ALL_LINGUAS.
