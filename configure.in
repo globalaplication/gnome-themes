@@ -80,9 +80,20 @@ LARGEPRINT_ICON_SIZES="mini-commander-icon=$LARGEPRINT_MINI_COMMANDER:print-mana
 LARGEPRINT_FONT="sans 18"
 
 
-AC_SUBST(prefix)
 AC_SUBST(LARGEPRINT_ICON_SIZES)
 AC_SUBST(LARGEPRINT_FONT)
+
+dnl used to substitute in common sections of theme gtkrc files
+gtk_stock_icons_rc=${srcdir}/common/gtk-stock-icons.rc
+panel_stock_icons_rc=${srcdir}/common/panel-stock-icons.rc
+media_stock_icons_rc=${srcdir}/common/media-stock-icons.rc
+capplet_stock_icons_rc=${srcdir}/common/capplet-stock-icons.rc
+metacity_stock_icons_rc=${srcdir}/common/metacity-stock-icons.rc
+AC_SUBST_FILE(gtk_stock_icons_rc)
+AC_SUBST_FILE(panel_stock_icons_rc)
+AC_SUBST_FILE(media_stock_icons_rc)
+AC_SUBST_FILE(capplet_stock_icons_rc)
+AC_SUBST_FILE(metacity_stock_icons_rc)
 
 AC_OUTPUT([
 Makefile

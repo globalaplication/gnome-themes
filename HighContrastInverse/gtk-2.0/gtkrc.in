@@ -58,3 +58,8 @@ style "default"
   bg[SELECTED]    = "#ffffff"
   base[SELECTED]    = "#ffcccc"
 
+@gtk_stock_icons_rc@
+@panel_stock_icons_rc@
+@media_stock_icons_rc@
+@capplet_stock_icons_rc@
+@metacity_stock_icons_rc@

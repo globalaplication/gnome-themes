@@ -1,5 +1,5 @@
-# High-Contrast, "Normal Size" Theme v0.1
-#
+# High-Contrast, Large Print Theme v0.1
+# 
 # Written by Bill Haneman, based on Standard theme by T. Liebeck, 
 # which was in turn based on lots of different gtkrc files but
 # primarily the one for the metal theme.
@@ -10,6 +10,8 @@
 
 pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
 
+gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
+
 style "default"
 {
   engine "hcengine" {}
@@ -17,19 +19,35 @@ style "default"
 # For Java Desktop System
   PanelMenu::stripe-gradient-top = "#000000"
   PanelMenu::stripe-gradient-bottom = "#000000"
-
-  GtkWidget::focus-line-pattern = "\2\1"
-  GtkWidget::focus-line-width = 1
-  GtkHSV::focus-line-pattern = "\0"
+	
+  GtkWidget::focus-line-pattern = "\10\2"
+  GtkWidget::focus-line-width = 3
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
+# GtkWidget::cursor_aspect_ratio = 0.1
+
   GtkEntry::cursor_color    = "#cc0000"
-  GtkTextView::cursor_color    = "#cc0000"
-  EelEditableLabel::cursor_color    = "#cc0000"
-  GtkTextView::cursor_aspect_ratio = 0.1
   GtkEntry::cursor_aspect_ratio = 0.1
+
+  GtkTextView::cursor_color    = "#cc0000"
+  GtkTextView::cursor_aspect_ratio = 0.1
+
+  EelEditableLabel::cursor_color    = "#cc0000"
   EelEditableLabel::cursor_aspect_ratio = 0.1
+
   NautilusIconContainer::frame_text = 1
+
+  GtkHSV::focus-line-pattern = "\0"
+  GtkRange::slider_width = 20
+
+  GtkTreeView::expander_size = 20
+  GtkCheckButton::indicator_size = 18
+  GtkCheckMenuItem::indicator_size = 18
+
+  GtkExpander::expander-size = 24
+  GtkExpander::expander-spacing = 8
+
+  PanelToplevel::arrow-size = 18
 
   fg[NORMAL]      = "#000000"
   text[NORMAL]      = "#000000"
@@ -41,19 +59,23 @@ style "default"
   bg[INSENSITIVE]      = "#ccccff"
   base[INSENSITIVE]      = "#ccccff"
 
-  fg[PRELIGHT]    = "#ccccff"
-  text[PRELIGHT]    = "#ccccff"
+  fg[PRELIGHT]    = "#ffffff"
+  text[PRELIGHT]    = "#ffffff"
   bg[PRELIGHT]    = "#000000"
   base[PRELIGHT]    = "#000000"
 
   fg[ACTIVE]      = "#000000"
   text[ACTIVE]      = "#000000"
   bg[ACTIVE]      =  "#b8b891"
-  base[ACTIVE]      =  "#b8b891"
+  base[ACTIVE]      = "#b8b891"
 
   fg[SELECTED]    = "#ffffff"
   text[SELECTED]    = "#ffffff"
   bg[SELECTED]    = "#000000"
   base[SELECTED]    = "#333300"
 
-
+@gtk_stock_icons_rc@
+@panel_stock_icons_rc@
+@media_stock_icons_rc@
+@capplet_stock_icons_rc@
+@metacity_stock_icons_rc@

@@ -1,5 +1,20 @@
 2004-09-04  James Henstridge  <james@jamesh.id.au>
 
+	* autogen.sh: remove the code used to generate the gtkrc.in files.
+
+	* LargePrint/gtk-2.0/gtkrc.in: 
+	* HighContrast/gtk-2.0/gtkrc.in: 
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in: 
+	* HighContrastInverse/gtk-2.0/gtkrc.in: 
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in: 
+	* LowContrast/gtk-2.0/gtkrc.in: 
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in: rename from $theme.rc,
+	and use the new autoconf substitutions to pull in the common
+	content.
+
+	* configure.in: use AC_SUBST_FILE to add substitutions for the
+	gtkrc fragments common to the a11y themes.
+
 	* autogen.sh: remove the code to generate some of the makefiles.
 
 	* LargePrint/pixmaps/Makefile.am: 
