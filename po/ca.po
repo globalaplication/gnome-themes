@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 0.7\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-24 12:58+0100\n"
+"Project-Id-Version: gnome-themes 2.1.99\n"
+"POT-Creation-Date: 2003-01-31 12:34+0100\n"
+"PO-Revision-Date: 2003-01-31 12:37+0100\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "MIME-Version: 1.0\n"
@@ -79,13 +79,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Gradients suaus amb resaltats blau verdós"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Una aparença suau i cristalina"
+msgstr "Una aparença ataronjada"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Gran Canyó"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -105,7 +104,7 @@ msgstr "Els colors del cavall marí"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -121,7 +120,7 @@ msgstr "Blau fumejant"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Tradicional"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -142,15 +141,3 @@ msgstr "Blau fumejant"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Roig fumejant"
-
-#~ msgid "Default"
-#~ msgstr "Predeterminat"
-
-#~ msgid "Plain"
-#~ msgstr "Pla"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "Tema predeterminat del GNOME"
-
-#~ msgid "Gnome"
-#~ msgstr "GNOME"
