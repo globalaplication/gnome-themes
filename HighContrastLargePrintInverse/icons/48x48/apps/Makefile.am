@@ -22,7 +22,6 @@ icon_DATA=	\
                 gnome-character-map.png \
                 gnome-clock.png \
                 gnome-devel.png \
-                gnome-dev-keyboard.png \
                 gnome-eog.png \
                 gnome-ghex.png  \
                 gnome-ghostview.png \

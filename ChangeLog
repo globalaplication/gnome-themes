@@ -1,6 +1,26 @@
 2004-03-19  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-dev-keyboard.png: remove
+	* HighContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/devices/gnome-dev-keyboard.png
+	: add
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-dev-keyboard
+	.png: remove
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-keybo
+	ard.png: add
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-dev-keyboard.png: remove
+	* LowContrastLargePrint/icons/48x48/devices/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/devices/gnome-dev-keyboard.png: add
+
+	Put gnome-dev-keyboard in the right subdir this time...
+
+2004-03-19  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/file-manager.png: add
 	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrintInverse/icons/48x48/apps/file-manager.png: add
