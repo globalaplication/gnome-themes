@@ -16,13 +16,8 @@ config.sub
 ltmain.sh
 stamp-h
 libgtkhtml-2.0.pc
-intltool-extract.in
 intltool-extract
-intltool-merge.in
 intltool-merge
-intltool-update.in
 intltool-update
 stamp-h1
 autom4te-2.53.cache
-autom4te.cache
-gnome-themes.spec
