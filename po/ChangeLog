@@ -1,0 +1,5 @@
+2002-11-25  Calum Benson  <calum.benson@sun.com>
+
+	Added ChangeLog so the blinking thing will compile :)
+
+	* ChangeLog: added
