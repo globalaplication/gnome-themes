@@ -1,3 +1,38 @@
+2004-08-16  Calum Benson  <calum.benson@sun.com>
+
+	s/SimplySmooth/Glider, and add Glider stock icons.
+	Closes #148212.
+
+	* NEWS:
+	* configure.in:
+	* desktop-themes/Glider/Makefile.am:
+	* desktop-themes/Glider/index.theme.in:
+	* desktop-themes/Makefile.am:
+	* desktop-themes/SimplySmooth/Makefile.am:
+	* desktop-themes/SimplySmooth/index.theme.in:
+	* gtk-themes/Glider/Makefile.am:
+	* gtk-themes/Glider/gtkrc:
+	* gtk-themes/Glider/iconrc:
+	* gtk-themes/Glider/stock_apply.png:
+	* gtk-themes/Glider/stock_bottom.png:
+	* gtk-themes/Glider/stock_cancel.png:
+	* gtk-themes/Glider/stock_down.png:
+	* gtk-themes/Glider/stock_first.png:
+	* gtk-themes/Glider/stock_last.png:
+	* gtk-themes/Glider/stock_left.png:
+	* gtk-themes/Glider/stock_ok.png:
+	* gtk-themes/Glider/stock_refresh.png:
+	* gtk-themes/Glider/stock_right.png:
+	* gtk-themes/Glider/stock_top.png:
+	* gtk-themes/Glider/stock_up.png:
+	* gtk-themes/Makefile.am:
+	* gtk-themes/SimplySmooth/Makefile.am:
+	* gtk-themes/SimplySmooth/gtkrc:
+	* gtk-themes/SimplySmooth/iconrc:
+	* metacity-themes/Glider/metacity-theme-1.xml:
+	* metacity-themes/Makefile.am:
+	* metacity-themes/SimplySmooth/metacity-theme-1.xml:
+
 2004-08-16  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "bs" to ALL_LINGUAS.

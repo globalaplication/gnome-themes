@@ -1,11 +1,15 @@
 (2.7.91)
 ========
 
+Enhancements:
+- s/SimplySmooth/Glider
+- Add Glider gtk icons (Link Dupont)
+
 Bugfixes:
-Fix SimplySmooth disabled text field bug (Link Dupont)
+- Fix Glider disabled text field bug (Link Dupont)
 
 2.7.90.1
-====================
+========
 
 Fix distclean issues.
 

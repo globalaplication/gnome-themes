@@ -1,8 +1,8 @@
 THEMES=			\
+	Glider		\
 	Mist		\
 	Sandwish	\
-	Smokey		\
-	SimplySmooth
+	Smokey
 
 THEME_DIR=$(datadir)/themes
 THEME_SUBDIR=metacity-1
@@ -36,3 +36,7 @@ dist-hook:
 		    	cp $$i $(distdir)/$$THEME;					\
 	  	 done)									\
 	done
+
+#Keep this hack in until 2.8.0 is released
+install: install-am
+	        rm -rf $(datadir)/themes/SimplySmooth

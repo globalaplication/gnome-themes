@@ -1,10 +1,10 @@
-# Theme Name  : SimplySmooth
+# Theme Name  : Glider
 # Author(s)   : Link Dupont <link@subpop.net>
 # Description : A very basic, conservative theme, using the Smooth engine and
 #               HIG colors.
 #               This is the blue variant.
 
-#include "iconrc"
+include "iconrc"
 
 style "default"
 {

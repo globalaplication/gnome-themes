@@ -1,3 +1,8 @@
+2004-08-17  Calum Benson  <calum.benson@sun.com>
+
+	s/Simply Smooth/Glider... sorry for last minute change :/
+	* POTFILES.in:
+
 2004-08-17  Artur Flinta  <aflinta@cvs.gnome.org>
 
 	* pl.po: Updated Polish translation by GNOME PL Team.
