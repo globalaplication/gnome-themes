@@ -1,3 +1,34 @@
+2002-08-23  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/pixmaps/Makefile.am:
+	* HighContrastLargePrint/pixmaps/stock-lockscreen.png:
+	* HighContrastLargePrint/pixmaps/stock_cde-menu.png:
+	* HighContrastLargePrint/pixmaps/stock_gnome-logo.png:
+	* HighContrastLargePrint/pixmaps/stock_gnome-run.png:
+	* HighContrastLargePrint/pixmaps/stock_gnome-searchtool.png:
+	* HighContrastLargePrint/pixmaps/stock_gnome-util.png:
+	* HighContrastLargePrint/pixmaps/stock_internet.png:
+	* HighContrastLargePrint/pixmaps/stock_launcher-program.png:
+	* HighContrastLargePrint/pixmaps/stock_lockscreen.png:
+	* HighContrastLargePrint/pixmaps/stock_logout.png:
+	* HighContrastLargePrint/pixmaps/stock_run.png:
+	* HighContrastLargePrint/pixmaps/stock_searchtool.png:
+	* LowContrast/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/pixmaps/Makefile.am:
+	* LowContrastLargePrint/pixmaps/stock_cde-menu.png:
+	* LowContrastLargePrint/pixmaps/stock_gnome-logo.png:
+	* LowContrastLargePrint/pixmaps/stock_gnome-util.png:
+	* LowContrastLargePrint/pixmaps/stock_internet.png:
+	* LowContrastLargePrint/pixmaps/stock_launcher-program.png:
+	* LowContrastLargePrint/pixmaps/stock_lockscreen.png:
+	* LowContrastLargePrint/pixmaps/stock_logout.png:
+	* LowContrastLargePrint/pixmaps/stock_run.png:
+	* LowContrastLargePrint/pixmaps/stock_searchtool.png:
+
+	Added the panel stock icons that suzanna has done so far.
+
 2002-08-14  Calum Benson <calum.benson@sun.com>
 
 	* Added suzanna's low contrast large print stock icons

@@ -10,9 +10,45 @@
 
 pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
 
-gtk-icon-sizes = "dnd 64,64:menu 32,32:large-toolbar 48,48:small-toolbar 48,48:button 32,32:dialog 64,64"
+gtk-icon-sizes = "dnd 64,64:menu 32,32:panel-menu 32,32:large-toolbar 48,48:small-toolbar 48,48:button 32,32:dialog 64,64"
 
 gtk-font-name = "sans 18"
+
+style "panel-icons"
+{
+	stock ["panel-run"] =		{{"stock_run.png", *,*,*}}
+	stock ["panel-searchtool"] =	{{"stock_searchtool.png", *,*,*}}
+#	stock ["panel-screenshot"] =	{{"", *,*,*}}
+	stock ["panel-lockscreen"] =	{{"stock_lockscreen.png", *,*,*}}
+	stock ["panel-logout"] =	{{"stock_logout.png", *,*,*}}
+	stock ["panel-gnome-logo"] =	{{"stock_gnome-logo.png", *,*,*}}
+
+#	stock ["panel-debian"] =	{{"", *,*,*}}
+#	stock ["panel-suse"] =		{{"", *,*,*}}
+	stock ["panel-cde"] =		{{"stock_cde-menu.png", *,*,*}}
+
+#	stock ["panel-amusements"] =	{{"", *,*,*}}
+#	stock ["panel-multimedia"] =	{{"", *,*,*}}
+
+	stock ["panel-internet"] =	{{"stock_internet.png", *,*,*}}
+	stock ["panel-utility"] =	{{"stock_gnome-util.png", *,*,*}}
+
+#	stock ["panel-corner-type"] =	{{"", *,*,*}}
+#	stock ["panel-edge-type"] =	{{"", *,*,*}}
+#	stock ["panel-floating-type"] =	{{"", *,*,*}}
+#	stock ["panel-sliding-type"] =	{{"", *,*,*}}
+#	stock ["panel-menu-type"] =	{{"", *,*,*}}
+
+	stock ["panel-launcher"] =	{{"stock_launcher-program.png", *,*,*}}
+
+#	stock ["panel-drawer"] =	{{"", *,*,*}}
+#	stock ["panel-applet"] =	{{"", *,*,*}}
+#	stock ["panel-desktop"] =	{{"", *,*,*}}
+#	stock ["panel-kde"] =		{{"", *,*,*}}
+
+}
+
+class "GtkWidget" style "panel-icons"
 
 style "default"
 {

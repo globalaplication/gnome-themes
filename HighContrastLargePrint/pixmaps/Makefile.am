@@ -34,7 +34,12 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		stock_undelete.png stock_underline.png \
 		stock_undo.png stock_volume.png stock_zoom-100.png \
 		stock_zoom-fit.png stock_zoom-in.png \
-		stock_zoom-out.png
+		stock_zoom-out.png stock_yes.png stock_no.png \
+		stock_dnd.png stock_dnd_multiple.png \
+		stock_run.png stock_searchtool.png stock_lockscreen.png \
+		stock_logout.png stock_gnome-logo.png stock_cde-menu.png \
+		stock_internet.png stock_gnome-util.png \
+		stock_launcher-program.png		
 
 EXTRA_DIST=	$(pixmap_DATA)
 
