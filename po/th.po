@@ -6,9 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
-"PO-Revision-Date: 2003-12-05 08:18-0600\n"
-"Last-Translator: Paisa Seeluangsawat <paisa@colorado.edu>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-02-18 04:00+0100\n"
+"PO-Revision-Date: 2004-02-17 22:35-0600\n"
+"Last-Translator: Paisa Seeluangsawat <paisa@users.sf.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,43 +65,44 @@ msgstr "สีข้อความและสัญลักษณ์ คล�
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "สีไม่ตัดกัน อักษรใหญ่"
+msgstr "สีข้อความและสัญลักษณ์ขนาดใหญ่ คล้ายกับสีพื้นหลัง"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "สีข้อความและสัญลักษณ์ คล้ายกับสีพื้นหลัง อักษรขนาดใหญ่"
+msgstr "สีไม่ตัดกัน อักษรใหญ่"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr "Crux"
+msgstr "ถึงแก่น"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "หน้าต่างดูคล้ายอลูมีเนียม"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "สีส้ม ดูฝุ่นๆ"
+msgstr "สีน้ำตาลหวาน"
 
+# I just looked at the theme and then make up a name.
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr "Grand Canyon"
+msgstr "กาละแม"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "ดูเรียบง่าย ไม่ตกแต่งมาก"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr "Mist"
+msgstr "ไอน้ำ"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr "Ocean Dream"
+msgstr "ฝันถึงทะเล"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr "The colours of the seashore"
+msgstr "สีหาดทราย"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
@@ -108,7 +110,7 @@ msgstr "ง่ายๆ"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "ดูง่ายๆแต่ใช้ได้"
+msgstr "ไม่เรื่องมาก เน้นประสิทธิภาพ"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -116,11 +118,12 @@ msgstr "ดูอ่อนๆสะท้อนแสง"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr "Smokey Blue"
+msgstr "ฟ้าหม่น"
 
+# It's the default traditional theme.  Probably should stress "default" over "old".
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr "Traditional"
+msgstr "ปกติ"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
