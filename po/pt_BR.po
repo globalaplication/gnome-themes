@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.0\n"
-"POT-Creation-Date: 2003-01-30 14:16-0800\n"
-"PO-Revision-Date: 2003-01-14 02:45-0300\n"
+"POT-Creation-Date: 2003-01-31 06:34-0200\n"
+"PO-Revision-Date: 2003-01-31 06:30-0200\n"
 "Last-Translator: Evandro Fernandes Giovanini <evandrofg@ig.com.br>\n"
 "Language-Team: Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>\n"
 "MIME-Version: 1.0\n"
@@ -80,13 +80,12 @@ msgid "Smooth gradients with teal highlights"
 msgstr "Gradientes suaves"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "Aparência levemente cristalina"
+msgstr "Aparência alaranjada"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Grand Canyon"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -106,7 +105,7 @@ msgstr "As cores do litoral"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
@@ -122,7 +121,7 @@ msgstr "Smokey Blue"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Traditional"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -143,15 +142,3 @@ msgstr "Smokey-Blue"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Smokey-Red"
-
-#~ msgid "Default"
-#~ msgstr "Padrão"
-
-#~ msgid "Plain"
-#~ msgstr "Plain"
-
-#~ msgid "Default Gnome Theme"
-#~ msgstr "Tema Padrão do GNOME"
-
-#~ msgid "Gnome"
-#~ msgstr "GNOME"
