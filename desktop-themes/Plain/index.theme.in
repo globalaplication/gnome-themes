@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Plain
+Type=X-GNOME-Metatheme
+_Comment=Traditional hard-edged 3D
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Default
+MetacityTheme=Atlanta
+IconTheme=gnome

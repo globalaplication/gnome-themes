@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Default
+Type=X-GNOME-Metatheme
+_Comment=Thin appearance, high performance
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=gnome
+MetacityTheme=gnome
+IconTheme=gnome
