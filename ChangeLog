@@ -1,6 +1,10 @@
-2004-03--29  Guntupalli Karunakar  <karunakar@freedomink.org>
+2004-04-08  Guntupalli Karunakar  <karunakar@freedomink.org>
 
-	* configure.in: Added "hi" to ALL_LINGUAS.
+        * configure.in: Added "gu" (Gujarati) to ALL_LINGUAS.
+
+2004-03-29  Guntupalli Karunakar  <karunakar@freedomink.org>
+
+	* configure.in: Added "pa" to ALL_LINGUAS.
 
 2004-03-23  Åsmund Skjæveland  <aasmunds@fys.uio.no>
 
