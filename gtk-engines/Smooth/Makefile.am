@@ -24,4 +24,4 @@ libsmooth_la_SOURCES = \
 libsmooth_la_LDFLAGS= -module -avoid-version
 libsmooth_la_LIBADD = $(THEME_ENGINE_LIBS)
 
-EXTRA_DIST = AUTHORS README
+#EXTRA_DIST = AUTHORS README

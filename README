@@ -1,6 +1,9 @@
+Known issues:
+2.7.90: uninstallation of gnome-themes is currently somewhat broken.
 
 ==========================================================================
-NOTE: This README applies only to the 7 accessibility themes in this module:
+NOTE: The remainder of this README applies only to the 7 accessibility 
+      themes in this module:
 
 - HighContrast[LargePrint][Inverse]
 - LowContrast[LargePrint]

@@ -1,3 +1,17 @@
+2004-08-03  Calum Benson  <calum.benson@sun.com>
+
+	Tidy-ups for 2.7.90 release.
+
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* LowContrast/Makefile.am:
+	* LowContrastLargePrint/Makefile.am:
+	* NEWS:
+	* README:
+	* configure.in:
+	* gtk-engines/Smooth/Makefile.am:
+	* metacity-themes/Makefile.am:
+
 2004-07-29  Calum Benson  <calum.benson@sun.com>
 
 	More JDS menu coverage.

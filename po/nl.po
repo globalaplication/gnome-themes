@@ -5,7 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
-"POT-Creation-Date: 2003-09-17 13:06-0700\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-08-03 13:26+0100\n"
 "PO-Revision-Date: 2003-06-21 21:17+0100\n"
 "Last-Translator: Henrik Goijer <henrikgoijer@home.nl>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
@@ -17,7 +18,6 @@ msgstr ""
 msgid "Black-on-white text and icons"
 msgstr "Zwart-op-wit tekst en pictogrammen"
 
-#. GRUT modified this item
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
 msgstr "Hoog contrast"
@@ -141,4 +141,3 @@ msgstr "Rokerig-Blauw"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rokerig-Rood"
-

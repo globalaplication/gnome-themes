@@ -12,6 +12,8 @@ DISTCLEANFILES= index.theme
 
 if CORE_THEMES_ONLY
 install: install-recursive
-	rm -f $(DESTDIR)$(datadir)/themes/HighContrastLargePrintInverse/index.theme~
-	mv $(DESTDIR)$(datadir)/themes/HighContrastLargePrintInverse/index.theme $(DESTDIR)$(datadir)/themes/HighContrastLargePrintInverse/index.theme.disabled
+	rm -f $(DESTDIR)$(themedir)/index.theme~
+	mv $(DESTDIR)$(themedir)/index.theme $(DESTDIR)$(themedir)/index.theme.disabled
+uninstall: uninstall-recursive
+	rm -f $(DESTDIR)$(themedir)/index.theme.disabled
 endif

@@ -7,6 +7,11 @@ THEMES=			\
 THEME_DIR=$(datadir)/themes
 THEME_SUBDIR=metacity-1
 
+uninstall: uninstall-am
+	for THEME in $(THEMES) ; do \
+		rm -rf $(DESTDIR)$(THEME_DIR)/$$THEME/$(THEME_SUBDIR); \
+	done
+
 install-data-local:
 	$(mkinstalldirs) $(DESTDIR)$(THEME_DIR);					     \
 	for THEME in $(THEMES); do							     \

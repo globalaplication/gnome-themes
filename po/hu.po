@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes-gnome-2-6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-03-23 03:52+0100\n"
+"POT-Creation-Date: 2004-08-03 13:26+0100\n"
 "PO-Revision-Date: 2004-04-10 18:25+0200\n"
 "Last-Translator: Gabor Kelemen <kg0021@stud.unideb.hu>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
@@ -146,4 +146,3 @@ msgstr "Füstös kék"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Füstösvörös"
-

@@ -4,7 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0\n"
-"POT-Creation-Date: 2004-03-20 14:55+0100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-08-03 13:26+0100\n"
 "PO-Revision-Date: 2004-03-20 14:55+CET\n"
 "Last-Translator: auto\n"
 "Language-Team: Croatian <lokalizacija@linux.hr>\n"
@@ -140,4 +141,3 @@ msgstr "Zadimljeno-plavo"
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Zadimljeno-crveno"
-
