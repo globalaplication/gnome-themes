@@ -1,3 +1,7 @@
+2004-08-13  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.in: Added nb to ALL_LINGUAS
+
 2004-08-06  Calum Benson  <calum.benson@sun.com>
 
 	Fix distclean issues.
