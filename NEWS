@@ -1,1 +1,26 @@
-[placeholder]
+What's new in 2.5.90
+====================
+
+New/updated translations:
+
++2003-02-17  Paisa Seeluangsawat  <paisa@users.sf.net>
++
++       * th.po: Updated Thai translation.
++
++2004-02-14  Danilo � egan  <dsegan@gmx.net>
++
++       * sr.po, sr@Latn.po: Reviewed Serbian translation by Aleksandar
++         Urosevic
+
+BugFixes:
+
++2004-02-24  Calum Benson <calum.benson@sun.com>
++
++       Add PanelToplevel::arrow-size property to large print themes.
++       Fixes #110939.
++
++2004-02-24  Narayana Pattipati <narayana.pattipati@wipro.com>
++
++       Add GtkCheckMenuItem::indicator_size property value to the
+themes.
++       Fixes bugzilla bug#131659
