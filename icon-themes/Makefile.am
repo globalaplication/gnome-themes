@@ -1,1 +1,1 @@
-SUBDIRS=Crux Flat-Blue gnome Sandy Smokey-Blue Smokey-Red
+SUBDIRS=Crux Flat-Blue Sandy Smokey-Blue Smokey-Red
