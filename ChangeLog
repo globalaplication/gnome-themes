@@ -1,5 +1,14 @@
 2004-09-04  James Henstridge  <james@jamesh.id.au>
 
+	* autogen.sh: remove the code to generate some of the makefiles.
+
+	* LargePrint/pixmaps/Makefile.am: 
+	* HighContrastLargePrint/pixmaps/Makefile.am: 
+	* HighContrastLargePrintInverse/pixmaps/Makefile.am: 
+	* LowContrastLargePrint/pixmaps/Makefile.am: moved from
+	$theme.makefile, and use the "include" statement to pull in the
+	common definitions.
+
 	* configure.in: remove about 60 makefiles
 
 	* icon-themes/Crux/Makefile.am: 
