@@ -24,6 +24,17 @@
 echo "Generating configuration files for gnome-themes, please wait...."
 echo;
 
+for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse HighContrastLargePrintInverse LowContrast LowContrastLargePrint;  do
+	touch $theme/gtk-2.0/gtkrc.in
+	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
+done
+
+for theme in LargePrint HighContrastLargePrint HighContrastLargePrintInverse LowContrastLargePrint; do
+	touch $theme/pixmaps/Makefile.am
+	cat common/all-stock-icons.data $theme/pixmaps/$theme.makefile > $theme/pixmaps/Makefile.am
+
+done
+
 #echo n | gettextize --copy --force;
 aclocal $ACLOCAL_FLAGS;
 autoheader;

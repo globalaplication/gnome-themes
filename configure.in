@@ -21,20 +21,6 @@ LARGEPRINT_ICON_SIZES="gtk-dnd=$LARGEPRINT_DND:gtk-menu=$LARGEPRINT_MENU:panel-m
 
 LARGEPRINT_FONT="sans 18"
 
-### Generate gtkrc.in and Makefile.in for each theme
-
-for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse HighContrastLargePrintInverse LowContrast LowContrastLargePrint;  do
-	touch $theme/gtk-2.0/gtkrc.in
-	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
-
-done
-
-for theme in LargePrint HighContrastLargePrint HighContrastLargePrintInverse LowContrastLargePrint; do
-	touch $theme/pixmaps/Makefile.am
-	cat common/all-stock-icons.data $theme/pixmaps/$theme.makefile > $theme/pixmaps/Makefile.am
-
-done
-
 AC_SUBST(prefix)
 AC_SUBST(LARGEPRINT_ICON_SIZES)
 AC_SUBST(LARGEPRINT_FONT)
