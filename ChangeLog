@@ -1,3 +1,9 @@
+2002-12-06  Glynn Foster  <glynn.foster@sun.com>
+
+        * common/gtk-stock-icons.rc: Add icon for session properties
+        dialog that uses "session-stock-edit".
+
+
 2002-12-06  Bill Haneman <bill.haneman@sun.com>
 
 	* HighContrast/gtk-2.0/HighContrast.rc:
