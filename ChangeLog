@@ -1,3 +1,24 @@
+2003-05-13  Bill Haneman <bill.haneman@sun.com>
+
+	* gtk-engines: New directory for shared engines.
+	* gtk-engines/hc-engine: 
+	* gtk-engines/hc-engine/hc-style.h: 
+	* gtk-engines/hc-engine/hc-style.c: 
+	* gtk-engines/hc-engine/hc-rc-style.h: 
+	* gtk-engines/hc-engine/hc-rc-style.c: 
+	* gtk-engines/hc-engine/hc-main.c:
+	New engine for high contrast themes, improves visibility of
+	shadows, edges, and indicators when theme background and foreground 
+	contain near-black and near-white colors.
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
+	Modified "default" theme to use new hc-engine.
+	
+	Fixes bugs #106859, #112586, #111985.
+
 2003-05-09  Calum Benson  <calum.benson@sun.com>
 
 	* gtk-themes/Simple/gtkrc:

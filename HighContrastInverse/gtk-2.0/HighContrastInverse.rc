@@ -13,6 +13,7 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
 
 style "default"   
 { 
+  engine "hcengine" {}	
   
   GtkWidget::focus-line-pattern = "\2\1"
   GtkWidget::focus-line-width = 1
