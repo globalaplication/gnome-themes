@@ -1,3 +1,8 @@
+2003-01-26  Yanko Kaneti  <yaneti@declera.com>
+
+	* gnome-themes.spec.in: Remove some mysterious duplication.
+	Add ChangeLog and NEWS to %doc.
+
 2003-01-25  Seth Nickell  <snickell@stanford.edu>
 
 	* gtk-themes/Crux/Makefile.am:
