@@ -1,3 +1,12 @@
+2003-01-22  Seth Nickell  <snickell@stanford.edu>
+
+	* AUTHORS:
+	* MAINTAINERS:
+	* Makefile.am:
+	* configure.in:
+
+	Merge stuff with gnome-desktop-themes.
+	
 2003-01-22  Pablo Saratxaga  <pablo@mandrakesoft.com>
 
 	* configure.in: Added Amharic (am), Macedonian (mk)

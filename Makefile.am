@@ -1,4 +1,5 @@
-SUBDIRS=	po common HighContrast LargePrint LowContrastLargePrint \
+SUBDIRS=	gtk-themes metacity-themes desktop-themes \
+		po common HighContrast LargePrint LowContrastLargePrint \
 		HighContrastLargePrint  LowContrast \
 		HighContrastLargePrintInverse HighContrastInverse
 
