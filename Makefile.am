@@ -8,7 +8,7 @@ EXTRA_DIST = \
 	intltool-merge.in \
 	intltool-update.in
 
-DISTCLEANFILES = \
-	intltool-extract \
-	intltool-merge \
-	intltool-update
+#DISTCLEANFILES = \
+#	intltool-extract \
+#	intltool-merge \
+#	intltool-update

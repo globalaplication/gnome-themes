@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0.4\n"
-"POT-Creation-Date: 2002-11-25 23:17+0100\n"
+"POT-Creation-Date: 2002-12-02 12:05+0000\n"
 "PO-Revision-Date: 2002-11-25 23:18+0100\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
@@ -29,3 +29,51 @@ msgstr "Contrast alt invertit"
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "Text i icones en blanc sobre negre"
+
+#: HighContrastLargePrint/index.theme.in.in.h:1
+#, fuzzy
+msgid "High Contrast Large"
+msgstr "Contrast alt"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large black-on-white text and icons"
+msgstr "Text i icones en negre sobre blanc"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+#, fuzzy
+msgid "High Contrast Large Print Inverse"
+msgstr "Contrast alt invertit"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large white-on-black text and icons"
+msgstr "Text i icones en blanc sobre negre"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr ""
+
+#: LargePrint/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large text and icons"
+msgstr "Text i icones en negre sobre blanc"
+
+#: LowContrast/index.theme.in.h:1
+#, fuzzy
+msgid "Low Contrast"
+msgstr "Contrast alt"
+
+#: LowContrast/index.theme.in.h:2
+#, fuzzy
+msgid "Muted text and icons"
+msgstr "Text i icones en blanc sobre negre"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+#, fuzzy
+msgid "Large muted text and icons"
+msgstr "Text i icones en negre sobre blanc"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr ""

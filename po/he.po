@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
-"POT-Creation-Date: 2002-11-26 05:56+0100\n"
+"POT-Creation-Date: 2002-12-02 12:05+0000\n"
 "PO-Revision-Date: 2002-11-30 23:32+0200\n"
 "Last-Translator: Gil 'Dolfin' Osher <dolfin@rpg.org.il>\n"
 "Language-Team: Hebrew <he@li.org>\n"
@@ -31,3 +31,50 @@ msgstr "ניגוד גבוה הפוך"
 msgid "White-on-black text and icons"
 msgstr "מלל וסמלים בלבן על שחור"
 
+#: HighContrastLargePrint/index.theme.in.in.h:1
+#, fuzzy
+msgid "High Contrast Large"
+msgstr "ניגוד גבוה"
+
+#: HighContrastLargePrint/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large black-on-white text and icons"
+msgstr "מלל וסמלים בשחור על לבן"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+#, fuzzy
+msgid "High Contrast Large Print Inverse"
+msgstr "ניגוד גבוה הפוך"
+
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large white-on-black text and icons"
+msgstr "מלל וסמלים בלבן על שחור"
+
+#: LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr ""
+
+#: LargePrint/index.theme.in.in.h:2
+#, fuzzy
+msgid "Large text and icons"
+msgstr "מלל וסמלים בשחור על לבן"
+
+#: LowContrast/index.theme.in.h:1
+#, fuzzy
+msgid "Low Contrast"
+msgstr "ניגוד גבוה"
+
+#: LowContrast/index.theme.in.h:2
+#, fuzzy
+msgid "Muted text and icons"
+msgstr "מלל וסמלים בלבן על שחור"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+#, fuzzy
+msgid "Large muted text and icons"
+msgstr "מלל וסמלים בשחור על לבן"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr ""

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 0.2\n"
-"POT-Creation-Date: 2002-11-28 22:24+0100\n"
+"POT-Creation-Date: 2002-12-02 12:05+0000\n"
 "PO-Revision-Date: 2002-11-28 22:30+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
@@ -29,26 +29,46 @@ msgstr "Høy kontrast, omvendt"
 msgid "White-on-black text and icons"
 msgstr "Tekst og ikoner, hvitt på sort"
 
-#: HighContrastLargePrint/index.theme.in.h:1
+#: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large"
 msgstr "Høy kontrast, stor"
 
-#: HighContrastLargePrint/index.theme.in.h:2
+#: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
 msgstr "Tekst og ikoner, stor og sort på hvitt"
 
-#: HighContrastLargePrintInverse/index.theme.in.h:1
+#: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "Høy kontrast, stor skrift, omvendt"
 
-#: HighContrastLargePrintInverse/index.theme.in.h:2
+#: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
 msgstr "Tekst og ikoner, stor tekst og ikoner"
 
-#: LargePrint/index.theme.in.h:1
+#: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
 msgstr "Stor skrift"
 
-#: LargePrint/index.theme.in.h:2
+#: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
 msgstr "Stor tekst og ikoner"
+
+#: LowContrast/index.theme.in.h:1
+#, fuzzy
+msgid "Low Contrast"
+msgstr "Høy kontrast"
+
+#: LowContrast/index.theme.in.h:2
+#, fuzzy
+msgid "Muted text and icons"
+msgstr "Stor tekst og ikoner"
+
+#: LowContrastLargePrint/index.theme.in.in.h:1
+#, fuzzy
+msgid "Large muted text and icons"
+msgstr "Stor tekst og ikoner"
+
+#: LowContrastLargePrint/index.theme.in.in.h:2
+#, fuzzy
+msgid "Low Contrast Large Print"
+msgstr "Høy kontrast, stor skrift, omvendt"
