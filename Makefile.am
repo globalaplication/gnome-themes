@@ -191,5 +191,5 @@ install: install-recursive
 		if !(test -d $$nautilusthemedir); then \
 			mkdir $$nautilusthemedir ; \
 		fi; \
-		chmod -R +ar $$nautilusthemedir ; \
+		chmod -R a+r $$nautilusthemedir ; \
 	done
