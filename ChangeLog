@@ -1,5 +1,33 @@
 2004-06-03  Calum Benson  <calum.benson@sun.com>
 
+	Give the HCLPI theme the JDS-coverage treatment.
+
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInver
+	se.rc:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/evolution-1.4.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-application-
+	generic.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-folder-gener
+	ic.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/keyboard.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/mozilla-icon.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/star.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-hardd
+	isk.png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-print
+	er.png:
+	* HighContrastLargePrintInverse/icons/48x48/devices/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am
+	:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/gnome-fs-de
+	sktop.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
+
+2004-06-03  Calum Benson  <calum.benson@sun.com>
+
 	Last of the changes (hopefully) to ensure complete coverage
 	of JDS menu for HC theme.
 
