@@ -85,6 +85,13 @@
 
   stock["terminal-edit"] =      {{ "stock_preferences.png" }}
   stock["session-stock-edit"] = {{ "stock_preferences.png" }}
+
+  stock["printer-default"] =	{{ "printer-default.png" }}
+  stock["printer-broken"] =	{{ "printer-broken.png" }}
+  stock["printer-inkjet"] =	{{ "printer-inkjet.png" }}
+  stock["printer-personal-laser"] =	{{ "printer-personal-laser.png" }}
+  stock["printer-workgroup-laser"] =	{{ "printer-workgroup-laser.png" }}
+ 
 }
 
 class "GtkWidget" style "default"
