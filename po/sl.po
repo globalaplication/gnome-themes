@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-23 14:02-0800\n"
+"POT-Creation-Date: 2003-01-24 17:35+0100\n"
 "PO-Revision-Date: 2001-07-29 12:32+0200\n"
 "Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -72,72 +72,72 @@ msgstr "Nizek kontrast, velik izpis"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "Mehki prelivi z modrozelenimi poudarki"
 
 #: desktop-themes/Default/index.theme.in.h:1
 msgid "Default"
-msgstr ""
+msgstr "Privzeta"
 
 #: desktop-themes/Default/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "Tenak izgled, visoko storilna"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "Minimalističen izgled"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr ""
+msgstr "Megla"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Oceanske sanje"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Barve morske obale"
 
 #: desktop-themes/Plain/index.theme.in.h:1
 msgid "Plain"
-msgstr ""
+msgstr "Pusta"
 
 #: desktop-themes/Plain/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "Tradicionalen močno-obrobljen izgled 3D"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Mehak steklen izgled"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Dimno modra"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Čisto modra"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Peščena"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Dimno-modra"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Dimno-rdeča"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
-msgstr ""
+msgstr "Gnomova privzeta tema"
 
 #: icon-themes/gnome/index.theme.in.h:2
 msgid "Gnome"
-msgstr ""
+msgstr "Gnome"
