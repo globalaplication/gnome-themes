@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 2.2.x\n"
-"POT-Creation-Date: 2003-03-10 05:09+0100\n"
-"PO-Revision-Date: 2003-03-05 10:29+0530\n"
+"Project-Id-Version:gnome-themes.HEAD\n"
+"POT-Creation-Date: 2003-06-06 04:27+0200\n"
+"PO-Revision-Date: 2003-07-05 10:29+0530\n"
 "Last-Translator: FSF-India <locale@gnu.org.in>\n"
 "Language-Team: Malayalam <locale@gnu.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -23,33 +23,28 @@ msgid "High Contrast"
 msgstr "വളരെ തെളിവാര്ന്ന"
 
 #: HighContrastInverse/index.theme.in.h:1
-#, fuzzy
 msgid "High Contrast Inverse"
-msgstr "വളരെ തെളിവാര്ന്ന"
+msgstr ""
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
 msgstr "കറുത്ത പശ്ചാത്തലത്തില് വെളുത്ത വാചകങ്ങളും ചിഹ്നങ്ങളും"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
-msgid "High Contrast Large"
-msgstr "വളരെ തെളിവാര്ന്ന"
+msgid "High Contrast Large Print"
+msgstr ""
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large black-on-white text and icons"
-msgstr "വെളുത്ത പശ്ചാത്തലത്തില് കറുത്ത വാചകങ്ങളും ചിഹ്നങ്ങളും"
+msgstr ""
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
-#, fuzzy
 msgid "High Contrast Large Print Inverse"
-msgstr "കുറച്ച് തെളിവാര്ന്ന വലിയ അച്ചടി"
+msgstr ""
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
-#, fuzzy
 msgid "Large white-on-black text and icons"
-msgstr "കറുത്ത പശ്ചാത്തലത്തില് വെളുത്ത വാചകങ്ങളും ചിഹ്നങ്ങളും"
+msgstr ""
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -64,14 +59,12 @@ msgid "Low Contrast"
 msgstr "കുറച്ച് തെളിവാര്ന്ന"
 
 #: LowContrast/index.theme.in.h:2
-#, fuzzy
 msgid "Muted text and icons"
-msgstr "വലിയ ചിഹ്നങ്ങളും വാചകങ്ങളും"
+msgstr ""
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
-#, fuzzy
 msgid "Large muted text and icons"
-msgstr "വലിയ ചിഹ്നങ്ങളും വാചകങ്ങളും"
+msgstr ""
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -86,9 +79,8 @@ msgid "Smooth gradients with teal highlights"
 msgstr ""
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
-#, fuzzy
 msgid "Dusty orange appearance"
-msgstr "ഒരു ലളിത സ്പടിക ദൃശ്യത"
+msgstr ""
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
