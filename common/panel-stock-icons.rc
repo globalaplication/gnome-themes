@@ -12,7 +12,7 @@ style "panel-icons"
 #TBD    stock ["panel-kde"] =           {{""}}
 #TBD    stock ["panel-suse"] =          {{""}}
 
-#TBD    stock ["panel-amusements"] =    {{""}}
+	stock ["panel-amusements"] =    {{"stock_amusements.png"}}
         stock ["panel-multimedia"] =    {{"stock_multimedia.png"}}
 
         stock ["panel-internet"] =      {{"stock_internet.png"}}
