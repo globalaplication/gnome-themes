@@ -1,3 +1,10 @@
+2.9.94
+======
+
+Fixes:
+	Remove different-coloured buttons from Simple theme, which
+	were intended for the default gtk+ theme.
+
 2.9.92
 ======
 
