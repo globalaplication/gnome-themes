@@ -1,5 +1,8 @@
 2004-09-04  James Henstridge  <james@jamesh.id.au>
 
+	* configure.in: update and simplify the configure script a bit.
+	Remove the duplicate pkg-config checks.
+
 	* autogen.sh: remove the code used to generate the gtkrc.in files.
 
 	* LargePrint/gtk-2.0/gtkrc.in: 
