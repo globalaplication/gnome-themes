@@ -61,8 +61,8 @@ style "default"
   stock["gtk-dialog-error"] =  {{ "stock_dialog_error.png" }}
   stock["gtk-dialog-warning"] =  {{ "stock_dialog_warning.png" }}
 
-  stock["gtk-stock-dnd"] = {{ "stock_dnd.png" }} # does not exist
-  stock["gtk-stock-dnd-multiple"] = {{ "stock_dnd_multiple.png" }} # does not exist
+  stock["gtk-dnd"] = {{ "stock_dnd.png" }} 
+  stock["gtk-dnd-multiple"] = {{ "stock_dnd_multiple.png" }} 
 
   stock["gtk-add"] =	       {{ "stock_add.png" }}
   stock["gtk-apply"] =	       {{ "stock_apply.png" }}
@@ -99,7 +99,7 @@ style "default"
   stock["gtk-justify-right"] =	{{ "stock_justify-right.png" }}
   stock["gtk-missing-image"] =	{{ "stock_missing-image.png" }}
   stock["gtk-new"] =	     	{{ "stock_new.png" }}
-  stock["gtk-no"] =		{{ "stock_no.png" }} # does not exist
+  stock["gtk-no"] =		{{ "stock_no.png" }} 
   stock["gtk-ok"] =		{{ "stock_ok.png" }}
   stock["gtk-open"] =		{{ "stock_open.png" }} 
   stock["gtk-paste"] =		{{ "stock_paste.png" }}
@@ -124,7 +124,7 @@ style "default"
   stock["gtk-undelete"] =	{{ "stock_undelete.png" }}
   stock["gtk-underline"] =	{{ "stock_underline.png" }}
   stock["gtk-undo"] =		{{ "stock_undo.png" }}
-  stock["gtk-yes"] =		{{ "stock_yes.png" }} # does not exist
+  stock["gtk-yes"] =		{{ "stock_yes.png" }} 
   stock["gtk-zoom-100"] =	{{ "stock_zoom-100.png" }}
   stock["gtk-zoom-fit"] =	{{ "stock_zoom-fit.png" }}
   stock["gtk-zoom-in"] =	{{ "stock_zoom-in.png" }}

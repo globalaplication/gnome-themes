@@ -25,6 +25,16 @@ pixmap_DATA=	stock_about.png stock_attach.png stock_balance.png \
 		stock_text_underline.png stock_top.png \
 		stock_undelete.png stock_undo.png stock_up.png \
 		stock_volume.png stock_zoom_1.png stock_zoom_fit.png \
-		stock_zoom_in.png stock_zoom_out.png
+		stock_zoom_in.png stock_zoom_out.png \
+		stock_dialog_info.png stock_dialog_question.png \
+		stock_dialog_error.png stock_dialog_warning.png \
+		stock_dnd.png stock_dnd_multiple.png stock_add.png \
+		stock_apply.png stock_clear.png stock_close.png \
+		stock_floppy.png stock_index.png stock_no.png \
+		stock_remove.png stock_colorselector.png \
+		stock_sort_ascending.png stock_sort_descending.png \
+		stock_yes.png
+		
+		
 
 EXTRA_DIST=	$(pixmap_DATA)

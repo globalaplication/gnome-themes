@@ -69,8 +69,8 @@ style "default"
   stock["gtk-dialog-error"] =  {{ "stock_dialog_error.png" }}
   stock["gtk-dialog-warning"] =  {{ "stock_dialog_warning.png" }}
 
-  stock["gtk-stock-dnd"] = {{ "stock_dnd.png" }}  
-  stock["gtk-stock-dnd-multiple"] = {{ "stock_dnd_multiple.png" }}
+  stock["gtk-dnd"] = {{ "stock_dnd.png" }}  
+  stock["gtk-dnd-multiple"] = {{ "stock_dnd_multiple.png" }}
 
   stock["gtk-add"] =	       {{ "stock_add.png" }}
   stock["gtk-apply"] =	       {{ "stock_apply.png" }}
