@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"POT-Creation-Date: 2003-01-26 00:26+0200\n"
-"PO-Revision-Date: 2003-01-26 00:16+0200\n"
+"POT-Creation-Date: 2003-01-26 01:35+0200\n"
+"PO-Revision-Date: 2003-01-26 01:31+0200\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team <gnome-fi-laatu@lists."
 "sourceforge.net>\n"
@@ -74,7 +74,7 @@ msgstr "Pieni kontrasti (suurikokoinen)"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr "Crux"
+msgstr "Pulma"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
@@ -90,15 +90,15 @@ msgstr "Kevyt ulkonäkö, korkea suorituskyky"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "Minimalistinen ulkonäkö"
+msgstr "Minimalistinen ulkoasu"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
-msgstr "Mist"
+msgstr "Sumu"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr "Ocean Dream"
+msgstr "Meriunelma"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
@@ -114,27 +114,27 @@ msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "Pehmeän lasimainen ulkonäkö"
+msgstr "Pehmeän lasimainen ulkoasu"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr "Smokey Blue"
+msgstr "Savuisen sininen"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Flat-Blue"
+msgstr "Tasaisen sininen"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "Sandy"
+msgstr "Hiekka"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
+msgstr "Savunsininen"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Smokey-Red"
+msgstr "Savunpunainen"
 
 #: icon-themes/gnome/index.theme.in.h:1
 msgid "Default Gnome Theme"
