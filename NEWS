@@ -1,3 +1,35 @@
+2.6.0
+=====
+
+Bugfixes:
+
+- Rename numerous high and low contrast icons to make them work again:
+  keyboard, keyboard accessibility, theme, font, background, sound,
+  window, preferred apps, volume control, mouse, menus & toolbars.
+  (Calum Benson)
+
+Enhancements:
+
+- Added icons for fileroller, gcalctool, perfmeter, Computer, Browse
+  Network, gucharmap, gdict, accessx status applet, Display Resolution,
+  main menu, AT Support. (Calum Benson)
+
+New/updated translations:
+
+ 2004-03-21  Kjartan Maraas  <kmaraas@gnome.org>
+       * no.po: Fix a typo.
+
+ 2004-03-21  Mugurel Tudor  <mugurelu@go.ro>
+       * ro.po: Updated Romanian translation by
+       Mişu Moldovan <dumol@go.ro>
+
+2004-03-20  Gareth Owen <gowen72@yahoo.com>
+       * en_GB.po: Added British translation
+
+2004-03-20  Robert Sedak  <robert.sedak@sk.htnet.hr>
+         * hr.po: Updated Croatian translation.
+
+
 2.5.92
 ======
 
