@@ -4,3 +4,6 @@ SUBDIRS=	po common HighContrast LargePrint LowContrastLargePrint \
 
 EXTRA_DIST = \
 	low-contrast-preset.scm
+	intltool-extract.in \
+	intltool-merge.in \
+	intltool-update.in
