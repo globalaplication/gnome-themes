@@ -1,3 +1,27 @@
+2.6.1
+=====
+
+New/updated translations:
+
+2004-04-15  Andras Timar  <timar@gnome.hu>
+       * hu.po: Updated Hungarian translation.
+
+2004-04-08  Guntupalli Karunakar  <karunakar@freedomink.org>
+        * gu.po: Added Gujurati translation by
+       Gujarati Team <magnet@magnet-i.com>.
+
+2004-04-03  Samúel Jón Gunnarsson  <sammi@techattack.nu>
+       * is.po: Updated Icelandic translation by
+       Helgi Þormar Þorbjörnsson  <helgi@trance.is>
+
+2004-03-29  Guntupalli Karunakar  <karunakar@freedomink.org>
+       * pa.po: Added Punjabi translation by
+       jaswinder singh <jaswinderlinux@netscape.net>.
+
+2004-03-23  Åsmund Skjæveland  <aasmunds@fys.uio.no>
+       * nn.po: Added Norwegian Nynorsk translation.
+
+
 2.6.0
 =====
 
@@ -10,9 +34,9 @@ Bugfixes:
 
 Enhancements:
 
-- Added icons for fileroller, gcalctool, perfmeter, Computer, Browse
-  Network, gucharmap, gdict, accessx status applet, Display Resolution,
-  main menu, AT Support. (Calum Benson)
+- Added accessible icons for fileroller, gcalctool, perfmeter, Computer, 
+  Browse Network, gucharmap, gdict, accessx status applet, Display 
+  Resolution, main menu, AT Support. (Calum Benson)
 
 New/updated translations:
 
