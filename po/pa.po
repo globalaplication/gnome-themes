@@ -1,69 +1,71 @@
+# translation of gnome-themes.HEAD.po to Punjabi
 # translation of pa.po to Punjabi
 # KBST Punjab translation of punlinux.
 # Copyright (C) 2004 THE punlinux'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the punlinux package.
 # jaswinder singh <jaswindersinghra@yahoo.com>, 2004.
 # Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
 #
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: pa\n"
+"Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-01 18:00+0000\n"
-"PO-Revision-Date: 2004-08-21 16:13+0530\n"
-"Last-Translator: Amanpreet Singh Alam <aalam@redhat.com>\n"
+"POT-Creation-Date: 2005-03-02 07:13+0100\n"
+"PO-Revision-Date: 2005-03-02 12:21+0530\n"
+"Last-Translator: Amanpreet Singh Alam <amanpreetalam@yahoo.com>\n"
 "Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.3.1\n"
-"Plural-Forms: Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
 
 #: HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "ਚਿਟੇ ਉਪਰ ਕਾਲੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਚਿੱਟੇ ਉੱਪਰ ਕਾਲਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "ਵਧ ਤਣਾਓ"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ"
 
 #: HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "ਉਲਟਾ ਵਧ ਤਣਾਓ"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਉਲਟ"
 
 #: HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "ਕਾਲੇ ਉਪਰ ਚਿਟੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਕਾਲੇ ਉੱਪਰ ਚਿੱਟਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "ਵਧ ਤਣਾਓ ਵਡਾ ਛਾਪਾ"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪ੍ਰਿੰਟ"
 
 #: HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "ਚਿਟੇ ਉਪਰ ਕਾਲੇ ਵਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਚਿੱਟੇ ਉੱਪਰ ਕਾਲਾ ਵੱਡਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "ਵਧ ਤਣਾਓ ਉਲਟਾ ਵਡਾ ਛਾਪਾ "
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪ੍ਰਿੰਟ ਉਲਟ"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "ਕਾਲੇ ਉਪਰ ਚਿਟੇ ਵਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਕਾਲੇ ਉਪਰ ਚਿਟੇ ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "ਵਡਾ ਛਾਪਾ"
+msgstr "ਵੱਡਾ ਪ੍ਰਿੰਟ"
 
 #: LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "ਵਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "ਘਟ ਤਣਾਓ"
+msgstr "ਘੱਟ ਭਿੰਨਤਾ"
 
 #: LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -71,11 +73,11 @@ msgstr "ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "ਵਡੇ ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+msgstr "ਵੱਡੇ ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "ਘਟ ਤਣਾਓ ਵਡਾ ਛਾਪਾ"
+msgstr "ਘੱਟ ਭਿੰਨਤਾ ਵੱਡਾ ਪ੍ਰਿੰਟ"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
@@ -95,15 +97,15 @@ msgstr "ਸਧਾਰਨ, ਹਲਕਾ ਅਤੇ ਸਹਿਜ ਖੁਸ਼ਨੁਮ�
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "ਮਿਟੀ ਵਰਗੀ ਸੰਤਰੀ ਦਿਖ"
+msgstr "ਮਿੱਟੀ ਵਰਗੀ ਸੰਤਰੀ ਦਿੱਖ"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr "ਮੁਖ ਘਾਟੀ"
+msgstr "ਮੁੱਖ ਘਾਟੀ"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "ਇਕ minimalistic ਦਿਖ"
+msgstr "ਇਕ minimalistic ਦਿੱਖ"
 
 #: desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
@@ -123,7 +125,7 @@ msgstr "ਸਾਧਾਰਣ"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "ਪਤਲੀ ਦਿਖ,ਵਧੀਆ ਪੇਸ਼ਗੀ"
+msgstr "ਹਲਕੀ ਦਿੱਖ, ਵਧੀਆ ਕਾਰਜਕੁਸ਼ਤਾ"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -139,11 +141,11 @@ msgstr "ਰਵਾਇਤੀ"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "ਸਖ਼ਤ ਕਿਨਾਰਿਆਂ ਵਾਲੀ ਰਵਾਇਤੀ 3D ਦਿਖ"
+msgstr "ਸਖ਼ਤ ਕਿਨਾਰਿਆਂ ਵਾਲੀ ਰਵਾਇਤੀ 3D ਦਿੱਖ"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "ਫਿਕਾ ਨੀਲਾ"
+msgstr "ਫਿੱਕਾ ਨੀਲਾ"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
