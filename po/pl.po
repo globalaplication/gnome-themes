@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "POT-Creation-Date: 2003-02-21 21:26+0100\n"
-"PO-Revision-Date: 2003-02-21 21:37+0100\n"
+"PO-Revision-Date: 2003-02-27 19:02+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,19 +39,19 @@ msgstr "Duże o wysokim kontraście"
 
 #: HighContrastLargePrint/index.theme.in.in.h:1
 msgid "Large black-on-white text and icons"
-msgstr ""
+msgstr "Duże czarne litery i ikony na białym tle"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr ""
+msgstr "Duże o wysokim kontraście - negatyw"
 
 #: HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "Large white-on-black text and icons"
-msgstr ""
+msgstr "Duże białe litery i ikony na czarnym tle"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr ""
+msgstr "Duże"
 
 #: LargePrint/index.theme.in.in.h:1
 msgid "Large text and icons"
@@ -67,27 +67,27 @@ msgstr "Przytłumiony tekst i ikony"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr ""
+msgstr "Duże przytłumione ikony i tekst"
 
 #: LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Low Contrast Large Print"
-msgstr ""
+msgstr "Duże, niski kontrast"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:1
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "Łagodne przejścia z herbacianą kolorystyką"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr ""
+msgstr "Przykurzona pomarańcza"
 
 #: desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Grand Canyon"
-msgstr ""
+msgstr "Wielki Kanion"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -95,31 +95,33 @@ msgstr "Minimalistyczny wygląd"
 
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr ""
+msgstr "Zamglony"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Oceaniczny sen"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "The colours of the seashore"
-msgstr ""
+msgstr "Kolory wybrzeża"
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
 msgstr "Prosty"
 
+# Nie jest to dosłownie przetłumaczone, ale
+# chyba dobrze oddaje intencje autora :-)
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "Siła prostoty"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "Delikatny szklany wygląd"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey Blue"
-msgstr ""
+msgstr "Przydymiony niebieski"
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
@@ -131,19 +133,19 @@ msgstr "Tradycyjny wygląd 3D z ostrymi krawędziami"
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Płaski niebieski"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Piaskowy"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "Przydymiony niebieski"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "Przydymiony czerwony"
 
 #~ msgid "Default"
 #~ msgstr "Domyślny"
