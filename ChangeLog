@@ -1,5 +1,11 @@
 2002-10-03  Calum Benson  <calum.benson@sun.com>
 
+	* README:
+
+	Updated to describe the effect of all the recent changes.
+
+2002-10-03  Calum Benson  <calum.benson@sun.com>
+
 	Major rework to ensure all themes use the same
 	icon filenames, and to minimize the amount of
 	maintenance needed when the same new icon is 
