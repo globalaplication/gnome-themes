@@ -1,3 +1,35 @@
+2003-05-23  Calum Benson  <calum.benson@sun.com>
+
+	Backport the high contrast engine from HEAD. 
+	Fixes bugs #106859, #112586, #111985.
+
+	* HighContrast/gtk-2.0/HighContrast.rc:
+	* HighContrastInverse/gtk-2.0/HighContrastInverse.rc:
+	* HighContrastLargePrint/gtk-2.0/HighContrastLargePrint.rc:
+	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInver
+	se.rc:
+	* Makefile.am:
+	* configure.in:
+	* gtk-engines/Makefile.am:
+	* gtk-engines/hc-engine/AUTHORS:
+	* gtk-engines/hc-engine/COPYING:
+	* gtk-engines/hc-engine/Makefile.am:
+	* gtk-engines/hc-engine/hc-main.c: (theme_init), (theme_exit),
+	(theme_create_rc_style), (g_module_check_init):
+	* gtk-engines/hc-engine/hc-rc-style.c: (hc_rc_style_init),
+	(hc_rc_style_create_style), (hc_rc_style_class_init),
+	(hc_rc_style_register_type):
+	* gtk-engines/hc-engine/hc-rc-style.h:
+	* gtk-engines/hc-engine/hc-style.c: (draw_box), (draw_dot),
+	(draw_arrow), (hc_style_realize), (sanitize_size),
+	(hc_draw_shadow), (hc_draw_extension), (hc_draw_check),
+	(hc_draw_option), (option_menu_get_props), (hc_draw_tab),
+	(hc_draw_shadow_gap), (hc_draw_layout), (calculate_arrow_geometry),
+	(hc_draw_arrow), (hc_draw_box_gap), (hc_draw_handle),
+	(hc_draw_hline), (hc_draw_diamond), (hc_draw_polygon),
+	(hc_style_class_init), (hc_style_register_type):
+	* gtk-engines/hc-engine/hc-style.h:
+
 2003-05-16  Guntupalli Karunakar  <karunakar@freedomink.org>
 
 	* configure.in: Added "hi" to ALL_LINGUAS.
