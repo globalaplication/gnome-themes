@@ -1,5 +1,46 @@
 2002-10-25  Calum Benson  <calum.benson@sun.com>
 
+	Added stock icons for mixer applet and the double-click
+	test area in the mouse capplet.
+
+	* HighContrastLargePrint/pixmaps/double-click-maybe.png:
+	* HighContrastLargePrint/pixmaps/double-click-off.png:
+	* HighContrastLargePrint/pixmaps/double-click-on.png:
+	* HighContrastLargePrint/pixmaps/volume-max.png:
+	* HighContrastLargePrint/pixmaps/volume-medium.png:
+	* HighContrastLargePrint/pixmaps/volume-min.png:
+	* HighContrastLargePrint/pixmaps/volume-mute.png:
+	* HighContrastLargePrint/pixmaps/volume-zero.png:
+	* HighContrastLargePrintInverse/pixmaps/double-click-maybe.png:
+	* HighContrastLargePrintInverse/pixmaps/double-click-off.png:
+	* HighContrastLargePrintInverse/pixmaps/double-click-on.png:
+	* HighContrastLargePrintInverse/pixmaps/volume-max.png:
+	* HighContrastLargePrintInverse/pixmaps/volume-medium.png:
+	* HighContrastLargePrintInverse/pixmaps/volume-min.png:
+	* HighContrastLargePrintInverse/pixmaps/volume-mute.png:
+	* HighContrastLargePrintInverse/pixmaps/volume-zero.png:
+	* LargePrint/pixmaps/double-click-maybe.png:
+	* LargePrint/pixmaps/double-click-off.png:
+	* LargePrint/pixmaps/double-click-on.png:
+	* LargePrint/pixmaps/volume-max.png:
+	* LargePrint/pixmaps/volume-medium.png:
+	* LargePrint/pixmaps/volume-min.png:
+	* LargePrint/pixmaps/volume-mute.png:
+	* LargePrint/pixmaps/volume-zero.png:
+	* LowContrastLargePrint/pixmaps/double-click-maybe.png:
+	* LowContrastLargePrint/pixmaps/double-click-off.png:
+	* LowContrastLargePrint/pixmaps/double-click-on.png:
+	* LowContrastLargePrint/pixmaps/volume-max.png:
+	* LowContrastLargePrint/pixmaps/volume-medium.png:
+	* LowContrastLargePrint/pixmaps/volume-min.png:
+	* LowContrastLargePrint/pixmaps/volume-mute.png:
+	* LowContrastLargePrint/pixmaps/volume-zero.png:
+	* autogen.sh:
+	* common/all-stock-icons.data:
+	* common/media-stock-icons.rc:
+
+2002-10-25  Calum Benson  <calum.benson@sun.com>
+
 	A few changes to improve build script consistency between themes.
 
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:

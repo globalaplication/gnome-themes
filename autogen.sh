@@ -26,7 +26,7 @@ echo;
 
 for theme in LargePrint HighContrast HighContrastLargePrint HighContrastInverse HighContrastLargePrintInverse LowContrast LowContrastLargePrint;  do
 	echo "Generating $theme/gtk-2.0/gtkrc.in"
-	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
+	cat $theme/gtk-2.0/$theme.rc common/gtk-stock-icons.rc common/panel-stock-icons.rc common/media-stock-icons.rc common/capplet-stock-icons.rc > $theme/gtk-2.0/gtkrc.in
 done
 
 for theme in LargePrint HighContrastLargePrint HighContrastLargePrintInverse LowContrastLargePrint; do
