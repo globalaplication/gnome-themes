@@ -1,5 +1,11 @@
 2003-01-30  Seth Nickell  <snickell@stanford.edu>
 
+	* gtk-themes/Simple/Makefile.am:
+
+	Install Simple theme into Simple directory.
+
+2003-01-30  Seth Nickell  <snickell@stanford.edu>
+
 	* configure.in:
 	* desktop-themes/Default/Makefile.am:
 	* desktop-themes/Default/index.theme.in:
