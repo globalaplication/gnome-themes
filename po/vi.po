@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Gnome-themes for Gnome v2.1.x\n"
-"POT-Creation-Date: 2003-03-12 12:56+0000\n"
-"PO-Revision-Date: 2003-01-19 20:31+0700\n"
-"Last-Translator: Trinh Minh Thanh <tmthanh@linuxmail.org>\n"
-"Language-Team: Gnome-Vi Team <Gnomevi-list@lists.sourceforge.net>\n"
+"Project-Id-Version: Gnome-themes for Gnome v2.2.x\n"
+"POT-Creation-Date: 2003-03-16 12:01+0100\n"
+"PO-Revision-Date: 2003-03-16 21:33+0700\n"
+"Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
+"Language-Team: Gnome-Vi <Gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -72,7 +72,7 @@ msgstr "In lớn, độ tương phản thấp"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "Crux"
 
 #: desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
-msgstr ""
+msgstr "Ocean Dream"
 
 #: desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
@@ -104,11 +104,11 @@ msgstr ""
 
 #: desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
-msgstr ""
+msgstr "Đơn giản"
 
 #: desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "diệm mạo nghèo nàn, độ thực thi cao"
 
 #: desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "Truyền thống"
 
 #: desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
@@ -128,11 +128,11 @@ msgstr ""
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "Xanh da trời - phẳng"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr ""
+msgstr "Cát"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
@@ -141,3 +141,4 @@ msgstr ""
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr ""
+
