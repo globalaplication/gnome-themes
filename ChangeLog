@@ -1,3 +1,8 @@
+2005-04-08  Muktha  <muktha.narayan@wipro.com>
+
+	* LowContrastLargePrint/icons/48x84/devices/gnome-dev-printer.png:
+	Add low contrast icon for printer.
+
 2005-04-01  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastLargePrint/icons/48x48/devices/Makefile.am:
