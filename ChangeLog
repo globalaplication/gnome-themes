@@ -1,3 +1,10 @@
+2005-06-07  Calum Benson,,,  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	2.11.3 release.
+
 2005-06-05  Ignacio Casal Quinteiro  <icq@cvs.gnome.org>
 
 	* configure.in: Added 'gl' to ALL_LINGUAS
