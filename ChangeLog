@@ -1,3 +1,16 @@
+2005-06-08  James Henstridge  <james@jamesh.id.au>
+
+	* icon-themes/Smokey-Red/Makefile.am (EXTRA_DIST): same here.
+
+	* icon-themes/Sandy/Makefile.am (EXTRA_DIST): same here.
+
+	* icon-themes/Flat-Blue/Makefile.am (EXTRA_DIST): same here.
+
+	* icon-themes/Crux/Makefile.am (icondir): same here.
+
+	* icon-themes/Smokey-Blue/Makefile.am (icondir): simplify makefile
+	logic to use $(nobase_icon_DATA)
+
 2005-06-07  Calum Benson,,,  <calum.benson@sun.com>
 
 	* NEWS:
