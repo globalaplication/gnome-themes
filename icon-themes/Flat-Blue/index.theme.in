@@ -50,9 +50,9 @@ Context=FileSystems
 Type=Scaled
 
 [scalable/emblems]
-Size=Scalable
+Size=48
 Context=Emblems
-Type=Scaled
+Type=Scalable
 
 [36x36/filesystems]
 Size=36

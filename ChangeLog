@@ -1,3 +1,11 @@
+2005-06-20  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/Flat-Blue/index.theme.in:
+	* icon-themes/gorilla/index.theme:
+
+	Patch from Kjartan Maraaas to fix compiler warnings.
+	(Bug #165906).
+
 2005-06-08  James Henstridge  <james@jamesh.id.au>
 
 	* icon-themes/Smokey-Red/Makefile.am (EXTRA_DIST): same here.

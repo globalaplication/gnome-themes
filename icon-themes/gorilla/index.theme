@@ -20,25 +20,24 @@ MinSize=1
 Size=48
 MaxSize=256
 Context=Actions
-Type=scalable
+Type=Scalable
 
 [scalable/apps]
 MinSize=1
 Size=48
 MaxSize=256
 Context=Applications
-Type=scalable
+Type=Scalable
 
 [scalable/devices]
 MinSize=1
 Size=48
 MaxSize=256
 Context=Devices
-Type=scalable
+Type=Scalable
 
 [scalable/emblems]
-#this is a bug 102677, should be 24
-Size=72
+Size=48
 Context=Emblems
 Type=Scalable
 
