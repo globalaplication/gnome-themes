@@ -1,3 +1,33 @@
+2.11.4
+======
+
+Bugfixes:
+
+2005-06-20  Calum Benson  <calum.benson@sun.com>
+
+       Patch from Kjartan Maraaas to fix compiler warnings.
+       (Bug #165906).
+
+2005-06-08  James Henstridge  <james@jamesh.id.au>
+
+       * icon-themes/Smokey-Red/Makefile.am (EXTRA_DIST): same here.
+       * icon-themes/Sandy/Makefile.am (EXTRA_DIST): same here.
+       * icon-themes/Flat-Blue/Makefile.am (EXTRA_DIST): same here.
+       * icon-themes/Crux/Makefile.am (icondir): same here.
+       * icon-themes/Smokey-Blue/Makefile.am (icondir): simplify makefile
+       logic to use $(nobase_icon_DATA)
+
+New/improved translations:
+
+2005-06-22  Abel Cheung  <maddog@linuxhall.org>
+       * zh_TW.po: Fix language team reference.
+
+
+2.11.3
+======
+
+No changes, not released.
+
 2.11.2
 ======
 
