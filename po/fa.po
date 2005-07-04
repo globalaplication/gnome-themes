@@ -1,151 +1,154 @@
 # Persian translation of gnome-themes.
-# Copyright (C) 2003 The FarsiWeb Project Group
-# Roozbeh Pournader <roozbeh@sharif.edu>, 2003. 
-#
+# Copyright (C) 2003, 2005 Sharif FarsiWeb, Inc.
+# Roozbeh Pournader <roozbeh@farsiweb.info>, 2003. 
+# Masoud Ahmadzadeh <masoud@bamdad.org>, 2005.
+# Meelad Zakaria <meelad@farsiweb.info>, 2005.
+
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes\n"
+"Project-Id-Version: gnome-themes HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-01 18:00+0000\n"
-"PO-Revision-Date: 2003-02-21 08:51+0330\n"
-"Last-Translator: Roozbeh Pournader <roozbeh@sharif.edu>\n"
+"POT-Creation-Date: 2005-07-02 06:08+0000\n"
+"PO-Revision-Date: 2005-07-03 17:17+0430\n"
+"Last-Translator: Meelad Zakaria <meelad@farsiweb.info>\n"
 "Language-Team: Persian <farsi@lists.sharif.edu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: HighContrast/index.theme.in.h:1
+#: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "متن و شمایل‌های سیاه روی سفید"
+msgstr "متن و شمایل‌های سیاه روی زمینه‌ی سفید"
 
-#: HighContrast/index.theme.in.h:2
+#: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr ""
+msgstr "با سایه‌روشن زیاد"
 
-#: HighContrastInverse/index.theme.in.h:1
+#: ../HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr ""
+msgstr "سایه‌روشن زیاد وارونه"
 
-#: HighContrastInverse/index.theme.in.h:2
+#: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "متن و شمایل‌های سفید روی سیاه"
+msgstr "متن و شمایل‌های سفید روی زمینه‌ی سیاه"
 
-#: HighContrastLargePrint/index.theme.in.in.h:1
+#: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr ""
+msgstr "چاپ درشت و سایه‌روشن زیاد"
 
-#: HighContrastLargePrint/index.theme.in.in.h:2
+#: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "متن و شمایل‌های بزرگ و سیاه روی سفید"
+msgstr "متن و شمایل‌های درشت و سیاه روی زمینه‌ی سفید"
 
-#: HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr ""
+msgstr "وارونگی با چاپ درشت و سایه‌روشن بالا"
 
-#: HighContrastLargePrintInverse/index.theme.in.in.h:2
+#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "متن و شمایل‌های بزرگ و سفید روی سیاه"
+msgstr "متن و شمایل‌های بزرگ و سفید روی زمینه‌ی سیاه"
 
-#: LargePrint/index.theme.in.in.h:1
+#: ../LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr ""
+msgstr "چاپ درشت"
 
-#: LargePrint/index.theme.in.in.h:2
+#: ../LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
 msgstr "متن و شمایل‌های بزرگ"
 
-#: LowContrast/index.theme.in.h:1
+#: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr ""
+msgstr "سایه‌روشن کم"
 
-#: LowContrast/index.theme.in.h:2
+#: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
 msgstr ""
 
-#: LowContrastLargePrint/index.theme.in.in.h:1
+#: ../LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
 msgstr ""
 
-#: LowContrastLargePrint/index.theme.in.in.h:2
+#: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr ""
+msgstr "چاپ بزرگ و سایه‌روشن کم"
 
-#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+#: ../desktop-themes/Crux/index.theme.in.h:1
+#: ../icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr ""
+msgstr "کراکس"
 
-#: desktop-themes/Crux/index.theme.in.h:2
+#: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr ""
+msgstr "هاشور نرم با پررنگی سبزآبی"
 
-#: desktop-themes/Glider/index.theme.in.h:1
+#: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
-msgstr ""
+msgstr "گلایدر"
 
-#: desktop-themes/Glider/index.theme.in.h:2
+#: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr ""
+msgstr "ساده، نرم و چشم‌نواز"
 
-#: desktop-themes/Grand-Canyon/index.theme.in.h:1
+#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr ""
+msgstr "با نمای نارنجی اُکر"
 
-#: desktop-themes/Grand-Canyon/index.theme.in.h:2
+#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
 msgstr "گراند کانیون"
 
-#: desktop-themes/Mist/index.theme.in.h:1
+#: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr ""
+msgstr "با نمایی مینیمالیستی"
 
-#: desktop-themes/Mist/index.theme.in.h:2
+#: ../desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
 msgstr "مه"
 
-#: desktop-themes/Ocean-Dream/index.theme.in.h:1
+#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
 msgid "Ocean Dream"
 msgstr "رویای اقیانوس"
 
-#: desktop-themes/Ocean-Dream/index.theme.in.h:2
+#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
 msgstr "رنگ‌های ساحل"
 
-#: desktop-themes/Simple/index.theme.in.h:1
+#: ../desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
 msgstr "ساده"
 
-#: desktop-themes/Simple/index.theme.in.h:2
+#: ../desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr ""
+msgstr "نمایی خلوت، عملکردی بالا"
 
-#: desktop-themes/Smokey-Blue/index.theme.in.h:1
+#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr ""
+msgstr "نمایی نرم و شیشه‌ای"
 
-#: desktop-themes/Smokey-Blue/index.theme.in.h:2
+#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
-msgstr ""
+msgstr "آبی دودی"
 
-#: desktop-themes/Traditional/index.theme.in.h:1
+#: ../desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
 msgstr "سنتی"
 
-#: desktop-themes/Traditional/index.theme.in.h:2
+#: ../desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr ""
+msgstr "نمای سه‌بعدی لبه‌دار سنتی"
 
-#: icon-themes/Flat-Blue/index.theme.in.h:1
+#: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr ""
+msgstr "آبی یکدست"
 
-#: icon-themes/Sandy/index.theme.in.h:1
+#: ../icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
 msgstr "حنایی"
 
-#: icon-themes/Smokey-Blue/index.theme.in.h:1
+#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr ""
+msgstr "آبی دودی"
 
-#: icon-themes/Smokey-Red/index.theme.in.h:1
+#: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr ""
+msgstr "قرمز دودی"
