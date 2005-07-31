@@ -1,5 +1,5 @@
 # Gnome-themes Finnish Translation.
-# Suomennos: http://gnome-fi.org/
+# Suomennos: http://gnome.fi/
 # Copyright (C) 2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Sami Pesonen <sampeson@iki.fi>, 2003-2004.
