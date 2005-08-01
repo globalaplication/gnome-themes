@@ -1,5 +1,6 @@
 SUBDIRS=		\
 	Crux		\
+	Clearlooks	\
 	Glider		\
 	Grand-Canyon	\
 	Mist		\

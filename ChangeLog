@@ -1,3 +1,15 @@
+2005-08-01  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* desktop-themes/Clearlooks/Makefile.am:
+	* desktop-themes/Clearlooks/index.theme.in:
+	* desktop-themes/Makefile.am:
+	* gtk-themes/Makefile.am:
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/Makefile.am:
+
+	Added Clearlooks theme
+
 2005-07-01  Calum Benson,,,  <calum.benson@sun.com>
 
 	* configure.in:

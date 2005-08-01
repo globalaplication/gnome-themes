@@ -1,1 +1,1 @@
-SUBDIRS=Glider Grand-Canyon Simple Smokey-Blue
+SUBDIRS=Clearlooks Glider Grand-Canyon Simple Smokey-Blue

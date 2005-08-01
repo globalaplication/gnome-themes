@@ -1,4 +1,5 @@
 THEMES=			\
+	Clearlooks	\
 	Glider		\
 	Mist		\
 	Sandwish	\

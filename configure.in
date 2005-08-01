@@ -90,6 +90,7 @@ Makefile
 gnome-themes.spec
 desktop-themes/Makefile
 desktop-themes/Crux/Makefile
+desktop-themes/Clearlooks/Makefile
 desktop-themes/Grand-Canyon/Makefile
 desktop-themes/Mist/Makefile
 desktop-themes/Ocean-Dream/Makefile
@@ -98,6 +99,7 @@ desktop-themes/Smokey-Blue/Makefile
 desktop-themes/Glider/Makefile
 desktop-themes/Traditional/Makefile
 gtk-themes/Makefile
+gtk-themes/Clearlooks/Makefile
 gtk-themes/Simple/Makefile
 gtk-themes/Grand-Canyon/Makefile
 gtk-themes/Smokey-Blue/Makefile
