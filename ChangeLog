@@ -1,5 +1,12 @@
 2005-08-01  Thomas Wood  <thos@gnome.org>
 
+	* gtk-themes/Clearlooks/Makefile.am:
+	* gtk-themes/Clearlooks/gtkrc:
+
+	Added for Clearlooks theme
+
+2005-08-01  Thomas Wood  <thos@gnome.org>
+
 	* configure.in:
 	* desktop-themes/Clearlooks/Makefile.am:
 	* desktop-themes/Clearlooks/index.theme.in:
