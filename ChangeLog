@@ -1,3 +1,8 @@
+2005-08-02  Thomas Wood  <thos@gnome.org>
+
+	* desktop-themes/Traditional/index.theme.in: The default GTK+ theme is now
+	called "Raleigh"
+
 2005-08-01  Thomas Wood  <thos@gnome.org>
 
 	* gtk-themes/Clearlooks/Makefile.am:
