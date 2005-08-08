@@ -1,3 +1,9 @@
+2005-08-08  Calum Benson,,,  <calum.benson@sun.com>
+
+	* NEWS:
+
+	Update for 2.11.91.
+
 2005-08-02  Thomas Wood  <thos@gnome.org>
 
 	* desktop-themes/Traditional/index.theme.in: The default GTK+ theme is now

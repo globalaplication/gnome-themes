@@ -1,3 +1,36 @@
+2.11.91
+=======
+
+New features:
+
+2005-08-01  Thomas Wood  <thos@gnome.org>
+Added Clearlooks theme
+
+Bugfixes:
+
+2005-08-02  Thomas Wood  <thos@gnome.org>
+desktop-themes/Traditional/index.theme.in: The default GTK+ theme is now
+called "Raleigh"
+
+New/updated translations:
+
+2005-07-31  Ilkka Tuohela  <hile@iki.fi>
+fi.po: Bulk updates to Finnish translation
+for new gnome.fi website.
+
+2.11.90
+=======
+
+New/updated translations:
+
+2005-07-25  Yair Hershkovitz  <yairhr@gmail.com>
+       * he.po: Updated Hebrew translation by Reuven Gonen.
+
+2005-07-04  Roozbeh Pournader  <roozbeh@farsiweb.info>
+       * fa.po: Updated Persian translation by Masoud Ahmadzadeh
+       <masoud@bamdad.org> and Meelad Zakaria <meelad@farsiweb.info>.
+
+
 2.11.4
 ======
 
