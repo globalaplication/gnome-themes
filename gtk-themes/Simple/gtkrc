@@ -57,7 +57,13 @@ style "togglebuttons" = "default"
    engine "redmond95" { }
 }
 
+style "progressbar" = "default"
+{
+  fg[PRELIGHT] = "#ffffff"
+}
+
 class "GtkWidget" style "default"
 class "GtkMenuItem*"	style "menu"
 class "GtkCheckButton" style "togglebuttons"
 class "GtkRadioButton" style "togglebuttons"
+class "GtkProgressBar" style "progressbar"

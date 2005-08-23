@@ -1,3 +1,27 @@
+2.11.92
+=======
+
+Bugfixes:
+
+2005-08-23  Thomas Wood  <thos@gnome.org>
+
+	* gtk-themes/Simple/gtkrc: Fixes bug 168787 (Progress Bar colour problems)
+
+2005-08-22  Thomas Wood  <thos@gnome.org>
+
+	* icon-themes/Flat-Blue/scalable/emblems/emblem-new.svg: Patch from bug 140721
+	(non-free material in SVG icon from flat-blue icon theme) by Richard Hoelscher
+
+2005-08-22  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* gtk-themes/Makefile.am:
+
+	Remove references to Clearlooks gtkrc as it is already provided by
+	gtk-engines. Fixes bug 313222
+
+
+
 2.11.91
 =======
 

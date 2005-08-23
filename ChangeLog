@@ -1,3 +1,8 @@
+2005-08-23  Thomas Wood  <thos@gnome.org>
+
+	* gtk-themes/Simple/gtkrc: Fixes bug 168787 (Progress Bar colour problems)
+	* NEWS: Updated for 2.11.92 release
+
 2005-08-22  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Flat-Blue/scalable/emblems/emblem-new.svg: Patch from bug 140721
