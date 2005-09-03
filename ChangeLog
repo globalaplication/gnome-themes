@@ -1,3 +1,7 @@
+2005-09-03  Thomas Wood  <thos@gnome.org>
+
+	* po/POTFILES.in: added desktop-themes/Clearlooks/index.theme.in to the list of files
+
 2005-08-23  Thomas Wood  <thos@gnome.org>
 
 	* gtk-themes/Simple/gtkrc: Fixes bug 168787 (Progress Bar colour problems)
