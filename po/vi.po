@@ -7,10 +7,10 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Gnome-themes GNOME 2.10\n"
+"Project-Id-Version: Gnome-themes GNOME HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-07-21 06:29+0000\n"
-"PO-Revision-Date: 2005-05-12 23:27+0930\n"
+"POT-Creation-Date: 2005-09-03 22:38+0000\n"
+"PO-Revision-Date: 2005-09-04 18:28+0930\n"
 "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -73,6 +73,14 @@ msgstr "Biểu tượng và chữ câm lớn"
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "In lớn, độ tương phản thấp"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:1
+msgid "Attractive Usability"
+msgstr "Khả năng Sử dụng Đẹp"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Clearlooks"
+msgstr "Xem Rõ"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
