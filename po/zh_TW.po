@@ -4,15 +4,15 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 2.3.2\n"
+"Project-Id-Version: gnome-themes 2.11.92\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-06-23 21:56+0000\n"
-"PO-Revision-Date: 2005-03-03 15:09+0800\n"
+"POT-Creation-Date: 2005-09-04 15:25+0800\n"
+"PO-Revision-Date: 2005-09-04 15:28+0800\n"
 "Last-Translator: Abel Cheung <abel@oaka.org>\n"
 "Language-Team: Chinese (traditional) <community@linuxhall.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -69,6 +69,14 @@ msgstr "大型而柔和的文字及圖示"
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "低對比/大型"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:1
+msgid "Attractive Usability"
+msgstr "具吸引力的可用性"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Clearlooks"
+msgstr "清楚外觀"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -150,3 +158,4 @@ msgstr "藍色輕煙"
 #: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "紅色輕煙"
+
