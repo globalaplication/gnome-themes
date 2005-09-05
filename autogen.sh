@@ -7,7 +7,7 @@ test -z "$srcdir" && srcdir=.
 ORIGDIR=`pwd`
 PKG_NAME=gnome-themes
 
-REQUIRED_AUTOMAKE_VERSION=1.7
+REQUIRED_AUTOMAKE_VERSION=1.9
 
 if [ ! -f "$srcdir/gnome-themes.spec.in" ]; then
  echo "$srcdir doesn't look like source directory for $PKG_NAME" >&2

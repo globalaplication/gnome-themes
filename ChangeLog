@@ -1,3 +1,11 @@
+2005-09-05  Thomas Wood  <thos@gnome.org>
+
+	* NEWS: Updated for 2.12.0 release
+	* autogen.sh:
+	* configure.in:
+
+	Require automake 1.9 to prevent tar errors on long file names.
+
 2005-09-03  Thomas Wood  <thos@gnome.org>
 
 	* po/POTFILES.in: added desktop-themes/Clearlooks/index.theme.in to the list of files
