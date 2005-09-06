@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-01-16 11:59-0500\n"
-"PO-Revision-Date: 2005-01-16 12:01-0500\n"
+"POT-Creation-Date: 2005-09-06 18:20-0400\n"
+"PO-Revision-Date: 2005-09-06 12:01-0500\n"
 "Last-Translator: Adam Weinberger <adamw@gnome.org>\n"
 "Language-Team: Canadian English <adamw@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -71,6 +71,14 @@ msgstr "Large muted text and icons"
 #: LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "Low Contrast Large Print"
+
+#: desktop-themes/Clearlooks/index.theme.in.h:1
+msgid "Attractive Usability"
+msgstr "Attractive Usability"
+
+#: desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Clearlooks"
+msgstr "Clearlooks"
 
 #: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
