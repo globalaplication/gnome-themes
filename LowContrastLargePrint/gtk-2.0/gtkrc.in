@@ -21,6 +21,8 @@ style "default"
   GtkWidget::focus-line-width = 3
 #  GtkWidget::cursor_aspect_ratio = 0.1
 
+  GtkPaned::handle-size = 10
+
   GtkHSV::focus-line-pattern = "\0"
   GtkRange::slider_width = 20
 

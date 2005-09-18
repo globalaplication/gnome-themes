@@ -27,6 +27,8 @@ style "default"
   GtkHSV::focus-line-pattern = "\0"
   GtkRange::slider_width = 20
 
+  GtkPaned::handle-size = 10
+
   GtkEntry::cursor_color    = "#00cccc"
   GtkEntry::cursor_aspect_ratio = 0.1
 

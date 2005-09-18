@@ -1,3 +1,12 @@
+2005-09-18  Thomas Wood  <thos@gnome.org>
+
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+
+	Fixes bug 132776
+
 2005-09-05  Thomas Wood  <thos@gnome.org>
 
 	* NEWS: Updated for 2.12.0 release
