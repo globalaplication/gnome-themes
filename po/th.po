@@ -2,14 +2,15 @@
 # Copyright (C) 2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Paisa Seeluangsawat <paisa@colorado.edu>, 2003.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-01 18:00+0000\n"
-"PO-Revision-Date: 2005-02-13 15:46+0700\n"
-"Last-Translator: Paisa Seeluangsawat <paisa@users.sf.net>\n"
+"POT-Creation-Date: 2005-10-02 22:22+0700\n"
+"PO-Revision-Date: 2005-10-02 22:34+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -71,7 +72,16 @@ msgstr "สีข้อความและสัญลักษณ์ขนา
 msgid "Low Contrast Large Print"
 msgstr "สีไม่ตัดกัน อักษรใหญ่"
 
-#: desktop-themes/Crux/index.theme.in.h:1 icon-themes/Crux/index.theme.in.h:1
+#: desktop-themes/Clearlooks/index.theme.in.h:1
+msgid "Attractive Usability"
+msgstr "สะดวกใช้อย่างชวนมอง"
+
+#: desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Clearlooks"
+msgstr "สะอาดตา"
+
+#: desktop-themes/Crux/index.theme.in.h:1
+#: icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
 msgstr "ถึงแก่น"
 
@@ -138,17 +148,17 @@ msgstr "ชุดตกแต่งสามมิติแบบที่ ม�
 
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Flat-Blue"
+msgstr "แบนๆ สีฟ้า"
 
 #: icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "Sandy"
+msgstr "กระดาษทราย"
 
 #: icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
+msgstr "สีชา โทนฟ้า"
 
 #: icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
-msgstr "Smokey-Red"
+msgstr "สีชา โทนแดง"
 
