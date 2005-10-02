@@ -1,3 +1,17 @@
+2005-10-02  Thomas Wood  <thos@gnome.org>
+
+	* desktop-themes/Clearlooks/index.theme.in:
+	* desktop-themes/Crux/index.theme.in:
+	* desktop-themes/Glider/index.theme.in:
+	* desktop-themes/Grand-Canyon/index.theme.in:
+	* desktop-themes/Mist/index.theme.in:
+	* desktop-themes/Ocean-Dream/index.theme.in:
+	* desktop-themes/Simple/index.theme.in:
+	* desktop-themes/Smokey-Blue/index.theme.in:
+	* desktop-themes/Traditional/index.theme.in:
+
+	Fixes bug 107934
+
 2005-09-18  Thomas Wood  <thos@gnome.org>
 
 	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
