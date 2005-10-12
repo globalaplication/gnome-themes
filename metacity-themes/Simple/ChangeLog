@@ -1,3 +1,10 @@
+2005-10-12  Calum Benson,,,  <calum.benson@sun.com>
+
+	* metacity-theme-1.xml:
+
+	Revert fix for 121361 again... we don't install no steenking
+	metacity Simple theme here any more...
+
 2005-10-12  Calum Benson  <calum.benson@sun.com>
 
 	* metacity-theme-1.xml:
