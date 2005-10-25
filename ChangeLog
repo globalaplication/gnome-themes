@@ -1,5 +1,8 @@
 2005-10-25  Matthias Clasen <mclasen@redhat.com>
 
+	* Add stock_info and stock_harddisk in LargePrint and
+	LowContrastLargePrint as well.
+
 	* HighContrastLargePrint/pixbufs/stock_info.png:
 	* HighContrastLargePrintInverse/pixbufs/stock_info.png:
 	New icons for the gtk-info GTK+ stock icon.
