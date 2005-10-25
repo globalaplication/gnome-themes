@@ -60,5 +60,6 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		printer-personal-laser.png printer-workgroup-laser.png \
 		metacity-minimize.png metacity-maximize.png \
 		metacity-delete.png \
+		stock_info.png stock_harddisk.png \
 		$(NULL)
 

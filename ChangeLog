@@ -1,3 +1,19 @@
+2005-10-25  Matthias Clasen <mclasen@redhat.com>
+
+	* HighContrastLargePrint/pixbufs/stock_info.png:
+	* HighContrastLargePrintInverse/pixbufs/stock_info.png:
+	New icons for the gtk-info GTK+ stock icon.
+
+	* HighContrastLargePrint/pixbufs/stock_harddisk.png:
+	* HighContrastLargePrintInverse/pixbufs/stock_harddisk.png:
+	Copies of pixbufs/48x48/devices/gnome_dev_harddisk.png.
+
+	* common/all-stock-icons.data: Add the new icons.
+
+	* common/gtk-stock-icons.rc: Cover all GTK+ stock icons
+	by mapping them to existing icons (and the few new ones
+	listed above).
+	
 2005-10-03  Calum Benson <calum.benson@sun.com>
 
 	* NEWS:
