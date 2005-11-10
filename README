@@ -1,6 +1,3 @@
-Note to maintainers: because of the long filenames involved in this module,
-'make dist' will fail with versions of GNU tar > 1.12.
-
 ==========================================================================
 NOTE: The remainder of this README applies only to the 7 accessibility 
       themes in this module:
@@ -13,7 +10,7 @@ NOTE: The remainder of this README applies only to the 7 accessibility
 0. Default Theme
 ----------------
 
-All the themes in this module inherit from the 'gnome' theme.
+All the a11y themes in this module inherit from the 'gnome' theme.
 The 'gnome' theme is in the gnome-icon-theme module, and has to be built and installed separately.
 
 1. Editing the gtkrc files
