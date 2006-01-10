@@ -1,3 +1,9 @@
+2006-01-10  Calum Benson  <calum.benson@sun.com>
+
+	* MAINTAINERS:
+
+	Update maintainers file to include Thomas.
+
 2005-11-02  Simos Xenitellis  <simos@gnome.org>
 
 	* configure.in: Added ky (Kirghiz) to ALL_LINGUAS.
