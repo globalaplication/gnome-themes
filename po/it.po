@@ -1,7 +1,7 @@
 # gnome-themes Italian translation.
 # Copyright (C) 2003 Free Software Foundation, Inc
 # This file is distributed under the same license as the package.
-# Luca Ferretti <elle.uca@infinito.it>, 2003.
+# Luca Ferretti <elle.uca@infinito.it>, 2003-2006.
 #
 #
 # L'utilità di questo commento è nulla, mi serviva solo una
@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-25 17:27+0200\n"
-"PO-Revision-Date: 2005-09-05 10:20+0200\n"
+"POT-Creation-Date: 2006-01-17 18:01+0100\n"
+"PO-Revision-Date: 2006-01-17 18:02+0100\n"
 "Last-Translator: Luca Ferretti <elle.ucainfinito.it>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +24,11 @@ msgstr "Nero su bianco per testo ed icone"
 
 #: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Forte contrasto"
+msgstr "Contrasto elevato"
 
 #: ../HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Forte contrasto, inverso"
+msgstr "Contrasto elevato inverso"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -36,7 +36,7 @@ msgstr "Bianco su nero per testo ed icone"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Forte contrasto, caratteri larghi"
+msgstr "Contrasto elevato, caratteri larghi"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -44,7 +44,7 @@ msgstr "Nero su bianco per testo ed icone grandi"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Forte contrasto, caratteri larghi, inverso"
+msgstr "Contrasto elevato inverso, caratteri larghi"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -60,7 +60,7 @@ msgstr "Testo ed icone grandi"
 
 #: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Basso contrasto"
+msgstr "Contrasto ridotto"
 
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -72,7 +72,7 @@ msgstr "Colori attenuati per testo ed icone grandi"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Basso contrasto, caratteri larghi"
+msgstr "Contrasto ridotto, caratteri larghi"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
