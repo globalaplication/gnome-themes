@@ -26,3 +26,6 @@ stamp-h1
 autom4te-2.53.cache
 autom4te.cache
 gnome-themes.spec
+INSTALL
+install-sh
+mkinstalldirs
