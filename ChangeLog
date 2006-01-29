@@ -1,5 +1,10 @@
 2006-01-29  Thomas Wood  <thos@gnome.org>
 
+	* metacity-themes/Clearlooks/metacity-theme-1.xml: Applied patch from
+	bug 323806 (metacity theme problems with "None" font hinting)
+
+2006-01-29  Thomas Wood  <thos@gnome.org>
+
 	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* LowContrastLargePrint/icons/48x48/apps/gnome-remote-desktop.png:
 	* LowContrastLargePrint/icons/48x48/mimetypes/Makefile.am:
