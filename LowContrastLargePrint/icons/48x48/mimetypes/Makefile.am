@@ -30,6 +30,7 @@ icon_DATA =\
 	gnome-mime-application-x-backup.png \
 	gnome-mime-application-x-bzip.png \
 	gnome-mime-application-x-compress.png \
+	gnome-mime-application-x-core.png \
 	gnome-mime-application-x-core-file.png \
 	gnome-mime-application-x-dc-rom.png \
 	gnome-mime-application-x-deb.png \

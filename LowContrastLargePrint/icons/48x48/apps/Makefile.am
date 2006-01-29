@@ -42,6 +42,7 @@ icon_DATA=	\
                 gnome-mixer.png \
                 gnome-multimedia.png \
                 gnome-panel.png \
+		gnome-remote-desktop.png
 		gnome-run.png \
 		gnome-screenshot.png \
 		gnome-searchtool.png \

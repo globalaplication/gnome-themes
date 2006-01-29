@@ -1,3 +1,15 @@
+2006-01-29  Thomas Wood  <thos@gnome.org>
+
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-remote-desktop.png:
+	* LowContrastLargePrint/icons/48x48/mimetypes/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/mimetypes/gnome-mime-applicatio
+	n-x-core.png:
+
+	Fixes bug 144872 (Icon for 'core' filetype doesnt theme for a11y) and
+	bug 142916 (no Low Contrast icons for a11y themeing (Remote Desktop
+	Icon))
+
 2005-11-02  Erdal Ronahi  <erdal.ronahi@gmail.com>
 
 	* configure.in: Added ku (Kurdish) to ALL_LINGUAS.
