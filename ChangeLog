@@ -1,3 +1,10 @@
+2006-01-30  Calum Benson,,,  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	2.13.90 release.
+
 2006-01-29  Thomas Wood  <thos@gnome.org>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml: Applied patch from
