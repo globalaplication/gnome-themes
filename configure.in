@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([gnome-themes], [2.12.2],
+AC_INIT([gnome-themes], [2.12.3],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes])
 AC_CONFIG_SRCDIR([LargePrint])
 

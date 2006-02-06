@@ -1,3 +1,36 @@
+2.12.3
+======
+
+Enhancements/bugfixes:
+
+2005-10-25  Matthias Clasen <mclasen@redhat.com>
+
+       * Add stock_info and stock_harddisk in LargePrint and
+       owContrastLargePrint as well.
+
+       * HighContrastLargePrint/pixbufs/stock_info.png:
+       * HighContrastLargePrintInverse/pixbufs/stock_info.png:
+      New icons for the gtk-info GTK+ stock icon.
+
+       * HighContrastLargePrint/pixbufs/stock_harddisk.png:
+       * HighContrastLargePrintInverse/pixbufs/stock_harddisk.png:
+       Copies of pixbufs/48x48/devices/gnome_dev_harddisk.png.
+
+       * common/all-stock-icons.data: Add the new icons.
+
+      * common/gtk-stock-icons.rc: Cover all GTK+ stock icons
+       by mapping them to existing icons (and the few new ones
+       listed above).
+
+New/improved translations:
+
+2005-10-10  Priit Laes  <plaes@cvs.gnome.org>
+       * et.po: Translation updated by Ivar Smolin.
+
+2005-10-08  Christian Rose  <menthos@menthos.com>
+       * sv.po: Updated Swedish translation.
+
+
 2.12.1
 ======
 
