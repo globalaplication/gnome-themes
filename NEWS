@@ -1,7 +1,14 @@
-2.13.93
-=======
+2.14.0
+======
 
-Not yet released.
+New/updated translations:
+
+2006-03-08  Ole Laursen  <olau@hardworking.dk>
+       * da.po: Updated Danish translation.
+
+2006-02-28  Clytie Siddall <clytie@riverland.net.au>
+       * lv.po: Updated Latvian translation by Raivis Dejus <orvils@gmail.com>.+
+
 
 2.13.92
 =======
