@@ -1,4 +1,4 @@
-# Oriya translation of gnome-themes.HEAD.pot.
+# Oriya translation of gnome-themes.GNOME-2-14.pot.
 # Copyright (C) 2006, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2006.
@@ -6,10 +6,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD.or\n"
+"Project-Id-Version: gnome-themes.GNOME-2-14.or\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-04-04 02:11+0530\n"
-"PO-Revision-Date: 2006-04-04 02:15+0530\n"
+"POT-Creation-Date: 2006-04-04 02:26+0530\n"
+"PO-Revision-Date: 2006-04-04 02:28+0530\n"
 "Last-Translator: Gora Mohanty <gora_mohanty@yahoo.co.in>\n"
 "Language-Team: Oriya <oriya-group@lists.sarovar.org>\n"
 "MIME-Version: 1.0\n"
