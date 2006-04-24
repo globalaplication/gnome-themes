@@ -1,5 +1,12 @@
 2.15.1
 ======
+New features:
+
+2006-04-24  Calum Benson  <calum.benson@sun.com>
+
+Add Luca Feretti's SVG High Contrast icons.
+http://bugzilla.gnome.org/show_bug.cgi?id=319041
+
 
 New/updated translations:
 
