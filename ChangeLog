@@ -1,3 +1,306 @@
+2006-04-24  Calum Benson  <calum.benson@sun.com>
+
+	Add Luca's SVG High Contrast icons.
+	http://bugzilla.gnome.org/show_bug.cgi?id=319041
+
+	Modified:
+	* AUTHORS:
+	* NEWS:
+	* configure.in:
+
+	Added:
+	* icon-themes/HighContrast-SVG/COPYING:
+	* icon-themes/HighContrast-SVG/Makefile.am:
+	* icon-themes/HighContrast-SVG/index.theme.in:
+	* icon-themes/HighContrast-SVG/scalable/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/address-book-new.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/actions/application-exit.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/actions/appointment-new.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/actions/contact-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/dialog-cancel.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/dialog-close.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/dialog-ok.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-open-recen
+	t.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-open.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-page-setup
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-print-prev
+	iew.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-print.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-properties
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-revert.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-save-as.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-save.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-clear.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-copy.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-cut.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-delete.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-find-replace.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-find.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-paste.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-redo.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-select-all.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-undo.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-indent-less.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-indent-more.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-justify-cent
+	er.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-justify-fill
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-justify-left
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-justify-righ
+	t.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-bold.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-directi
+	on-ltr.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-directi
+	on-rtl.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-italic.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-striket
+	hrough.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-underli
+	ne.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-bottom.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-down.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-first.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-home.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-jump.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-last.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-next.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-previous.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-top.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-up.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/help-about.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/help-contents.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/help-faq.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-image.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-link.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-object.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-text.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/list-add.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/list-remove.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-forward.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-important
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-junk.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-notjunk.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-read.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-message-new.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-reply-all.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-reply-sender.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-send-receive.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-eject.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-paus
+	e.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-star
+	t.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-stop
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-record.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-seek-backward
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-seek-forward.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-skip-backward
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-skip-forward.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/process-stop.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-lock-screen.
+	svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-log-out.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-run.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-search.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-shutdown.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/actions/tool-check-spelling
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-fullscreen.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-refresh.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-sort-ascending
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-sort-descendin
+	g.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/window-close.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/window-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom-best-fit.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom-in.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom-original.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom-out.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/accessories-calculator
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/accessories-character-
+	map.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/accessories-dictionary
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/accessories-text-edito
+	r.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/help-browser.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/internet-group-chat.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/apps/internet-mail.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/internet-news-reader.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/apps/internet-web-browser.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/apps/multimedia-volume-cont
+	rol.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-ac
+	cessibility.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-fo
+	nt.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-ke
+	yboard.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-lo
+	cale.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-mu
+	ltimedia.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-sc
+	reensaver.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-th
+	eme.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-wa
+	llpaper.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-system-net
+	work-proxy.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-system-ses
+	sion.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-system-win
+	dows.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/system-file-manager.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/apps/system-software-update
+	.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/utilities-system-monit
+	or.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/utilities-terminal.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-acc
+	essories.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-dev
+	elopment.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-gam
+	es.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-gra
+	phics.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-int
+	ernet.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-mul
+	timedia.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-off
+	ice.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-oth
+	er.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-sys
+	tem.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-uti
+	lities.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desk
+	top-accessibility.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desk
+	top-peripherals.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desk
+	top-personal.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desk
+	top.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-othe
+	r.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-syst
+	em-network.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-syst
+	em.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/system-help.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/audio-card.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/audio-input-microph
+	one.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/battery.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/camera-photo.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/camera-video.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/computer.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-cdrom.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-harddisk.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-removable-med
+	ia.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-gaming.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-keyboard.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-mouse.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-cdrom.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-floppy.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/multimedia-player.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/devices/network-wired.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/network-wireless.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/devices/printer.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/video-display.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-documents.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-favorite.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-photos.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-readonly.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-symbolic-lin
+	k.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/application-x-exe
+	cutable.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/audio-x-generic.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/font-x-generic.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/image-x-generic.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/text-x-generic.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/video-x-generic.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-spreadsh
+	eet.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/folder-remote.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/folder.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/network-server.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/network-workgroup.sv
+	g:
+	* icon-themes/HighContrast-SVG/scalable/places/start-here.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-desktop.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-home.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-trash.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/dialog-error.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/dialog-information.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/status/dialog-question.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/dialog-warning.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/folder-drag-accept.s
+	vg:
+	* icon-themes/HighContrast-SVG/scalable/status/folder-open.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/folder-visiting.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/image-missing.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-attachment.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-offline.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-online.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/user-trash-full.svg:
+	* icon-themes/Makefile.am:
+
 2006-04-17  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* configure.in: Remove obsolete entry for no_NO

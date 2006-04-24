@@ -110,6 +110,7 @@ icon-themes/Flat-Blue/Makefile
 icon-themes/Sandy/Makefile
 icon-themes/Smokey-Blue/Makefile
 icon-themes/Smokey-Red/Makefile
+icon-themes/HighContrast-SVG/Makefile
 common/Makefile
 HighContrast/Makefile
 HighContrast/gtk-2.0/Makefile

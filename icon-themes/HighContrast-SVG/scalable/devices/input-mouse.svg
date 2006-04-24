@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.000000pt"
+   height="48.000000pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/home/luca/Desktop"
+   sodipodi:docname="gnome-dev-mouse.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.887808"
+     inkscape:cx="28.485844"
+     inkscape:cy="31.345917"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingy="1.0000000pt"
+     gridspacingx="1.0000000pt"
+     gridoriginy="0.0000000pt"
+     gridoriginx="0.0000000pt"
+     gridtolerance="1.0000000pt"
+     guidetolerance="1.0000000pt"
+     inkscape:guide-points="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="226"
+     inkscape:window-y="188" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title>Mouse</dc:title>
+        <dc:description>A mouse device</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti &lt;elle.uca@infinito.it&gt;, based on HighContrast GNOME theme</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:none"
+       id="rect1306"
+       width="48.000000pt"
+       height="48.000000pt"
+       x="0.0000000"
+       y="0.0000000"
+       sodipodi:insensitive="true" />
+    <path
+       sodipodi:nodetypes="cssssc"
+       id="path2804"
+       d="M 44.999991,34.999996 C 45.000008,45.000000 37.935007,53.750000 30.000009,53.750000 C 22.065011,53.750000 15.000019,45.000004 15.000009,35.000000 C 14.999999,25.000005 16.250000,15.000000 20.000000,15.000000 C 23.967499,15.000000 36.249991,15.000000 40.000000,15.000000 C 43.750000,15.000000 45.000008,25.000000 44.999991,34.999996 z "
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ffffff;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;stroke-dasharray:none" />
+    <path
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 44.999991,34.999996 C 45.000008,45.000000 37.935007,53.750000 30.000009,53.750000 C 22.065011,53.750000 15.000019,45.000004 15.000009,35.000000 C 14.999999,25.000005 16.250000,15.000000 20.000000,15.000000 C 23.967499,15.000000 36.249991,15.000000 40.000000,15.000000 C 43.750000,15.000000 45.000008,25.000000 44.999991,34.999996 z "
+       id="path1347"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       transform="matrix(1.161336,0.000000,0.000000,2.328620,-4.114240,-24.86402)"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.9002982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       d="M 37.985768,17.119161 C 37.985768,19.958155 37.985768,23.023946 29.374996,23.023946 C 20.764223,23.023946 20.764223,19.958155 20.764223,17.119161 C 20.764223,17.119161 20.764223,17.119161 20.764223,17.119161"
+       id="path3532"
+       sodipodi:nodetypes="cscc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path8031"
+       d="M 30.000000,11.709490 C 30.097940,7.2212040 31.250000,5.4594900 36.250000,5.4594900 L 51.250000,5.4594900"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#fffffe;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:8.7500000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="path4289"
+       sodipodi:cx="18.125000"
+       sodipodi:cy="12.500000"
+       sodipodi:rx="4.3750000"
+       sodipodi:ry="3.2905138"
+       d="M 22.500000 12.500000 A 4.3750000 3.2905138 0 1 1  13.750000,12.500000 A 4.3750000 3.2905138 0 1 1  22.500000 12.500000 z"
+       transform="matrix(1.142857,0.000000,0.000000,1.000000,9.285714,2.500000)" />
+    <path
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.1250000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 30.000000,11.709490 C 30.097940,7.2212040 31.250000,5.4594900 36.250000,5.4594900 L 51.250000,5.4594900"
+       id="path5025"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.000000pt"
+   height="48.000000pt"
+   id="svg1306"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/home/luca/.icons/Black-and-White/scalable/devices"
+   sodipodi:docname="gnome-dev-keyboard.svg">
+  <defs
+     id="defs1308" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.650000"
+     inkscape:cx="30.000000"
+     inkscape:cy="31.821337"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="pt"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:grid-points="true"
+     gridspacingy="1.0000000pt"
+     gridspacingx="1.0000000pt"
+     gridoriginy="0.0000000pt"
+     gridoriginx="0.0000000pt"
+     gridtolerance="1.0000000pt" />
+  <metadata
+     id="metadata1311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Keyboard</dc:title>
+        <dc:description>A keyboard device</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti &lt;elle.uca@infinito.it&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2005-09-29</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:none;fill-opacity:1.0000000;stroke:none;stroke-width:3.5000000;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none"
+       id="rect2840"
+       width="60.000000"
+       height="60.000000"
+       x="0.0000000"
+       y="0.0000000" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path8031"
+       d="M 18.750000,13.750000 C 18.847940,9.2617140 20.000000,7.5000000 25.000000,7.5000000 L 40.000000,7.5000000"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#fffffe;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+    <g
+       id="g4983"
+       transform="matrix(1.000000,0.000000,0.000000,0.973823,-5.765400e-3,5.148833)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path2063"
+         d="M 13.750000,13.995697 L 46.250000,13.995697 L 55.055504,44.663097 L 4.9560268,44.744274 L 13.750000,13.995697 z "
+         style="fill:#ffffff;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:8.8668232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+      <path
+         style="fill:#ffffff;fill-opacity:1.0000000;stroke:#000000;stroke-width:3.1667225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+         d="M 13.750000,13.995697 L 46.250000,13.995697 L 55.055504,44.663097 L 4.9560268,44.744274 L 13.750000,13.995697 z "
+         id="rect2837"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:8.7500000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="rect2791"
+       width="20.000000"
+       height="5.0000000"
+       x="17.500000"
+       y="38.750000"
+       ry="1.8750000"
+       rx="1.8749998" />
+    <rect
+       rx="1.8750002"
+       ry="1.8750000"
+       y="23.750000"
+       x="16.250000"
+       height="5.0000000"
+       width="5.0000000"
+       id="rect4245"
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:8.7500000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4263"
+       transform="translate(7.500000,2.461090e-7)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4265"
+       transform="translate(15.00000,2.461090e-7)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4267"
+       transform="translate(22.50000,2.461090e-7)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4269"
+       transform="translate(-2.500000,7.500000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4271"
+       transform="translate(-5.000000,15.00000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4273"
+       transform="translate(5.000000,7.500000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4275"
+       transform="translate(12.50000,7.500000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4279"
+       transform="translate(20.00000,7.500000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4281"
+       transform="translate(26.25000,7.500000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4283"
+       transform="translate(22.50000,15.00000)"
+       width="60.000000"
+       height="60.000000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#rect4245"
+       id="use4285"
+       transform="translate(28.75000,15.00000)"
+       width="60.000000"
+       height="60.000000" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:8.7500000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="path4289"
+       sodipodi:cx="18.125000"
+       sodipodi:cy="12.500000"
+       sodipodi:rx="4.3750000"
+       sodipodi:ry="3.2905138"
+       d="M 22.500000 12.500000 A 4.3750000 3.2905138 0 1 1  13.750000,12.500000 A 4.3750000 3.2905138 0 1 1  22.500000 12.500000 z"
+       transform="translate(0.000000,4.540514)" />
+    <path
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.1250000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 18.750000,13.750000 C 18.847940,9.2617140 20.000000,7.5000000 25.000000,7.5000000 L 40.000000,7.5000000"
+       id="path5025"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"   "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd" [
+	<!ENTITY st0 "fill:none;stroke:#FFFFFF;stroke-width:13.1622;stroke-linejoin:round;">
+	<!ENTITY st1 "fill:none;stroke-width:6.5811;stroke-linejoin:round;">
+	<!ENTITY st2 "fill:#FFFFFF;stroke:none;">
+	<!ENTITY st3 "fill:none;stroke:none;">
+	<!ENTITY st4 "fill-rule:evenodd;clip-rule:evenodd;stroke:none;">
+	<!ENTITY st5 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+]>
+<svg  width="48pt" height="48pt" viewBox="0 0 48 48" xml:space="preserve">
+	<g id="Layer_x0020_1" style="&st5;">
+		<path style="&st0;" d="M37.2,19.7v20.5H10.4V7.7h15.1l11.7,11.9z"/>
+		<path style="&st1;" d="M37.2,19.7v20.5H10.4V7.7h15.1l11.7,11.9z"/>
+		<path style="&st2;" d="M36.3,20V39H11.3V8.9h14L36.3,20z"/>
+		<path style="&st4;" d="M25.3,8.9V20h10.9L25.3,8.9z"/>
+	</g>
+	<g id="crop_x0020_marks" style="&st5;">
+		<path style="&st3;" d="M48,48H0V0h48v48z"/>
+	</g>
+</svg>

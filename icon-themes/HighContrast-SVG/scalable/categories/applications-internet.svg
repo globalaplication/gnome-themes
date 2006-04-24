@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.000000pt"
+   height="48.000000pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/luca/Desktop"
+   sodipodi:docname="gnome-globe.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.776021"
+     inkscape:cx="29.189802"
+     inkscape:cy="30.510792"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingy="1.0000000pt"
+     gridspacingx="1.0000000pt"
+     gridoriginy="0.0000000pt"
+     gridoriginx="0.0000000pt"
+     gridtolerance="1.0000000pt"
+     guidetolerance="1.0000000pt"
+     inkscape:guide-points="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="948"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="54.008056"
+       id="guide13899" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="6.1141195"
+       id="guide13901" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="47.469345"
+       id="guide4222" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="12.398076"
+       id="guide4224" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title>Server</dc:title>
+        <dc:description>A calculator used as server machine</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti &lt;elle.uca@libero.it&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3347"
+       sodipodi:cx="30"
+       sodipodi:cy="30"
+       sodipodi:rx="23.75"
+       sodipodi:ry="23.75"
+       d="M 53.75 30 A 23.75 23.75 0 1 1  6.25,30 A 23.75 23.75 0 1 1  53.75 30 z" />
+    <rect
+       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:none"
+       id="rect1306"
+       width="48.000000pt"
+       height="48.000000pt"
+       x="0.0000000"
+       y="0.0000000"
+       sodipodi:insensitive="true" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4228"
+       sodipodi:cx="30"
+       sodipodi:cy="30"
+       sodipodi:rx="18.75"
+       sodipodi:ry="18.75"
+       d="M 48.75 30 A 18.75 18.75 0 1 1  11.25,30 A 18.75 18.75 0 1 1  48.75 30 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.398076,33.75 L 20.398076,37.5 L 20.398076,40 L 21.648076,45 L 24.148076,48.75 L 26.648076,50 L 26.648076,45 L 29.148076,41.25 L 29.148076,38.75 L 31.648076,37.5 L 31.648076,35 L 27.898076,33.75 L 26.648076,31.25 L 25.398076,30 L 24.148076,28.75 L 22.898076,27.5 L 20.398076,27.5 L 19.148076,26.25 L 16.648076,23.75 L 16.648076,22.5 L 15.398076,20 L 16.648076,18.75 L 17.898076,18.75 L 20.398076,18.75 L 20.398076,17.5 L 21.648076,17.5 L 22.898076,16.25 L 22.898076,15 L 24.148076,12.5 L 25.398076,11.25 L 25.398076,11.25 L 24.148076,10 L 20.398076,11.25 L 17.898076,13.75 L 14.148076,17.5 L 12.898076,21.25 L 12.898076,23.75 L 14.148076,23.75 L 15.398076,25 L 15.398076,25 L 14.148076,26.25 L 15.398076,26.25 L 15.398076,27.5 L 16.648076,27.5 L 17.898076,27.5 L 20.398076,28.75 L 16.648076,31.25 L 15.398076,33.75 z "
+       id="path13022" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.75,24.5 L 35.75,25.75 L 35.75,29.5 L 38.25,29.5 L 38.25,32 L 39.5,38.25 L 42,38.25 L 45.75,33.25 L 47,27 L 48.25,27 L 49.5,25.75 L 47,19.5 L 45.75,20.75 L 44.5,19.5 L 44.5,18.25 L 44.5,15.75 L 42,14.5 L 42,14.5 L 40.75,14.5 L 37,14.5 L 35.75,13.25 L 33.25,13.25 L 34.5,10.75 L 32,9.5 L 33.25,13.25 L 30.75,14.5 L 29.5,17 L 28.25,18.25 L 28.25,19.5 L 29.5,22 L 30.75,24.5 L 30.75,24.5 z "
+       id="path13897" />
+  </g>
+</svg>
