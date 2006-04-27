@@ -18,6 +18,8 @@ style "default"
   PanelMenu::stripe-gradient-top = "#000033"
   PanelMenu::stripe-gradient-bottom = "#000033"
 
+  GtkWidget::link-color = "#FFFFFF"
+  GtkWidget::visited-link-color = "#FFCCFF"
   GtkWidget::focus-line-pattern = "\10\2"
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0

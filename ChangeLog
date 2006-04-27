@@ -1,3 +1,11 @@
+2006-04-27  Calum Benson  <calum.benson@sun.com>
+
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+
+	Add link-color and visited-link-color properties to gtkrc file.
+	Should automatically fix #154787 when vino is fixed :)
+
 2006-04-24  Calum Benson  <calum.benson@sun.com>
 
 	Add Luca's SVG High Contrast icons.
