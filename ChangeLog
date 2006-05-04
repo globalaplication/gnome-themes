@@ -1,3 +1,27 @@
+2006-05-04  Calum Benson,,,  <calum.benson@sun.com>
+
+	* icon-themes/HighContrast-SVG/COPYING: removed
+
+	No longer required; HighContrast-SVG now being shipped as
+	LGPL, as per the rest of the module.
+
+2006-05-04  Calum Benson,,,  <calum.benson@sun.com>
+
+	* configure.in:
+	* icon-themes/HighContrast-SVG/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/categories/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/places/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+	Do icon-name-mapping on HighContrast-SVG icon theme if you have
+	icon-naming-utils installed; otherwise don't...
+
 2006-04-27  Calum Benson  <calum.benson@sun.com>
 
 	* HighContrastInverse/gtk-2.0/gtkrc.in:
