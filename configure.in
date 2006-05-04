@@ -36,6 +36,20 @@ PKG_CHECK_MODULES(THEME_ENGINE,
 GTK_VERSION=`$PKG_CONFIG --variable=gtk_binary_version gtk+-2.0`
 AC_SUBST(GTK_VERSION)
 
+# icon-naming-utils (optional for now, only used by HighContrast-SVG)
+UTILS_REQUIRED=0.6.7
+AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
+PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,
+                 have_utils=yes, have_utils=no)
+
+if test "x$have_utils" = "xyes"; then
+   UTILS_PATH="`$PKG_CONFIG --variable=program_path icon-naming-utils`"
+   ICONMAP="$UTILS_PATH/icon-name-mapping"
+   AC_SUBST(ICONMAP)
+   AC_MSG_RESULT([yes])
+else
+   AC_MSG_RESULT([no])
+fi
 
 # gettext stuff
 GETTEXT_PACKAGE=gnome-themes
@@ -111,6 +125,15 @@ icon-themes/Sandy/Makefile
 icon-themes/Smokey-Blue/Makefile
 icon-themes/Smokey-Red/Makefile
 icon-themes/HighContrast-SVG/Makefile
+icon-themes/HighContrast-SVG/scalable/Makefile
+icon-themes/HighContrast-SVG/scalable/actions/Makefile
+icon-themes/HighContrast-SVG/scalable/apps/Makefile
+icon-themes/HighContrast-SVG/scalable/categories/Makefile
+icon-themes/HighContrast-SVG/scalable/devices/Makefile
+icon-themes/HighContrast-SVG/scalable/emblems/Makefile
+icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile
+icon-themes/HighContrast-SVG/scalable/places/Makefile
+icon-themes/HighContrast-SVG/scalable/status/Makefile
 common/Makefile
 HighContrast/Makefile
 HighContrast/gtk-2.0/Makefile
@@ -138,6 +161,7 @@ HighContrastLargePrint/icons/48x48/mimetypes/Makefile
 HighContrastLargePrint/icons/48x48/filesystems/Makefile
 HighContrastLargePrint/icons/48x48/devices/Makefile
 HighContrastLargePrint/icons/48x48/emblems/Makefile
+HighContrastLargePrint/icons/48x48/stock/Makefile
 HighContrastLargePrintInverse/Makefile
 HighContrastLargePrintInverse/index.theme.in
 HighContrastLargePrintInverse/gtk-2.0/Makefile

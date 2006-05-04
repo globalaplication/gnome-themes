@@ -1,0 +1,45 @@
+themedir =  $(datadir)/icons/HighContrast-SVG
+size = scalable
+context = devices
+
+icondir = $(themedir)/$(size)/$(context)
+
+icon_DATA =				\
+	audio-card.svg			\
+	audio-input-microphone.svg	\
+	battery.svg			\
+	camera-photo.svg		\
+	camera-video.svg		\
+	computer.svg			\
+	drive-cdrom.svg			\
+	drive-harddisk.svg		\
+	drive-removable-media.svg	\
+	input-gaming.svg		\
+	input-keyboard.svg		\
+	input-mouse.svg			\
+	media-cdrom.svg			\
+	media-floppy.svg		\
+	multimedia-player.svg		\
+	network-wired.svg		\
+	network-wireless.svg		\
+	printer.svg			\
+	video-display.svg
+
+EXTRA_DIST =				\
+	$(icon_DATA)
+
+install-data-local: install-iconDATA
+	if  test -n "$(ICONMAP)" ; then \
+		(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context)) ; \
+	fi
+
+
+uninstall-symlinks:
+	list=`ls $(DESTDIR)$(themedir)/$(size)/$(context)`; \
+	for p in $$list; do \
+		if test -h $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; then \
+			rm -f $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; \
+		fi; \
+	done
+
+uninstall-am: uninstall-iconDATA uninstall-info-am uninstall-symlinks
