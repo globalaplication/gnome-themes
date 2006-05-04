@@ -161,7 +161,6 @@ HighContrastLargePrint/icons/48x48/mimetypes/Makefile
 HighContrastLargePrint/icons/48x48/filesystems/Makefile
 HighContrastLargePrint/icons/48x48/devices/Makefile
 HighContrastLargePrint/icons/48x48/emblems/Makefile
-HighContrastLargePrint/icons/48x48/stock/Makefile
 HighContrastLargePrintInverse/Makefile
 HighContrastLargePrintInverse/index.theme.in
 HighContrastLargePrintInverse/gtk-2.0/Makefile
