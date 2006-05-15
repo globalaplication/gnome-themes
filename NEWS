@@ -1,3 +1,14 @@
+2.15.2
+======
+
+New features:
+
+Add link-color and visited-link-color properties to HighContrast
+themes' gtkrc files. (Calum Benson)
+
+Do icon-name-mapping on HighContrast-SVG icon theme if you have
+icon-naming-utils installed; otherwise don't... (Calum Benson)
+
 2.15.1
 ======
 New features:

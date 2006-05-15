@@ -4,7 +4,6 @@ HighContrast/index.theme.in
 HighContrastInverse/index.theme.in
 HighContrastLargePrint/index.theme.in.in
 HighContrastLargePrintInverse/index.theme.in.in
-HighContrast-SVG/index.theme.in
 LargePrint/index.theme.in.in
 LowContrast/index.theme.in
 LowContrastLargePrint/index.theme.in.in
@@ -22,3 +21,4 @@ icon-themes/Flat-Blue/index.theme.in
 icon-themes/Sandy/index.theme.in
 icon-themes/Smokey-Blue/index.theme.in
 icon-themes/Smokey-Red/index.theme.in
+icon-themes/HighContrast-SVG/index.theme.in
