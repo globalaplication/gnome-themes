@@ -1,5 +1,43 @@
 2006-05-18  Thomas Wood  <thos@gnome.org>
 
+	* gtk-engines/.cvsignore:
+	* gtk-engines/Makefile.am:
+	* gtk-engines/Smooth/AUTHORS:
+	* gtk-engines/Smooth/Makefile.am:
+	* gtk-engines/Smooth/smooth_gtk2_engine.c:
+	* gtk-engines/Smooth/smooth_rc_style.c:
+	* gtk-engines/Smooth/smooth_rc_style.h:
+	* gtk-engines/Smooth/smooth_style.c:
+	* gtk-engines/Smooth/smooth_style.h:
+	* gtk-engines/Smooth/utils/draw_arrows.c:
+	* gtk-engines/Smooth/utils/draw_arrows.h:
+	* gtk-engines/Smooth/utils/draw_fill.c:
+	* gtk-engines/Smooth/utils/draw_fill.h:
+	* gtk-engines/Smooth/utils/draw_grips.c:
+	* gtk-engines/Smooth/utils/draw_grips.h:
+	* gtk-engines/Smooth/utils/misc_functions.c:
+	* gtk-engines/Smooth/utils/misc_functions.h:
+	* gtk-engines/hc-engine/.cvsignore:
+	* gtk-engines/hc-engine/AUTHORS:
+	* gtk-engines/hc-engine/COPYING:
+	* gtk-engines/hc-engine/Makefile.am:
+	* gtk-engines/hc-engine/hc-main.c:
+	* gtk-engines/hc-engine/hc-rc-style.c:
+	* gtk-engines/hc-engine/hc-rc-style.h:
+	* gtk-engines/hc-engine/hc-style.c:
+	* gtk-engines/hc-engine/hc-style.h:
+	* gtk-engines/thinice/.cvsignore:
+	* gtk-engines/thinice/Makefile.am:
+	* gtk-engines/thinice/thinice_main.c:
+	* gtk-engines/thinice/thinice_rc_style.c:
+	* gtk-engines/thinice/thinice_rc_style.h:
+	* gtk-engines/thinice/thinice_style.h:
+	* gtk-engines/thinice/thinice_theme_draw.c:
+
+	Removed redundant files
+
+2006-05-18  Thomas Wood  <thos@gnome.org>
+
 	* configure.in:
 	* desktop-themes/Default/.cvsignore:
 	* desktop-themes/Makefile.am:
