@@ -111,7 +111,6 @@ desktop-themes/Ocean-Dream/Makefile
 desktop-themes/Simple/Makefile
 desktop-themes/Smokey-Blue/Makefile
 desktop-themes/Glider/Makefile
-desktop-themes/Traditional/Makefile
 gtk-themes/Makefile
 gtk-themes/Simple/Makefile
 gtk-themes/Grand-Canyon/Makefile

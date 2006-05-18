@@ -6,5 +6,4 @@ SUBDIRS=		\
 	Mist		\
 	Ocean-Dream	\
 	Simple		\
-	Smokey-Blue	\
-	Traditional
+	Smokey-Blue
