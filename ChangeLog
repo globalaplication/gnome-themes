@@ -1,3 +1,10 @@
+2006-06-08  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* po/LINGUAS:
+
+	Applied patch from Bug 337978 - [PATCH] Use po/LINGUAS
+
 2006-05-18  Thomas Wood  <thos@gnome.org>
 
 	* gtk-engines/.cvsignore:
