@@ -1,3 +1,7 @@
+2006-06-09  Elijah Newren  <newren gmail com>
+
+	* po/LINGUAS: Remove the obsolete 'no' translation.
+
 2006-06-08  Thomas Wood  <thos@gnome.org>
 
 	* gtk-themes/Clearlooks/Makefile.am:
