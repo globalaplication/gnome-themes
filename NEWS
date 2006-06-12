@@ -1,3 +1,31 @@
+2.15.3
+======
+
+2006-06-09  Elijah Newren  <newren gmail com>
+       * po/LINGUAS: Remove the obsolete 'no' translation.
+
+2006-06-08  Thomas Wood  <thos@gnome.org>
+       Remove more unused files. Also helps close Bug 320458 - Useless configure
+       checks
+
+2006-06-08  Thomas Wood  <thos@gnome.org>
+       Applied patch from Bug 337978 - [PATCH] Use po/LINGUAS
+
+2006-05-18  Thomas Wood  <thos@gnome.org>
+       Removed redundant files
+
+2006-05-18  Thomas Wood  <thos@gnome.org>
+       Removed "Traditional" theme
+
+New/updated translations:
+
+2006-05-16  Ignacio Casal Quinteiro  <nacho.resa@gmail.com>
+       * gl.po: Updated Galician Translation.
+
+2006-05-16  Ankit Patel  <ankit644@yahoo.com>
+        * gu.po: Updated Gujarati Translation.
+
+
 2.15.2
 ======
 

@@ -1,3 +1,10 @@
+2006-06-12  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* po/POTFILES.in
+
+	2.15.3 release and build fix.
+
 2006-06-09  Elijah Newren  <newren gmail com>
 
 	* po/LINGUAS: Remove the obsolete 'no' translation.
