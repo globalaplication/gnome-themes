@@ -6,7 +6,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1"
@@ -17,9 +16,9 @@
    viewBox="0 0 42.5 48"
    id="svg456"
    sodipodi:version="0.32"
-   inkscape:version="0.42+devel"
-   sodipodi:docname="gnome-logo-icon-transparent.svg"
-   sodipodi:docbase="/home/luca/Desktop/Black-and-White/scalable/apps">
+   inkscape:version="0.43"
+   sodipodi:docname="start-here.svg"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/places">
   <metadata
      id="metadata6993">
     <rdf:RDF>
@@ -29,10 +28,19 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+        <dc:title>Start Here Icon</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>start</rdf:li>
+            <rdf:li>applications</rdf:li>
+            <rdf:li>launchers</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>The GNOME logo</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
         <cc:permits
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
@@ -63,169 +71,11 @@
      inkscape:zoom="6.7166667"
      inkscape:cx="30"
      inkscape:cy="30"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-x="6"
+     inkscape:window-y="46"
      inkscape:current-layer="svg456" />
   <defs
-     id="defs522">
-    <linearGradient
-       x1="12.2363"
-       y1="7.7627"
-       x2="31.5515"
-       y2="41.3164"
-       id="aigrd1"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad">
-      <stop
-         style="stop-color:#9cadb3;stop-opacity:1;"
-         offset="0"
-         id="stop460" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="1"
-         id="stop461" />
-    </linearGradient>
-    <linearGradient
-       x1="10.1172"
-       y1="7.5537"
-       x2="9.6941"
-       y2="41.0821"
-       id="aigrd4"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad">
-      <stop
-         style="stop-color:#ededed;stop-opacity:1;"
-         offset="0"
-         id="stop474" />
-      <stop
-         style="stop-color:#cacaca;stop-opacity:1;"
-         offset="1"
-         id="stop475" />
-    </linearGradient>
-    <linearGradient
-       x1="47.4858"
-       y1="18.7568"
-       x2="47.4858"
-       y2="31.9575"
-       id="aigrd8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9723,-0.2335,0.2335,0.9723,-29.0476,8.5486)"
-       spreadMethod="pad">
-      <stop
-         style="stop-color:#f9fae9;stop-opacity:1;"
-         offset="0"
-         id="stop518" />
-      <stop
-         style="stop-color:#f5c417;stop-opacity:1;"
-         offset="1"
-         id="stop519" />
-    </linearGradient>
-    <linearGradient
-       x1="24.3674"
-       y1="20.2725"
-       x2="24.8257"
-       y2="40.6521"
-       id="linearGradient600"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.889775,1.12388)"
-       spreadMethod="pad" />
-    <linearGradient
-       x1="11.2993"
-       y1="10.182"
-       x2="11.2993"
-       y2="17.2025"
-       id="linearGradient601"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.74389,1.34428)"
-       spreadMethod="pad" />
-    <linearGradient
-       x1="20.3712"
-       y1="5.89996"
-       x2="20.9762"
-       y2="12.147"
-       id="linearGradient602"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.683434,1.4632)"
-       spreadMethod="pad" />
-    <linearGradient
-       x1="29.2967"
-       y1="4.4985"
-       x2="29.8646"
-       y2="11.4455"
-       id="linearGradient603"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.728871,1.37199)"
-       spreadMethod="pad" />
-    <linearGradient
-       x1="35.9571"
-       y1="2.31403"
-       x2="36.6164"
-       y2="17.5595"
-       id="linearGradient604"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.871165,1.14789)"
-       spreadMethod="pad" />
-    <radialGradient
-       cx="14.0568"
-       cy="21.9194"
-       fx="14.0568"
-       fy="21.9194"
-       r="18.9469"
-       id="radialGradient605"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.889775,0.000000,0.000000,0.992701,1.526557e-16,1.925876)"
-       spreadMethod="pad" />
-    <radialGradient
-       cx="8.75793"
-       cy="11.0189"
-       fx="8.75793"
-       fy="11.0189"
-       r="2.82648"
-       id="radialGradient606"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.743892,1.34428)"
-       spreadMethod="pad" />
-    <radialGradient
-       cx="18.8923"
-       cy="6.95715"
-       fx="18.8923"
-       fy="6.95715"
-       r="2.62843"
-       id="radialGradient607"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.683434,1.4632)"
-       spreadMethod="pad" />
-    <radialGradient
-       cx="27.6876"
-       cy="5.01097"
-       fx="27.6876"
-       fy="5.01097"
-       r="3.7363"
-       id="radialGradient608"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.728869,1.37199)"
-       spreadMethod="pad" />
-    <radialGradient
-       cx="34.8858"
-       cy="3.45743"
-       fx="34.8858"
-       fy="3.45743"
-       r="5.85657"
-       id="radialGradient609"
-       xlink:href="#aigrd1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.871164,1.14789)"
-       spreadMethod="pad" />
-  </defs>
+     id="defs522" />
   <g
      style="font-size:12;stroke:#000000;"
      id="Layer_x0020_2">

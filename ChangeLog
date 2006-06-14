@@ -1,3 +1,26 @@
+2006-06-14  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/places/folder.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/folder-remote.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/network-server.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/start-here.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-desktop.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-home.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/user-trash.svg:
+
+	Updated: now icons are pixel perfect (i.e. 48 pixel, not 48 points
+	as canvas size as well as pixel as default unit), aligned to
+	grid (i.e. no more unuseful antialising) and with 4 pixels borders
+	(as per HIG). Added rdf metadata (title, description,
+	licence and subject) as in Tango icons; please note that the licence
+	is LGPL but Inkscape shows it as GPL (??!!??).
+
+	There are also some minor shape tweaks for folder, folder-remote and 
+	network-server icons.
+
+	PS: yes, network-workgroup is missing, I'm still working on it. It's
+	not so siple do it using 4 pixels borders :-|
+	
 2006-06-12  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
