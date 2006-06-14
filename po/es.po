@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 04:55+0200\n"
-"PO-Revision-Date: 2005-09-04 04:55+0200\n"
+"POT-Creation-Date: 2006-06-14 15:28+0200\n"
+"PO-Revision-Date: 2006-06-14 15:29+0200\n"
 "Last-Translator: Francisco Javier F. Serrador <serrador@arrakis.es>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -138,14 +138,6 @@ msgstr "Una apariencia cristalina suave"
 msgid "Smokey Blue"
 msgstr "Azul humeante"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Tradicional"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Apariencia tradicional de bordes 3D duros"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Azul plano"
@@ -161,3 +153,17 @@ msgstr "Azul humeante"
 #: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Rojo humeante"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Iconos escalables de alto contraste con bordes negros"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Alto contraste-SVG"
+
+#~ msgid "Traditional"
+#~ msgstr "Tradicional"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Apariencia tradicional de bordes 3D duros"
