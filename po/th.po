@@ -1,15 +1,15 @@
 # Thai translation for gnome-themes.
-# Copyright (C) 2003 Free Software Foundation, Inc.
+# Copyright (C) 2003-2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Paisa Seeluangsawat <paisa@colorado.edu>, 2003.
-# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005-2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-10-02 22:22+0700\n"
-"PO-Revision-Date: 2005-10-02 22:34+0700\n"
+"POT-Creation-Date: 2006-06-15 10:23+0700\n"
+"PO-Revision-Date: 2006-06-15 10:27+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -138,14 +138,6 @@ msgstr "ดูอ่อนๆสะท้อนแสง"
 msgid "Smokey Blue"
 msgstr "ฟ้าหม่น"
 
-#: desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "ดั้งเดิม"
-
-#: desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "ชุดตกแต่งสามมิติแบบที่ มีมาตั้งแต่รุ่นดั้งเดิม"
-
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "แบนๆ สีฟ้า"
@@ -162,3 +154,16 @@ msgstr "สีชา โทนฟ้า"
 msgid "Smokey-Red"
 msgstr "สีชา โทนแดง"
 
+#: icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "ไอคอนปรับอัตราส่วนได้สีตัดกัน และตัดเส้นขอบสีดำ"
+
+#: icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "สีตัดกัน-SVG"
+
+#~ msgid "Traditional"
+#~ msgstr "ดั้งเดิม"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "ชุดตกแต่งสามมิติแบบที่ มีมาตั้งแต่รุ่นดั้งเดิม"
