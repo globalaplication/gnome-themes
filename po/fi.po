@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-05 19:52+0300\n"
-"PO-Revision-Date: 2004-08-19 22:58+0300\n"
+"POT-Creation-Date: 2006-07-03 10:11+0300\n"
+"PO-Revision-Date: 2006-07-03 10:12+0300\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -138,14 +138,6 @@ msgstr "Pehmeän lasimainen ulkoasu"
 msgid "Smokey Blue"
 msgstr "Savuisen sininen"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Perinteinen"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Tasaisen sininen"
@@ -161,3 +153,17 @@ msgstr "Savunsininen"
 #: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Savunpunainen"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Suurikontrastiset skaalattavat kuvat mustilla reunuksilla"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Suurikontrastinen SVG"
+
+#~ msgid "Traditional"
+#~ msgstr "Perinteinen"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Perinteinen 3D-ulkoasu pehmentämättömillä reunoilla"
