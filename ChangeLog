@@ -1,3 +1,14 @@
+2006-07-05  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* desktop-themes/Makefile.am:
+	* gtk-themes/Makefile.am:
+	* icon-themes/Makefile.am:
+	* metacity-themes/Makefile.am:
+
+	Remove unmaintained themes from distribution (Grand-Canyon,
+	Ocean-Dream, Simple & Smokey-Blue).
+
 2006-06-30  Thomas Wood  <thos@gnome.org>
 
 	* gtk-themes/Simple/gtkrc: Fix bug 140660 (Dialog buttons change size

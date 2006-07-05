@@ -1,9 +1,7 @@
 THEMES=			\
 	Clearlooks	\
 	Glider		\
-	Mist		\
-	Sandwish	\
-	Smokey
+	Mist
 
 THEME_DIR=$(datadir)/themes
 THEME_SUBDIR=metacity-1
