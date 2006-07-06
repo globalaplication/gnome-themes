@@ -2,20 +2,21 @@
 # translation of gnome-themes.gnome-2-4.po to Basque
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
-# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004.
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: eu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-08 16:08+0200\n"
-"PO-Revision-Date: 2005-09-08 16:08+0200\n"
+"POT-Creation-Date: 2006-07-06 22:06+0000\n"
+"PO-Revision-Date: 2006-07-06 22:08+0000\n"
 "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
 "Language-Team: Basque <itzulpena@euskalgnu.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.2\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -138,14 +139,6 @@ msgstr "Beira leuneko itxura bat"
 msgid "Smokey Blue"
 msgstr "Ke urdina"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Tradizionala"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "3D albo zikoitzdun itxura tradizionala"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Urdin zapala"
@@ -161,3 +154,12 @@ msgstr "Ke-urdina"
 #: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Ke-gorria"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Kontraste handiko ikono eskalakorrak (ertz beltzak)"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Kontraste handiko SVG"
+
