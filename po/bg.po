@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes gnome 2.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 16:20+0300\n"
-"PO-Revision-Date: 2005-09-04 16:23+0300\n"
+"POT-Creation-Date: 2006-07-06 14:44+0300\n"
+"PO-Revision-Date: 2006-07-06 14:44+0300\n"
 "Last-Translator: Alexander Shopov <ash@contact.bg>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "MIME-Version: 1.0\n"
@@ -140,14 +140,6 @@ msgstr "Мек стъклен изглед"
 msgid "Smokey Blue"
 msgstr "Пепеляво синьо"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Традиционна"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Традиционна с остри ръбове и 3D изглед"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Плоско-синьо"
@@ -163,3 +155,11 @@ msgstr "Пепеляво синьо"
 #: ../icon-themes/Smokey-Red/index.theme.in.h:1
 msgid "Smokey-Red"
 msgstr "Пепеляво червено"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Висок контраст с мащабируеми икони с черни контури"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Висок контраст - SVG"
