@@ -1,3 +1,23 @@
+2006-07-09  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetype/text-html.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetype/text-x-preview.icon:
+	* icon-themes/HighContrast-SVG/scalable/mimetype/text-x-preview.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetype/text-x-script.svg:
+
+	New icons (and .icon file) based on text-x-generic.
+
+	* icon-themes/HighContrast-SVG/scalable/mimetype/applications-x-executable.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetype/font-x-generic.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetype/image-x-generic.svg:
+
+	Fixed (48 pixel canvas, align to grid, 4 pixels borders).
+
+	Note 1: the web emblem in text-html is just the applications-internet
+	icon scaled down; this breaks the 4 pixel request. I've to redraw it.
+	Note 2: by now metadata are missing.
+
+
 2006-07-05  Thomas Wood  <thos@gnome.org>
 
 	* configure.in:
