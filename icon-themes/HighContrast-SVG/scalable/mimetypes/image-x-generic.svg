@@ -1,22 +1,88 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"   "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd" [
-	<!ENTITY st0 "fill:none;stroke:#FFFFFF;stroke-width:7.5597;">
-	<!ENTITY st1 "fill:#FFFFFF;">
-	<!ENTITY st2 "fill:none;stroke:none;">
-	<!ENTITY st3 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
-	<!ENTITY st4 "stroke:none;">
-]>
-<svg  width="48pt" height="48pt" viewBox="0 0 48 48" xml:space="preserve">
-	<g id="Layer_x0020_4" style="&st3;">
-		<g style="&st4;">
-			<path style="&st0;" d="M10.1,6.3c-2.6,0-4.6,2.1-4.6,4.6V37c0,2.6,2.1,4.6,4.6,4.6h27.7c2.6,0,4.6-2.1,4.6-4.6V10.9c0-2.6-2.1-4.6-4.6-4.6H10.1z"/>
-			<path d="M10.2,6.3c-2.6,0-4.6,2.1-4.6,4.6v26.1c0,2.6,2.1,4.6,4.6,4.6h27.7c2.6,0,4.6-2.1,4.6-4.6V11c0-2.6-2.1-4.6-4.6-4.6H10.2z"/>
-			<path style="&st1;" d="M38.9,35.6c0,1.4-1.1,2.5-2.4,2.5H11.7c-1.4,0-2.5-1.1-2.5-2.5V12.4c0-1.4,1.1-2.5,2.5-2.5h24.7c1.4,0,2.4,1.1,2.4,2.5v23.3z"/>
-			<path d="M35.6,31.2H12.5V16.6h23.1v14.6z"/>
-		</g>
-	</g>
-	<g id="crop_x0020_marks" style="&st3;">
-		<path style="&st2;" d="M48,48H0V0h48v48z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="image-x-generic.svg"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/mimetypes"
+   version="1.0"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19">
+		
+	
+			
+			
+			
+			
+		</defs><sodipodi:namedview
+   inkscape:window-height="947"
+   inkscape:window-width="1268"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:grid-points="true"
+   inkscape:grid-bbox="true"
+   showgrid="true"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="15.979167"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="6"
+   inkscape:window-y="47"
+   inkscape:current-layer="svg2"><sodipodi:guide
+     orientation="horizontal"
+     position="37.04824"
+     id="guide1329" /><sodipodi:guide
+     orientation="horizontal"
+     position="11.014342"
+     id="guide1331" /><sodipodi:guide
+     orientation="vertical"
+     position="9.9504563"
+     id="guide1333" /><sodipodi:guide
+     orientation="vertical"
+     position="38.049544"
+     id="guide1335" /></sodipodi:namedview>
+	<path
+   style="fill:none;fill-rule:nonzero;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+   d="M 5,11 L 5,37 C 5,40 7,42 10,42 L 38,42 C 41,42 43,40 43,37 L 43,11 C 43,8 41.532487,6.1 38.6,6.1 L 10,6 C 7,6 5,8 5,11 z "
+   id="path7"
+   sodipodi:nodetypes="ccccccccc" /><path
+   style="fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+   d="M 5,11 L 5,37 C 5,40 7,42 10,42 L 38,42 C 41,42 43,40 43,37 L 43,11 C 43,8 41,6 38,6 L 10,6 C 7,6 5,8 5,11 z "
+   id="path9"
+   sodipodi:nodetypes="ccccccccc" /><path
+   style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+   d="M 39,35 C 39,37 38,38 36,38 L 12,38 C 10,38 9,37 9,35 L 9,13 C 9,11 10,10 11.6,10.1 L 36,10 C 38,10 39,11 39,13 L 39,35 z "
+   id="path11"
+   sodipodi:nodetypes="ccccccccc" /><path
+   style="fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+   d="M 35,33 L 13,33 L 13,16 L 35,16 L 35,33 z "
+   id="path13"
+   sodipodi:nodetypes="ccccc" />
+	<g
+   id="crop_x0020_marks"
+   style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4">
+		<path
+   style="fill:none;stroke:none"
+   d="M 48,48 L 0,48 L 0,0 L 48,0 L 48,48 z "
+   id="path16" />
 	</g>
 </svg>
