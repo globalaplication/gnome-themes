@@ -1,5 +1,11 @@
 2006-07-09  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/Makefile.am:
+
+	Fix themedir (icons, not themes).
+
+2006-07-09  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/mimetype/text-html.svg:
 	* icon-themes/HighContrast-SVG/scalable/mimetype/text-x-preview.icon:
 	* icon-themes/HighContrast-SVG/scalable/mimetype/text-x-preview.svg:
