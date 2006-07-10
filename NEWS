@@ -1,3 +1,53 @@
+2.15.4
+======
+
+New features:
+
+2006-07-09  Luca Ferretti  <elle.uca@libero.it>
+       Many new and improved HighContrast-SVG icons.
+
+2006-07-05  Thomas Wood  <thos@gnome.org>
+       Remove unmaintained themes from distribution (Grand-Canyon,
+       Ocean-Dream, Simple & Smokey-Blue).
+
+Bugfixes:
+
+2006-06-30  Thomas Wood  <thos@gnome.org>
+       * gtk-themes/Simple/gtkrc: Fix bug 140660 (Dialog buttons change size
+       when they get focus)
+
+New/improved translations:
+
+2006-07-06  Inaki Larranaga  <dooteo@euskalgnu.org>
+       * eu.po: Updated Basque translation.
+
+2006-07-06  Alexander Shopov  <ash@contact.bg>
+       * bg.po: Updated Bulgarian translation by
+       Alexander Shopov <ash@contact.bg>
+
+2006-07-03  Runa Bhattacharjee <runabh@gmail.com>
+        * bn_IN.po: Added Bengali India Translation
+        * LINGUAS: Added Bengali India (bn_IN) to the list of languages.
+
+2006-07-03  Ilkka Tuohela  <hile@iki.fi>
+      * fi.po: Updated Finnish translation.
+
+2006-06-26  Kjartan Maraas  <kmaraas@gnome.org>
+       * nb.po: Updated Norwegian bokmål translation.
+
+2006-06-26  Abel Cheung  <abel@oaka.org>
+       * zh_HK.po, zh_TW.po: Updated traditional Chinese translation.
+
+2006-06-15  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+       * th.po: Updated Thai translation.
+
+2006-06-14  Francisco Javier F. Serrador  <serrador@openshine.com>
+       * es.po: Updated Spanish translation.
+
+2006-06-13  Priit Laes  <amd@store20.com>
+       * et.po: Translation updated.
+
+
 2.15.3
 ======
 
