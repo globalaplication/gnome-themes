@@ -1,5 +1,5 @@
 # French Tranlation of gnome-themes.
-# Copyright (C) 2002-2005 Free Software Foundation, Inc.
+# Copyright (C) 2002-2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 #
 # maintainer: Baptiste Mille-Mathias <bmm80@ifrance.com>, 2002.
@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.11.92\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 22:53+0200\n"
+"POT-Creation-Date: 2006-07-16 21:51+0200\n"
 "PO-Revision-Date: 2005-09-04 22:53+0200\n"
 "Last-Translator: Christophe Merlet (RedFox) <redfox@redfoxcenter.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
@@ -24,11 +24,11 @@ msgstr "Texte et icônes noir sur blanc"
 
 #: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Grand fort"
+msgstr "Contraste élevé"
 
 #: ../HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Contraste fort inversé"
+msgstr "Contraste élevé inversé"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -99,14 +99,6 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simple, fluide et esthétiquement plaisant"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Une apparence orange cendrée"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Une apparence minimaliste"
@@ -115,50 +107,47 @@ msgstr "Une apparence minimaliste"
 msgid "Mist"
 msgstr "Mist"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Ocean Dream"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Les couleurs de l'océan"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simple"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Apparence sobre, performances élevées"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Une douce apparence glacée"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Smokey-Blue"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Traditionnel"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Apparence 3D traditionnelle"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Flat-Blue"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Sandy"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Icônes échelonnables avec un contraste élevé et des bordures noires"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Contraste élevé SVG"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Smokey-Red"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Une apparence orange cendrée"
+
+#~ msgid "Grand Canyon"
+#~ msgstr "Grand Canyon"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "Ocean Dream"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "Les couleurs de l'océan"
+
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Apparence sobre, performances élevées"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Une douce apparence glacée"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "Smokey-Blue"
+
+#~ msgid "Sandy"
+#~ msgstr "Sandy"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Smokey-Blue"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Smokey-Red"
