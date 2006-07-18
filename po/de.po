@@ -2,16 +2,16 @@
 # Copyright (C) 2002-2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Christian Neumair <chris@gnome-de.org>, 2002, 2003.
-# Hendrik Richter <hendi@gnome-de.org>, 2004, 2005.
+# Hendrik Richter <hendrikr@gnome.org>, 2004, 2005, 2006.
 #
 # Manche Themennamen sind Eigennamen. Bitte nicht übersetzen.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.4.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 15:37+0200\n"
-"PO-Revision-Date: 2005-09-04 15:38+0200\n"
-"Last-Translator: Hendrik Richter <hendi@gnome-de.org>\n"
+"POT-Creation-Date: 2006-07-18 12:27+0200\n"
+"PO-Revision-Date: 2006-07-18 12:29+0200\n"
+"Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -100,15 +100,6 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Sanft und ästhetisch, einfach angenehm"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Staubig und rostrot"
-
-# Eigenname
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Eine minimalistische Oberfläche"
@@ -119,56 +110,60 @@ msgid "Mist"
 msgstr "Mist"
 
 # Eigenname
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Ocean Dream"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Die Farben der Meeresküste"
-
-# Eigenname
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simple"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Schlank und schnell"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Eine weiche Oberfläche wie Glas"
-
-# Eigenname
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Smokey Blue"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Klassisch"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Traditionelle, hartkantige 3D-Oberfläche"
-
-# Eigenname
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Flat-Blue"
 
-# Eigenname
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Sandy"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Skalierbare Symbole mit hohem Kontrast und schwarzen Rahmen"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Hoher Kontrast-SVG"
+
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Staubig und rostrot"
 
 # Eigenname
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
+#~ msgid "Grand Canyon"
+#~ msgstr "Grand Canyon"
 
 # Eigenname
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Smokey-Red"
+#~ msgid "Ocean Dream"
+#~ msgstr "Ocean Dream"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "Die Farben der Meeresküste"
+
+# Eigenname
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Schlank und schnell"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Eine weiche Oberfläche wie Glas"
+
+# Eigenname
+#~ msgid "Smokey Blue"
+#~ msgstr "Smokey Blue"
+
+#~ msgid "Traditional"
+#~ msgstr "Klassisch"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Traditionelle, hartkantige 3D-Oberfläche"
+
+# Eigenname
+#~ msgid "Sandy"
+#~ msgstr "Sandy"
+
+# Eigenname
+#~ msgid "Smokey-Blue"
+#~ msgstr "Smokey-Blue"
+
+# Eigenname
+#~ msgid "Smokey-Red"
+#~ msgstr "Smokey-Red"
