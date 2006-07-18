@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.dz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-06 05:13+0100\n"
-"PO-Revision-Date: 2006-03-24 12:03-0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2006-07-18 22:37+0530\n"
+"PO-Revision-Date: 2006-07-18 15:27+0530\n"
+"Last-Translator: Mindu Dorji\n"
 "Language-Team: DZONGKHA <pgeyleg@dit.gov.bt>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -100,14 +100,6 @@ msgstr "ག་ལའི་ཌར།"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "འཇམ་སམ་དང་ འཇམ་ཁྱུག་ མཛེས་སྤྲོ་ཅན་གྱི་ སེམས་སྤྲོ།"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "ལི་ཝང་ཐལ་ཁོག་ཅན་གྱི་འབྱུང་སྣང་།"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "གེརེན་ ཀེན་ཡཱོན།"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "ཆུང་བཟོས་འབྱུང་སྣང་ཅིག།"
@@ -116,51 +108,53 @@ msgstr "ཆུང་བཟོས་འབྱུང་སྣང་ཅིག།"
 msgid "Mist"
 msgstr "སྨུག་ཟིལ།"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "རྒྱ་མཚོའི་སྣང་བ།"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "མཚོ་མཐའི་ཚོས་གཞི།"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "འཇམ་སམ།"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "འབྱུང་སྣང་སྲབ་ཅིང་ ལཱ་ཤུགས་ཆེ་བ།"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "ཤེལ་བཟུམ་སྦེ་ འཇམ་ཁྱུག་ཅན་གྱི་འབྱུང་སྣང་།"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "སྔར་སྲོལ་གྱི་།"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "སྔར་སྲོལ་གྱི་ མཐའམ་སྲ་བའི་ ༣ཌི་ གྱི་འབྱུང་སྣང་།"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "ཧོན་རྐྱང་།"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "བྱེམ་ཁོག་ཁོ།"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "ཚོན་མདངས་ཆེ་བའི་ ཚད་འཇལ་བཏུབ་པའི་ངོས་དཔར་ མཐའ་མཚམས་གནགཔོ་དང་བཅས།"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "ཚོན་མདངས་ཆེ་བའི་-ཨེསི་ཝི་ཇི།"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "དམརཔོ་དུ་པ་ཁོག་ཁོ།"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "ལི་ཝང་ཐལ་ཁོག་ཅན་གྱི་འབྱུང་སྣང་།"
 
+#~ msgid "Grand Canyon"
+#~ msgstr "གེརེན་ ཀེན་ཡཱོན།"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "རྒྱ་མཚོའི་སྣང་བ།"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "མཚོ་མཐའི་ཚོས་གཞི།"
+
+#~ msgid "Simple"
+#~ msgstr "འཇམ་སམ།"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "འབྱུང་སྣང་སྲབ་ཅིང་ ལཱ་ཤུགས་ཆེ་བ།"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "ཤེལ་བཟུམ་སྦེ་ འཇམ་ཁྱུག་ཅན་གྱི་འབྱུང་སྣང་།"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
+
+#~ msgid "Traditional"
+#~ msgstr "སྔར་སྲོལ་གྱི་།"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "སྔར་སྲོལ་གྱི་ མཐའམ་སྲ་བའི་ ༣ཌི་ གྱི་འབྱུང་སྣང་།"
+
+#~ msgid "Sandy"
+#~ msgstr "བྱེམ་ཁོག་ཁོ།"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "དམརཔོ་དུ་པ་ཁོག་ཁོ།"
