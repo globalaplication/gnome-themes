@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.5.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-04 19:35+0900\n"
-"PO-Revision-Date: 2006-02-04 19:38+0900\n"
+"POT-Creation-Date: 2006-07-23 01:12+0900\n"
+"PO-Revision-Date: 2006-07-23 01:13+0900\n"
 "Last-Translator: Young-Ho Cha <ganadist@gmail.com>\n"
 "Language-Team: GNOME Korea <gnome-kr-hackers@lists.kldp.net>\n"
 "MIME-Version: 1.0\n"
@@ -96,14 +96,6 @@ msgstr "글라이더"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "간단, 부드러움 그리고 미적으로 만족스러움"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "먼지투성이 오렌지색 모양새"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "대협곡"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "간단주의자를 위한 모양새"
@@ -112,50 +104,53 @@ msgstr "간단주의자를 위한 모양새"
 msgid "Mist"
 msgstr "흐림"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "바다의 꿈"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "바닷가의 빛깔"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "간단"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "가벼운 모양새, 높은 성능"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "부드럽고 잔잔한 모양새"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "푸르스름"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "기본"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "전통적인 딱딱한 삼차원 모양새"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "단조로운 푸른빛"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "모래 투성이"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "검은색 윤곽선이 있는 고대비 크기 조절 가능 아이콘"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "푸르스름"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "고대비 SVG"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "붉으스름"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "먼지투성이 오렌지색 모양새"
+
+#~ msgid "Grand Canyon"
+#~ msgstr "대협곡"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "바다의 꿈"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "바닷가의 빛깔"
+
+#~ msgid "Simple"
+#~ msgstr "간단"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "가벼운 모양새, 높은 성능"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "부드럽고 잔잔한 모양새"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "푸르스름"
+
+#~ msgid "Traditional"
+#~ msgstr "기본"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "전통적인 딱딱한 삼차원 모양새"
+
+#~ msgid "Sandy"
+#~ msgstr "모래 투성이"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "푸르스름"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "붉으스름"
