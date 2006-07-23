@@ -8,15 +8,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48px"
-   height="48px"
-   id="svg3304"
+   width="48"
+   height="48"
+   id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/luca/Desktop/black-and-white/scalable/actions"
-   sodipodi:docname="address-book-new.svg">
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="/home/luca"
+   sodipodi:docname="dialog-close.svg">
   <defs
-     id="defs3306" />
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,19 +25,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.0000000"
-     inkscape:cx="24.000000"
-     inkscape:cy="24.000000"
+     inkscape:zoom="15.895833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="922"
-     inkscape:window-height="561"
-     inkscape:window-x="5"
-     inkscape:window-y="50" />
+     inkscape:grid-points="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1268"
+     inkscape:window-height="947"
+     inkscape:window-x="6"
+     inkscape:window-y="46" />
   <metadata
-     id="metadata3309">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -47,17 +51,34 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
     <path
        sodipodi:type="arc"
-       style="fill:#f50000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
-       id="path3312"
-       sodipodi:cx="24.000000"
-       sodipodi:cy="24.071428"
-       sodipodi:rx="24.142857"
-       sodipodi:ry="23.928572"
-       d="M 48.142857 24.071428 A 24.142857 23.928572 0 1 1  -0.14285660,24.071428 A 24.142857 23.928572 0 1 1  48.142857 24.071428 z" />
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1307"
+       sodipodi:cx="24"
+       sodipodi:cy="24"
+       sodipodi:rx="22"
+       sodipodi:ry="22"
+       d="M 46 24 A 22 22 0 1 1  2,24 A 22 22 0 1 1  46 24 z" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.221825,16.221825 L 31.778175,31.778175"
+       id="path2186"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3936"
+       d="M 31.778175,16.221825 L 16.221825,31.778175"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3938"
+       width="48"
+       height="48"
+       x="0"
+       y="0" />
   </g>
 </svg>

@@ -14,9 +14,9 @@
    xml:space="preserve"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
+   inkscape:version="0.43"
    sodipodi:docname="document-new.svg"
-   sodipodi:docbase="/home/luca/Desktop/black-and-white/scalable/actions"><metadata
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/actions"><metadata
    id="metadata19"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Document new</dc:title><dc:creator><cc:Agent><dc:title>Jakub Stainer</dc:title></cc:Agent></dc:creator><cc:license
@@ -46,11 +46,11 @@
    showgrid="true"
    guidetolerance="0.50000000px"
    inkscape:grid-points="true"
-   inkscape:zoom="1.0000000"
-   inkscape:cx="25.920185"
-   inkscape:cy="30.996905"
-   inkscape:window-x="0"
-   inkscape:window-y="25"
+   inkscape:zoom="15.958333"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="6"
+   inkscape:window-y="46"
    inkscape:current-layer="svg2"
    showguides="true"
    inkscape:guide-bbox="true"><sodipodi:guide
@@ -76,8 +76,20 @@
    style="fill:#000000;fill-rule:nonzero;stroke:#000000;stroke-width:4.0000000;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;fill-opacity:1.0000000"
    sodipodi:nodetypes="cccccc" /><path
    id="path9"
-   d="M 36.991406,20.000000 L 36.996573,39.003906 L 11.000000,39.000000 L 11.016535,8.0181102 L 24.969291,8.0338583 L 25.000000,20.000000 L 36.991406,20.000000 z "
+   d="M 36.991406,20 L 36.996573,39.003906 L 11,39 L 11.016535,8.0181102 L 24.969291,8.0338583 L 36.991406,20 z "
    style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-miterlimit:4.0000000"
-   sodipodi:nodetypes="ccccccc" />
+   sodipodi:nodetypes="cccccc" />
 	
-</svg>
+<path
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+   d="M 23,17 L 23,32"
+   id="path1309" /><path
+   id="path2184"
+   d="M 30.5,24.5 L 15.5,24.5"
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 28.303301,19.196699 L 17.696699,29.803301"
+   id="path2186" /><path
+   id="path2188"
+   d="M 28.303301,29.803301 L 17.696699,19.196699"
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></svg>

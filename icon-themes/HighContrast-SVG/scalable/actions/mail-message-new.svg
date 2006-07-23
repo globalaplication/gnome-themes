@@ -12,8 +12,8 @@
    height="48px"
    id="svg3304"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/luca/Desktop/black-and-white/scalable/actions"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/actions"
    sodipodi:docname="mail-message-new.svg">
   <defs
      id="defs3306" />
@@ -25,16 +25,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.958333"
-     inkscape:cx="24.000000"
-     inkscape:cy="24.291302"
+     inkscape:cx="23.999998"
+     inkscape:cy="28.881124"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
      inkscape:window-height="950"
-     inkscape:window-x="0"
-     inkscape:window-y="26" />
+     inkscape:window-x="6"
+     inkscape:window-y="46"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:grid-points="true" />
   <metadata
      id="metadata3309">
     <rdf:RDF>
@@ -51,26 +54,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <rect
-       style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.9394372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3322"
-       width="43.111057"
-       height="32.067101"
-       x="2.4522424"
-       y="6.4615321"
-       ry="2.9451697"
-       rx="3.1331594" />
+       width="44"
+       height="33"
+       x="2"
+       y="6"
+       ry="4.1357703"
+       rx="4.1357703" />
     <rect
-       rx="2.0678852"
-       ry="2.0678852"
-       y="11.000000"
-       x="7.0000000"
-       height="23.000000"
-       width="34.000000"
-       id="rect4052"
-       style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:2.9394372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2182"
+       width="32"
+       height="21"
+       x="8"
+       y="12" />
     <path
-       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none"
-       d="M 6.0000000,10.000000 L 20.000000,22.000000 C 21.769365,23.253264 25.293299,23.378590 27.000000,22.000000 L 42.000000,10.000000"
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4.0000000;stroke-dasharray:none"
+       d="M 6,10 L 20,24 C 22,26 26,26 28,24 L 42,10"
        id="path4780"
        sodipodi:nodetypes="cccc" />
     <rect
@@ -82,5 +83,12 @@
        y="0.0000000"
        rx="0.0000000"
        ry="0.0000000" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3057"
+       width="48"
+       height="48"
+       x="0"
+       y="0" />
   </g>
 </svg>

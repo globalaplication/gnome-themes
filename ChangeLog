@@ -1,10 +1,23 @@
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
-	* icon-themes/HighContrast-SVG/scalable/actions/zoom/system-search.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-message-new.svg:
+
+	Little edit (4 pixels and aling to grid).
+
+	* icon-themes/HighContrast-SVG/scalable/actions/dialog-close.svg:
+
+	New icon.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/document-new.svg:
+
+	Put an asterisk in the middle of the paper.
+
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/system-search.svg:
 
 	Replaced, like zoom* but without emblems inside the lens and with
 	the handle on left side.
-
 	
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
