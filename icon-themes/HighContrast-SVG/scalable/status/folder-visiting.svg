@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.42"
    sodipodi:docname="folder-visiting.svg"
-   sodipodi:docbase="/home/luca/Desktop/black-and-white/scalable/status"><metadata
+   sodipodi:docbase="/home/luca/Desktop/blackwhite-icon-theme/scalable/status"><metadata
    id="metadata1375"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Folder</dc:title><dc:description>A folder</dc:description><cc:license
@@ -79,6 +79,6 @@
 	
 <path
    id="path3303"
-   d="M 9.0000000,9.0000000 C 8.0000000,9.0000000 7.0000000,10.000000 7.0000000,11.000000 L 7.0000000,33.000000 C 7.0000000,34.000000 8.0000000,35.000000 9.0000000,35.000000 L 39.000000,35.000000 C 40.000000,35.000000 41.000000,34.000000 41.000000,33.000000 L 41.000000,17.000000 C 41.000000,16.000000 40.000000,15.000000 39.000000,15.000000 L 19.000000,15.000000 L 19.000000,11.000000 C 19.000000,10.000000 18.000000,9.0000000 17.000000,9.0000000 L 9.0000000,9.0000000 z "
+   d="M 10.000000,10.000000 C 9.0000000,10.000000 8.0000000,11.000000 8.0000000,12.000000 L 8.0000000,32.000000 C 8.0000000,33.000000 9.0000000,34.000000 10.000000,34.000000 L 38.000000,34.000000 C 39.000000,34.000000 40.000000,33.000000 40.000000,32.000000 L 40.000000,18.000000 C 40.000000,17.000000 39.000000,16.000000 38.000000,16.000000 L 19.000000,16.000000 L 19.000000,12.000000 C 19.000000,11.000000 18.000000,10.000000 17.000000,10.000000 L 10.000000,10.000000 z "
    style="fill-rule:nonzero;stroke:none;stroke-width:7.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;fill:#ffffff;fill-opacity:1.0000000"
    sodipodi:nodetypes="cccccccccccc" /></svg>

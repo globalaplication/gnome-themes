@@ -1,5 +1,11 @@
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/status/folder-visiting.svg
+
+	Fixed 4 pixel wide border.
+
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/dialog-password.svg:
 
 	Added, by now a simple copy of emblems/emblem-readonly
