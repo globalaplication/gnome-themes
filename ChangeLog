@@ -1,3 +1,10 @@
+2006-07-23  Luca Ferretti  <luca@redrum>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom*:
+
+	Pixel-perfect, aling to grid and 4 pixels, plus move the handler on
+	right, just to match the appearance of the same	icons in g-i-t.
+
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/application-exit.svg:
@@ -5,7 +12,6 @@
 
 	Copy action/system-log-out to application exit and use a new icon
 	for system-log-out, based on "exit" symbol from symbols.com.
-	
 
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
