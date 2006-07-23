@@ -1,4 +1,12 @@
-2006-07-23  Luca Ferretti  <luca@redrum>
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom/system-search.svg:
+
+	Replaced, like zoom* but without emblems inside the lens and with
+	the handle on left side.
+
+	
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/zoom*:
 
