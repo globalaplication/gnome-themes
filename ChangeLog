@@ -1,5 +1,13 @@
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/view-fullscreen.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-fullscreen-leave.svg:
+
+	New shape for view fullscreen and new icon for view-fullscreen-leave;
+	Unfortunately the second one isn's in IconNamingSpec :-(
+
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/mail-message-new.svg:
 
 	Little edit (4 pixels and aling to grid).
