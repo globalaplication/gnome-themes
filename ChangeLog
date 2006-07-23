@@ -1,3 +1,10 @@
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-accessories.svg: 
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-internet.svg:
+
+	New icons, inspired by PlayStationPortable :-)
+
 2006-07-09  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/Makefile.am:
