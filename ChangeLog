@@ -1,5 +1,14 @@
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/application-exit.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/system-log-out.svg:
+
+	Copy action/system-log-out to application exit and use a new icon
+	for system-log-out, based on "exit" symbol from symbols.com.
+	
+
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/categories/applications-accessories.svg: 
 	* icon-themes/HighContrast-SVG/scalable/categories/applications-internet.svg:
 
