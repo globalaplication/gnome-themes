@@ -1,28 +1,26 @@
 # translation of gnome-themes.HEAD.mk.po to
 # translation of mk.po to Macedonian
 # translation of mk.po to
-# translation of gnome-themes.HEAD.mk.po to Macedonian
-# translation of gnome-themes.HEAD.po to Macedonian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
+#
 # Igor Petreski <dierektor@pcinfo.com.mk>, 2002.
 # Ivan Stojmirov <stojmir@linux.net.mk>, 2003.
 # Darko Nikolovski <darkon@macedonia.homelinux.org>, 2003.
-# Arangel Angov <ufo@linux.net.mk>, 2004.
+# Arangel Angov <ufo@linux.net.mk>, 2004, 2006.
 # Арангел Ангов <ufo@linux.net.mk>, 2005.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: mk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 06:56+0000\n"
-"PO-Revision-Date: 2005-09-04 11:48+0200\n"
-"Last-Translator: Арангел Ангов <ufo@linux.net.mk>\n"
+"POT-Creation-Date: 2006-07-23 23:18+0200\n"
+"PO-Revision-Date: 2006-07-24 00:28+0200\n"
+"Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
 "Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -105,14 +103,6 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Едноставна и мазна тема"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Темно портокалов изглед"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Големиот кањон"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Минималистички изглед"
@@ -121,51 +111,15 @@ msgstr "Минималистички изглед"
 msgid "Mist"
 msgstr "Mist"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Океански сон"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Боите на брегот"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Едноставно"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Лесен изглед, високи перформанси"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Мек стаклен изглед"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Сино зачадено"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Традиционално"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Традиционален 3D изглед"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Рамно сино"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Песокливо"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Висок контраст, скалабилни икони со црна граница"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Сино зачадено"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Црвено зачадено"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Висок контраст-SVG"
 
