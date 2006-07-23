@@ -1,5 +1,11 @@
 2006-07-23  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/devices/video-display.svg:
+
+	New, based on the same in g-i-t-2.15.
+
+2006-07-23  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/view-fullscreen.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/view-fullscreen-leave.svg:
 
