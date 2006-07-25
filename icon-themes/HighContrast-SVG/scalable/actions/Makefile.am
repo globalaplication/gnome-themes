@@ -89,6 +89,7 @@ icon_DATA =					\
 	system-shutdown.svg			\
 	tool-check-spelling.svg			\
 	view-fullscreen.svg			\
+	view-restore.svg			\
 	view-refresh.svg			\
 	view-sort-ascending.svg			\
 	view-sort-descending.svg		\
