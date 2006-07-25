@@ -10,6 +10,7 @@ icon_DATA =					\
 	appointment-new.svg			\
 	contact-new.svg				\
 	dialog-cancel.svg			\
+	dialog-close.svg			\
 	dialog-ok.svg				\
 	document-new.svg			\
 	document-open.svg			\
