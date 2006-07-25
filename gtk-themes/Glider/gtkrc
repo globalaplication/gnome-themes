@@ -48,89 +48,7 @@ style "default"
 	text[PRELIGHT] = "#000000" # Black
 	text[INSENSITIVE] = "#565248" # 3D Shadow
 
-	engine "smooth"
-	{
-		tab_style = square
-
-		fill
-		{
-			style = shaded
-			hdirection = vertical
-			vdirection = horizontal
-			shade1 = 1.05
-			shade2 = 0.95
-		}
-
-		edge
-		{
-			line
-			{
-				style = smooth
-				thickness = 1
-			}
-		}
-
-		trough
-		{
-			fill
-			{
-				style = solid
-			}
-			line
-			{
-				style = flat
-			}
-		}
-
-		focus
-		{
-			foreground[ACTIVE] = "#7590AE"
-			foreground[SELECTED] = "#7590AE"
-			foreground[NORMAL] = "#7590AE"
-			foreground[PRELIGHT] = "#7590AE"
-		}
-
-		grip
-		{
-			style = dots_in
-			count = 3
-			spacing = 2
-		}
-
-		check
-		{
-			style = clean
-			motif = FALSE
-			fill
-			{
-				style = solid
-			}
-		}
-
-		option
-		{
-			style = circle
-			motif = FALSE
-		}
-
-		button
-		{
-			embeddable = TRUE
-		}
-
-		arrow
-		{
-			style = cleanice
-			solid = TRUE
-			xpadding = 0
-			ypadding = 0
-
-			INSENSITIVE
-			{
-				etched = TRUE
-			}
-		}
-	}
+	engine "glide" {}
 }
 widget_class "*" style "default"
 
@@ -140,108 +58,25 @@ style "menuitem"
 	fg[PRELIGHT] = "#FFFFFF"
 	base[PRELIGHT] = "#7590AE"
 	text[PRELIGHT] = "#FFFFFF"
-
-	engine "smooth"
-	{
-		fill
-		{
-			style = solid
-		}
-
-		edge
-		{
-			line
-			{
-				style = flat
-				thickness = 1
-			}
-		}
-
-		line
-		{
-			style = smooth
-			thickness = 1
-		}
-		
-		check
-		{
-		    style = cleanice
-		    motif = FALSE
-		    edge
-		    {
-		        line
-		        {
-		            style = smooth
-		        }
-		    }
-		    xpadding = 1
-		    ypadding = 1
-		}
-		
-		option
-		{
-			style = circle
-			motif = FALSE
-			edge
-			{
-				line
-				{
-					style = smooth
-				}
-			}
-		}
-
-		arrow
-		{
-			style = cleanice
-			solid = TRUE
-			xpadding = 0
-			ypadding = 0
-
-			INSENSITIVE
-			{
-				etched = TRUE
-			}
-		}
-	}
 }
 class "*MenuItem*" style "menuitem"
 widget_class "*MenuItem*" style "menuitem"
+
+style "scale"
+{
+GtkRange::trough_border = 0
+    GtkRange::slider-width = 22
+    GtkScale::slider-length = 10
+}
+widget_class "*VScale*"         style "scale"
+class "*VScale*"                style "scale"
+widget_class "*HScale*"         style "scale"
+class "*HScale*"                style "scale"
 
 style "toolbar"
 {
 	bg[PRELIGHT] = "#7590AE"
 	base[PRELIGHT] = "#7590AE"
-
-	engine "smooth"
-	{
-		fill
-		{
-			style = solid
-		}
-		edge
-		{
-			line
-			{
-				style = smooth
-				thickness = 1
-			}
-		}
-		grip
-		{
-			fill
-			{
-				style = shaded
-				hdirection = vertical
-				vdirection = horizontal
-				shade1 = 1.05
-				shade2 = 0.95
-			}
-			style = dots_in
-			count = 3
-			spacing = 2
-		}
-	}
 }
 widget_class "*BonoboDockItem" style "toolbar"
 class "*BonoboDockItem" style "toolbar"
@@ -255,66 +90,6 @@ class "*Toolbar" style "toolbar"
 widget_class "*MenuBar" style "toolbar"
 class "*MenuBar" style "toolbar"
 
-style "hscrollbar" 
-{
-	engine "smooth" {
-		fill
-		{
-			style = shaded
-			hdirection = vertical
-			vdirection = horizontal
-			shade1 = 1.05
-			shade2 = 0.95
-		}
-	
-		line
-		{
-			style = smooth
-			thickness = 1
-		}
-	
-		trough
-		{
-			fill
-			{
-				style = solid
-			}
-		}
-	
-		grip
-		{
-			style = dots_in
-			count = 3
-			spacing = 2
-		}
-
-		focus
-		{
-			foreground[ACTIVE] = "#7590AE"
-			foreground[SELECTED] = "#7590AE"
-			foreground[NORMAL] = "#7590AE"
-			foreground[PRELIGHT] = "#7590AE"
-		}
-	
-		arrow
-		{
-			style = cleanice
-			solid = TRUE
-			xpadding = 1
-			ypadding = 1
-
-			INSENSITIVE
-			{
-				etched = TRUE
-			}
-		}
-	}
-}
-widget_class "*HScrollbar*"         style "hscrollbar"
-class "*HScrollbar*"                style "hscrollbar"
-widget_class "*HScale*"         style "hscrollbar"
-class "*HScale*"                style "hscrollbar"
-
 style "progressbar"
 {
 	bg[PRELIGHT] = "#7590AE"
@@ -324,84 +99,10 @@ style "progressbar"
 }
 widget_class "*ProgressBar*" style "progressbar"
 
-style "vscrollbar" 
-{
-	engine "smooth" {
-		fill
-		{
-			style = shaded
-			hdirection = vertical
-			vdirection = horizontal
-			shade1 = 1.05
-			shade2 = 0.95
-		}
-	
-		line
-		{
-			style = smooth
-			thickness = 1
-		}
-	
-		trough
-		{
-			fill
-			{
-				style = solid
-			}
-		}
-	
-		grip
-		{
-			style = dots_in
-			count = 3
-			spacing = 2
-		}
-
-		focus
-		{
-			foreground[ACTIVE] = "#7590AE"
-			foreground[SELECTED] = "#7590AE"
-			foreground[NORMAL] = "#7590AE"
-			foreground[PRELIGHT] = "#7590AE"
-		}
-	
-		arrow {
-			style = cleanice
-			solid = TRUE
-			xpadding = 1
-			ypadding = 1
-
-			INSENSITIVE
-			{
-				etched = TRUE
-			}
-		}
-	}
-}
-widget_class "*VScrollbar*"         style "vscrollbar"
-class "*VScrollbar*"                style "vscrollbar"
-widget_class "*VScale*"         style "vscrollbar"
-class "*VScale*"                style "vscrollbar"
-
 style "tooltip"
 {
     bg[NORMAL] = "#FFF1BE" # Variant of Accent Yellow
 	fg[NORMAL] = "#000000"
-
-	engine "smooth"
-	{
-		fill
-		{
-			style 	= solid
-		}
-		edge 
-		{
-			line
-			{
-				style = flat
-			}
-		}
-	}
 }
 widget "gtk-tooltips" style "tooltip"
 
