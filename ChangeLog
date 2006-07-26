@@ -1,3 +1,16 @@
+2006-07-26  Luca Ferretti  <luca@redrum>
+
+	* icon-themes/HighContrast-SVG/scalable/action/document-print.svg:
+	* icon-themes/HighContrast-SVG/scalable/action/document-print-preview.svg:
+	* icon-themes/HighContrast-SVG/scalable/action/document-revert.svg:
+	* icon-themes/HighContrast-SVG/scalable/action/document-save.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desktop.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-cdrom.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-floppy.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/printer.svg:
+
+	New and updated icons.
+
 2006-07-25  Thomas Wood  <thos@gnome.org>
 
 	* desktop-themes/Crux/index.theme.in: Update description (Crux is no
