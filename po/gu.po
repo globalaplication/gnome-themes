@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.gu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-05-15 23:22+0200\n"
-"PO-Revision-Date: 2006-05-16 09:53+0530\n"
+"POT-Creation-Date: 2006-07-26 01:38+0200\n"
+"PO-Revision-Date: 2006-07-26 10:34+0530\n"
 "Last-Translator: Ankit Patel <ankit644@yahoo.com>\n"
 "Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -17,6 +17,7 @@ msgstr ""
 "<magnet@magnet-i.com>\n"
 "X-Generator: KBabel 1.9.1\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"\n"
 "\n"
 "\n"
 "\n"
@@ -91,8 +92,8 @@ msgid "Crux"
 msgstr "ક્રક્ક્ષ"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "લીસા ક્રમ સાથેની રંગીન ઝલકો"
+msgid "Smooth gradients with purple highlights"
+msgstr "જાંબલી પ્રકાશનો સાથેના લીસા ઢાળો"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -102,14 +103,6 @@ msgstr "ગ્લાઈડર"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "સરળ, લીસુ અને સુંદરતાવાળુ સંતોષી"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "ધૂળિત નારંગી દેખાવ"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "ગ્રાન્ડ કેન્યોન"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "નાનાંમાં નાનો દેખાવ"
@@ -118,53 +111,9 @@ msgstr "નાનાંમાં નાનો દેખાવ"
 msgid "Mist"
 msgstr "ધૂંધળુ"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "મહાસાગરીય સ્વપ્ન"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "સમુદ્ર કિનારાનાં રંગો"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "સરળ"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "પાતળો દેખાવ, ઊંચું પ્રદર્શન"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "નરમ કાચ જેવો દેખાવ"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "ધુમાડા જેવો ભુરો"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "પરંપરાગત"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "પરંપરાગત કઠણ ધારવાળો 3D દેખાવ"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "સમતલ-ભુરો"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "રેતાળ"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "ધુમાડા જેવો ભુરો"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "ધુમાડા જેવો લાલ"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
