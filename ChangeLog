@@ -1,4 +1,10 @@
-2006-07-26  Luca Ferretti  <luca@redrum>
+2006-07-27  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/action/go-home.svg:
+
+	Replaced with places/user-home
+
+2006-07-26  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/action/document-print.svg:
 	* icon-themes/HighContrast-SVG/scalable/action/document-print-preview.svg:
