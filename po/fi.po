@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-03 10:11+0300\n"
-"PO-Revision-Date: 2006-07-03 10:12+0300\n"
+"POT-Creation-Date: 2006-07-27 13:48+0300\n"
+"PO-Revision-Date: 2006-07-27 13:49+0300\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -87,8 +87,8 @@ msgid "Crux"
 msgstr "Pulma"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Pehmeät väriliukumat sinivihreillä korostuksilla"
+msgid "Smooth gradients with purple highlights"
+msgstr "Pehmeät väriliukumat purppuranvärisillä korostuksilla"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -98,14 +98,6 @@ msgstr "Liidokki"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Yksinkertainen, sujuva ja esteettisesti miellyttävä"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Pölyisen oranssi ulkoasu"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Suuri kanjoni"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Minimalistinen ulkoasu"
@@ -114,45 +106,9 @@ msgstr "Minimalistinen ulkoasu"
 msgid "Mist"
 msgstr "Sumu"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Meriunelma"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Merenrannan värit"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Yksinkertainen"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Kevyt ulkonäkö, korkea suorituskyky"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Pehmeän lasimainen ulkoasu"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Savuisen sininen"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Tasaisen sininen"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Hiekka"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Savunsininen"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Savunpunainen"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -161,6 +117,39 @@ msgstr "Suurikontrastiset skaalattavat kuvat mustilla reunuksilla"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Suurikontrastinen SVG"
+
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Pölyisen oranssi ulkoasu"
+
+#~ msgid "Grand Canyon"
+#~ msgstr "Suuri kanjoni"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "Meriunelma"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "Merenrannan värit"
+
+#~ msgid "Simple"
+#~ msgstr "Yksinkertainen"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Kevyt ulkonäkö, korkea suorituskyky"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Pehmeän lasimainen ulkoasu"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "Savuisen sininen"
+
+#~ msgid "Sandy"
+#~ msgstr "Hiekka"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Savunsininen"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Savunpunainen"
 
 #~ msgid "Traditional"
 #~ msgstr "Perinteinen"
