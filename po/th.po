@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-06-15 10:23+0700\n"
-"PO-Revision-Date: 2006-06-15 10:27+0700\n"
+"POT-Creation-Date: 2006-07-28 16:43+0700\n"
+"PO-Revision-Date: 2006-07-28 16:45+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgid "Crux"
 msgstr "ถึงแก่น"
 
 #: desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
+msgid "Smooth gradients with purple highlights"
 msgstr "หน้าต่างดูคล้ายอลูมีเนียม"
 
 #: desktop-themes/Glider/index.theme.in.h:1
@@ -97,15 +97,6 @@ msgstr "ถลาลม"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "เรียบง่ายอย่างมีรสนิยม"
 
-#: desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "สีน้ำตาลหวาน"
-
-# I just looked at the theme and then make up a name.
-#: desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "กาละแม"
-
 #: desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "ดูเรียบง่าย ไม่ตกแต่งมาก"
@@ -114,45 +105,9 @@ msgstr "ดูเรียบง่าย ไม่ตกแต่งมาก"
 msgid "Mist"
 msgstr "ไอน้ำ"
 
-#: desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "ฝันถึงทะเล"
-
-#: desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "สีหาดทราย"
-
-#: desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "ง่ายๆ"
-
-#: desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "ไม่เรื่องมาก เน้นประสิทธิภาพ"
-
-#: desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "ดูอ่อนๆสะท้อนแสง"
-
-#: desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "ฟ้าหม่น"
-
 #: icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "แบนๆ สีฟ้า"
-
-#: icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "กระดาษทราย"
-
-#: icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "สีชา โทนฟ้า"
-
-#: icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "สีชา โทนแดง"
 
 #: icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -161,6 +116,40 @@ msgstr "ไอคอนปรับอัตราส่วนได้สีต
 #: icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "สีตัดกัน-SVG"
+
+#~ msgid "Dusty orange appearance"
+#~ msgstr "สีน้ำตาลหวาน"
+
+# I just looked at the theme and then make up a name.
+#~ msgid "Grand Canyon"
+#~ msgstr "กาละแม"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "ฝันถึงทะเล"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "สีหาดทราย"
+
+#~ msgid "Simple"
+#~ msgstr "ง่ายๆ"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "ไม่เรื่องมาก เน้นประสิทธิภาพ"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "ดูอ่อนๆสะท้อนแสง"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "ฟ้าหม่น"
+
+#~ msgid "Sandy"
+#~ msgstr "กระดาษทราย"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "สีชา โทนฟ้า"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "สีชา โทนแดง"
 
 #~ msgid "Traditional"
 #~ msgstr "ดั้งเดิม"
