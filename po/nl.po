@@ -3,16 +3,14 @@
 # Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>, 2003
 # Reinout van Schouwen <reinout@cs.vu.nl>, 2003
 # Henrik Goijer <henrikgoijer@home.nl>, 2004
-# Tino Meinen <a.t.meinen@chello.nl>, 2004
+# Tino Meinen <a.t.meinen@chello.nl>, 2004, 2006.
 #
-# ---
-# moeten de Engelse hoofdletters voor elk woord behouden blijven in de vertaling?
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-10-15 12:32+0200\n"
-"PO-Revision-Date: 2004-09-01 13:09+0200\n"
+"POT-Creation-Date: 2006-07-28 10:04+0200\n"
+"PO-Revision-Date: 2006-07-29 01:32+0200\n"
 "Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +27,7 @@ msgstr "Hoog contrast"
 
 #: ../HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Hoog Contrast Negatief"
+msgstr "Hoog contrast negatief"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -37,7 +35,7 @@ msgstr "Wit-op-zwart tekst en pictogrammen"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Hoog Contrast Grote Tekst"
+msgstr "Hoog contrast grote tekst"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -45,7 +43,7 @@ msgstr "Grote zwart-op-wit tekst en pictogrammen"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Hoog Contrast Grote Tekst Negatief"
+msgstr "Hoog contrast grote tekst negatief"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -53,7 +51,7 @@ msgstr "Grote wit-op-zwart tekst en pictogrammen"
 
 #: ../LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "Grote Tekst"
+msgstr "Grote tekst"
 
 #: ../LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
@@ -61,7 +59,7 @@ msgstr "Grote tekst en pictogrammen"
 
 #: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Laag Contrast"
+msgstr "Laag contrast"
 
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -73,11 +71,12 @@ msgstr "Grote zachte tekst en pictogrammen"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Laag Contrast Grote Tekst"
+msgstr "Laag contrast grote tekst"
 
+# Aantrekkelijke bruikbaarheid/bruikbaar en aantrekkelijk/mooi
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
-msgstr "Aantrekkelijke bruikbaarheid"
+msgstr "Bruikbaar en mooi"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
@@ -89,8 +88,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Subtiel kleurverloop met groene accenten"
+msgid "Smooth gradients with purple highlights"
+msgstr "Subtiel kleurverloop met paarse accenten"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -100,14 +99,6 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Eenvoudig, glad en esthetisch verantwoord"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Stoffig oranje uiterlijk"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Een minimalistisch uiterlijk"
@@ -116,51 +107,55 @@ msgstr "Een minimalistisch uiterlijk"
 msgid "Mist"
 msgstr "Mist"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Oceaandroom"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "De kleuren van de zeekust"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Eenvoudig"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Rank uiterlijk, hoge snelheid"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Een zacht glasachtig uiterlijk"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Rokerig Blauw"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Traditioneel"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Het traditionele 3D-uiterlijk met harde randen"
-
 # vlakblauw
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "Plat-blauw"
+msgstr "Vlak-blauw"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Zand"
+# "schaalbaar" niet meervertaald
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Hoog contrast pictogrammen met zwarte randen"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Rokerig-Blauw"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Hoog contrast SVG"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Rokerig-Rood"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Stoffig oranje uiterlijk"
+
+#~ msgid "Grand Canyon"
+#~ msgstr "Grand Canyon"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "Oceaandroom"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "De kleuren van de zeekust"
+
+#~ msgid "Simple"
+#~ msgstr "Eenvoudig"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Rank uiterlijk, hoge snelheid"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Een zacht glasachtig uiterlijk"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "Rokerig Blauw"
+
+#~ msgid "Traditional"
+#~ msgstr "Traditioneel"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Het traditionele 3D-uiterlijk met harde randen"
+
+#~ msgid "Sandy"
+#~ msgstr "Zand"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Rokerig-Blauw"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Rokerig-Rood"
