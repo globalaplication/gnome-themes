@@ -1,3 +1,46 @@
+2.14.3
+======
+
+New/improved translations:
+
+2006-06-26  Abel Cheung  <abel@oaka.org>
+      * zh_HK.po, zh_TW.po: Updated traditional Chinese translation.
+
+2006-05-13  Ahmad Riza H Nst  <rizahnst@eriagempita.co.id>
+      * id.po: Updated.
+
+2006-04-15  Jérémy Ar Floc'h  <jeremy.lefloch@gmail.com>
+      * br.po: Added Breton translation.
+
+2006-04-05  Priit Laes  <amd@store20.com>
+      * et.po: Translation updated by Ivar Smolin.
+
+2006-04-04  Gora Mohanty  <gmohanty@cvs.gnome.org>
+        * or.po: Added Oriya translation.
+
+2006-03-28  Vladimer Sichinava  <vlsichinava@gmail.com>
+        * ka.po: Added Georgian translation.
+
+2006-03-27  Yair Hershkovitz  <yairhr@gmail.com>
+      * he.po: Updated Hebrew translation.
+
+2006-03-24  Tommi Vainikainen  <thv@iki.fi>
+      * dz.po: Added Dzongkha translation from Pema Geyleg.
+
+2006-03-24  Ales Nyakhaychyk  <nab@mail.by>
+      * be.po: Updated Belarusian translation.
+
+
+2.14.2
+======
+
+There was no 2.14.2 release.
+
+2.14.1
+======
+
+There was no 2.14.1 release.
+
 2.14.0
 ======
 
