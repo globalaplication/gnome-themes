@@ -1,5 +1,11 @@
 2006-08-02  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/*:
+
+	Add .cvsignore files.
+
+2006-08-02  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/*/preferences-desktop-accessibility.svg:
 
 	Remove the one under "categories" and keep the one under "apps"
