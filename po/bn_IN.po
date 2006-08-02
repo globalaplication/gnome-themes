@@ -1,5 +1,5 @@
-# The Bengali translation for gnome-themes
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# The Bengali India  translation for gnome-themes
+# Copyright (C) 2002, 2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Jamil Ahmed <jamil@bengalinux.org>, 2003.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
@@ -8,13 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-03 07:28+0200\n"
-"PO-Revision-Date: 2005-09-30 02:15+0600\n"
-"Last-Translator: Samia Niamatullah <mailsamia2001@yahoo.com>\n"
-"Language-Team: Bengali <gnome-translation@bengalinux.org>\n"
+"POT-Creation-Date: 2006-08-02 07:20+0200\n"
+"PO-Revision-Date: 2006-08-02 17:26+0530\n"
+"Last-Translator: Runa Bhattacharjee <runabh@gmail.com>\n"
+"Language-Team: Bengali India\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -34,7 +36,7 @@ msgstr "কালোর উপর সাদা অক্ষর এবং আই�
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "গাঢ় তারতম্যের বড় ছাপা অক্ষর"
+msgstr "গাঢ় তারতম্যসহ বড় ছাপা অক্ষর"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -63,12 +65,12 @@ msgstr "হালকা তারতম্য"
 # sam: what is muted?
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Muted অক্ষর এবং আইকন"
+msgstr "হাল্কা অক্ষর এবং আইকন"
 
 # Muted ??
 #: ../LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Muted বড় অক্ষর এবং আইকন"
+msgstr "হাল্কা বৈশিষ্ট্যের বড় অক্ষর এবং আইকন"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -76,20 +78,20 @@ msgstr "হালকা তারতম্য বিশিষ্ট বড় ছ�
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
-msgstr "আকর্ষনীয় ব্যবহারযোগ্যতা"
+msgstr "আকর্ষণীয় ব্যবহারযোগ্যতা"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
-msgstr "ক্লিয়ারলুকস"
+msgstr "ক্লিয়ার-লুকস"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
 msgid "Crux"
-msgstr "জটিল"
+msgstr "ক্রুক্স"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "টীল রঙে হাইলাইটকৃত মসৃণ গ্রেডিয়েন্ট"
+msgid "Smooth gradients with purple highlights"
+msgstr "বেগুনি রঙের ঔজ্জল্যসহ মসৃণ গ্রেডিয়েন্ট"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -98,75 +100,25 @@ msgstr "গ্লাইডার"
 # মনোরম
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "সহজ, মসৃন এবং নান্দনিক"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "ধূসর কমলা আবির্ভাব"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "গ্রান্ড ক্যানিয়ন"
+msgstr "সরল, মসৃণ এবং নান্দনিক"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "অতি সাধারণ"
+msgstr "অতি সাধারণ অবয়ব"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
 msgstr "কুয়াশা"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "সমুদ্র স্বপ্ন"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "সাগর পাড়ের বর্ণচ্ছটা"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "সাধারন"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "শক্তিশালী, হালকা আবির্ভাব"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "কোমল পরিষ্কার আবির্ভাব"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "ধোয়াটে নীল"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "সাধারন নীল"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "বালুময়"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "ধোয়াটে নীল"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "ধোয়াটে লাল"
+msgstr "সাধারণ নীল"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
-msgstr ""
+msgstr "কালো প্রান্তরেখাসহ গাঢ় তারতম্যের প্রসারণযোগ্য আইকন"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
-#, fuzzy
 msgid "HighContrast-SVG"
-msgstr "গাঢ় তারতম্য"
+msgstr "HighContrast-SVG"
 
-#~ msgid "Traditional"
-#~ msgstr "প্রচলিত"
-
-#~ msgid "Traditional hard-edged 3D appearance"
-#~ msgstr "প্রচলিত দৃঢ় ত্রিমাত্রিক আবির্ভাব"
