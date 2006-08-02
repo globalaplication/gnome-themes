@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 # End KDE Specific Stuff
 
-Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,48x48/animations
 
 [scalable/actions]
 Size=48
@@ -85,3 +85,8 @@ Context=Status
 Type=Scalable
 MinSize=12
 MaxSize=256
+
+[48x48/animations]
+Size=48
+Context=Animations
+Type=Scalable

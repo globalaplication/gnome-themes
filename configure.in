@@ -112,6 +112,8 @@ icon-themes/Makefile
 icon-themes/Crux/Makefile
 icon-themes/Flat-Blue/Makefile
 icon-themes/HighContrast-SVG/Makefile
+icon-themes/HighContrast-SVG/Makefile/48x48/Makefile
+icon-themes/HighContrast-SVG/Makefile/48x48/animations/Makefile
 icon-themes/HighContrast-SVG/scalable/Makefile
 icon-themes/HighContrast-SVG/scalable/actions/Makefile
 icon-themes/HighContrast-SVG/scalable/apps/Makefile

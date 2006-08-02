@@ -1,5 +1,16 @@
 2006-08-02  Luca Ferretti  <elle.uca@libero.it>
 
+	* configure.in:
+	* icon-themes/HighContrast-SVG/index.theme.in:
+	* icon-themes/HighContrast-SVG/48x48/animations/*:
+
+	Add process-idle and process-working as PNG files. Works fine
+	in Nautilus, I've to test them in Epiphany tabs.
+
+	PS do you think we could be able to use SVG for process-working too?
+
+2006-08-02  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/*:
 
 	Add .cvsignore files.
