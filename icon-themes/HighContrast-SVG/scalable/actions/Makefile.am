@@ -32,6 +32,7 @@ icon_DATA =					\
 	edit-redo.svg				\
 	edit-select-all.svg			\
 	edit-undo.svg				\
+	folder-new.svg				\
 	format-indent-less.svg			\
 	format-indent-more.svg			\
 	format-justify-center.svg		\
@@ -81,6 +82,10 @@ icon_DATA =					\
 	media-seek-forward.svg			\
 	media-skip-backward.svg			\
 	media-skip-forward.svg			\
+	object-flip-horizontal.svg		\
+	object-flip-vertical.svg		\
+	object-rotate-left.svg			\
+	object-rotate-righ.svg			\
 	process-stop.svg			\
 	system-lock-screen.svg			\
 	system-log-out.svg			\

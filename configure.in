@@ -36,7 +36,7 @@ GTK_VERSION=`$PKG_CONFIG --variable=gtk_binary_version gtk+-2.0`
 AC_SUBST(GTK_VERSION)
 
 # icon-naming-utils (optional for now, only used by HighContrast-SVG)
-UTILS_REQUIRED=0.7.4
+UTILS_REQUIRED=0.8.0
 AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
 PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,
                  have_utils=yes, have_utils=no)

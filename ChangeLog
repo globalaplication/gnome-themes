@@ -1,3 +1,38 @@
+2006-08-02  Luca Ferretti  <elle.uca@libero.it>
+
+	* configure.in:
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/categories/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+	Changed.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/folder-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-send.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-flip-horizontal.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-flip-vertical.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-left.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-righ.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-engineering.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-science.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-optical.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-flash.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-optical.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-tape.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/modem.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/security-high.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/security-low.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/security-medium.svg:
+	Added.
+
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-accessibility.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-cdrom.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-cdrom.svg:
+	Removed.
+	
+	Update to Icon Naming Specification ver. 0.8.0 removing deprecated
+	icons and adding placeholders (big red dot) for new ones.
+
 2006-07-27  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/action/go-home.svg:

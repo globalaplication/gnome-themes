@@ -11,14 +11,17 @@ icon_DATA =				\
 	camera-photo.svg		\
 	camera-video.svg		\
 	computer.svg			\
-	drive-cdrom.svg			\
 	drive-harddisk.svg		\
+	drive-optical.svg		\
 	drive-removable-media.svg	\
 	input-gaming.svg		\
 	input-keyboard.svg		\
 	input-mouse.svg			\
-	media-cdrom.svg			\
+	media-flash.svg			\
 	media-floppy.svg		\
+	media-optical.svg		\
+	media-tape.svg			\
+	modem.svg			\
 	multimedia-player.svg		\
 	network-wired.svg		\
 	network-wireless.svg		\
