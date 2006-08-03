@@ -7,9 +7,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"Report-Msgid-Bugs-To:\n"
-"POT-Creation-Date: 2006-06-26 22:01+0200\n"
-"PO-Revision-Date: 2006-06-26 22:02+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-08-03 13:48+0200\n"
+"PO-Revision-Date: 2006-08-03 13:49+0200\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian Bokmal <i18n-nb@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -86,8 +86,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Myke gradienter med grønnlig preg"
+msgid "Smooth gradients with purple highlights"
+msgstr "Myke gradienter med purpur preg"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -97,14 +97,6 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Enkelt, mykt og fornøyelig estetisk"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Støvete oransje utseende"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Et minimalistisk utseende"
@@ -113,45 +105,9 @@ msgstr "Et minimalistisk utseende"
 msgid "Mist"
 msgstr "Tåke"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Havdrøm"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Farger fra kysten"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Enkelt"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Tynt utseende, høy ytelse"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Et mykt glassaktig utseende"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Blårøyk"
-
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
 msgstr "Flat blå"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Sandet"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Blårøyk"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Rødrøyk"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -160,3 +116,36 @@ msgstr "Skalerbare ikoner med høy kontrast og sort kant"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Høy kontrast SVG"
+
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Støvete oransje utseende"
+
+#~ msgid "Grand Canyon"
+#~ msgstr "Grand Canyon"
+
+#~ msgid "Ocean Dream"
+#~ msgstr "Havdrøm"
+
+#~ msgid "The colours of the seashore"
+#~ msgstr "Farger fra kysten"
+
+#~ msgid "Simple"
+#~ msgstr "Enkelt"
+
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Tynt utseende, høy ytelse"
+
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Et mykt glassaktig utseende"
+
+#~ msgid "Smokey Blue"
+#~ msgstr "Blårøyk"
+
+#~ msgid "Sandy"
+#~ msgstr "Sandet"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Blårøyk"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Rødrøyk"
