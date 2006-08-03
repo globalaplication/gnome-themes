@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-23 23:18+0200\n"
-"PO-Revision-Date: 2006-07-24 00:28+0200\n"
+"POT-Creation-Date: 2006-08-03 15:52+0200\n"
+"PO-Revision-Date: 2006-08-03 20:40+0200\n"
 "Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
 "Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
 "MIME-Version: 1.0\n"
@@ -92,8 +92,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Фини градиенти со темни светли површини"
+msgid "Smooth gradients with purple highlights"
+msgstr "Фини градиенти со пурпурни површини"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
