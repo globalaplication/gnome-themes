@@ -110,7 +110,6 @@ gtk-themes/Makefile
 gtk-themes/Glider/Makefile
 icon-themes/Makefile
 icon-themes/Crux/Makefile
-icon-themes/Flat-Blue/Makefile
 icon-themes/HighContrast-SVG/Makefile
 icon-themes/HighContrast-SVG/48x48/Makefile
 icon-themes/HighContrast-SVG/48x48/animations/Makefile
@@ -123,6 +122,15 @@ icon-themes/HighContrast-SVG/scalable/emblems/Makefile
 icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile
 icon-themes/HighContrast-SVG/scalable/places/Makefile
 icon-themes/HighContrast-SVG/scalable/status/Makefile
+icon-themes/Mist/Makefile
+icon-themes/Mist/16x16/Makefile
+icon-themes/Mist/16x16/places/Makefile
+icon-themes/Mist/22x22/Makefile
+icon-themes/Mist/22x22/places/Makefile
+icon-themes/Mist/32x32/Makefile
+icon-themes/Mist/32x32/places/Makefile
+icon-themes/Mist/scalable/Makefile
+icon-themes/Mist/scalable/places/Makefile
 common/Makefile
 HighContrast/Makefile
 HighContrast/gtk-2.0/Makefile

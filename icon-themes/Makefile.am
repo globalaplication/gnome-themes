@@ -1,1 +1,1 @@
-SUBDIRS=Crux Flat-Blue HighContrast-SVG
+SUBDIRS=Crux HighContrast-SVG Mist 

@@ -1,3 +1,9 @@
+2006-08-07  Thomas Wood,,,  <set EMAIL_ADDRESS environment variable>
+
+	reviewed by: <delete if not using a buddy>
+
+	* POTFILES.in:
+
 2006-08-07  Inaki Larranaga  <dooteo@euskalgnu.org>
 
 	* eu.po: Updated Basque translation.
