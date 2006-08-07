@@ -1,8 +1,6 @@
-2006-08-07  Thomas Wood,,,  <set EMAIL_ADDRESS environment variable>
+2006-08-07  Thomas Wood  <thos@gnome.org>
 
-	reviewed by: <delete if not using a buddy>
-
-	* POTFILES.in:
+	* POTFILES.in: Flat-Blue has been replaced by Mist
 
 2006-08-07  Inaki Larranaga  <dooteo@euskalgnu.org>
 

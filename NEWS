@@ -1,3 +1,61 @@
+2.15.91
+=======
+
+New features:
+
+  * Updates to the HighContrast SVG theme
+  * Improved Glider theme
+  * New Mist icon theme
+  * New Clarius theme to use as the default theme in GNOME
+
+New/improved translations:
+
+2006-08-07  Inaki Larranaga  <dooteo@euskalgnu.org>
+
+        * eu.po: Updated Basque translation.
+
+2006-08-07  Jakub Friedl <jfriedl@suse.cz>
+
+        * cs.po: Updated Czech translation
+
+2006-08-06  Ani Peter <peter.ani@gmail.com>
+
+        * ml.po: Updated Malayalam translation
+
+2006-08-05  Chao-Hsiung Liao  <j_h_liau@yahoo.com.tw>
+
+        * zh_HK.po: Updated Traditional Chinese translation(Hong Kong).
+        * zh_TW.po: Updated Traditional Chinese translation(Taiwan).
+
+2006-08-03  Kjartan Maraas  <kmaraas@gnome.org>
+
+        * nb.po: Updated Norwegian bokmål translation.
+
+2006-08-02  Runa Bhattacharjee <runabh@gmail.com>
+
+        * bn_IN.po: Updated Bengali India Translation.
+
+2006-07-29  Vincent van Adrighem  <adrighem@gnome.org>
+
+        * nl.po: Translation updated by Tino Meinen.
+
+2006-07-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+        * th.po: Updated Thai translation.
+
+2006-07-27  Ilkka Tuohela  <hile@iki.fi>
+
+        * fi.po: Updated Finnish translation.
+
+2006-07-26  Ankit Patel  <ankit644@yahoo.com>
+
+        * gu.po: Updated Gujarati Translation.
+
+2006-07-26  Francisco Javier F. Serrador  <serrador@openshine.com>
+
+        * es.po: Updated Spanish translation.
+
+
 2.15.90
 =======
 

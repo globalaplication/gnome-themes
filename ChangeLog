@@ -1,3 +1,17 @@
+2006-08-08  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.15.91 release
+	
+	* desktop-themes/Clearlooks/index.theme.in:
+	* gtk-themes/Clarius/Makefile.am:
+	* gtk-themes/Clarius/gtkrc:
+	* gtk-themes/Makefile.am:
+
+	New Clarius theme to use as the default theme in GNOME
+
 2006-08-07  Thomas Wood  <thos@gnome.org>
 
 	* configure.in:

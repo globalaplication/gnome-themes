@@ -108,6 +108,7 @@ desktop-themes/Mist/Makefile
 metacity-themes/Makefile
 gtk-themes/Makefile
 gtk-themes/Glider/Makefile
+gtk-themes/Clarius/Makefile
 icon-themes/Makefile
 icon-themes/Crux/Makefile
 icon-themes/HighContrast-SVG/Makefile
