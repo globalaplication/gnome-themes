@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-28 16:43+0700\n"
-"PO-Revision-Date: 2006-07-28 16:45+0700\n"
+"POT-Creation-Date: 2006-08-08 13:50+0700\n"
+"PO-Revision-Date: 2006-08-08 14:05+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <L10n@opentle.org>\n"
 "MIME-Version: 1.0\n"
@@ -102,12 +102,9 @@ msgid "A minimalistic appearance"
 msgstr "ดูเรียบง่าย ไม่ตกแต่งมาก"
 
 #: desktop-themes/Mist/index.theme.in.h:2
+#: icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr "ไอน้ำ"
-
-#: icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "แบนๆ สีฟ้า"
+msgstr "หมอก"
 
 #: icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -116,6 +113,9 @@ msgstr "ไอคอนปรับอัตราส่วนได้สีต
 #: icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "สีตัดกัน-SVG"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "แบนๆ สีฟ้า"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "สีน้ำตาลหวาน"
