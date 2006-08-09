@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.dz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-18 22:37+0530\n"
-"PO-Revision-Date: 2006-07-18 15:27+0530\n"
+"POT-Creation-Date: 2006-08-07 23:54+0200\n"
+"PO-Revision-Date: 2006-08-08 15:53+0530\n"
 "Last-Translator: Mindu Dorji\n"
 "Language-Team: DZONGKHA <pgeyleg@dit.gov.bt>\n"
 "MIME-Version: 1.0\n"
@@ -89,8 +89,8 @@ msgid "Crux"
 msgstr "གནད་དགག།"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "འཇམ་ཁྱུག་ལྡན་པའི་སྟེགས་རིས་ སྔོ་ལྗང་ཅན་གྱི་གཙོ་དམིགས་དང་བཅས།"
+msgid "Smooth gradients with purple highlights"
+msgstr "རྒྱ་སྨུག་ཅན་གྱི་གཙོ་དམིགས་དང་བཅས་པའི་ འཇམ་ཁྱུག་ལྡན་པའི་སྟེགས་རིས།"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -105,12 +105,9 @@ msgid "A minimalistic appearance"
 msgstr "ཆུང་བཟོས་འབྱུང་སྣང་ཅིག།"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "སྨུག་ཟིལ།"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "ཧོན་རྐྱང་།"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -120,41 +117,32 @@ msgstr "ཚོན་མདངས་ཆེ་བའི་ ཚད་འཇལ་�
 msgid "HighContrast-SVG"
 msgstr "ཚོན་མདངས་ཆེ་བའི་-ཨེསི་ཝི་ཇི།"
 
+#~ msgid "Flat-Blue"
+#~ msgstr "ཧོན་རྐྱང་།"
 #~ msgid "Dusty orange appearance"
 #~ msgstr "ལི་ཝང་ཐལ་ཁོག་ཅན་གྱི་འབྱུང་སྣང་།"
-
 #~ msgid "Grand Canyon"
 #~ msgstr "གེརེན་ ཀེན་ཡཱོན།"
-
 #~ msgid "Ocean Dream"
 #~ msgstr "རྒྱ་མཚོའི་སྣང་བ།"
-
 #~ msgid "The colours of the seashore"
 #~ msgstr "མཚོ་མཐའི་ཚོས་གཞི།"
-
 #~ msgid "Simple"
 #~ msgstr "འཇམ་སམ།"
-
 #~ msgid "Thin appearance, high performance"
 #~ msgstr "འབྱུང་སྣང་སྲབ་ཅིང་ ལཱ་ཤུགས་ཆེ་བ།"
-
 #~ msgid "A soft glassy appearance"
 #~ msgstr "ཤེལ་བཟུམ་སྦེ་ འཇམ་ཁྱུག་ཅན་གྱི་འབྱུང་སྣང་།"
-
 #~ msgid "Smokey Blue"
 #~ msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
-
 #~ msgid "Traditional"
 #~ msgstr "སྔར་སྲོལ་གྱི་།"
-
 #~ msgid "Traditional hard-edged 3D appearance"
 #~ msgstr "སྔར་སྲོལ་གྱི་ མཐའམ་སྲ་བའི་ ༣ཌི་ གྱི་འབྱུང་སྣང་།"
-
 #~ msgid "Sandy"
 #~ msgstr "བྱེམ་ཁོག་ཁོ།"
-
 #~ msgid "Smokey-Blue"
 #~ msgstr "ཧོནམ་དུ་པ་ཁོག་ཁོ།"
-
 #~ msgid "Smokey-Red"
 #~ msgstr "དམརཔོ་དུ་པ་ཁོག་ཁོ།"
+
