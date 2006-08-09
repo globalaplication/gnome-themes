@@ -1,5 +1,17 @@
 2006-08-08  Thomas Wood  <thos@gnome.org>
 
+	Brown paper bag release: 2.15.91.1
+
+	* configure.in: Fail if icon-naming-utils not found
+	* desktop-themes/Mist/index.theme.in: Use Mist rather than Flat-Blue
+	for the icon theme
+	* icon-themes/Mist/index.theme.in:
+	* icon-themes/Mist/scalable/Makefile.am:
+	* icon-themes/Mist/scalable/{actions,status}:
+	Start to make the Mist icon theme actually work
+
+2006-08-08  Thomas Wood  <thos@gnome.org>
+
 	* NEWS:
 	* configure.in:
 

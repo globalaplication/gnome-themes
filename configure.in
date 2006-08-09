@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([gnome-themes], [2.15.91],
+AC_INIT([gnome-themes], [2.15.91.1],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes])
 AC_CONFIG_SRCDIR([LargePrint])
 
@@ -48,6 +48,8 @@ if test "x$have_utils" = "xyes"; then
    AC_MSG_RESULT([yes])
 else
    AC_MSG_RESULT([no])
+   AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
+                 and install gnome-themes])
 fi
 
 # gettext stuff
@@ -131,6 +133,8 @@ icon-themes/Mist/22x22/places/Makefile
 icon-themes/Mist/32x32/Makefile
 icon-themes/Mist/32x32/places/Makefile
 icon-themes/Mist/scalable/Makefile
+icon-themes/Mist/scalable/actions/Makefile
+icon-themes/Mist/scalable/status/Makefile
 icon-themes/Mist/scalable/places/Makefile
 common/Makefile
 HighContrast/Makefile
