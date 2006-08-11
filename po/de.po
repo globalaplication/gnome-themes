@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.4.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-18 12:27+0200\n"
-"PO-Revision-Date: 2006-07-18 12:29+0200\n"
+"POT-Creation-Date: 2006-08-11 12:30+0200\n"
+"PO-Revision-Date: 2006-08-11 12:33+0200\n"
 "Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -88,8 +88,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Smaragdgrünes Thema mit weichen Farbverläufen"
+msgid "Smooth gradients with purple highlights"
+msgstr "Violettes Thema mit weichen Farbverläufen"
 
 # Eigenname
 #: ../desktop-themes/Glider/index.theme.in.h:1
@@ -106,13 +106,9 @@ msgstr "Eine minimalistische Oberfläche"
 
 # Eigenname
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Mist"
-
-# Eigenname
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Flat-Blue"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -121,6 +117,10 @@ msgstr "Skalierbare Symbole mit hohem Kontrast und schwarzen Rahmen"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Hoher Kontrast-SVG"
+
+# Eigenname
+#~ msgid "Flat-Blue"
+#~ msgstr "Flat-Blue"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Staubig und rostrot"
