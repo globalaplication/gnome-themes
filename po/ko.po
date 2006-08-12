@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.5.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-23 01:12+0900\n"
-"PO-Revision-Date: 2006-07-23 01:13+0900\n"
+"POT-Creation-Date: 2006-08-12 20:46+0900\n"
+"PO-Revision-Date: 2006-08-12 20:48+0900\n"
 "Last-Translator: Young-Ho Cha <ganadist@gmail.com>\n"
 "Language-Team: GNOME Korea <gnome-kr-hackers@lists.kldp.net>\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +85,8 @@ msgid "Crux"
 msgstr "남십자성"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "부드럽게 점점 밝아지는 검둥오리색"
+msgid "Smooth gradients with purple highlights"
+msgstr "자주색의 부드러운 그라디언트 효과"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -101,12 +101,9 @@ msgid "A minimalistic appearance"
 msgstr "간단주의자를 위한 모양새"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "흐림"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "단조로운 푸른빛"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -115,6 +112,9 @@ msgstr "검은색 윤곽선이 있는 고대비 크기 조절 가능 아이콘"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "고대비 SVG"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "단조로운 푸른빛"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "먼지투성이 오렌지색 모양새"
