@@ -1,3 +1,8 @@
+2006-08-15  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.in: Require intltool 0.35.0 to make sure translations
+	work with the po/LINGUAS scheme.
+
 2006-08-08  Thomas Wood  <thos@gnome.org>
 
 	Brown paper bag release: 2.15.91.1
