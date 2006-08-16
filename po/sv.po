@@ -10,10 +10,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-16 15:56+0200\n"
-"PO-Revision-Date: 2006-07-16 18:18+0100\n"
+"POT-Creation-Date: 2006-08-15 16:55+0200\n"
+"PO-Revision-Date: 2006-08-15 19:47+0100\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
-"Language-Team: Swedish <sv@li.org>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -88,8 +88,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Mjuka gradienter med blågröna framtoningar"
+msgid "Smooth gradients with purple highlights"
+msgstr "Mjuka gradienter med lila framtoningar"
 
 # Calum Benson explained:
 #
@@ -114,12 +114,9 @@ msgid "A minimalistic appearance"
 msgstr "Minimalistiskt utseende"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Dimma"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Platt-blå"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -129,6 +126,8 @@ msgstr "Skalbara ikoner med hög konstrast med svarta kanter"
 msgid "HighContrast-SVG"
 msgstr "Hög kontrast-SVG"
 
+#~ msgid "Flat-Blue"
+#~ msgstr "Platt-blå"
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Dammigt orange utseende"
 #~ msgid "Grand Canyon"
