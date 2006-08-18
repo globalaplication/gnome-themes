@@ -1,3 +1,8 @@
+2006-08-18  Thierry Randrianiriana  <randrianiriana@gmail.com>
+
+	* mg.po: Added Malagasy translation.
+	* LINGUAS: Added 'mg'.
+
 2006-08-17  Satoru SATOH <ss@gnome.gr.jp>
 
 	* ja.po: Updated Japanese translation.
@@ -9,7 +14,7 @@
 2006-08-16  Daniel Nylander <po@danielnylander.se>
 
 	* sv.po: Updated Swedish translation.
-	
+
 2006-08-16  Gabor Kelemen  <kelemeng@gnome.hu>
 
 	* hu.po: Translation updated.
@@ -112,7 +117,7 @@
 2006-07-16  Daniel Nylander  <po@danielnylander.se>
 
 	* sv.po: Updated Swedish translation.
-	
+
 2006-07-10  Calum Benson,,,  <calum.benson@sun.com>
 
 	* POTFILES.in:
@@ -198,7 +203,7 @@
 2006-02-28  Clytie Siddall <clytie@riverland.net.au>
 
 	* lv.po: Updated Latvian translation by Raivis Dejus <orvils@gmail.com>.
-	
+
 2006-01-17  Luca Ferretti  <elle.uca@libero.it>
 
 	* it.po: Updated Italian Translation.
@@ -553,9 +558,9 @@
 	* ar.po: Updated Arabic translation
 
 2004-09-06  David Lodge <dave@cirt.net>
-                                                                                
+
         * en_GB.po: Updated British translation.
-                                                                                
+
 2004-09-06  Mugurel Tudor  <mugurelu@go.ro>
 
         * ro.po: Updated Romanian translation
@@ -581,7 +586,7 @@
 2004-09-03  Hendrik Richter <hendrik@gnome-de.org>
 
         * de.po: Updated German translation
-	
+
 2004-09-01  Vincent van Adrighem  <adrighem@gnome.org>
 
 	* nl.po: Translation updated by Tino Meinen.
@@ -624,7 +629,7 @@
 
 2004-08-19  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Updated Finnish translation. 
+	* fi.po: Updated Finnish translation.
 
 2004-08-19  Adam Weinberger  <adamw@gnome.org>
 
@@ -729,10 +734,10 @@
 
 	* is.po: Updated Icelandic translation by
 	Helgi Þormar Þorbjörnsson  <helgi@trance.is>
-	
+
 2004-03-25  Guntupalli Karunakar  <karunakar@freedomink.org>
 
-        * pa.po: Added Punjabi translation by 
+        * pa.po: Added Punjabi translation by
         Jaswinder Singh Phulewala <jaswinderlinux@netscape.net>.
 
 2004-03-23  Jordi Mallach  <jordi@sindominio.net>
@@ -791,7 +796,7 @@
 	Urošević.
 
 2004-02-11  Arafat Medini  <lumina@silverpen.de>
-                                                                                
+
         * ar.po: Updated Arabic translation.
 
 2004-02-06  Robert Sedak  <robert.sedak@sk.htnet.hr>
@@ -905,7 +910,7 @@
 
 2003-08-12  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Updated Finnish translation. 
+	* fi.po: Updated Finnish translation.
 
 2003-08-08  Danilo Šegan  <dsegan@gmx.net>
 
@@ -993,7 +998,7 @@
 2003-06-05 Mathieu van Woerkom <mathieu@brabants.org>
 
 	* li.po: Added Limburgish.
-	
+
 2003-06-04  Jordi Mallach  <jordi@sindominio.net>
 
 	* ca.po: Updated Catalan translation.
@@ -1037,7 +1042,7 @@
 
 2003-05-06  Danilo ? egan  <dsegan@gmx.net>
 
-	* sr.po, sr@Latn.po: Added Serbian translation by 
+	* sr.po, sr@Latn.po: Added Serbian translation by
 	http://Prevod.org/.
 
 2003-05-05  Takeshi AIHANA <aihana@gnome.gr.jp>
@@ -1186,7 +1191,7 @@
 
 2003-02-02  German Poo-Caaman~o  <gpoo@ubiobio.cl>
 
-	* es.po: Updated Spanish translation. 
+	* es.po: Updated Spanish translation.
 
 2003-02-02  Marcel Telka  <marcel@telka.sk>
 
@@ -1223,14 +1228,14 @@
 2003-01-31  Artis Trops  <hornet@navigator.lv>
 
         * lv.po: Updated Latvian translation.
-	
+
 2003-01-31  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Updated Finnish translation. 
+	* fi.po: Updated Finnish translation.
 
 2003-01-31  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
 
-	* es.po: Updated Spanish translation. 
+	* es.po: Updated Spanish translation.
 
 2003-01-31  Abel Cheung  <maddog@linux.org.hk>
 
@@ -1263,7 +1268,7 @@
 2003-01-30  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* no.po: Updated Norwegian translation.
-	
+
 2003-01-31  Miloslav Trmac  <mitr@volny.cz>
 
 	* cs.po: Updated Czech translation.
@@ -1319,7 +1324,7 @@
 
 2003-01-26  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Updated Finnish translation. 
+	* fi.po: Updated Finnish translation.
 
 2003-01-25  Benjamin Greiner  <nadaschauher@gmx.de>
 
@@ -1336,7 +1341,7 @@
 2003-01-24  Artis Trops  <hornet@navigator.lv>
 
         * lv.po: Updated Latvian translation.
-	
+
 2003-01-24  Christian Neumair  <chris@gnome-de.org>
 
 	* de.po: Updated German translation.
@@ -1352,7 +1357,7 @@
 2003-01-24  Laurent Dhima  <laurenti@alblinux.net>
 
 	* sq.po: Updated Albanian translation.
-	
+
 2003-01-24  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
 
 	* ru.po: updated Russian translation
@@ -1379,7 +1384,7 @@
 2003-01-24  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* no.po: Updated Norwegian translation.
-	
+
 2003-01-23  Fatih Demir <kabalak@gtranslator.org>
 
 	* tr.po: Took over translation from gnome-desktop-themes.
@@ -1395,7 +1400,7 @@
 
 	I hope I didn't break anything :/ Tried to merge in the
 	translations from gnome-desktop-themes.
-	
+
 2003-01-23  Stanislav Visnovsky  <visnovsky@nenya.ms.mff.cuni.cz>
 
 	* sk.po: Added Slovak translation.
@@ -1423,7 +1428,7 @@
 
 2003-01-19  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Updated Finnish translation after QA review. 
+	* fi.po: Updated Finnish translation after QA review.
 
 2003-01-18  Alessio Frusciante  <algol@firenze.linux.it>
 
@@ -1435,7 +1440,7 @@
 
 2003-01-18  Sami Pesonen  <sampeson@iki.fi>
 
-	* fi.po: Initial Finnish translation. 
+	* fi.po: Initial Finnish translation.
 
 2003-01-17  Jordi Mallach  <jordi@sindominio.net>
 
@@ -1443,20 +1448,20 @@
 
 2003-01-15  Gustavo Noronha Silva  <kov@debian.org>
 
-	* pt_BR.po: initial translation, by 
+	* pt_BR.po: initial translation, by
 	  Alexandre Folle de Menezes <afmenez@terra.com.br>
 
 2003-01-13  German Poo-Caaman~o <gpoo@ubiobio.cl>
 
-	* es.po: Updated Spanish translation. 
+	* es.po: Updated Spanish translation.
 
 2003-01-13  Laurent Dhima  <laurenti@alblinux.net>
 
 	* sq.po: Added Albanian translation.
-	
+
 2003-01-13  Pablo Gonzalo del Campo  <pablodc@bigfoot.com>
 
-	* es.po: Updated Spanish translation. 
+	* es.po: Updated Spanish translation.
 
 2003-01-12  Christian Neumair  <chris@gnome-de.org>
 
@@ -1466,8 +1471,8 @@
 
 2003-01-12  Artis Trops  <hornet@navigator.lv>
 
-        * lv.po: Updated Latvian translation. 
-	
+        * lv.po: Updated Latvian translation.
+
 2003-01-12  Miloslav Trmac  <mitr@volny.cz>
 
 	* cs.po: Updated Czech translation.
@@ -1556,7 +1561,7 @@
 2002-12-07  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* no.po: Updated Norwegian translation.
-	
+
 2002-12-06  Miloslav Trmac  <mitr@volny.cz>
 
 	* cs.po: Added Czech translation.
@@ -1581,7 +1586,7 @@
 2002-11-28  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* no.po: Added Norwegian translation.
-	
+
 2002-11-26  Hasbullah Bin Pit <sebol@ikhlas.com>
 
         * ms.po: Added Malay translation.
@@ -1601,4 +1606,3 @@
 	Added ChangeLog so the blinking thing will compile :)
 
 	* ChangeLog: added
-
