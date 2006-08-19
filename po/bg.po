@@ -1,17 +1,15 @@
 # Gnome themes po file
 # Copyright (C) 2002, 2004, 2005 Free Software Foundation, Inc.
-# Alexander Shopov <al_shopov@yahoo.com>, 2002.
+# Alexander Shopov <ash@contact.bg>, 2002, 2005, 2006.
 # Rostislav Raykov <zbrox@i-space.org>, 2004.
 # Vladimir Petkov <vpetkov@i-space.org>, 2004.
-# Rostislav Raykov <zbrox@i-space.org>, 2004.
-# Alexander Shopov <ash@contact.bg>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes gnome 2.10\n"
+"Project-Id-Version: gnome-themes HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-06 14:44+0300\n"
-"PO-Revision-Date: 2006-07-06 14:44+0300\n"
+"POT-Creation-Date: 2006-08-20 01:25+0300\n"
+"PO-Revision-Date: 2006-08-20 01:25+0300\n"
 "Last-Translator: Alexander Shopov <ash@contact.bg>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,8 +87,8 @@ msgid "Crux"
 msgstr "Крукс"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Плавни преливания със синкави засветявания"
+msgid "Smooth gradients with purple highlights"
+msgstr "Плавни преливания с пурпурни засветявания"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -100,61 +98,14 @@ msgstr "Глайдер"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Простота, загладеност и естетическа издържаност"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Мръсно оранжев изглед"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Големия каньон"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Минималистичен изглед"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Мъгла"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Мечта за океан"
-
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Цветовете на крайбрежието"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Прост изглед"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Тънък изглед, бързодействие"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Мек стъклен изглед"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Пепеляво синьо"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Плоско-синьо"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Пясъчно"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Пепеляво синьо"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Пепеляво червено"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
