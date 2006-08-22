@@ -1,15 +1,12 @@
 themedir = $(datadir)/icons/Mist
 size = 22x22
-context = places
+context = status
 
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =			\
-	folder.png		\
-	folder-new.png		\
-	folder-remote.png	\
-	folder-saved-search.png	\
-	user-home.svg
+	folder-drag-accept.svg	\
+	folder-open.svg
 
 EXTRA_DIST =		\
 	$(icons_DATA)

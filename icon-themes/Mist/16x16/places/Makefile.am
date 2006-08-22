@@ -5,15 +5,11 @@ context = places
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =			\
-	document-open.png       \
 	folder.png		\
-	folder-drag-accept.png  \
-	folder-open.png         \
 	folder-new.png		\
-	#folder.icon		\
 	folder-remote.png	\
 	folder-saved-search.png	\
-	user-home.png
+	user-home.svg
 
 EXTRA_DIST =		\
 	$(icons_DATA)

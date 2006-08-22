@@ -127,10 +127,16 @@ icon-themes/HighContrast-SVG/scalable/places/Makefile
 icon-themes/HighContrast-SVG/scalable/status/Makefile
 icon-themes/Mist/Makefile
 icon-themes/Mist/16x16/Makefile
+icon-themes/Mist/16x16/actions/Makefile
+icon-themes/Mist/16x16/status/Makefile
 icon-themes/Mist/16x16/places/Makefile
 icon-themes/Mist/22x22/Makefile
+icon-themes/Mist/22x22/actions/Makefile
+icon-themes/Mist/22x22/status/Makefile
 icon-themes/Mist/22x22/places/Makefile
 icon-themes/Mist/32x32/Makefile
+icon-themes/Mist/32x32/actions/Makefile
+icon-themes/Mist/32x32/status/Makefile
 icon-themes/Mist/32x32/places/Makefile
 icon-themes/Mist/scalable/Makefile
 icon-themes/Mist/scalable/actions/Makefile
