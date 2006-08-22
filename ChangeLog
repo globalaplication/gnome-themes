@@ -1,3 +1,8 @@
+2006-08-22  Benjamin Otte  <in7y118@public.uni-hamburg.de>
+
+	* gtk-themes/Grand-Canyon/gtkrc:
+	  fix to make notebook rendering of this (removed ;)) theme faster
+
 2006-08-15  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* configure.in: Require intltool 0.35.0 to make sure translations
