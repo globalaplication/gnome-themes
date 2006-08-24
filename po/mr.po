@@ -1,25 +1,25 @@
 # translation of mr.po to Marathi
-# Marathi Translation for gedit-2.4.
-# Copyright (C) 2003 , Jitendra Shah
 # This file is distributed under GPL.
 # First Author: Sameer N. Ingole <strike@proscrutiny.com>, 2006.
+# Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: mr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-08-24 08:21+0200\n"
-"PO-Revision-Date: 2006-08-24 HO:MI+ZONE\n"
-"Last-Translator: Sameer Ingole <strike@proscrutiny.com>\n"
+"PO-Revision-Date: 2006-08-24 20:38+0530\n"
+"Last-Translator: Rahul Bhalerao <b.rahul.pm@gmail.com>\n"
 "Language-Team: Marathi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "पांढऱ्यावर काळी अक्षरे अाणि चिन्हे"
+msgstr "पांढऱ्यावर काळी अक्षरे आणि चिन्हे"
 
 #: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -31,7 +31,7 @@ msgstr "उलटी उच्च विरोधाभास "
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "काळ्यावर पांढरी अक्षरे अाणि चिन्हे"
+msgstr "काळ्यावर पांढरी अक्षरे आणि चिन्हे"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
@@ -39,7 +39,7 @@ msgstr "उच्च विरोधाभास मोठे मुद्रण
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "पांढऱ्यावर मोठी काळी अक्षरे अाणि चिन्हे"
+msgstr "पांढऱ्यावर मोठी काळी अक्षरे आणि चिन्हे"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -47,7 +47,7 @@ msgstr "उलटी उच्च विरोधाभास मोठे म�
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "काळ्यावर मोठी पांढरी अक्षरे अाणि चिन्हे"
+msgstr "काळ्यावर मोठी पांढरी अक्षरे आणि चिन्हे"
 
 #: ../LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -55,7 +55,7 @@ msgstr "मोठे मुद्रण"
 
 #: ../LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "मोठी अक्षरे अाणि चिन्हे"
+msgstr "मोठी अक्षरे आणि चिन्हे"
 
 #: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -63,11 +63,11 @@ msgstr "कमी विरोधाभास"
 
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "मऊ अक्षरे अाणि चिन्हे"
+msgstr "मऊ अक्षरे आणि चिन्हे"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "मोठी मऊ अक्षरे अाणि चिन्हे"
+msgstr "मोठी मऊ अक्षरे आणि चिन्हे"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -75,16 +75,14 @@ msgstr "कमी विरोधाभास मोठे मुद्रण"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
-msgstr "अाकर्षक उपयोगीता"
+msgstr "आकर्षक उपयोगीता"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
-#, fuzzy
 msgid "Clearlooks"
 msgstr "क्लिअरलुक्स"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
-#, fuzzy
 msgid "Crux"
 msgstr "क्रक्स"
 
@@ -94,14 +92,12 @@ msgid "Smooth gradients with purple highlights"
 msgstr "जांभळ्या ठळकीकरणासह सुमिश्रित gradients"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
-#, fuzzy
 msgid "Glider"
 msgstr "ग्लाइडर"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
-#, fuzzy
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "साधे, सुमिश्रित, सुंदर अाणि सुखकारक"
+msgstr "साधे, सुमिश्रित, सुंदर आणि सुखकारक"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -113,12 +109,10 @@ msgid "Mist"
 msgstr "धुकं"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
-#, fuzzy
 msgid "High contrast scalable icons with black borders"
 msgstr "काळ्या किनारीसह वाढवण्याजोगी उच्च विरोधाभास चिन्हे"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
-#, fuzzy
 msgid "HighContrast-SVG"
 msgstr "उच्च विरोधाभासमान-SVG"
 
