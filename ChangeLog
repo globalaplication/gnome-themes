@@ -1,3 +1,12 @@
+2006-08-25  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* icon-themes/Crux/*:
+
+	New Crux icons from Lapo Calamandrei
+
+	* icon-themes/Mist/index.theme.in: Include more directories!
+
 2006-08-22  Thomas Wood  <thos@gnome.org>
 
 	* configure.in:
