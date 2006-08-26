@@ -1,5 +1,5 @@
+# translation of gnome-themes.HEAD.mk.po to Macedonian
 # translation of gnome-themes.HEAD.mk.po to
-# translation of mk.po to Macedonian
 # translation of mk.po to
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
@@ -9,13 +9,14 @@
 # Darko Nikolovski <darkon@macedonia.homelinux.org>, 2003.
 # Arangel Angov <ufo@linux.net.mk>, 2004, 2006.
 # Арангел Ангов <ufo@linux.net.mk>, 2005.
+# Jovan Naumovski <jovan@lugola.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: mk\n"
+"Project-Id-Version: gnome-themes.HEAD.mk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-03 15:52+0200\n"
-"PO-Revision-Date: 2006-08-03 20:40+0200\n"
-"Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
+"POT-Creation-Date: 2006-08-26 17:15+0200\n"
+"PO-Revision-Date: 2006-08-26 23:33+0200\n"
+"Last-Translator: Jovan Naumovski <jovan@lugola.net>\n"
 "Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +37,7 @@ msgstr "Висок контраст инверзно"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Бело -на- црно текст и икони"
+msgstr "Бело-на-црно текст и икони"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
@@ -44,7 +45,7 @@ msgstr "Јак контраст големи букви"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Големи црно -на- бело текст и икони"
+msgstr "Големи црно-на-бело текст и икони"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
@@ -60,7 +61,7 @@ msgstr "Големи букви"
 
 #: ../LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "Голем текст и икони"
+msgstr "Големи икони и текст"
 
 #: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -68,15 +69,15 @@ msgstr "Низок контраст"
 
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Заматени текст и икони"
+msgstr "Заматени икони и текст"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Големи заматени текст и икони"
+msgstr "Големи заматени икони и текст"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Мала контраст, големи букви"
+msgstr "Мал контраст, големи букви"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -108,12 +109,9 @@ msgid "A minimalistic appearance"
 msgstr "Минималистички изглед"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Mist"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Рамно сино"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
