@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-themes 2.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-08-26 12:14+0200\n"
-"PO-Revision-Date: 2006-08-26 12:16+0200\n"
+"PO-Revision-Date: 2006-08-26 12:50+0200\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with purple highlights"
-msgstr "Gradients suaus amb ressaltats porpres"
+msgstr "Degradat suau amb ressaltats porpres"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
