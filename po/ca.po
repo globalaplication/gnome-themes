@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 10:38+0200\n"
-"PO-Revision-Date: 2005-09-04 10:39+0200\n"
+"POT-Creation-Date: 2006-08-26 12:14+0200\n"
+"PO-Revision-Date: 2006-08-26 12:16+0200\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +85,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Gradients suaus amb ressaltats blau verdós"
+msgid "Smooth gradients with purple highlights"
+msgstr "Gradients suaus amb ressaltats porpres"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -96,66 +96,61 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simple, suau i agradable estèticament"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Una aparença ataronjada"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Gran Canyó"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Una aparença minimalista"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Boira"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Somni oceànic"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Icones escalables de contrast alt amb vores negres"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Els colors del cavall marí"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "ContrastAlt-SVG"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simple"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Una aparença ataronjada"
 
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Aparença plana, alt rendiment"
+#~ msgid "Grand Canyon"
+#~ msgstr "Gran Canyó"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Una aparença suau i cristalina"
+#~ msgid "Ocean Dream"
+#~ msgstr "Somni oceànic"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Blau fumejant"
+#~ msgid "The colours of the seashore"
+#~ msgstr "Els colors del cavall marí"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Tradicional"
+#~ msgid "Simple"
+#~ msgstr "Simple"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Aparença tradicional amb cantons 3D durs"
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Aparença plana, alt rendiment"
 
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Blau pla"
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Una aparença suau i cristalina"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Arenós"
+#~ msgid "Smokey Blue"
+#~ msgstr "Blau fumejant"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Blau fumejant"
+#~ msgid "Traditional"
+#~ msgstr "Tradicional"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Roig fumejant"
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Aparença tradicional amb cantons 3D durs"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Blau pla"
+
+#~ msgid "Sandy"
+#~ msgstr "Arenós"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Blau fumejant"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Roig fumejant"
