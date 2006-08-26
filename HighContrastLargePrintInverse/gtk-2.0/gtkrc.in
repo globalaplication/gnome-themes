@@ -12,7 +12,13 @@ gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
 
 style "default"
 {
-  engine "hcengine" {}
+  engine "hcengine"
+  {
+	edge_thickness = 3
+
+	#Work around for Indicator Size bug
+	cell_indicator_size = 18
+  }
 
 # For Java Desktop System
   PanelMenu::stripe-gradient-top = "#000033"
@@ -25,31 +31,24 @@ style "default"
   GtkWidget::focus-padding = 0
   GtkWidget::focus-line-width = 3
 # GtkWidget::cursor_aspect_ratio = 0.1
-
   GtkHSV::focus-line-pattern = "\0"
   GtkRange::slider_width = 20
-
   GtkPaned::handle-size = 10
-
   GtkEntry::cursor_color    = "#00cccc"
   GtkEntry::cursor_aspect_ratio = 0.1
-
   GtkTreeView::expander_size = 20
-
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_color    = "#00cccc"
-
   EelEditableLabel::cursor_color    = "#00cccc"
   EelEditableLabel::cursor_aspect_ratio = 0.1
-
   GtkCheckButton::indicator_size = 18
   GtkCheckMenuItem::indicator_size = 18
-
   NautilusIconContainer::frame_text = 1
   GtkExpander::expander-size = 24
   GtkExpander::expander-spacing = 8
-
+  GtkTreeView::expander-size = 24
   PanelToplevel::arrow-size = 18
+  GtkRange::stepper-size = 20
 
   fg[NORMAL]      = "#ffffff"
   text[NORMAL]      = "#ffffff"

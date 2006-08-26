@@ -1,3 +1,12 @@
+2006-08-26  Thomas Wood  <thos@gnome.org>
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+
+	Updates to the HighContrast themes from Andrew Johnson
+
 2006-08-25  Thomas Wood  <thos@gnome.org>
 
 	* configure.in:

@@ -13,7 +13,7 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrintInverse/pixmaps"
 
 style "default"   
 { 
-  engine "hcengine" {}	
+  engine "hcengine" { edge_thickness = 2 }
 
 # For Java Desktop System
   PanelMenu::stripe-gradient-top = "#000033"
@@ -34,6 +34,8 @@ style "default"
   GtkEntry::cursor_aspect_ratio = 0.1
   EelEditableLabel::cursor_aspect_ratio = 0.1
   NautilusIconContainer::frame_text = 1
+  GtkTreeView::expander-size = 16
+  GtkRange::stepper-size = 20
   
   fg[NORMAL]      = "#ffffff"
   text[NORMAL]      = "#ffffff"
