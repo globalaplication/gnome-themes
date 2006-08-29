@@ -5,7 +5,18 @@ context = actions
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =			\
-	document-open.svg
+	document-open.svg	\
+	go-bottom.svg		\
+	go-down.svg		\
+	go-first.svg		\
+	go-home.svg		\
+	go-last.svg		\
+	go-next.svg		\
+	go-previous.svg		\
+	go-top.svg		\
+	go-up.svg		\
+	view-refresh.svg
+
 
 EXTRA_DIST =		\
 	$(icons_DATA)

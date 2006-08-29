@@ -1,3 +1,10 @@
+2006-08-29  Thomas Wood  <thos@gnome.org>
+
+	* icon-themes/Crux/*:
+
+	- New and updated icons from Lapo
+	- Various fixes to Makefiles
+
 2006-08-26  Thomas Wood  <thos@gnome.org>
 
 	* HighContrast/gtk-2.0/gtkrc.in:

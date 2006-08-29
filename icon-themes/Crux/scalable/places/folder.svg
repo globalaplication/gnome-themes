@@ -16,12 +16,13 @@
    height="48.000000px"
    id="svg1"
    sodipodi:version="0.32"
-   inkscape:version="0.43+devel"
+   inkscape:version="0.44"
    sodipodi:docname="folder.svg"
-   sodipodi:docbase="/home/lapo/Icone/Crux/final/scalable"
+   sodipodi:docbase="/home/lapo/Icone/Crux/crux-icon-theme/scalable/places"
    inkscape:export-filename="/home/lapo/Icone/Crux/folderx-daritaliare.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata162">
     <rdf:RDF>
@@ -39,7 +40,7 @@
         <dc:date>2006-06-26</dc:date>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
-        <dc:identifier></dc:identifier>
+        <dc:identifier />
         <dc:subject>
           <rdf:Bag>
             <rdf:li>folder</rdf:li>
