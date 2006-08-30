@@ -1,3 +1,16 @@
+2006-08-30  Thomas Wood  <thos@gnome.org>
+
+	* icon-themes/Crux/16x16/places/Makefile.am: Don't install into the
+	Mist directory!
+	* icon-themes/Crux/12x12/*:
+	* icon-themes/Crux/192x192/*:
+	* icon-themes/Crux/20x20/*:
+	* icon-themes/Crux/24x24/*:
+	* icon-themes/Crux/36x36/*:
+	* icon-themes/Crux/72x72/*:
+	* icon-themes/Crux/96x96/*:
+	Removed more old files from CVS
+
 2006-08-29  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Crux/*:

@@ -1,4 +1,4 @@
-themedir = $(datadir)/icons/Mist
+themedir = $(datadir)/icons/Crux
 size = 16x16
 context = places
 
