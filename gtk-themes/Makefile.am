@@ -1,1 +1,1 @@
-SUBDIRS=Glider Clarius
+SUBDIRS=Glider

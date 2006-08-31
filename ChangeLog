@@ -1,3 +1,12 @@
+2006-08-31  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* gtk-themes/Makefile.am:
+	Remove Clarius from build, as no longer needed
+
+	* desktop-themes/Clearlooks/index.theme.in: Revert to using
+	Clearlooks, as it now has non-glossy scrollbars
+
 2006-08-30  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Crux/16x16/places/Makefile.am: Don't install into the
