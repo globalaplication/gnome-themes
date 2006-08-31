@@ -1,14 +1,14 @@
 # gnome-themes' Portuguese translation.
-# Copyright © 2003, 2004, 2005 gnome-themes
+# Copyright © 2003, 2004, 2005, 2006 gnome-themes
 # This file is distributed under the same license as the gnome-themes package.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004, 2005.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004, 2005, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.12\n"
+"Project-Id-Version: 2.16\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 11:47+0100\n"
-"PO-Revision-Date: 2005-09-04 11:50+0000\n"
+"POT-Creation-Date: 2006-08-31 02:23+0000\n"
+"PO-Revision-Date: 2006-08-31 02:15+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +85,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Gradientes suaves com realces verdes"
+msgid "Smooth gradients with purple highlights"
+msgstr "Gradientes suaves com realces púrpura"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -96,66 +96,61 @@ msgstr "Deslizante"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simples, suave e esteticamente agradável"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Aparência laranja poeirenta"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grande Canion"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Uma aparência minimalista"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Místico"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Sonho Oceânico"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Ícones escaláveis de alto contraste com margens negras"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "As cores da orla marítima"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "SVG-AltoContraste"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simples"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Aparência laranja poeirenta"
 
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Aparência leve, de alto desempenho"
+#~ msgid "Grand Canyon"
+#~ msgstr "Grande Canion"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Aparência suave e transparente"
+#~ msgid "Ocean Dream"
+#~ msgstr "Sonho Oceânico"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Azul Esfumado"
+#~ msgid "The colours of the seashore"
+#~ msgstr "As cores da orla marítima"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Tradicional"
+#~ msgid "Simple"
+#~ msgstr "Simples"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Aparência tradicional de margens 3D"
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Aparência leve, de alto desempenho"
 
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Azul-Liso"
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Aparência suave e transparente"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Arenoso"
+#~ msgid "Smokey Blue"
+#~ msgstr "Azul Esfumado"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Azul-Esfumado"
+#~ msgid "Traditional"
+#~ msgstr "Tradicional"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Vermelho-Esfumado"
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Aparência tradicional de margens 3D"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Azul-Liso"
+
+#~ msgid "Sandy"
+#~ msgstr "Arenoso"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Azul-Esfumado"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Vermelho-Esfumado"
