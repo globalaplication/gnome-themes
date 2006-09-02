@@ -1,24 +1,25 @@
-# translation of el.po to 
+# translation of el.po to
 # translation of el.po to Greek
 # gnome-themes.
 # Copyright (C) Free Software Foundation Inc. 2002,2003
 # This file is distributed under the same license as the PACKAGE package.
-# kostas:32 messages, 20 Feb2003
 # kostas:15Aug2003, ome more update
-# Kostas Papadimas <pkst@gmx.net>, 2002,2003.
-# Kostas Papadimas <pkst@gnome.org>, 2004.
 #
+# kostas:32 messages, 20 Feb2003.
+# Kostas Papadimas <pkst@gmx.net>, 2002,2003.
+# Kostas Papadimas <pkst@gnome.org>, 2004, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-04 08:52+0300\n"
-"PO-Revision-Date: 2005-09-04 08:52+0300\n"
+"POT-Creation-Date: 2006-09-02 11:56+0300\n"
+"PO-Revision-Date: 2006-09-02 11:58+0300\n"
 "Last-Translator: Kostas Papadimas <pkst@gnome.org>\n"
-"Language-Team:  <nls@tux.hellug.gr>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -90,8 +91,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Απαλές κλίμακες με επισήμανση αγριόπαπια"
+msgid "Smooth gradients with purple highlights"
+msgstr "Απαλές κλίμακες με μωβ ανταύγειες"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -101,66 +102,20 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Απλό, απαλό και ευχάριστο αισθητικά"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Σκονισμένη πορτοκαλί εμφάνιση"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Μια μινιμαλιστική εμφάνιση"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Mist"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Ocean Dream"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Υψηλής αντίθεσης scalable εικονίδια με μαύρο περίγραμμα"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Τα χρώματα της ακρογιαλιάς"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Υψηλής αντίθεσης-SVG"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Απλό"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Λεπτή εμφάνιση, υψηλή ταχύτητα"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Μια απαλή γυάλινη εμφάνιση"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Smokey Blue"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Παραδοσιακή"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Παραδοσιακή 3D εμφάνιση με έντονες γωνίες"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Flat-Blue"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Sandy"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Smokey-Blue"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Smokey-Red"
