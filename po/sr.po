@@ -3,16 +3,16 @@
 # 
 # This file is distributed under the same license as the gnome-themes package.
 # 
-# Maintainer: Горан Ракић <gox@devbase.net>
+# Maintainer: Горан Ракић <grakic@devbase.net>
 # Reviewed on 2004-02-14 by Александар Урошевић <urke@users.sourceforge.net>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-06 12:51+0200\n"
-"PO-Revision-Date: 2005-09-06 12:51+0200\n"
-"Last-Translator: Goran Rakić <gox@devbase.net>\n"
+"POT-Creation-Date: 2006-09-03 18:08+0200\n"
+"PO-Revision-Date: 2006-09-02 19:57+0200\n"
+"Last-Translator: Горан Ракић <grakic@devbase.net>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,8 +89,8 @@ msgid "Crux"
 msgstr "Крукс"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "Благи прелази са осенченим ивицама"
+msgid "Smooth gradients with purple highlights"
+msgstr "Благи прелази са љубичастим прелазима"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -100,66 +100,61 @@ msgstr "Једрилица"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Једноставна, фина и привлачна тема"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Магловити наранџасти приказ"
-
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Велики Кањон"
-
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Минималистички приказ"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Магла"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Сан океана"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Увећани контраст са црним ивицама и растегљивим иконицама"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Боје обале мора"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "Велики контраст SVG"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Једноставно"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Магловити наранџасти приказ"
 
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Једноставан приказ, високе перфомансе"
+#~ msgid "Grand Canyon"
+#~ msgstr "Велики Кањон"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Благо стакласти приказ"
+#~ msgid "Ocean Dream"
+#~ msgstr "Сан океана"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Прљаво плава"
+#~ msgid "The colours of the seashore"
+#~ msgstr "Боје обале мора"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Традиционална"
+#~ msgid "Simple"
+#~ msgstr "Једноставно"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Традицонални приказ са оштрим ивицама"
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Једноставан приказ, високе перфомансе"
 
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Изравнато плава"
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Благо стакласти приказ"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Песковито"
+#~ msgid "Smokey Blue"
+#~ msgstr "Прљаво плава"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Прљаво плава"
+#~ msgid "Traditional"
+#~ msgstr "Традиционална"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Прљаво црвена"
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Традицонални приказ са оштрим ивицама"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Изравнато плава"
+
+#~ msgid "Sandy"
+#~ msgstr "Песковито"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Прљаво плава"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Прљаво црвена"
