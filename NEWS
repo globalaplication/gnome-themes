@@ -1,3 +1,26 @@
+2.16.0
+======
+
+Bugfixes/features:
+
+	* Clarius theme removed, as no longer need. Clearlooks metatheme
+	  reverted to using Clearlooks gtk+ theme.
+	* Fixes to the Mist icon theme
+	* New Crux icon theme
+
+See ChangeLog for a full list of changes
+
+New/Improved translations:
+
+ Jordi Mallach (ca), Kostas Papadimas (el), Robert-André Mauchin (fr),
+ Rajesh Ranjan (hi), Gabor Kelemen (hu), Gintautas Miliauskas (lt),
+ Raivis Dejus (lv), Jovan Naumovski (mk), Rahul Bhalerao (mr),
+ Duarte Loreto (pt), Leonid Kanter (ru), Matjaž Horvat (sl),
+ Горан Ракић (sr), Felix (ta), Maxim Dziumanenko (uk)
+
+
+
+
 2.15.92
 =======
 

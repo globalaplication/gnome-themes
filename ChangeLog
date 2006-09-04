@@ -1,3 +1,16 @@
+2006-09-04  Thomas Wood  <thos@gnome.org>
+
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	Updates from Andrew Johnson
+
+	* NEWS:
+	* configure.in:
+	Updated for 2.16.0 release
+
+	* gtk-themes/Makefile.am: Include Simple gtk+ theme again
+
+
 2006-08-31  Thomas Wood  <thos@gnome.org>
 
 	* configure.in:

@@ -12,7 +12,9 @@ pixmap_path "@prefix@/share/themes/HighContrastLargePrint/pixmaps"
 
 style "default"
 {
-  engine "hcengine" { edge_thickness = 2 }
+  engine "hcengine" {
+  # edge_thickness = 2
+  }
 
 # For Java Desktop System
   PanelMenu::stripe-gradient-top = "#000000"
