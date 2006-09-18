@@ -1,3 +1,14 @@
+2006-09-18  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/tool-check-spelling.svg:
+	Removed.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/tools-check-spelling.svg:
+	Added
+
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	The name used in Icon Naming Spec is tools-check-spelling, not tool-*
+	
 2006-09-04  Thomas Wood  <thos@gnome.org>
 
 	* HighContrast/gtk-2.0/gtkrc.in:

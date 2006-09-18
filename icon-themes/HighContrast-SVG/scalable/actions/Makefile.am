@@ -92,7 +92,7 @@ icon_DATA =					\
 	system-run.svg				\
 	system-search.svg			\
 	system-shutdown.svg			\
-	tool-check-spelling.svg			\
+	tools-check-spelling.svg		\
 	view-fullscreen.svg			\
 	view-restore.svg			\
 	view-refresh.svg			\
