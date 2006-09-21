@@ -1,15 +1,22 @@
+# translation of gnome-themes.gnome-2-14.ne.po to Nepali
+# translation of gnome-themes.gnome-2-10.ne.po to Nepali
+# translation of gnome-themes.gnome-2-10.po to Nepali
 # translation of gnome-themes.HEAD.po to Nepali
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 # Shiva Prasad Pokharel <pokharelshiva@hotmail.com>, 2005.
+# Ishwar Sharma <eesha_kaf@yahoo.com>, 2005.
+# Ishwar Sharma <sharmabeeshwar@gmail.com>, 2005.
+# Jaydeep Bhusal <zaydeep@hotmail.com>, 2005.
+# Mahesh Subedi <submanesh@hotmail.com>, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD\n"
+"Project-Id-Version: gnome-themes.gnome-2-14.ne\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-04-22 05:34+0000\n"
-"PO-Revision-Date: 2005-05-24 16:46+0545\n"
-"Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
+"POT-Creation-Date: 2006-04-15 05:24+0200\n"
+"PO-Revision-Date: 2006-05-09 20:18+0545\n"
+"Last-Translator: Mahesh Subedi <submanesh@hotmail.com>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,12 +24,12 @@ msgstr ""
 "X-Poedit-Language: Nepali\n"
 "X-Poedit-Country: NEPAL\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: Nplurals=2;plural=(n!=1)\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2;plural=(n!=1)\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "सेतामा-काला पाठ र चिन्हहरु"
+msgstr "सेतो-मा-कालो पाठ र प्रतिमाहरू"
 
 #: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -30,35 +37,35 @@ msgstr "उच्च व्यतिरेक"
 
 #: ../HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "उच्च व्यतिरेकलाई उल्टाउनुहोस्"
+msgstr "उच्च व्यतिरेक उल्टो"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "कालामा-सेता पाठ र चिन्हहरु"
+msgstr "कालोमा-सेतो पाठ र प्रतिमाहरू"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "उच्च व्यतिरेक ठूलो छपाई"
+msgstr "उच्च व्यतिरेक ठूलो मुद्रण"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "ठूलो सेतोमा-काला पाठ र चिन्हहरु"
+msgstr "ठूलो सेतोमा-कालो पाठ र प्रतिमाहरू"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "उच्च व्यतिरेक ठूलो छपाईलाई उल्टाउनुहोस्"
+msgstr "उच्च व्यतिरेक ठूलो मुद्रणलाई उल्टाउनुहोस्"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "ठूला कालामा-सेता पाठ र चिन्हहरु"
+msgstr "ठूला कालामा-सेता पाठ र प्रतिमाहरू"
 
 #: ../LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "ठूलो छपाई"
+msgstr "ठूलो मुद्रण"
 
 #: ../LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "ठूला पाठ र चिन्हहरु"
+msgstr "ठूलो पाठ र प्रतिमाहरू"
 
 #: ../LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -66,15 +73,23 @@ msgstr "कम व्यतिरेक"
 
 #: ../LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "मौन पाठ र चिन्हहरु"
+msgstr "मौन पाठ र प्रतिमाहरू"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "ठूला मौन पाठ र चिन्हहरु"
+msgstr "ठूला मौन पाठ र प्रतिमाहरू"
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "कम व्यतिरेक ठूलो छपाई"
+msgstr "कम व्यतिरेक ठूलो मुद्रण"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:1
+msgid "Attractive Usability"
+msgstr "आकर्षक उपयोगि"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Clearlooks"
+msgstr "लुकहरू खाली गर्नुहोस्"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -83,27 +98,27 @@ msgstr "गहन"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with teal highlights"
-msgstr "?????"
+msgstr "टियल हाइलाइटिङहरूसँग मलिन ग्रेडियन्ट"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
-msgstr "??"
+msgstr "ग्लिडर"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "साधारण, कोमल र ?? प्रशन्नदायी"
+msgstr "साधारण, कोमल र एसथेनटिकल्ली आनन्ददायक"
 
 #: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
 msgid "Dusty orange appearance"
-msgstr "धुलाम्मे सुन्तला उद्‍भव"
+msgstr "धुलाम्मे सुन्तला उपस्थिती"
 
 #: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
 msgid "Grand Canyon"
-msgstr "बृहत भित्री घाँटी"
+msgstr "बृहत घाटी"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "एउटा ???? उद्‍भव"
+msgstr "एउटा सानो खालको उपस्थिती"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
 msgid "Mist"
@@ -115,7 +130,7 @@ msgstr "सागर सपना"
 
 #: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
 msgid "The colours of the seashore"
-msgstr "समुन्द्रीकिनाका रङ्गहरु"
+msgstr "समुन्द्री किनाका रङहरू"
 
 #: ../desktop-themes/Simple/index.theme.in.h:1
 msgid "Simple"
@@ -123,11 +138,11 @@ msgstr "साधारण"
 
 #: ../desktop-themes/Simple/index.theme.in.h:2
 msgid "Thin appearance, high performance"
-msgstr "मसिनो उद्‍भव, उच्च प्रदर्शन"
+msgstr "मसिनो उपस्थिती, उच्च प्रदर्शन"
 
 #: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
 msgid "A soft glassy appearance"
-msgstr "एउटा कोमल चम्कने उद्‍भन"
+msgstr "एउटा कोमल चम्कने उपस्थिती"
 
 #: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
 msgid "Smokey Blue"
@@ -135,19 +150,19 @@ msgstr "धुवाँलो नीलो"
 
 #: ../desktop-themes/Traditional/index.theme.in.h:1
 msgid "Traditional"
-msgstr "परंपरागत"
+msgstr "परम्परागत"
 
 #: ../desktop-themes/Traditional/index.theme.in.h:2
 msgid "Traditional hard-edged 3D appearance"
-msgstr "परंपरागत कडा-किनार भएका ३ आयामिक उद्‍भव"
+msgstr "परम्परागत कडा-किनार भएका ३ आयामिक उपस्थिती"
 
 #: ../icon-themes/Flat-Blue/index.theme.in.h:1
 msgid "Flat-Blue"
-msgstr "बेजान(फिका)-नीलो"
+msgstr "फिका-नीलो"
 
 #: ../icon-themes/Sandy/index.theme.in.h:1
 msgid "Sandy"
-msgstr "बालुवाको रङ्ग जस्तो"
+msgstr "बालुवाको रङ जस्तो"
 
 #: ../icon-themes/Smokey-Blue/index.theme.in.h:1
 msgid "Smokey-Blue"
