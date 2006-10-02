@@ -1,5 +1,9 @@
 2006-10-02  Thomas Wood  <thos@gnome.org>
 
+	* NEWS: Updated for 2.16.1
+
+2006-10-02  Thomas Wood  <thos@gnome.org>
+
 	* configure.in: Updated for 2.16.1
 	* icon-themes/Crux/*: Added 24x24 icons
 	* icon-themes/Mist/*: Added 24x24 icons
