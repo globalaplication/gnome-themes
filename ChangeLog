@@ -1,3 +1,9 @@
+2006-10-02  Thomas Wood  <thos@gnome.org>
+
+	* configure.in: Updated for 2.16.1
+	* icon-themes/Crux/*: Added 24x24 icons
+	* icon-themes/Mist/*: Added 24x24 icons
+
 2006-09-18  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/tool-check-spelling.svg:

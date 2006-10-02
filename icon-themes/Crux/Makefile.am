@@ -1,6 +1,6 @@
 themedir = $(datadir)/icons/Crux
 
-SUBDIRS = 16x16 22x22 32x32 scalable
+SUBDIRS = 16x16 22x22 24x24 32x32 scalable
 
 THEME_IN_FILES = index.theme.in
 

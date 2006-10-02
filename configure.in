@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([gnome-themes], [2.16.0],
+AC_INIT([gnome-themes], [2.16.1],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes])
 AC_CONFIG_SRCDIR([LargePrint])
 
@@ -121,6 +121,10 @@ icon-themes/Crux/22x22/Makefile
 icon-themes/Crux/22x22/actions/Makefile
 icon-themes/Crux/22x22/status/Makefile
 icon-themes/Crux/22x22/places/Makefile
+icon-themes/Crux/24x24/Makefile
+icon-themes/Crux/24x24/actions/Makefile
+icon-themes/Crux/24x24/status/Makefile
+icon-themes/Crux/24x24/places/Makefile
 icon-themes/Crux/32x32/Makefile
 icon-themes/Crux/32x32/actions/Makefile
 icon-themes/Crux/32x32/status/Makefile
@@ -150,6 +154,10 @@ icon-themes/Mist/22x22/Makefile
 icon-themes/Mist/22x22/actions/Makefile
 icon-themes/Mist/22x22/status/Makefile
 icon-themes/Mist/22x22/places/Makefile
+icon-themes/Mist/24x24/Makefile
+icon-themes/Mist/24x24/actions/Makefile
+icon-themes/Mist/24x24/status/Makefile
+icon-themes/Mist/24x24/places/Makefile
 icon-themes/Mist/32x32/Makefile
 icon-themes/Mist/32x32/actions/Makefile
 icon-themes/Mist/32x32/status/Makefile
