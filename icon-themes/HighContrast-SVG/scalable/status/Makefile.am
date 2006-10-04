@@ -16,9 +16,6 @@ icon_DATA =				\
 	mail-attachment.svg		\
 	network-offline.svg		\
 	network-online.svg		\
-	security-high.svg		\
-	security-medium.svg		\
-	security-low.svg		\
 	user-trash-full.svg
 
 EXTRA_DIST =				\

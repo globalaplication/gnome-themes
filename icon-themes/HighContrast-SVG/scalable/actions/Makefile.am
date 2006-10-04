@@ -5,17 +5,13 @@ context = actions
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA =					\
-	address-book-new.svg			\
 	application-exit.svg			\
-	appointment-new.svg			\
-	contact-new.svg				\
 	dialog-cancel.svg			\
 	dialog-close.svg			\
 	dialog-ok.svg				\
 	document-new.svg			\
 	document-open.svg			\
 	document-open-recent.svg		\
-	document-page-setup.svg			\
 	document-print.svg			\
 	document-print-preview.svg		\
 	document-properties.svg			\
@@ -30,9 +26,7 @@ icon_DATA =					\
 	edit-find-replace.svg			\
 	edit-paste.svg				\
 	edit-redo.svg				\
-	edit-select-all.svg			\
 	edit-undo.svg				\
-	folder-new.svg				\
 	format-indent-less.svg			\
 	format-indent-more.svg			\
 	format-justify-center.svg		\
@@ -40,8 +34,6 @@ icon_DATA =					\
 	format-justify-left.svg			\
 	format-justify-right.svg		\
 	format-text-bold.svg			\
-	format-text-direction-ltr.svg		\
-	format-text-direction-rtl.svg		\
 	format-text-italic.svg			\
 	format-text-strikethrough.svg		\
 	format-text-underline.svg		\
@@ -56,23 +48,10 @@ icon_DATA =					\
 	go-top.svg				\
 	go-up.svg				\
 	help-about.svg				\
-	help-contents.svg			\
-	help-faq.svg				\
-	insert-image.svg			\
-	insert-link.svg				\
 	insert-object.svg			\
-	insert-text.svg				\
 	list-add.svg				\
 	list-remove.svg				\
-	mail-forward.svg			\
-	mail-mark-important.svg			\
-	mail-mark-junk.svg			\
-	mail-mark-notjunk.svg			\
-	mail-mark-read.svg			\
 	mail-message-new.svg			\
-	mail-reply-all.svg			\
-	mail-reply-sender.svg			\
-	mail-send-receive.svg			\
 	media-eject.svg				\
 	media-playback-pause.svg		\
 	media-playback-start.svg		\
@@ -82,10 +61,6 @@ icon_DATA =					\
 	media-seek-forward.svg			\
 	media-skip-backward.svg			\
 	media-skip-forward.svg			\
-	object-flip-horizontal.svg		\
-	object-flip-vertical.svg		\
-	object-rotate-left.svg			\
-	object-rotate-righ.svg			\
 	process-stop.svg			\
 	system-lock-screen.svg			\
 	system-log-out.svg			\
