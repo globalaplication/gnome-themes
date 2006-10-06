@@ -1,3 +1,18 @@
+2.16.1.1
+========
+
+Bugfixes:
+
+2006-10-04  Luca Ferretti  <elle.uca@libero.it>
+
+        * icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+        * icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
+        * icon-themes/HighContrast-SVG/scalable/categories/Makefile.am:
+        * icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+        * icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+        Remove placeholders (big red dot) from build.
+
 2.16.1
 ======
 
