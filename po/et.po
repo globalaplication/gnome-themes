@@ -10,7 +10,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes HEAD\n"
+"Project-Id-Version: gnome-themes 2.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-08-07 16:22+0200\n"
 "PO-Revision-Date: 2006-08-07 21:09+0300\n"
