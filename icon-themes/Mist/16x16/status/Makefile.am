@@ -1,5 +1,5 @@
 themedir = $(datadir)/icons/Mist
-size = 22x22
+size = 16x16
 context = status
 
 iconsdir = $(themedir)/$(size)/$(context)
