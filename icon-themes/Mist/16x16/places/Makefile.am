@@ -9,7 +9,7 @@ icons_DATA =			\
 	folder-new.png		\
 	folder-remote.png	\
 	folder-saved-search.png	\
-	user-home.svg
+	user-home.png
 
 EXTRA_DIST =		\
 	$(icons_DATA)
