@@ -6,6 +6,7 @@ icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA =				\
 	audio-input-microphone.svg	\
+	battery.svg			\
 	camera-photo.svg		\
 	computer.svg			\
 	drive-harddisk.svg		\
@@ -16,6 +17,7 @@ icon_DATA =				\
 	media-flash.svg			\
 	media-floppy.svg		\
 	media-optical.svg		\
+	network-wired.svg		\
 	printer.svg			\
 	video-display.svg
 

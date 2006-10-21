@@ -1,5 +1,15 @@
 2006-10-21  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/contact-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/battery.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/network-wired.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+
+	New icons from Andreas Nilsson.
+
+2006-10-21  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
 
 	s/emblem-download/emblem-downloads

@@ -6,6 +6,7 @@ icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA =					\
 	application-exit.svg			\
+	contact-new.svg				\
 	dialog-cancel.svg			\
 	dialog-close.svg			\
 	dialog-ok.svg				\
