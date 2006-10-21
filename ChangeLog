@@ -1,4 +1,10 @@
-2006-10-21  Luca Ferretti  <luca@redrum>
+2006-10-21  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
+
+	s/emblem-download/emblem-downloads
+
+2006-10-21  Luca Ferretti  <elle.uca@libero.it> 
 
 	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-righ.svg:
 
@@ -13,7 +19,7 @@
 	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-screensaver.svg:
 	* icon-themes/HighContrast-SVG/scalable/devices/media-flash.svg:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-default.svg:
-	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-download.svg
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-downloads.svg
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-important.svg:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-mail.svg:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-system.svg:
