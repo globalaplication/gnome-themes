@@ -6,56 +6,77 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/s odipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.000000pt"
-   height="48.000000pt"
-   id="svg2"
+   id="svg1"
    sodipodi:version="0.32"
-   inkscape:version="0.42+devel"
-   sodipodi:docbase="/home/luca"
-   sodipodi:docname="emblem-favourite.svg">
+   inkscape:version="0.43"
+   width="48"
+   height="48"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/emblems"
+   sodipodi:docname="emblem-favorite.svg"
+   version="1.0">
   <defs
-     id="defs4" />
+     id="defs3" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.843686"
-     inkscape:cx="30"
-     inkscape:cy="30"
-     inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="15.895833"
+     inkscape:cx="23.999999"
+     inkscape:cy="23.999999"
+     inkscape:window-width="1274"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      showgrid="true"
      inkscape:grid-bbox="true"
+     gridspacingx="1px"
+     gridspacingy="1px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:current-layer="svg1"
+     inkscape:document-units="px"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
      inkscape:grid-points="true"
-     gridspacingy="1.0000000pt"
-     gridspacingx="1.0000000pt"
-     gridoriginy="0.0000000pt"
-     gridoriginx="0.0000000pt"
-     gridtolerance="1.0000000pt"
-     guidetolerance="1.0000000pt"
-     inkscape:guide-points="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="949"
-     inkscape:window-x="0"
-     inkscape:window-y="25" />
+     gridoriginy="0px"
+     gridoriginx="0px" />
   <metadata
-     id="metadata7">
+     id="metadata4">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Favourites</dc:title>
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emblem favouries</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
         <cc:permits
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
@@ -71,41 +92,14 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:none"
-       id="rect1306"
-       width="48.000000pt"
-       height="48.000000pt"
-       x="0.0000000"
-       y="0.0000000"
-       sodipodi:insensitive="true" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3305"
-       sodipodi:cx="30"
-       sodipodi:cy="30"
-       sodipodi:rx="26.25"
-       sodipodi:ry="26.25"
-       d="M 56.25 30 A 26.25 26.25 0 1 1  3.75,30 A 26.25 26.25 0 1 1  56.25 30 z" />
-    <path
-       sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path4180"
-       sodipodi:sides="5"
-       sodipodi:cx="30"
-       sodipodi:cy="30"
-       sodipodi:r1="20.10467"
-       sodipodi:r2="8.8016867"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.92071249"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 30.000001,9.8953304 L 35.327248,22.993567 L 49.120677,23.787316 L 38.309724,32.901407 L 41.817228,46.26502 L 29.808444,38.799602 L 18.182771,46.265019 L 21.571887,32.537046 L 10.879323,23.787315 L 24.982696,22.768379 L 30.000001,9.8953304 z " />
-  </g>
+  <path
+     sodipodi:nodetypes="czczc"
+     id="path2201"
+     d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z "
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z "
+     id="path920"
+     sodipodi:nodetypes="czczc" />
 </svg>

@@ -51,6 +51,9 @@ icon_DATA =					\
 	insert-object.svg			\
 	list-add.svg				\
 	list-remove.svg				\
+	mail-mark-important.svg			\
+	mail-mark-read.svg			\
+	mail-mark-unread.svg			\
 	mail-message-new.svg			\
 	media-eject.svg				\
 	media-playback-pause.svg		\
@@ -61,6 +64,10 @@ icon_DATA =					\
 	media-seek-forward.svg			\
 	media-skip-backward.svg			\
 	media-skip-forward.svg			\
+	object-flip-horizontal.svg		\
+	object-flip-vertical.svg		\
+	object-rotate-left.svg			\
+	object-rotate-right.svg			\
 	process-stop.svg			\
 	system-lock-screen.svg			\
 	system-log-out.svg			\

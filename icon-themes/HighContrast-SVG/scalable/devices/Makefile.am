@@ -9,9 +9,11 @@ icon_DATA =				\
 	camera-photo.svg		\
 	computer.svg			\
 	drive-harddisk.svg		\
+	drive-optical.svg		\
 	drive-removable-media.svg	\
 	input-keyboard.svg		\
 	input-mouse.svg			\
+	media-flash.svg			\
 	media-floppy.svg		\
 	media-optical.svg		\
 	printer.svg			\

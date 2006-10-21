@@ -6,14 +6,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.000000pt"
-   height="48.000000pt"
+   width="48.000000px"
+   height="48.000000px"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/luca/Desktop/black-and-white/scalable/emblems"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/emblems"
    sodipodi:docname="emblem-photos.svg">
   <defs
      id="defs4" />
@@ -24,60 +24,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.633333"
-     inkscape:cx="30.000000"
-     inkscape:cy="30.000000"
-     inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="15.916667"
+     inkscape:cx="24"
+     inkscape:cy="27.110567"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:grid-points="true"
-     gridspacingy="1.0000000pt"
-     gridspacingx="1.0000000pt"
-     gridoriginy="0.0000000pt"
-     gridoriginx="0.0000000pt"
-     gridtolerance="1.0000000pt"
-     guidetolerance="1.0000000pt"
+     gridspacingy="1.0000000px"
+     gridspacingx="1.0000000px"
+     gridoriginy="0.0000000px"
+     gridoriginx="0.0000000px"
+     gridtolerance="1.0000000px"
+     guidetolerance="1.0000000px"
      inkscape:guide-points="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="948"
+     inkscape:window-width="1270"
+     inkscape:window-height="945"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="horizontal"
-       position="37.470817"
-       id="guide4774" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="19.143969"
-       id="guide4776" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="16.342412"
-       id="guide4780" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="40.155642"
-       id="guide4782" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="40.131575"
-       id="guide4043" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="17.519084"
-       id="guide4045" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="13.824964"
-       id="guide4047" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="42.538350"
-       id="guide4049" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -88,11 +55,11 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
-        <dc:title>Camera</dc:title>
+        <dc:title>Photos (emblem)</dc:title>
         <dc:description>A photo camera.</dc:description>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Design based on existing icon in HighContast GNOME icon theme.</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:contributor>
         <dc:creator>
@@ -100,6 +67,12 @@
             <dc:title>Luca Ferretti &lt;elle.uca@libero.it&gt;</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>photos</rdf:li>
+            <rdf:li>emblem</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
@@ -118,95 +91,31 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+     id="rect9880"
+     width="48.000000"
+     height="48.000000"
+     x="0.0000000"
+     y="0.0000000"
+     ry="0.0000000" />
   <g
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g4792"
-       style="stroke:#ffffff;stroke-opacity:1.0000000;stroke-width:7.5000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round">
-      <rect
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.5000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
-         id="rect4794"
-         width="47.500000"
-         height="36.250000"
-         x="6.2500000"
-         y="13.750000" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ffffff;stroke-width:8.2158400;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
-         id="path4796"
-         sodipodi:cx="13.125000"
-         sodipodi:cy="13.750000"
-         sodipodi:rx="4.3750000"
-         sodipodi:ry="3.7500000"
-         d="M 17.500000 13.750000 A 4.3750000 3.7500000 0 1 1  8.7500000,13.750000 A 4.3750000 3.7500000 0 1 1  17.500000 13.750000 z"
-         transform="matrix(1.000000,0.000000,0.000000,0.833333,0.000000,2.916667)" />
-      <rect
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.5000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
-         id="rect4798"
-         width="13.750000"
-         height="7.5000000"
-         x="37.500000"
-         y="7.5000000" />
-    </g>
-    <rect
-       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:none"
-       id="rect1306"
-       width="48.000000pt"
-       height="48.000000pt"
-       x="0.0000000"
-       y="0.0000000"
-       sodipodi:insensitive="true" />
-    <g
-       id="g4787">
-      <rect
-         y="13.750000"
-         x="6.2500000"
-         height="36.250000"
-         width="47.500000"
-         id="rect3312"
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:13.125000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
-      <path
-         transform="matrix(1.000000,0.000000,0.000000,0.833333,0.000000,2.916667)"
-         d="M 17.500000 13.750000 A 4.3750000 3.7500000 0 1 1  8.7500000,13.750000 A 4.3750000 3.7500000 0 1 1  17.500000 13.750000 z"
-         sodipodi:ry="3.7500000"
-         sodipodi:rx="4.3750000"
-         sodipodi:cy="13.750000"
-         sodipodi:cx="13.125000"
-         id="path4040"
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:13.125000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
-         sodipodi:type="arc" />
-      <rect
-         y="7.5000000"
-         x="37.500000"
-         height="7.5000000"
-         width="13.750000"
-         id="rect4042"
-         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:13.125000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
-    </g>
-    <g
-       id="g5068"
-       transform="translate(0.625000,0.000000)">
-      <path
-         d="M 41.25 31.875 A 11.875 11.875 0 1 1  17.5,31.875 A 11.875 11.875 0 1 1  41.25 31.875 z"
-         sodipodi:ry="11.875"
-         sodipodi:rx="11.875"
-         sodipodi:cy="31.875"
-         sodipodi:cx="29.375"
-         id="path4051"
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="arc" />
-      <path
-         transform="translate(-0.625000,-0.625000)"
-         d="M 37.5 32.5 A 7.5 7.5 0 1 1  22.5,32.5 A 7.5 7.5 0 1 1  37.5 32.5 z"
-         sodipodi:ry="7.5"
-         sodipodi:rx="7.5"
-         sodipodi:cy="32.5"
-         sodipodi:cx="30"
-         id="path4193"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:type="arc" />
-    </g>
-  </g>
+     id="layer1" />
+  <path
+     sodipodi:nodetypes="ccccccccccccc"
+     id="path9152"
+     d="M 8,12 L 15.005235,12.057592 L 17.005235,7.0575914 L 31.005235,7.0575914 L 33.005235,12.057592 L 40,12 C 42,12 44,14 44,16 L 44.109947,38.057592 C 44.109947,39.136587 43.241298,40.005236 42.162303,40.005236 L 6.0575914,40.005236 C 4.9785966,40.005236 4.1099474,39.136587 4.1099474,38.057592 L 4,16 C 4,14 6,12 8,12 z "
+     style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+  <path
+     style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+     d="M 8,12 L 15.005235,12.057592 L 17.005235,7.0575914 L 31.005235,7.0575914 L 33.005235,12.057592 L 40,12 C 42,12 44,14 44,16 L 44.109947,38.057592 C 44.109947,39.136587 43.241298,40.005236 42.162303,40.005236 L 6.0575914,40.005236 C 4.9785966,40.005236 4.1099474,39.136587 4.1099474,38.057592 L 4,16 C 4,14 6,12 8,12 z "
+     id="rect8423"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+     d="M 24.057591,16.005236 C 18.579466,16.005236 14.114410,20.509357 14.114410,26.005236 C 14.114410,31.501115 18.579465,36.005237 24.057591,36.005236 C 29.535717,36.005235 34.000772,31.501115 34.000772,26.005236 C 34.000772,20.509357 29.535716,16.005236 24.057591,16.005236 z M 24.057591,20.914327 C 26.855032,20.914327 29.103046,23.171553 29.103046,26.005236 C 29.103045,28.838919 26.855032,31.096145 24.057591,31.096145 C 21.260151,31.096146 19.012136,28.838919 19.012136,26.005236 C 19.012136,23.171553 21.260150,20.914327 24.057591,20.914327 z "
+     id="path12070"
+     sodipodi:nodetypes="cszzscsssc" />
 </svg>

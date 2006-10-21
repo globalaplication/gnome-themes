@@ -14,7 +14,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.44"
    sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/actions"
-   sodipodi:docname="mail-mark-read.svg">
+   sodipodi:docname="mail-mark-unread.svg">
   <defs
      id="defs1309" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.145833"
+     inkscape:zoom="15.1875"
      inkscape:cx="24"
-     inkscape:cy="26.574966"
+     inkscape:cy="24"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -34,7 +34,7 @@
      inkscape:window-width="1270"
      inkscape:window-height="944"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="26" />
   <metadata
      id="metadata1312">
     <rdf:RDF>
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Email read</dc:title>
+        <dc:title>Email unread</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Luca Ferretti</dc:title>
@@ -51,14 +51,11 @@
         </dc:creator>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>read email</rdf:li>
-            <rdf:li>read message</rdf:li>
-            <rdf:li>open email</rdf:li>
+            <rdf:li>unread email message</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
-        <dc:description>An open envelope</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -81,25 +78,37 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       id="path1875"
-       d="M 6.8503124,14 L 21.004249,4.888583 C 22.979408,3.6341125 24.16227,3.8321869 26.137429,4.888583 L 41.017638,14 C 42.207108,15.087542 43,15.768367 43,17.964949 L 43,40.035051 C 43,42.231633 41.203008,44 38.97087,44 L 9.0291295,44 C 6.7969918,44 5,42.231633 5,40.035051 L 5,17.964949 C 5,15.768367 6.0046946,14.924347 6.8503124,14 z "
-       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:white;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
+    <rect
+       ry="3.9649484"
+       rx="3.9631047"
+       y="9"
+       x="5"
+       height="30"
+       width="38"
+       id="rect4006"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:white;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
        style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 6.8503124,14 L 21.004249,4.888583 C 22.913383,3.3700135 24.16227,3.4360383 26.137429,4.888583 L 41.017638,14 C 42.207108,15.087542 43,15.768367 43,17.964949 L 43,40.035051 C 43,42.231633 41.203008,44 38.97087,44 L 9.0291295,44 C 6.7969918,44 5,42.231633 5,40.035051 L 5,17.964949 C 5,15.768367 6.0046946,14.924347 6.8503124,14 z "
        id="rect2248"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
+       width="38"
+       height="30"
+       x="5"
+       y="9"
+       rx="4.0291295"
+       ry="3.9649487" />
+    <rect
        style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 9,18 L 23.471802,7.9642363 L 39,18 L 39,40 L 9,40 L 9,18 z "
        id="rect3123"
-       sodipodi:nodetypes="cccccc" />
+       width="30"
+       height="22"
+       x="9"
+       y="13"
+       rx="0"
+       ry="0" />
     <path
-       sodipodi:nodetypes="cccc"
-       id="path1876"
-       d="M 8,18.174564 L 22,32 C 23.025769,32.868777 23.884336,32.940976 24.897756,32 L 40.077307,17.820449"
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       d="M 8,13.174564 L 22,27 C 23.124807,28.198901 23.884336,28.18857 25.046312,27.033012 L 40.077307,12.820449"
+       id="path4000"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

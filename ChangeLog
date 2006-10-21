@@ -1,3 +1,54 @@
+2006-10-21  Luca Ferretti  <luca@redrum>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-righ.svg:
+
+	Removed, is "right", not "righ".
+
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-important.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-read.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-unread.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-message-new.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-flip*.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate*.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-screensaver.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/media-flash.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-default.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-download.svg
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-important.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-mail.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-system.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/audio-volume*.svg:
+
+	New icons (maybe replacing existing placeholders).
+	Note: emblem-important and mail-mark-important is the same picture, as
+	well as emblem-mail and mail-mark-unread.
+	
+	* icon-themes/HighContrast-SVG/scalable/actions/go-jump.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-stop.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-record.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/view-refresh.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/multimedia-volume-control.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-font.svg:
+
+	Fixed alignment and 4 pixels borders.
+
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-documents.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-favorite.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-photos.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-keyboard.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-mouse.svg:
+
+	Updated.
+
+	* icon-themes/HighContrast-SVG/scalable/devices/drive-optical.svg:
+
+	Copy drive-removable-media here, waiting for better ideas.
+	
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-spreadsheet.svg:
+
+	Changed orientation (landscape).
+	
+
 2006-10-19  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Mist/16x16/actions/Makefile.am:
