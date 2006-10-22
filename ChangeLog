@@ -1,3 +1,23 @@
+2006-10-22  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/application-exit.svg:
+	A firt fix for size, spacing and borders (need work)
+
+	* icon-themes/HighContrast-SVG/scalable/actions/document-new.svg:
+	Use a + not a *, as in contact-new.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/folder-new.svg:
+	Based on folder icons plus a +
+
+	* icon-themes/HighContrast-SVG/scalable/actions/help-about.svg:
+	New, a star like in g-i-t
+
+	* icon-themes/HighContrast-SVG/scalable/actions/help-contents.svg:
+	Copy here previous help about.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/help-faq.svg:
+	New, a comic-strip bubble with a ? inside.
+
 2006-10-21  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/contact-new.svg:
