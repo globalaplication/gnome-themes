@@ -34,6 +34,7 @@ icon_DATA=	\
                 gnome-home.png \
                 gnome-joystick.png \
                 gnome-log.png \
+                gnome-logout.png \
 		gnome-logo-icon-transparent.png \
                 gnome-mailcheck.png \
 		gnome-main-menu.png \
@@ -68,6 +69,8 @@ icon_DATA=	\
                 gnome-workspace.png \
                 gucharmap.png \
                 launcher-program.png \
+		panel-drawer.png \
+		panel-force-quit.png \
                 perfmeter.png \
                 window-capplet.png \
 		$(NULL)

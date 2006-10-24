@@ -1,3 +1,41 @@
+2006-10-24  Calum Benson <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/36x36/Makefile.am:
+	* HighContrastLargePrint/icons/36x36/apps/Makefile.am:
+	* HighContrastLargePrint/icons/36x36/apps/gnome-spinner-rest.png:
+	* HighContrastLargePrint/icons/36x36/apps/gnome-spinner.png:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-logout.png:
+	* HighContrastLargePrint/icons/48x48/apps/panel-drawer.png:
+	* HighContrastLargePrint/icons/48x48/apps/panel-force-quit.png:
+	* HighContrastLargePrint/icons/Makefile.am:
+	* HighContrastLargePrint/icons/index.theme:
+	* HighContrastLargePrintInverse/icons/36x36/Makefile.am:
+	* HighContrastLargePrintInverse/icons/36x36/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/36x36/apps/gnome-spinner-rest
+	.png:
+	* HighContrastLargePrintInverse/icons/36x36/apps/gnome-spinner.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-logout.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/panel-drawer.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/panel-force-quit.p
+	ng:
+	* HighContrastLargePrintInverse/icons/Makefile.am:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* LowContrastLargePrint/icons/36x36/Makefile.am:
+	* LowContrastLargePrint/icons/36x36/apps/Makefile.am:
+	* LowContrastLargePrint/icons/36x36/apps/gnome-spinner-rest.png:
+	* LowContrastLargePrint/icons/36x36/apps/gnome-spinner.png:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-logout.png:
+	* LowContrastLargePrint/icons/48x48/apps/panel-drawer.png:
+	* LowContrastLargePrint/icons/48x48/apps/panel-force-quit.png:
+	* LowContrastLargePrint/icons/Makefile.am:
+	* LowContrastLargePrint/icons/index.theme:
+	* configure.in:
+
+	Push a bunch of missing a11y icons upstream from OpenSolaris.
+
 2006-10-22  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/application-exit.svg:

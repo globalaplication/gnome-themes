@@ -4,4 +4,4 @@ indextheme_DATA = index.theme
 
 EXTRA_DIST=	$(indextheme_DATA)
 
-SUBDIRS= 48x48
+SUBDIRS= 48x48 36x36
