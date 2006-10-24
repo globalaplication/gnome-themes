@@ -1,3 +1,99 @@
+2006-10-24  Calum Benson <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/36x36/.cvsignore:
+	* HighContrastLargePrint/icons/36x36/Makefile.am:
+	* HighContrastLargePrint/icons/36x36/apps/.cvsignore:
+	* HighContrastLargePrint/icons/36x36/apps/Makefile.am:
+	* HighContrastLargePrint/icons/36x36/apps/gnome-spinner-rest.png:
+	* HighContrastLargePrint/icons/36x36/apps/gnome-spinner.png:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-logout.png:
+	* HighContrastLargePrint/icons/48x48/apps/panel-drawer.png:
+	* HighContrastLargePrint/icons/48x48/apps/panel-force-quit.png:
+	* HighContrastLargePrint/icons/Makefile.am:
+	* HighContrastLargePrint/icons/index.theme:
+	* HighContrastLargePrintInverse/icons/36x36/.cvsignore:
+	* HighContrastLargePrintInverse/icons/36x36/Makefile.am:
+	* HighContrastLargePrintInverse/icons/36x36/apps/.cvsignore:
+	* HighContrastLargePrintInverse/icons/36x36/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/36x36/apps/gnome-spinner-rest
+	.png:
+	* HighContrastLargePrintInverse/icons/36x36/apps/gnome-spinner.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-logout.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/panel-drawer.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/panel-force-quit.p
+	ng:
+	* HighContrastLargePrintInverse/icons/Makefile.am:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* LowContrastLargePrint/icons/36x36/.cvsignore:
+	* LowContrastLargePrint/icons/36x36/Makefile.am:
+	* LowContrastLargePrint/icons/36x36/apps/.cvsignore:
+	* LowContrastLargePrint/icons/36x36/apps/Makefile.am:
+	* LowContrastLargePrint/icons/36x36/apps/gnome-spinner-rest.png:
+	* LowContrastLargePrint/icons/36x36/apps/gnome-spinner.png:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-logout.png:
+	* LowContrastLargePrint/icons/48x48/apps/panel-drawer.png:
+	* LowContrastLargePrint/icons/48x48/apps/panel-force-quit.png:
+	* LowContrastLargePrint/icons/Makefile.am:
+	* LowContrastLargePrint/icons/index.theme:
+	* configure.in:
+	* desktop-themes/Traditional/.cvsignore:
+	* gtk-themes/Clarius/.cvsignore:
+	* gtk-themes/Clearlooks/.cvsignore:
+	* icon-themes/Crux/16x16/.cvsignore:
+	* icon-themes/Crux/16x16/actions/.cvsignore:
+	* icon-themes/Crux/16x16/places/.cvsignore:
+	* icon-themes/Crux/16x16/status/.cvsignore:
+	* icon-themes/Crux/22x22/.cvsignore:
+	* icon-themes/Crux/22x22/actions/.cvsignore:
+	* icon-themes/Crux/22x22/places/.cvsignore:
+	* icon-themes/Crux/22x22/status/.cvsignore:
+	* icon-themes/Crux/24x24/.cvsignore:
+	* icon-themes/Crux/24x24/actions/.cvsignore:
+	* icon-themes/Crux/24x24/places/.cvsignore:
+	* icon-themes/Crux/24x24/status/.cvsignore:
+	* icon-themes/Crux/32x32/.cvsignore:
+	* icon-themes/Crux/32x32/actions/.cvsignore:
+	* icon-themes/Crux/32x32/places/.cvsignore:
+	* icon-themes/Crux/32x32/status/.cvsignore:
+	* icon-themes/Crux/48x48/.cvsignore:
+	* icon-themes/Crux/48x48/emblems/.cvsignore:
+	* icon-themes/Crux/48x48/filesystems/.cvsignore:
+	* icon-themes/Crux/scalable/.cvsignore:
+	* icon-themes/Crux/scalable/actions/.cvsignore:
+	* icon-themes/Crux/scalable/places/.cvsignore:
+	* icon-themes/Crux/scalable/status/.cvsignore:
+	* icon-themes/Flat-Blue/.cvsignore:
+	* icon-themes/Mist/.cvsignore:
+	* icon-themes/Mist/16x16/.cvsignore:
+	* icon-themes/Mist/16x16/actions/.cvsignore:
+	* icon-themes/Mist/16x16/places/.cvsignore:
+	* icon-themes/Mist/16x16/status/.cvsignore:
+	* icon-themes/Mist/22x22/.cvsignore:
+	* icon-themes/Mist/22x22/actions/.cvsignore:
+	* icon-themes/Mist/22x22/places/.cvsignore:
+	* icon-themes/Mist/22x22/status/.cvsignore:
+	* icon-themes/Mist/24x24/.cvsignore:
+	* icon-themes/Mist/24x24/actions/.cvsignore:
+	* icon-themes/Mist/24x24/places/.cvsignore:
+	* icon-themes/Mist/24x24/status/.cvsignore:
+	* icon-themes/Mist/32x32/.cvsignore:
+	* icon-themes/Mist/32x32/actions/.cvsignore:
+	* icon-themes/Mist/32x32/places/.cvsignore:
+	* icon-themes/Mist/32x32/status/.cvsignore:
+	* icon-themes/Mist/scalable/.cvsignore:
+	* icon-themes/Mist/scalable/actions/.cvsignore:
+	* icon-themes/Mist/scalable/places/.cvsignore:
+	* icon-themes/Mist/scalable/status/.cvsignore:
+	* icon-themes/Sandy/.cvsignore:
+	* icon-themes/Smokey-Blue/.cvsignore:
+	* icon-themes/Smokey-Red/.cvsignore:
+
+	Push some missing a11y icons upstream from JDS, and tell CVS
+	to shut up about some stuff.
+
 2006-10-19  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Mist/16x16/status/Makefile.am: Install into correct

@@ -38,6 +38,7 @@ icon_DATA=	\
                 gnome-joystick.png \
                 gnome-log.png \
 		gnome-logo-icon-transparent.png \
+		gnome-logout.png \
                 gnome-mailcheck.png \
 		gnome-main-menu.png \
                 gnome-mini-commander.png \
@@ -73,6 +74,8 @@ icon_DATA=	\
 		keyboard.png \
                 launcher-program.png \
 		mozilla-icon.png \
+		panel-drawer.png \
+		panel-force-quit.png \
                 perfmeter.png \
 		star.png \
                 window-capplet.png \
