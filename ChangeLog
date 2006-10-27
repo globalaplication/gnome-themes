@@ -1,5 +1,25 @@
 2006-10-27  Calum Benson  <calum.benson@sun.com>
 
+	Removed:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-main-menu.png
+	* LowContrastLargePrint/icons/48x48/apps/gnome-main-menu.png:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-main-menu.png:
+
+	Changed:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+
+	Added:
+	* HighContrastLargePrint/icons/48x48/apps/start-here.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/start-here.png:
+	* LowContrastLargePrint/icons/48x48/apps/start-here.png:
+
+	Rename a11y gnome-main-menu icons to start-here, as per change
+	in gnome-panel 2.16.
+
+2006-10-27  Calum Benson  <calum.benson@sun.com>
+
 	* configure.in:
 
 	Solaris build fix, fixes Bug 364697. (Damien Carbery)

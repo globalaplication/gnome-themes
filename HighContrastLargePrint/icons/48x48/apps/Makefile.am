@@ -40,7 +40,6 @@ icon_DATA=	\
 		gnome-logo-icon-transparent.png \
 		gnome-logout.png \
                 gnome-mailcheck.png \
-		gnome-main-menu.png \
                 gnome-mini-commander.png \
 		gnome-mixer.png \
                 gnome-mixer-applet.png \
@@ -78,6 +77,7 @@ icon_DATA=	\
 		panel-force-quit.png \
                 perfmeter.png \
 		star.png \
+		start-here.png \
                 window-capplet.png \
 		$(NULL)
 
