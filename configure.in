@@ -43,7 +43,10 @@ PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,
 
 if test "x$have_utils" = "xyes"; then
    UTILS_PATH="`$PKG_CONFIG --variable=program_path icon-naming-utils`"
-   ICONMAP="$UTILS_PATH/icon-name-mapping"
+   case "$host" in
+      *-*-solaris*) ICONMAP="icon-name-mapping" ;;
+      *) ICONMAP="$UTILS_PATH/icon-name-mapping" ;;
+   esac
    AC_SUBST(ICONMAP)
    AC_MSG_RESULT([yes])
 else
