@@ -1,3 +1,24 @@
+2006-10-31  Calum Benson  <calum.benson@sun.com>
+	
+	Modified:
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+
+	Removed:
+	* HighContrastLargePrint/icons/48x48/apps/gnome-main-menu.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/gnome-main-menu.png:
+	* LowContrastLargePrint/icons/48x48/apps/gnome-main-menu.png:
+
+	Added:
+	* HighContrastLargePrintInverse/icons/48x48/apps/start-here.png:
+	* HighContrastLargePrint/icons/48x48/apps/start-here.png:
+	* LowContrastLargePrint/icons/48x48/apps/start-here.png:
+
+	Update gnome-main-menu to start-here in a11y themes, as per change
+	in 2.16 panel.  Also fix a Makefile bug that was causing most of
+	the LowContrast icons to not be installed.
+
 2006-10-27  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:

@@ -37,13 +37,12 @@ icon_DATA=	\
                 gnome-logout.png \
 		gnome-logo-icon-transparent.png \
                 gnome-mailcheck.png \
-		gnome-main-menu.png \
                 gnome-mini-commander.png \
                 gnome-mixer-applet.png \
                 gnome-mixer.png \
                 gnome-multimedia.png \
                 gnome-panel.png \
-		gnome-remote-desktop.png
+		gnome-remote-desktop.png \
 		gnome-run.png \
 		gnome-screenshot.png \
 		gnome-searchtool.png \
@@ -72,6 +71,7 @@ icon_DATA=	\
 		panel-drawer.png \
 		panel-force-quit.png \
                 perfmeter.png \
+		start-here.png \
                 window-capplet.png \
 		$(NULL)
 

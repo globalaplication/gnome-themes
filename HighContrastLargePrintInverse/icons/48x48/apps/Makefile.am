@@ -40,7 +40,6 @@ icon_DATA=	\
 		gnome-logout.png \
 		gnome-logo-icon-transparent.png \
                 gnome-mailcheck.png \
-		gnome-main-menu.png \
                 gnome-mini-commander.png \
 		gnome-mixer.png \
                 gnome-mixer-applet.png \
@@ -78,7 +77,8 @@ icon_DATA=	\
 		panel-force-quit.png \
                 perfmeter.png \
 		star.png \
-                window-capplet.png \
+                start-here.png \
+		window-capplet.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
