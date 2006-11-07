@@ -68,6 +68,7 @@ icon_DATA=	\
                 gnome-workspace.png \
                 gucharmap.png \
                 launcher-program.png \
+		orca.png \
 		panel-drawer.png \
 		panel-force-quit.png \
                 perfmeter.png \
