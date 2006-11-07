@@ -73,6 +73,7 @@ icon_DATA=	\
 		keyboard.png \
                 launcher-program.png \
 		mozilla-icon.png \
+		orca.png \
 		panel-drawer.png \
 		panel-force-quit.png \
                 perfmeter.png \

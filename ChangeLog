@@ -1,3 +1,15 @@
+2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
+
+	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrint/icons/48x48/apps/orca.png:
+	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/apps/orca.png:
+	* LowContrastLargePrint/icons/48x48/apps/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/orca.svg:
+
+	Add high and low contrast icons for Orca (Luca Ferretti),
+	closes bug #357930.
+
 2006-10-27  Calum Benson  <calum.benson@sun.com>
 
 	Removed:
