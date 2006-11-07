@@ -1,3 +1,39 @@
+2.17.2
+======
+
+New icons:
+
+Many new/improved HighContrast-SVG icons from Luca Ferretti 
+and Andreas Nilsson.
+
+2006-10-24  Calum Benson <calum.benson@sun.com>
+       Push a bunch of missing a11y icons upstream from OpenSolaris.
+
+Bugfixes:
+
+2006-10-27  Calum Benson  <calum.benson@sun.com>
+       Rename a11y gnome-main-menu icons to start-here, as per change
+       in gnome-panel 2.16.
+
+2006-10-27  Calum Benson  <calum.benson@sun.com>
+       Solaris build fix, fixes Bug 364697. (Damien Carbery)
+
+2006-10-24  Calum Benson  <calum.benson@sun.com>
+       Keep CVS quiet.
+
+2006-10-19  Thomas Wood  <thos@gnome.org>
+       - (Mist) Add some pngs to use rather than SVG in fixed size directories
+       - Install 16x16/status into the correct directory
+
+
+New/improved translations:
+
+
+2.17.1
+======
+
+No changes to warrant release.
+
 2.16.1.1
 ========
 
