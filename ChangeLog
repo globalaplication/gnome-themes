@@ -1,5 +1,11 @@
 2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
 
+	* LowContrastLargePrint/icons/48x48/apps/orca.png:
+
+	Forgot to cvs add the LCHP one...
+
+2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
+
 	* HighContrastLargePrint/icons/48x48/apps/Makefile.am:
 	* HighContrastLargePrint/icons/48x48/apps/orca.png:
 	* HighContrastLargePrintInverse/icons/48x48/apps/Makefile.am:
