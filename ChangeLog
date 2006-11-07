@@ -1,5 +1,12 @@
 2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
 
+	* icon-themes/HighContrast-SVG/scalable/apps/orca.svg: added
+	* icon-themes/HighContrast-SVG/scalable/orca.svg: removed
+
+	Put the SVG icon in the right directory this time...
+
+2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
+
 	* LowContrastLargePrint/icons/48x48/apps/orca.png:
 
 	Forgot to cvs add the LCHP one...
