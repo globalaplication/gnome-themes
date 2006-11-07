@@ -1,5 +1,17 @@
 2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/categories/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+	Actually install all the SVG icons this time...
+
+2006-11-07  Calum Benson,,,  <calum.benson@sun.com>
+
 	* icon-themes/HighContrast-SVG/scalable/apps/orca.svg: added
 	* icon-themes/HighContrast-SVG/scalable/orca.svg: removed
 
