@@ -5,18 +5,23 @@ context = status
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA =				\
-	dialog-error.svg		\
-	dialog-information.svg		\
-	dialog-question.svg		\
-	dialog-warning.svg		\
-	folder-drag-accept.svg		\
-	folder-open.svg			\
-	folder-visiting.svg		\
-	image-missing.svg		\
-	mail-attachment.svg		\
-	network-offline.svg		\
-	network-online.svg		\
+	dialog-error.svg \
+	dialog-information.svg \
+	dialog-password.svg \
+	dialog-question.svg \
+	dialog-warning.svg \
+	folder-drag-accept.svg \
+	folder-open.svg \
+	folder-visiting.svg \
+	image-missing.svg \
+	mail-attachment.svg \
+	network-offline.svg \
+	network-online.svg \
+	security-high.svg \
+	security-low.svg \
+	security-medium.svg \
 	user-trash-full.svg
+
 
 EXTRA_DIST =				\
 	$(icon_DATA)
