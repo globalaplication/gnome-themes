@@ -64,7 +64,8 @@ widget_class "*MenuItem*" style "menuitem"
 
 style "scale"
 {
-GtkRange::trough_border = 0
+    GtkRange::trough-side-details = 1
+    GtkRange::trough_border = 0
     GtkRange::slider-width = 22
     GtkScale::slider-length = 10
 }
