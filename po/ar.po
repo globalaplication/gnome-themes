@@ -1,20 +1,23 @@
-# translation of gnome-themes.po to Arabic
+# translation of gnome-themes.gnome-2-16.ar.po to Arabic
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+#
 # Arafat Medini <lumina@silverpen.de>, 2003.
 # Djihed Afifi <djihed@gmail.com>, 2006.
-#
+# Khaled Hosny <khaledhosny@eglug.org>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes\n"
+"Project-Id-Version: gnome-themes.gnome-2-16.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-10-04 08:15+0200\n"
-"PO-Revision-Date: 2006-10-05 21:07-0000\n"
-"Last-Translator: Djihed Afifi <djihed@gmail.com>\n"
-"Language-Team: Arabic <doc@arabeyes.org>\n"
+"PO-Revision-Date: 2006-11-16 23:15+0200\n"
+"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -95,7 +98,7 @@ msgstr "جلايدر"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "بسيط, ملس و جذاب جماليا."
+msgstr "بسيط, ملس و جذاب جماليا"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -113,33 +116,4 @@ msgstr "أيقونات متغيرة الحجم و ذات تباين عال مع 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "تباين عال-SVG"
-
-#~ msgid "Flat-Blue"
-#~ msgstr "أزرق منبسط"
-#~ msgid "Dusty orange appearance"
-#~ msgstr "مظهر برتقالي مغبر"
-#~ msgid "Grand Canyon"
-#~ msgstr "الوادي العظيم"
-#~ msgid "Ocean Dream"
-#~ msgstr "حلُم المحيط"
-#~ msgid "The colours of the seashore"
-#~ msgstr "ألوان الشاطئ"
-#~ msgid "Simple"
-#~ msgstr "بسيط"
-#~ msgid "Thin appearance, high performance"
-#~ msgstr "مظهر ضئيل، أداء عال"
-#~ msgid "A soft glassy appearance"
-#~ msgstr "مظهر بلّوري ناعم"
-#~ msgid "Smokey Blue"
-#~ msgstr "أزرق مدّخن"
-#~ msgid "Traditional"
-#~ msgstr "تقليدي"
-#~ msgid "Traditional hard-edged 3D appearance"
-#~ msgstr "مظهر تقليدي ذي حواف 3D حادّة"
-#~ msgid "Sandy"
-#~ msgstr "رملي"
-#~ msgid "Smokey-Blue"
-#~ msgstr "أزرق مُدّخِن"
-#~ msgid "Smokey-Red"
-#~ msgstr "أحمر مُدّخِن"
 
