@@ -145,6 +145,7 @@ icon-themes/HighContrast-SVG/scalable/apps/Makefile
 icon-themes/HighContrast-SVG/scalable/categories/Makefile
 icon-themes/HighContrast-SVG/scalable/devices/Makefile
 icon-themes/HighContrast-SVG/scalable/emblems/Makefile
+icon-themes/HighContrast-SVG/scalable/emotes/Makefile
 icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile
 icon-themes/HighContrast-SVG/scalable/places/Makefile
 icon-themes/HighContrast-SVG/scalable/status/Makefile

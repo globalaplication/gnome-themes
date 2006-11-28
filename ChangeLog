@@ -1,3 +1,20 @@
+2006-11-28  Luca Ferretti  <elle.uca@libero.it>
+
+	* configure.in:
+	* icon-themes/HighContrast-SVG/scalable/Makefile.am:
+	Add emotes directory for HighContrast-SVG.
+
+	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-glasses.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-plain.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-sad.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-smile-big.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-smile.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-surprise.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-wink.svg:
+	* icon-themes/HighContrast-SVG/scalable/emotes/.cvsignore:
+	New files and icons.
+
 2006-11-17  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/Glider/gtkrc:

@@ -1,7 +1,7 @@
 
 themedir=	$(datadir)/icons/HighContrast-SVG/scalable
 
-SUBDIRS = actions apps categories devices emblems mimetypes places status
+SUBDIRS = actions apps categories devices emblems emotes mimetypes places status
 
 #install: install-am
 #	if test -e $(DESTDIR)$(libexecdir)/icon-name-mapping; then \
