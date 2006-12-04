@@ -1,1 +1,1 @@
-SUBDIRS=Glider Simple
+SUBDIRS=Glider Glossy Simple

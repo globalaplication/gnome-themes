@@ -109,10 +109,12 @@ desktop-themes/Makefile
 desktop-themes/Crux/Makefile
 desktop-themes/Clearlooks/Makefile
 desktop-themes/Glider/Makefile
+desktop-themes/Glossy/Makefile
 desktop-themes/Mist/Makefile
 metacity-themes/Makefile
 gtk-themes/Makefile
 gtk-themes/Glider/Makefile
+gtk-themes/Glossy/Makefile
 gtk-themes/Simple/Makefile
 icon-themes/Makefile
 icon-themes/Crux/Makefile

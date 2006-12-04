@@ -1,6 +1,7 @@
-THEMES=			\
-	Clearlooks	\
-	Glider		\
+THEMES= \
+	Clearlooks\
+	Glider \
+	Glossy \
 	Mist
 
 THEME_DIR=$(datadir)/themes

@@ -1,8 +1,0 @@
-[X-GNOME-Metatheme]
-_Name=Simple
-Type=X-GNOME-Metatheme
-_Comment=Thin appearance, high performance
-Encoding=UTF-8
-GtkTheme=Simple
-MetacityTheme=Simple
-IconTheme=gnome
