@@ -1,3 +1,9 @@
+2006-12-08  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* POTFILES.in: Add Glossy theme.
+	* POTFILES.skip: Removed, as all listed entries are now removed.
+	* th.po: Updated Thai translation.
+
 2006-09-27  Runa Bhattacharjee <runabh@gmail.com>
 
 	* si.po: Added Sinhala Translation by Tyronne Wickramaratne.
