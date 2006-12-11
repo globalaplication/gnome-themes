@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-26 00:24+0200\n"
-"PO-Revision-Date: 2006-07-26 00:24+0200\n"
+"POT-Creation-Date: 2006-12-11 10:41+0100\n"
+"PO-Revision-Date: 2006-12-11 10:42+0100\n"
 "Last-Translator: Francisco Javier F. Serrador <serrador@cvs.gnome.org>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -100,17 +100,22 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simple, suave y estéticamente complaciente"
 
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Un tema de apariencia pulida"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Pulido"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Una apariencia minimalista"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Bruma"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Azul plano"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -120,3 +125,5 @@ msgstr "Iconos escalables de alto contraste con bordes negros"
 msgid "HighContrast-SVG"
 msgstr "Alto contraste-SVG"
 
+#~ msgid "Flat-Blue"
+#~ msgstr "Azul plano"
