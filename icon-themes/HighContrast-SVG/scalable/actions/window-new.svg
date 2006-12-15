@@ -6,14 +6,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48.000000px"
    height="48.000000px"
    id="svg1306"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/betatester"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/luca/Progetti/Artwork/blackwhite-icon-theme/scalable/actions"
    sodipodi:docname="window-new.svg">
   <defs
      id="defs1308" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.812500"
-     inkscape:cx="24.000000"
-     inkscape:cy="24.000000"
+     inkscape:zoom="15.8125"
+     inkscape:cx="24"
+     inkscape:cy="23.968379"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -84,5 +84,13 @@
        d="M 11.000000,14.000000 L 37.000000,14.000000"
        id="path2772"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16,27 L 32,27"
+       id="path1874" />
+    <path
+       id="path2762"
+       d="M 24,19 L 24,35"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

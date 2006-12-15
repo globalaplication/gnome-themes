@@ -1,3 +1,22 @@
+2006-12-15  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/window-new.svg:
+
+	Add the + (plus) emblem as in document-new and folder-new
+	
+	* icon-themes/HighContrast-SVG/scalable/devices/camera-video.svg:
+
+	New icon, shape inspired by a webcast icon I seen on Novell website
+	
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/image-x-generic.svg:
+
+	New icon, the previous was a simple black square, now we have
+	a landscape (hope it works for impaired people)
+	
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-calendar.svg:
+
+	New icon, a grid with a large black header.
+
 2006-12-15  Luca Ferretti <elle.uca@libero.it>
 
 	* configure.in:
