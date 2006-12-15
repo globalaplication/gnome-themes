@@ -151,6 +151,15 @@ icon-themes/HighContrast-SVG/scalable/emotes/Makefile
 icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile
 icon-themes/HighContrast-SVG/scalable/places/Makefile
 icon-themes/HighContrast-SVG/scalable/status/Makefile
+icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/apps-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/categories-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/devices-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/emblems-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/emotes-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/mimetypes-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/places-extra/Makefile
+icon-themes/HighContrast-SVG/scalable/status-extra/Makefile
 icon-themes/Mist/Makefile
 icon-themes/Mist/16x16/Makefile
 icon-themes/Mist/16x16/actions/Makefile

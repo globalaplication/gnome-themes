@@ -1,3 +1,21 @@
+2006-12-15  Luca Ferretti <elle.uca@libero.it>
+
+	* configure.in:
+	* icon-themes/HighContrast-SVG/scalable/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/categories-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emblems-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emotes-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/places-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status-extra/Makefile.am:
+
+	Add <context>-extra dirs to HighContrast SVG: here will be
+	placed icons not listed in Icon Naming Spec but useful to GNOME
+	Desktop applications (waiting for a common solution for HC icons)
+
 2006-12-13  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/Glossy/gtkrc:
