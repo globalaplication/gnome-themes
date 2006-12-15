@@ -1,5 +1,12 @@
 2006-12-15  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions-extra/history-view.svg:
+
+	First extra icon: history-view for recent Epiphany build
+	
+2006-12-15  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/window-new.svg:
 
 	Add the + (plus) emblem as in document-new and folder-new

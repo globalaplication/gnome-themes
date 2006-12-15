@@ -4,7 +4,8 @@ context = actions
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =
+icon_DATA = \
+	history-view.svg
 
 EXTRA_DIST = \
 	$(icon_DATA)
