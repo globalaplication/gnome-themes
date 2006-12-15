@@ -1,6 +1,13 @@
 2006-12-15  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions-extra/bookmark-view.svg:
+
+	New extra icon: bookmark-view for recent Epiphany
+
+2006-12-15  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/actions-extra/history-view.svg:
 
 	First extra icon: history-view for recent Epiphany build
