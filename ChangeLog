@@ -1,3 +1,9 @@
+2006-12-16  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/package-x-generic.svg:
+
+	New icon for packages.
+
 2006-12-15  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions-extra/Makefile.am:
