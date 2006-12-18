@@ -1,3 +1,9 @@
+2006-12-18  Thomas Wood  <thos@gnome.org>
+
+	* configure.in: We need gtk-engines >= 2.9.0 for the Glossy theme
+	* gtk-themes/Glossy/gtkrc: Adjust menu xthickness for bug 382634
+	(improvements to clearlooks menu selection)
+
 2006-12-16  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/package-x-generic.svg:
