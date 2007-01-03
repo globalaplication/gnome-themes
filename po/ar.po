@@ -10,15 +10,14 @@ msgstr ""
 "Project-Id-Version: gnome-themes.gnome-2-16.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-12-17 19:08+0100\n"
-"PO-Revision-Date: 2006-11-16 23:15+0200\n"
-"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"PO-Revision-Date: 2006-12-30 13:43+0200\n"
+"Last-Translator: Mohamed Magdy <alnokta@yahoo.com>\n"
 "Language-Team: Arabic <support@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && "
-"n<=10 ? 2 : 3\n"
+"Plural-Forms: Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -103,11 +102,11 @@ msgstr "بسيط, ملس و جذاب جماليا"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
 msgid "A glossy looking theme"
-msgstr ""
+msgstr "تيمة ذات مظهر لامع"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr ""
+msgstr "لامع"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -125,3 +124,4 @@ msgstr "أيقونات متغيرة الحجم و ذات تباين عال مع 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "تباين عال-SVG"
+
