@@ -1,15 +1,15 @@
 # Vietnamese Translation for Gnome-themes.
-# Copyright © 2006 Gnome i18n Project for Vietnamese.
+# Copyright © 2007 Gnome i18n Project for Vietnamese.
 # T.M.Thanh <tmthanh@yahoo.com>, 2002.
 # Nguyen Thai Ngoc Duy <pclouds@vnlinux.org>, 2004.
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2006.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
 # 
 msgid ""
 ""
 msgstr "Project-Id-Version: Gnome-themes GNOME HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-15 00:24+0200\n"
-"PO-Revision-Date: 2006-08-15 17:09+0930\n"
+"POT-Creation-Date: 2007-01-02 04:00+0000\n"
+"PO-Revision-Date: 2007-01-06 14:16+1030\n"
 "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -98,6 +98,14 @@ msgstr "Tàu lượn"
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Đơn giản, mịn và dễ chịu thẩm mỹ"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Sắc thái bóng loáng"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Bóng loáng"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
