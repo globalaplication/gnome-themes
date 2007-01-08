@@ -1,3 +1,8 @@
+2007-01-08  Thomas Wood  <thos@gnome.org>
+
+	* gtk-themes/Glossy/gtkrc: Update menu style to improvements in
+	Clearlooks. Also updated background colour to a nice metallic gray.
+
 2006-12-18  Thomas Wood  <thos@gnome.org>
 
 	* configure.in: We need gtk-engines >= 2.9.0 for the Glossy theme
