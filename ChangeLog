@@ -1,5 +1,10 @@
 2007-01-08  Thomas Wood  <thos@gnome.org>
 
+	* gtk-themes/Glider/gtkrc: Add gtk-color-scheme support
+	* gtk-themes/Glossy/gtkrc: Remove unused symbolic colour
+
+2007-01-08  Thomas Wood  <thos@gnome.org>
+
 	* gtk-themes/Glossy/gtkrc: Update menu style to improvements in
 	Clearlooks. Also updated background colour to a nice metallic gray.
 

@@ -4,6 +4,8 @@
 #               HIG colors.
 #               This is Glider, the gnome-themes version of SmoothGNOME..
 
+gtk_color_scheme = "fg_color:#000\nbg_color:#eae8e3\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#7590ae\nselected_fg_color:#fff"
+
 style "default"
 {
 	GtkWidget::interior_focus = 0
@@ -24,29 +26,29 @@ style "default"
 	GtkRange::stepper_size = 15
 	GtkRange::stepper_spacing = 0
 
-	fg[ACTIVE] = "#000000" # Black
-	fg[SELECTED] = "#FFFFFF" # White
-	fg[NORMAL] = "#000000" # Black
-	fg[PRELIGHT] = "#000000" # Black
-	fg[INSENSITIVE] = "#565248" # 3D Shadow
+	fg[ACTIVE] = @fg_color # Black
+	fg[SELECTED] = @selected_fg_color # White
+	fg[NORMAL] = @fg_color # Black
+	fg[PRELIGHT] = @fg_color # Black
+	fg[INSENSITIVE] = darker (@bg_color) # 3D Shadow
 
-	bg[ACTIVE] = "#BAB5AB" # Basic 3D Medium
-	bg[SELECTED] = "#7590AE" # Blue Medium
-	bg[NORMAL] = "#EAE8E3" # Basic 3D Hilight
-	bg[PRELIGHT] = "#F2F0EB" # Variant of Basic 3D Hilight
-	bg[INSENSITIVE] = "#EAE8E3" # Basic 3D Hilight
+	bg[ACTIVE] = shade (0.8, @bg_color) # Basic 3D Medium
+	bg[SELECTED] = @selected_bg_color # Blue Medium
+	bg[NORMAL] = @bg_color # Basic 3D Hilight
+	bg[PRELIGHT] = shade (1.1, @bg_color) # Variant of Basic 3D Hilight
+	bg[INSENSITIVE] = @bg_color # Basic 3D Hilight
 
-	base[ACTIVE] = "#BAB5AB" # Basic 3D Medium
-	base[SELECTED] = "#7590AE" # Blue Medium
-	base[NORMAL] = "#FFFFFF" # White
-	base[PRELIGHT] = "#FFFFFF" # White
-	base[INSENSITIVE] = "#DEDCD7" # Variant of Basic 3D Highlight
+	base[ACTIVE] = darker (@bg_color) # Basic 3D Medium
+	base[SELECTED] = @selected_bg_color # Blue Medium
+	base[NORMAL] = @base_color # White
+	base[PRELIGHT] = @base_color # White
+	base[INSENSITIVE] = shade (0.9, @bg_color) # Variant of Basic 3D Highlight
 
-	text[ACTIVE] = "#000000" # Black
-	text[SELECTED] = "#FFFFFF" # White
-	text[NORMAL] = "#000000" # Black
-	text[PRELIGHT] = "#000000" # Black
-	text[INSENSITIVE] = "#565248" # 3D Shadow
+	text[ACTIVE] = @text_color # Black
+	text[SELECTED] = @selected_fg_color # White
+	text[NORMAL] = @text_color # Black
+	text[PRELIGHT] = @text_color # Black
+	text[INSENSITIVE] = darker (@bg_color) # 3D Shadow
 
 	engine "glide" {}
 }
@@ -54,10 +56,10 @@ widget_class "*" style "default"
 
 style "menuitem"
 {
-	bg[PRELIGHT] = "#7590AE"
-	fg[PRELIGHT] = "#FFFFFF"
-	base[PRELIGHT] = "#7590AE"
-	text[PRELIGHT] = "#FFFFFF"
+	bg[PRELIGHT] = @selected_bg_color
+	fg[PRELIGHT] = @selected_fg_color
+	base[PRELIGHT] = @selected_bg_color
+	text[PRELIGHT] = @selected_fg_color
 }
 class "*MenuItem*" style "menuitem"
 widget_class "*MenuItem*" style "menuitem"
@@ -76,8 +78,8 @@ class "*HScale*"                style "scale"
 
 style "toolbar"
 {
-	bg[PRELIGHT] = "#7590AE"
-	base[PRELIGHT] = "#7590AE"
+	bg[PRELIGHT] = @selected_bg_color
+	base[PRELIGHT] = @selected_bg_color
 }
 widget_class "*BonoboDockItem" style "toolbar"
 class "*BonoboDockItem" style "toolbar"
@@ -93,8 +95,8 @@ class "*MenuBar" style "toolbar"
 
 style "progressbar"
 {
-	bg[PRELIGHT] = "#7590AE"
-	fg[PRELIGHT] = "#FFFFFF" # White
+	bg[PRELIGHT] = @selected_bg_color
+	fg[PRELIGHT] = @selected_fg_color # White
 	xthickness = 1
 	ythickness = 1
 }
@@ -103,14 +105,14 @@ widget_class "*ProgressBar*" style "progressbar"
 style "tooltip"
 {
     bg[NORMAL] = "#FFF1BE" # Variant of Accent Yellow
-	fg[NORMAL] = "#000000"
+    fg[NORMAL] = "#000000"
 }
 widget "gtk-tooltips" style "tooltip"
 
 style "textentry"
 {
-    bg[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
-    base[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
+#    bg[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
+#    base[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
 }
 widget_class "*GtkEntry" style "textentry"
 
