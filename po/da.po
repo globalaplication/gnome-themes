@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-08 00:38+0100\n"
+"POT-Creation-Date: 2007-01-10 16:28+0100\n"
 "PO-Revision-Date: 2006-03-08 00:39+0100\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
@@ -86,7 +86,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
+#, fuzzy
+msgid "Smooth gradients with purple highlights"
 msgstr "Bløde farveovergange med højlys"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
@@ -97,66 +98,71 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simpel, udglattet og æstetisk behagende"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Støvet, orange udseende"
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Et glasagtigt tema"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Grand Canyon"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+#, fuzzy
+msgid "Glossy"
+msgstr "Skinnende"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Minimalistisk udseende"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Tåge"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Havdrøm"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "Højkontrast skalerbare ikoner med sorte kanter"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Farverne fra stranden"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+#, fuzzy
+msgid "HighContrast-SVG"
+msgstr "Højkontrast"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simpelt"
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Støvet, orange udseende"
 
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "Tyndt og hurtigt"
+#~ msgid "Grand Canyon"
+#~ msgstr "Grand Canyon"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "Et blødt, glasagtigt udseende"
+#~ msgid "Ocean Dream"
+#~ msgstr "Havdrøm"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Røgblå"
+#~ msgid "The colours of the seashore"
+#~ msgstr "Farverne fra stranden"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Traditionlt"
+#~ msgid "Simple"
+#~ msgstr "Simpelt"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "Traditionelt 3d-udseende med hårde kanter"
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "Tyndt og hurtigt"
 
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Flad blå"
+#~ msgid "A soft glassy appearance"
+#~ msgstr "Et blødt, glasagtigt udseende"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Sandet"
+#~ msgid "Smokey Blue"
+#~ msgstr "Røgblå"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Røgblå"
+#~ msgid "Traditional"
+#~ msgstr "Traditionlt"
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Røgrød"
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "Traditionelt 3d-udseende med hårde kanter"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Flad blå"
+
+#~ msgid "Sandy"
+#~ msgstr "Sandet"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Røgblå"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Røgrød"
