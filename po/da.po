@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-10 16:28+0100\n"
+"POT-Creation-Date: 2007-01-10 18:55+0100\n"
 "PO-Revision-Date: 2006-03-08 00:39+0100\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
@@ -86,9 +86,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-#, fuzzy
 msgid "Smooth gradients with purple highlights"
-msgstr "Bløde farveovergange med højlys"
+msgstr "Bløde farveovergange med lilla højlys"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -103,7 +102,6 @@ msgid "A glossy looking theme"
 msgstr "Et glasagtigt tema"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
-#, fuzzy
 msgid "Glossy"
 msgstr "Skinnende"
 
@@ -121,7 +119,6 @@ msgid "High contrast scalable icons with black borders"
 msgstr "Højkontrast skalerbare ikoner med sorte kanter"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
-#, fuzzy
 msgid "HighContrast-SVG"
 msgstr "Højkontrast"
 
