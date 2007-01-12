@@ -2,15 +2,15 @@
 # Copyright (C) 2002-2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Christian Neumair <chris@gnome-de.org>, 2002, 2003.
-# Hendrik Richter <hendrikr@gnome.org>, 2004, 2005, 2006.
+# Hendrik Richter <hendrikr@gnome.org>, 2004, 2005, 2006, 2007.
 #
 # Manche Themennamen sind Eigennamen. Bitte nicht übersetzen.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.4.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-11 12:30+0200\n"
-"PO-Revision-Date: 2006-08-11 12:33+0200\n"
+"POT-Creation-Date: 2007-01-12 12:16+0100\n"
+"PO-Revision-Date: 2007-01-12 12:18+0100\n"
 "Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -100,6 +100,14 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Sanft und ästhetisch, einfach angenehm"
 
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Ein glänzendes Thema"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Glanz"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Eine minimalistische Oberfläche"
@@ -108,7 +116,7 @@ msgstr "Eine minimalistische Oberfläche"
 #: ../desktop-themes/Mist/index.theme.in.h:2
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr "Mist"
+msgstr "Dunst"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
