@@ -1,3 +1,16 @@
+2007-01-13  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-object.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/process-stop.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/apps/multimedia-volume-control.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/devices/audio-input-microphone.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mimetypes/audio-x-generic.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mimetypes/image-x-generic.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mimetypes/mimetypes/x-office-spreadsheet.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mimetypes/status/mail-attachment.svg:
+
+	Remove svn:executable property
+
 2007-01-08  Thomas Wood  <thos@gnome.org>
 
 	* gtk-themes/Glider/gtkrc: Add gtk-color-scheme support
