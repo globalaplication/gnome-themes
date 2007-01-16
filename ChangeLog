@@ -1,3 +1,8 @@
+2007-01-16  Thomas Wood  <thos@gnome.org>
+
+	* desktop-themes/Glossy/Makefile.am: Fix THEME_NAME variable.
+	Fixes bug 395121.
+
 2007-01-13  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/insert-object.svg:
