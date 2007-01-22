@@ -1,3 +1,10 @@
+2007-01-22  Thomas Wood  <thos@gnome.org>
+
+	Patch from: Sebastian Kapfer <sebastian_kapfer@web.de>
+
+	* metacity-themes/Glider/metacity-theme-1.xml: Correct the unmaximize
+	button's prelight icon. Fixes bug 157647.
+
 2007-01-16  Thomas Wood  <thos@gnome.org>
 
 	* desktop-themes/Glossy/Makefile.am: Fix THEME_NAME variable.

@@ -655,7 +655,7 @@
   <button function="menu" state="pressed" draw_ops="menu_button_pressed"/>
 </frame_style>
 
-<frame_style name="focused_maximized" geometry="normal_maximized" parent="normal">
+<frame_style name="focused_maximized" geometry="normal_maximized" parent="normal_maximized">
   <piece position="entire_background" draw_ops="bevel_maximized"/>
   <piece position="title" draw_ops="title"/>
   <button function="close" state="normal" draw_ops="close_button_normal"/>
