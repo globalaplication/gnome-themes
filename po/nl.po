@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes cvs\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-28 10:04+0200\n"
+"POT-Creation-Date: 2007-01-31 23:57+0100\n"
 "PO-Revision-Date: 2006-07-29 01:32+0200\n"
 "Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
@@ -99,18 +99,22 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Eenvoudig, glad en esthetisch verantwoord"
 
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Een glossy uiterlijk"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Glossy"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Een minimalistisch uiterlijk"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Mist"
-
-# vlakblauw
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Vlak-blauw"
 
 # "schaalbaar" niet meervertaald
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
@@ -120,6 +124,10 @@ msgstr "Hoog contrast pictogrammen met zwarte randen"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Hoog contrast SVG"
+
+# vlakblauw
+#~ msgid "Flat-Blue"
+#~ msgstr "Vlak-blauw"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Stoffig oranje uiterlijk"
