@@ -1,3 +1,110 @@
+2.17.91
+=======
+
+Bugfixes:
+
+2007-01-22  Thomas Wood  <thos@gnome.org>
+
+       Patch from: Sebastian Kapfer <sebastian_kapfer@web.de>
+
+       * metacity-themes/Glider/metacity-theme-1.xml: Correct the unmaximize
+       button's prelight icon. Fixes bug 157647.
+
+New/updated translations:
+
+2007-02-11  Changwoo Ryu  <cwryu@debian.org>
+       * ko.po: Updated Korean translation by Young-Ho Cha.
+
+2007-02-08  Josep Puigdemont i Casamajó  <josep.puigdemont@gmail.com>
+       * ca.po: Updated Catalan translation.
+
+2007-02-01  Stéphane Raimbault  <stephane.raimbault@gmail.com>
+       * fr.po: Updated French translation by Robert-André Mauchin.
+
+2007-01-31  Wouter Bolsterlee  <wbolster@svn.gnome.org>
+       * nl.po: Translation updated by Wouter Bolsterlee.
+
+2007-01-28  Luca Ferretti  <elle.uca@libero.it>
+       * it.po: Updated Italian translation.
+
+
+
+2.17.90
+=======
+
+Features/bugfixes:
+
+2007-01-16  Thomas Wood  <thos@gnome.org>
+
+       * desktop-themes/Glossy/Makefile.am: Fix THEME_NAME variable.
+       Fixes bug 395121.
+
+2007-01-13  Luca Ferretti  <elle.uca@libero.it>
+
+       * icon-themes/HighContrast-SVG/scalable/actions/insert-object.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/process-stop.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/apps/multimedia-volume-control.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/devices/audio-input-microphone.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/mimetypes/audio-x-generic.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/mimetypes/image-x-generic.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/mimetypes/mimetypes/x-office-spreadsheet.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/mimetypes/status/mail-attachment.svg:
+
+      Remove svn:executable property
+
+New/updated translations:
+
+2007-01-14  Raphael Higino  <raphaelh@svn.gnome.org>
+       * pt_BR.po: Updated Brazilian Portuguese translation.
+
+2007-01-12  Hendrik Richter  <hendrikr@gnome.org>
+       * de.po: Updated German translation.
+
+2007-01-10  Martin Willemoes Hansen  <mwh@spiril>
+       * da.po: Updated Danish translation.
+
+
+2.17.5
+======
+
+Features/bugfixes:
+
+2007-01-08  Thomas Wood  <thos@gnome.org>
+
+       * gtk-themes/Glider/gtkrc: Add gtk-color-scheme support
+       * gtk-themes/Glossy/gtkrc: Remove unused symbolic colour
+
+2007-01-08  Thomas Wood  <thos@gnome.org>
+
+       * gtk-themes/Glossy/gtkrc: Update menu style to improvements in
+       Clearlooks. Also updated background colour to a nice metallic gray.
+
+New/updated translations:
+
+2007-01-07  Priit Laes  <plaes@svn.gnome.org>
+       * et.po: Estonian translation update by Ivar Smolin.
+
+2007-01-06  Clytie Siddall <clytie@riverland.net.au>
+
+       * vi.po: Updated Vietnamese translation.
+
+2007-01-3  Djihed Afifi <djihed@gmail.com> 
+
+      * ar.po: Updated Arabic Translation by Mohamed Magdy.
+
+2007-01-01  David Lodge <dave@cirt.net>
+
+       * en_GB.po: Updated English (British) translation
+
+2006-12-25  Raivis Dejus <orvils@gmail.com>
+
+       * lv.po: Updated Latvian Translation.
+
+2006-12-23  Ales Nyakhaychyk  <nab@mail.by>
+
+       * be.po: Updated Belarusian Translation by Ihar Hrachyshka.
+
+
 2.17.4
 ======
 

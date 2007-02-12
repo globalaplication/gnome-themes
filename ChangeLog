@@ -1,3 +1,11 @@
+2007-02-12  Calum Benson  <calum.benson@sun.com>
+
+	* MAINTAINERS:
+	* NEWS:
+	* configure.in:
+
+	Updated for 2.17.91 tarball.
+
 2007-01-22  Thomas Wood  <thos@gnome.org>
 
 	Patch from: Sebastian Kapfer <sebastian_kapfer@web.de>
