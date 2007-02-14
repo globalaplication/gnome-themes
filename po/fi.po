@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-27 13:48+0300\n"
-"PO-Revision-Date: 2006-07-27 13:49+0300\n"
+"POT-Creation-Date: 2007-02-14 15:12+0300\n"
+"PO-Revision-Date: 2007-02-14 15:19+0300\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -98,17 +98,22 @@ msgstr "Liidokki"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Yksinkertainen, sujuva ja esteettisesti miellyttävä"
 
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Kiiltävännäköinen teema"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Kiiltävä"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Minimalistinen ulkoasu"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Sumu"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Tasaisen sininen"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -117,6 +122,9 @@ msgstr "Suurikontrastiset skaalattavat kuvat mustilla reunuksilla"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Suurikontrastinen SVG"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Tasaisen sininen"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Pölyisen oranssi ulkoasu"
