@@ -1,3 +1,40 @@
+2007-02-20  Calum Benson  <calum.benson@sun.com>
+
+	Moved a11y gtk themes from top level dirs into
+	gtk-themes/ where they belong.  Will do the same
+	with icon and metathemes in due course.
+
+	* HighContrast/Makefile.am:
+	* HighContrast/gtk-2.0/.cvsignore:
+	* HighContrast/gtk-2.0/Makefile.am:
+	* HighContrast/gtk-2.0/gtkrc.in:
+	* HighContrastInverse/Makefile.am:
+	* HighContrastInverse/gtk-2.0/.cvsignore:
+	* HighContrastInverse/gtk-2.0/Makefile.am:
+	* HighContrastInverse/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrint/Makefile.am:
+	* HighContrastLargePrint/gtk-2.0/.cvsignore:
+	* HighContrastLargePrint/gtk-2.0/Makefile.am:
+	* HighContrastLargePrint/gtk-2.0/gtkrc.in:
+	* HighContrastLargePrintInverse/Makefile.am:
+	* HighContrastLargePrintInverse/gtk-2.0/.cvsignore:
+	* HighContrastLargePrintInverse/gtk-2.0/Makefile.am:
+	* HighContrastLargePrintInverse/gtk-2.0/gtkrc.in:
+	* LargePrint/Makefile.am:
+	* LargePrint/gtk-2.0/.cvsignore:
+	* LargePrint/gtk-2.0/Makefile.am:
+	* LargePrint/gtk-2.0/gtkrc.in:
+	* LowContrast/Makefile.am:
+	* LowContrast/gtk-2.0/.cvsignore:
+	* LowContrast/gtk-2.0/Makefile.am:
+	* LowContrast/gtk-2.0/gtkrc.in:
+	* LowContrastLargePrint/Makefile.am:
+	* LowContrastLargePrint/gtk-2.0/.cvsignore:
+	* LowContrastLargePrint/gtk-2.0/Makefile.am:
+	* LowContrastLargePrint/gtk-2.0/gtkrc.in:
+	* configure.in:
+	* gtk-themes/Makefile.am:
+
 2007-02-12  Calum Benson  <calum.benson@sun.com>
 
 	* MAINTAINERS:

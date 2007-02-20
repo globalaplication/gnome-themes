@@ -6,7 +6,7 @@ themedir = $(datadir)/themes/LowContrast
 theme_in_files = index.theme.in
 theme_DATA = $(theme_in_files:.theme.in=.theme)
 
-SUBDIRS= gtk-2.0 icons
+SUBDIRS= icons
 
 EXTRA_DIST= index.theme index.theme.in
 DISTCLEANFILES= index.theme
