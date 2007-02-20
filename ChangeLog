@@ -1,5 +1,10 @@
 2007-02-20  Calum Benson  <calum.benson@sun.com>
 
+	* configure.in:
+	Tidy up.
+
+2007-02-20  Calum Benson  <calum.benson@sun.com>
+
 	Moved a11y gtk themes from top level dirs into
 	gtk-themes/ where they belong.  Will do the same
 	with icon and metathemes in due course.
