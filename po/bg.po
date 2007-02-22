@@ -1,15 +1,15 @@
-# Gnome themes po file
-# Copyright (C) 2002, 2004, 2005 Free Software Foundation, Inc.
-# Alexander Shopov <ash@contact.bg>, 2002, 2005, 2006.
+# Bulgarian translation of gnome-themes po-file
+# Copyright (C) 2002, 2004, 2005, 2006, 2007 Free Software Foundation, Inc.
+# Alexander Shopov <ash@contact.bg>, 2002, 2005, 2006, 2007.
 # Rostislav Raykov <zbrox@i-space.org>, 2004.
 # Vladimir Petkov <vpetkov@i-space.org>, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes HEAD\n"
+"Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-20 01:25+0300\n"
-"PO-Revision-Date: 2006-08-20 01:25+0300\n"
+"POT-Creation-Date: 2007-02-22 08:25+0200\n"
+"PO-Revision-Date: 2007-02-22 08:24+0200\n"
 "Last-Translator: Alexander Shopov <ash@contact.bg>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "MIME-Version: 1.0\n"
@@ -97,6 +97,14 @@ msgstr "Глайдер"
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Простота, загладеност и естетическа издържаност"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Тема с изглед на гланц"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Гланц"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
