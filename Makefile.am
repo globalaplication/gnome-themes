@@ -1,8 +1,8 @@
-SUBDIRS=	gtk-themes metacity-themes icon-themes \
+SUBDIRS=	gtk-themes \
+		metacity-themes \
+		icon-themes \
 		desktop-themes \
-		common HighContrast LargePrint LowContrastLargePrint \
-		HighContrastLargePrint  LowContrast \
-		HighContrastLargePrintInverse HighContrastInverse \
+		common \
 		po
 
 EXTRA_DIST = \
