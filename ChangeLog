@@ -1,3 +1,10 @@
+2007-02-26  Calum Benson,,,  <calum.benson@sun.com>
+
+	Fix some more of my own build breakage.
+
+	* configure.in:
+	* icon-themes/LargePrint/Makefile.am:
+
 2007-02-26  Calum Benson  <calum.benson@sun.com>
 
 	Moved a11y icon themes to icon-themes directory.

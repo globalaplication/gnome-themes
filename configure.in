@@ -139,6 +139,7 @@ gtk-themes/HighContrastLargePrintInverse/gtkrc
 gtk-themes/HighContrastLargePrintInverse/pixmaps/Makefile
 gtk-themes/LargePrint/Makefile
 gtk-themes/LargePrint/gtkrc
+gtk-themes/LargePrint/pixmaps/Makefile
 gtk-themes/LowContrast/Makefile
 gtk-themes/LowContrast/gtkrc
 gtk-themes/LowContrastLargePrint/Makefile
@@ -210,8 +211,8 @@ icon-themes/HighContrast-SVG/scalable/mimetypes-extra/Makefile
 icon-themes/HighContrast-SVG/scalable/places-extra/Makefile
 icon-themes/HighContrast-SVG/scalable/status-extra/Makefile
 icon-themes/LargePrint/Makefile
-icon-themes/LargePrint/pixmaps/Makefile
 icon-themes/LowContrast/Makefile
+icon-themes/LowContrastLargePrint/Makefile
 icon-themes/LowContrastLargePrint/36x36/Makefile
 icon-themes/LowContrastLargePrint/36x36/apps/Makefile
 icon-themes/LowContrastLargePrint/48x48/Makefile
