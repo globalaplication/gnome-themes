@@ -1,11 +1,1 @@
-@INTLTOOL_THEME_RULE@
-
-
-themedir = $(datadir)/themes/LargePrint
-theme_in_files = index.theme.in
-theme_DATA = $(theme_in_files:.theme.in=.theme)
-
 SUBDIRS= pixmaps icons
-
-EXTRA_DIST= index.theme index.theme.in
-DISTCLEANFILES= index.theme
