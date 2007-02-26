@@ -1,5 +1,319 @@
 2007-02-26  Calum Benson  <calum.benson@sun.com>
 
+	Moved a11y icon themes to icon-themes directory.
+
+	* gtk-themes/LargePrint/Makefile.am:
+	* icon-themes/LargePrint/pixmaps/.cvsignore:
+	* icon-themes/LargePrint/pixmaps/Makefile.am:
+	* icon-themes/LargePrint/pixmaps/double-click-maybe.png:
+	* icon-themes/LargePrint/pixmaps/double-click-off.png:
+	* icon-themes/LargePrint/pixmaps/double-click-on.png:
+	* icon-themes/LargePrint/pixmaps/media-backward.png:
+	* icon-themes/LargePrint/pixmaps/media-eject.png:
+	* icon-themes/LargePrint/pixmaps/media-forward.png:
+	* icon-themes/LargePrint/pixmaps/media-next.png:
+	* icon-themes/LargePrint/pixmaps/media-pause.png:
+	* icon-themes/LargePrint/pixmaps/media-play.png:
+	* icon-themes/LargePrint/pixmaps/media-prev.png:
+	* icon-themes/LargePrint/pixmaps/media-record.png:
+	* icon-themes/LargePrint/pixmaps/media-stop.png:
+	* icon-themes/LargePrint/pixmaps/metacity-delete.png:
+	* icon-themes/LargePrint/pixmaps/metacity-maximize.png:
+	* icon-themes/LargePrint/pixmaps/metacity-minimize.png:
+	* icon-themes/LargePrint/pixmaps/printer-broken.png:
+	* icon-themes/LargePrint/pixmaps/printer-default.png:
+	* icon-themes/LargePrint/pixmaps/printer-inkjet.png:
+	* icon-themes/LargePrint/pixmaps/printer-personal-laser.png:
+	* icon-themes/LargePrint/pixmaps/printer-workgroup-laser.png:
+	* icon-themes/LargePrint/pixmaps/stock_about.png:
+	* icon-themes/LargePrint/pixmaps/stock_accessories.png:
+	* icon-themes/LargePrint/pixmaps/stock_add.png:
+	* icon-themes/LargePrint/pixmaps/stock_amusements.png:
+	* icon-themes/LargePrint/pixmaps/stock_apply.png:
+	* icon-themes/LargePrint/pixmaps/stock_attach.png:
+	* icon-themes/LargePrint/pixmaps/stock_back.png:
+	* icon-themes/LargePrint/pixmaps/stock_balance.png:
+	* icon-themes/LargePrint/pixmaps/stock_bold.png:
+	* icon-themes/LargePrint/pixmaps/stock_book.png:
+	* icon-themes/LargePrint/pixmaps/stock_book_open.png:
+	* icon-themes/LargePrint/pixmaps/stock_cancel.png:
+	* icon-themes/LargePrint/pixmaps/stock_cde-menu.png:
+	* icon-themes/LargePrint/pixmaps/stock_cdrom.png:
+	* icon-themes/LargePrint/pixmaps/stock_clear.png:
+	* icon-themes/LargePrint/pixmaps/stock_close.png:
+	* icon-themes/LargePrint/pixmaps/stock_commandline-browser.xpm:
+	* icon-themes/LargePrint/pixmaps/stock_commandline-history.xpm:
+	* icon-themes/LargePrint/pixmaps/stock_connect.png:
+	* icon-themes/LargePrint/pixmaps/stock_convert.png:
+	* icon-themes/LargePrint/pixmaps/stock_copy.png:
+	* icon-themes/LargePrint/pixmaps/stock_corner-panel.png:
+	* icon-themes/LargePrint/pixmaps/stock_cut.png:
+	* icon-themes/LargePrint/pixmaps/stock_delete.png:
+	* icon-themes/LargePrint/pixmaps/stock_dialog_error.png:
+	* icon-themes/LargePrint/pixmaps/stock_dialog_info.png:
+	* icon-themes/LargePrint/pixmaps/stock_dialog_question.png:
+	* icon-themes/LargePrint/pixmaps/stock_dialog_warning.png:
+	* icon-themes/LargePrint/pixmaps/stock_disconnect.png:
+	* icon-themes/LargePrint/pixmaps/stock_dnd.png:
+	* icon-themes/LargePrint/pixmaps/stock_dnd_multiple.png:
+	* icon-themes/LargePrint/pixmaps/stock_drawer.png:
+	* icon-themes/LargePrint/pixmaps/stock_edge-panel.png:
+	* icon-themes/LargePrint/pixmaps/stock_edit.png:
+	* icon-themes/LargePrint/pixmaps/stock_empty.png:
+	* icon-themes/LargePrint/pixmaps/stock_execute.png:
+	* icon-themes/LargePrint/pixmaps/stock_export.png:
+	* icon-themes/LargePrint/pixmaps/stock_find-and-replace.png:
+	* icon-themes/LargePrint/pixmaps/stock_find.png:
+	* icon-themes/LargePrint/pixmaps/stock_floating-panel.png:
+	* icon-themes/LargePrint/pixmaps/stock_floppy.png:
+	* icon-themes/LargePrint/pixmaps/stock_gnome-logo.png:
+	* icon-themes/LargePrint/pixmaps/stock_gnome-util.png:
+	* icon-themes/LargePrint/pixmaps/stock_go-back.png:
+	* icon-themes/LargePrint/pixmaps/stock_go-down.png:
+	* icon-themes/LargePrint/pixmaps/stock_go-forward.png:
+	* icon-themes/LargePrint/pixmaps/stock_go-up.png:
+	* icon-themes/LargePrint/pixmaps/stock_goto-bottom.png:
+	* icon-themes/LargePrint/pixmaps/stock_goto-first.png:
+	* icon-themes/LargePrint/pixmaps/stock_goto-last.png:
+	* icon-themes/LargePrint/pixmaps/stock_goto-top.png:
+	* icon-themes/LargePrint/pixmaps/stock_harddisk.png:
+	* icon-themes/LargePrint/pixmaps/stock_help.png:
+	* icon-themes/LargePrint/pixmaps/stock_home.png:
+	* icon-themes/LargePrint/pixmaps/stock_import.png:
+	* icon-themes/LargePrint/pixmaps/stock_index.png:
+	* icon-themes/LargePrint/pixmaps/stock_info.png:
+	* icon-themes/LargePrint/pixmaps/stock_insert-image.png:
+	* icon-themes/LargePrint/pixmaps/stock_insert-object.png:
+	* icon-themes/LargePrint/pixmaps/stock_insert-table.png:
+	* icon-themes/LargePrint/pixmaps/stock_internet.png:
+	* icon-themes/LargePrint/pixmaps/stock_italic.png:
+	* icon-themes/LargePrint/pixmaps/stock_jump-to.png:
+	* icon-themes/LargePrint/pixmaps/stock_justify-center.png:
+	* icon-themes/LargePrint/pixmaps/stock_justify-fill.png:
+	* icon-themes/LargePrint/pixmaps/stock_justify-left.png:
+	* icon-themes/LargePrint/pixmaps/stock_justify-right.png:
+	* icon-themes/LargePrint/pixmaps/stock_launcher-program.png:
+	* icon-themes/LargePrint/pixmaps/stock_line-in.png:
+	* icon-themes/LargePrint/pixmaps/stock_lockscreen.png:
+	* icon-themes/LargePrint/pixmaps/stock_logout.png:
+	* icon-themes/LargePrint/pixmaps/stock_menu-panel.png:
+	* icon-themes/LargePrint/pixmaps/stock_mic.png:
+	* icon-themes/LargePrint/pixmaps/stock_missing-image.png:
+	* icon-themes/LargePrint/pixmaps/stock_multimedia.png:
+	* icon-themes/LargePrint/pixmaps/stock_new.png:
+	* icon-themes/LargePrint/pixmaps/stock_no.png:
+	* icon-themes/LargePrint/pixmaps/stock_ok.png:
+	* icon-themes/LargePrint/pixmaps/stock_open.png:
+	* icon-themes/LargePrint/pixmaps/stock_palette.png:
+	* icon-themes/LargePrint/pixmaps/stock_panel_hide_down.png:
+	* icon-themes/LargePrint/pixmaps/stock_panel_hide_left.png:
+	* icon-themes/LargePrint/pixmaps/stock_panel_hide_right.png:
+	* icon-themes/LargePrint/pixmaps/stock_panel_hide_up.png:
+	* icon-themes/LargePrint/pixmaps/stock_paste.png:
+	* icon-themes/LargePrint/pixmaps/stock_preferences.png:
+	* icon-themes/LargePrint/pixmaps/stock_print-preview.png:
+	* icon-themes/LargePrint/pixmaps/stock_print.png:
+	* icon-themes/LargePrint/pixmaps/stock_properties.png:
+	* icon-themes/LargePrint/pixmaps/stock_quit.png:
+	* icon-themes/LargePrint/pixmaps/stock_redo.png:
+	* icon-themes/LargePrint/pixmaps/stock_refresh.png:
+	* icon-themes/LargePrint/pixmaps/stock_remove.png:
+	* icon-themes/LargePrint/pixmaps/stock_revert-to-saved.png:
+	* icon-themes/LargePrint/pixmaps/stock_run.png:
+	* icon-themes/LargePrint/pixmaps/stock_save-as.png:
+	* icon-themes/LargePrint/pixmaps/stock_save.png:
+	* icon-themes/LargePrint/pixmaps/stock_screenshot.png:
+	* icon-themes/LargePrint/pixmaps/stock_searchtool.png:
+	* icon-themes/LargePrint/pixmaps/stock_select-color.png:
+	* icon-themes/LargePrint/pixmaps/stock_select-font.png:
+	* icon-themes/LargePrint/pixmaps/stock_sliding-panel.png:
+	* icon-themes/LargePrint/pixmaps/stock_sort-ascending.png:
+	* icon-themes/LargePrint/pixmaps/stock_sort-descending.png:
+	* icon-themes/LargePrint/pixmaps/stock_spell-check.png:
+	* icon-themes/LargePrint/pixmaps/stock_stop.png:
+	* icon-themes/LargePrint/pixmaps/stock_strikethrough.png:
+	* icon-themes/LargePrint/pixmaps/stock_undelete.png:
+	* icon-themes/LargePrint/pixmaps/stock_underline.png:
+	* icon-themes/LargePrint/pixmaps/stock_undo.png:
+	* icon-themes/LargePrint/pixmaps/stock_volume.png:
+	* icon-themes/LargePrint/pixmaps/stock_yes.png:
+	* icon-themes/LargePrint/pixmaps/stock_zoom-100.png:
+	* icon-themes/LargePrint/pixmaps/stock_zoom-fit.png:
+	* icon-themes/LargePrint/pixmaps/stock_zoom-in.png:
+	* icon-themes/LargePrint/pixmaps/stock_zoom-out.png:
+	* icon-themes/LargePrint/pixmaps/volume-max.png:
+	* icon-themes/LargePrint/pixmaps/volume-medium.png:
+	* icon-themes/LargePrint/pixmaps/volume-min.png:
+	* icon-themes/LargePrint/pixmaps/volume-mute.png:
+	* icon-themes/LargePrint/pixmaps/volume-zero.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/.cvsignore:
+	* icon-themes/LowContrastLargePrint/pixmaps/Makefile.am:
+	* icon-themes/LowContrastLargePrint/pixmaps/double-click-maybe.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/double-click-off.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/double-click-on.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-backward.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-eject.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-forward.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-next.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-pause.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-play.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-prev.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-record.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/media-stop.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/metacity-delete.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/metacity-maximize.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/metacity-minimize.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/printer-broken.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/printer-default.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/printer-inkjet.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/printer-personal-laser.
+	png:
+	* icon-themes/LowContrastLargePrint/pixmaps/printer-workgroup-laser
+	.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_about.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_accessories.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_add.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_amusements.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_apply.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_attach.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_balance.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_bold.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_book.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_book_open.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_cancel.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_cde-menu.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_cdrom.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_clear.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_close.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_commandline-brows
+	er.xpm:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_commandline-histo
+	ry.xpm:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_connect.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_convert.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_copy.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_corner-panel.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_cut.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_delete.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dialog_error.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dialog_info.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dialog_question.p
+	ng:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dialog_warning.pn
+	g:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_disconnect.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dnd.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_dnd_multiple.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_drawer.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_edge-panel.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_edit.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_empty.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_execute.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_export.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_find-and-replace.
+	png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_find.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_floating-panel.pn
+	g:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_floppy.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_gnome-logo.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_gnome-util.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_go-back.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_go-down.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_go-forward.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_go-up.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_goto-bottom.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_goto-first.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_goto-last.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_goto-top.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_harddisk.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_help.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_home.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_import.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_index.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_info.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_insert-image.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_insert-object.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_insert-table.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_internet.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_italic.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_jump-to.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_justify-center.pn
+	g:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_justify-fill.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_justify-left.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_justify-right.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_launcher-program.
+	png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_line-in.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_lockscreen.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_logout.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_menu-panel.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_mic.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_missing-image.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_multimedia.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_new.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_no.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_ok.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_open.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_palette.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_panel_hide_down.p
+	ng:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_panel_hide_left.p
+	ng:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_panel_hide_right.
+	png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_panel_hide_up.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_paste.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_preferences.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_print-preview.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_print.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_properties.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_quit.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_redo.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_refresh.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_remove.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_revert-to-saved.p
+	ng:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_run.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_save-as.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_save.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_screenshot.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_searchtool.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_select-color.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_select-font.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_sliding-panel.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_sort-ascending.pn
+	g:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_sort-descending.p
+	ng:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_spell-check.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_stop.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_strikethrough.png
+	:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_undelete.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_underline.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_undo.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_volume.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_yes.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_zoom-100.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_zoom-fit.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_zoom-in.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/stock_zoom-out.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/volume-max.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/volume-medium.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/volume-min.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/volume-mute.png:
+	* icon-themes/LowContrastLargePrint/pixmaps/volume-zero.png:
+
+2007-02-26  Calum Benson  <calum.benson@sun.com>
+
 	Duh, fix more breakage.
 
 	* HighContrastInverse/Makefile.am:
