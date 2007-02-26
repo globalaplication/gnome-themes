@@ -1,16 +1,16 @@
 # List of source files containing translatable strings.
 # Please keep this file sorted alphabetically.
-HighContrast/index.theme.in
-HighContrastInverse/index.theme.in
-HighContrastLargePrint/index.theme.in.in
-HighContrastLargePrintInverse/index.theme.in.in
-LargePrint/index.theme.in.in
-LowContrast/index.theme.in
-LowContrastLargePrint/index.theme.in.in
 desktop-themes/Clearlooks/index.theme.in
 desktop-themes/Crux/index.theme.in
 desktop-themes/Glider/index.theme.in
 desktop-themes/Glossy/index.theme.in
+desktop-themes/HighContrast/index.theme.in
+desktop-themes/HighContrastInverse/index.theme.in
+desktop-themes/HighContrastLargePrint/index.theme.in.in
+desktop-themes/HighContrastLargePrintInverse/index.theme.in.in
+desktop-themes/LargePrint/index.theme.in.in
+desktop-themes/LowContrast/index.theme.in
+desktop-themes/LowContrastLargePrint/index.theme.in.in
 desktop-themes/Mist/index.theme.in
 icon-themes/Crux/index.theme.in
 icon-themes/Mist/index.theme.in

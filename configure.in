@@ -110,6 +110,17 @@ desktop-themes/Crux/Makefile
 desktop-themes/Clearlooks/Makefile
 desktop-themes/Glider/Makefile
 desktop-themes/Glossy/Makefile
+desktop-themes/HighContrast/Makefile
+desktop-themes/HighContrastInverse/Makefile
+desktop-themes/HighContrastLargePrint/Makefile
+desktop-themes/HighContrastLargePrint/index.theme.in
+desktop-themes/HighContrastLargePrintInverse/Makefile
+desktop-themes/HighContrastLargePrintInverse/index.theme.in
+desktop-themes/LargePrint/Makefile
+desktop-themes/LargePrint/index.theme.in
+desktop-themes/LowContrast/Makefile
+desktop-themes/LowContrastLargePrint/Makefile
+desktop-themes/LowContrastLargePrint/index.theme.in
 desktop-themes/Mist/Makefile
 metacity-themes/Makefile
 gtk-themes/Makefile
@@ -201,11 +212,9 @@ HighContrast/icons/Makefile
 HighContrastInverse/Makefile
 HighContrastInverse/icons/Makefile
 LargePrint/Makefile
-LargePrint/index.theme.in
 LargePrint/pixmaps/Makefile
 LargePrint/icons/Makefile
 HighContrastLargePrint/Makefile
-HighContrastLargePrint/index.theme.in
 HighContrastLargePrint/pixmaps/Makefile
 HighContrastLargePrint/icons/Makefile
 HighContrastLargePrint/icons/36x36/Makefile
@@ -217,7 +226,6 @@ HighContrastLargePrint/icons/48x48/filesystems/Makefile
 HighContrastLargePrint/icons/48x48/devices/Makefile
 HighContrastLargePrint/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/Makefile
-HighContrastLargePrintInverse/index.theme.in
 HighContrastLargePrintInverse/pixmaps/Makefile
 HighContrastLargePrintInverse/icons/Makefile
 HighContrastLargePrintInverse/icons/36x36/Makefile
@@ -229,7 +237,6 @@ HighContrastLargePrintInverse/icons/48x48/emblems/Makefile
 HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile
 HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile
 LowContrastLargePrint/Makefile
-LowContrastLargePrint/index.theme.in
 LowContrastLargePrint/pixmaps/Makefile
 LowContrastLargePrint/icons/Makefile
 LowContrastLargePrint/icons/36x36/Makefile
