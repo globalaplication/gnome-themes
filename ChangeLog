@@ -1,5 +1,13 @@
 2007-02-26  Calum Benson  <calum.benson@sun.com>
 
+	Forgot to svn add some files...
+
+	* desktop-themes/HighContrast/Makefile.am:
+	* desktop-themes/HighContrastInverse/Makefile.am:
+	* desktop-themes/LowContrast/Makefile.am:
+
+2007-02-26  Calum Benson  <calum.benson@sun.com>
+
 	Moved a11y desktop themes from top level subdirs to
 	desktop-themes subdir where they belong.  Just the
 	icon themes left to move now...
