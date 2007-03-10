@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.dz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-07 23:54+0200\n"
-"PO-Revision-Date: 2006-08-08 15:53+0530\n"
-"Last-Translator: Mindu Dorji\n"
+"POT-Creation-Date: 2007-01-02 04:00+0000\n"
+"PO-Revision-Date: 2007-03-01 11:10+0530\n"
+"Last-Translator: norbu <nor_den@hotmail.com>\n"
 "Language-Team: DZONGKHA <pgeyleg@dit.gov.bt>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -99,6 +99,14 @@ msgstr "ག་ལའི་ཌར།"
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "འཇམ་སམ་དང་ འཇམ་ཁྱུག་ མཛེས་སྤྲོ་ཅན་གྱི་ སེམས་སྤྲོ།"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "འོད་ཅན་སྦེ་མཐོང་མི་བརྗོད་དོན་"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "འོད་ཅན་"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
