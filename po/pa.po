@@ -1,25 +1,25 @@
 # translation of gnome-themes.HEAD.po to Punjabi
-# translation of pa.po to Punjabi
 # KBST Punjab translation of punlinux.
 # Copyright (C) 2004 THE punlinux'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the punlinux package.
+#
+#
 # jaswinder singh <jaswindersinghra@yahoo.com>, 2004.
 # Amanpreet Singh Alam <aalam@redhat.com>, 2004.
 # Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
-#
-#
+# A S Alam <aalam@users.sf.net>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-03 22:38+0000\n"
-"PO-Revision-Date: 2005-09-03 10:37+0530\n"
-"Last-Translator: Amanpreet Singh Alam <amanpreetalam@yahoo.com>\n"
-"Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
+"POT-Creation-Date: 2007-01-02 04:00+0000\n"
+"PO-Revision-Date: 2007-03-12 07:32+0530\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi <punjabi-l10n@lists.sf.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
 
@@ -93,8 +93,8 @@ msgid "Crux"
 msgstr "ਕਰਕਸ਼"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
-msgstr "teal highlights ਨਾਲ ਮੁਲਾਇਮ ਢਾਲ ਦਾ ਦਰਜਾ"
+msgid "Smooth gradients with purple highlights"
+msgstr "ਜਾਮਨੀ highlights ਨਾਲ ਮੁਲਾਇਮ ਢਾਲ"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -104,67 +104,28 @@ msgstr "ਗਲਾਇਡਰ"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "ਸਧਾਰਨ, ਹਲਕਾ ਅਤੇ ਸਹਿਜ ਖੁਸ਼ਨੁਮਾ"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "ਮਿੱਟੀ ਵਰਗੀ ਸੰਤਰੀ ਦਿੱਖ"
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "ਇੱਕ ਗਲੋਸੀ ਦਿੱਖ ਸਰੂਪ"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "ਮੁੱਖ ਘਾਟੀ"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "ਗਲੋਸੀ"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "ਇਕ minimalistic ਦਿੱਖ"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "ਧੁੰਦਲਾ"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "ਮਹਾਂਸਾਗਰੀ ਅਨੁਭਵ"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr "ਕਾਲੇ ਹਾਸ਼ੀਏ ਨਾਲ ਉੱਚ ਵੱਖਰੇਵਾ ਸਕੇਲਯੋਗ ਆਈਕਾਨ"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "seashore ਦੇ ਰੰਗ"
-
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "ਸਾਧਾਰਣ"
-
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "ਹਲਕੀ ਦਿੱਖ, ਵਧੀਆ ਕਾਰਜਕੁਸ਼ਤਾ"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "ਕੋਮਲ ਚਮਕੀਲੀ ਦਿਖ"
-
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "ਧੂੰਏ ਵਰਗਾ ਨੀਲਾ"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "ਰਵਾਇਤੀ"
-
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "ਸਖ਼ਤ ਕਿਨਾਰਿਆਂ ਵਾਲੀ ਰਵਾਇਤੀ 3D ਦਿੱਖ"
-
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "ਫਿੱਕਾ ਨੀਲਾ"
-
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "ਰੇਤਲਾ"
-
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "ਧੂੰਏ ਵਰਗਾ ਨੀਲਾ"
-
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "ਧੂੰਏ ਵਰਗਾ ਲਾਲ"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "HighContrast-SVG"
+msgstr "ਵੱਧ ਵੱਖਰੇਵਾਂ-SVG"
 
