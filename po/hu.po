@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 04:00+0000\n"
-"PO-Revision-Date: 2007-02-25 00:09+0100\n"
+"POT-Creation-Date: 2007-02-24 23:10+0000\n"
+"PO-Revision-Date: 2007-03-12 00:59+0100\n"
 "Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
 "Language-Team: Hungarian <gnome@gnome.hu>\n"
 "MIME-Version: 1.0\n"
@@ -105,7 +105,7 @@ msgstr "Üveges megjelenésű téma"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr "Üveges"
+msgstr "Üveg"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
