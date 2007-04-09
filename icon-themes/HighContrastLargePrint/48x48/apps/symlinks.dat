@@ -31,6 +31,3 @@ gnome-settings-sound.png: sound-capplet.png
 #
 # Evolution
 evolution-1.4.png: evolution.png
-#
-# StarOffice
-star.png: staroffice-writer.png staroffice-impress.png staroffice-calc.png 
