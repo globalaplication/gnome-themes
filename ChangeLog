@@ -1,3 +1,11 @@
+2007-04-26  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	
+	New metacity theme for Clearlooks engine, expecially designed to be
+	smooth and clear as the new Cairo-Enabled version of the gtk engine.
+	First public release, but very complete and usable.	
+
 2007-04-23  Calum Benson  <calum.benson@sun.com>
 
 	* MAINTAINERS:
@@ -21,7 +29,7 @@
 
 	2.18.0 release. Yay!
 
-2007-02-26  Calum Benson,,,  <calum.benson@sun.com>
+2007-02-26  Calum Benson  <calum.benson@sun.com>
 
 	Fix some more of my own build breakage.
 
