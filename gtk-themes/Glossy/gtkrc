@@ -14,7 +14,7 @@ style "clearlooks-default"
   GtkMenuBar     ::internal-padding  = 0
   GtkTreeView    ::expander_size     = 14
   GtkExpander    ::expander_size     = 16
-  GtkScale       ::slider-length     = 27
+  GtkScale       ::slider-length     = 15
 #  GtkToolbar     ::button-relief     = GTK_RELIEF_NORMAL
 #  GtkMenuBar     ::shadow-type       = GTK_SHADOW_OUT
 #  GtkScrollbar   ::has-secondary-forward-stepper = 1
@@ -119,7 +119,7 @@ style "clearlooks-menu-item" = "clearlooks-default"
 style "clearlooks-tree" = "clearlooks-default"
 {
   xthickness = 2
-  ythickness = 2
+  ythickness = 1
 }
 
 style "clearlooks-frame-title" = "clearlooks-default"

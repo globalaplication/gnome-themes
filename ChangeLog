@@ -1,5 +1,11 @@
 2007-05-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
+	* gtk-themes/Glossy/gtkrc:
+
+	Small updates to slider_lenght and listview header ythickness.
+
+2007-05-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
 	* metacity-themes/Glossy/metacity-theme-1.xml:
 
 	First Glossy version of the metacity theme, needs more work but it's
