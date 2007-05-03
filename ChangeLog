@@ -1,3 +1,17 @@
+2007-05-03  Thomas Wood  <thos@gnome.org>
+
+	* icon-themes/Mist/16x16/status/Makefile.am:
+	* icon-themes/Mist/16x16/status/folder-visiting.svg:
+	* icon-themes/Mist/22x22/status/Makefile.am:
+	* icon-themes/Mist/22x22/status/folder-visiting.svg:
+	* icon-themes/Mist/24x24/status/Makefile.am:
+	* icon-themes/Mist/32x32/status/Makefile.am:
+	* icon-themes/Mist/32x32/status/folder-visiting.svg:
+	* icon-themes/Mist/scalable/status/Makefile.am:
+	* icon-themes/Mist/scalable/status/folder-visiting.svg:
+
+	Add missing folder-visiting to Mist icon theme
+
 2007-05-03  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Glossy/metacity-theme-1.xml:
