@@ -1,5 +1,13 @@
 2007-05-04  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+
+	Fixed 1px of the button's inset.
+
+2007-05-04  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
 	* configure.in:
 
 	Added Makefile's dirs for "Inverted".
