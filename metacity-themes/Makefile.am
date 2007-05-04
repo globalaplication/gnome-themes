@@ -2,6 +2,7 @@ THEMES= \
 	Clearlooks\
 	Glider \
 	Glossy \
+	Inverted \
 	Mist
 
 THEME_DIR=$(datadir)/themes

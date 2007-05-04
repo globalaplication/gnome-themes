@@ -1,3 +1,34 @@
+2007-05-04  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* configure.in:
+
+	Added Makefile's dirs for "Inverted".
+
+	* desktop-themes/Inverted/Makefile.am:
+	* desktop-themes/Inverted/index.theme.in:
+	* desktop-themes/Makefile.am:
+
+	Added "Inverted" desktop entry (need i18n and a new description).
+
+	* gtk-themes/Inverted/Makefile.am:
+	* gtk-themes/Inverted/gtkrc:
+	* gtk-themes/Makefile.am:
+
+	Added "Inverted" gtk theme.
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+
+	Removed useless code.
+
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+
+	Removed useless code.
+
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+	* metacity-themes/Makefile.am:
+
+	Added "Inverted" metacity theme.
+
 2007-05-03  Thomas Wood  <thos@gnome.org>
 
 	* icon-themes/Mist/16x16/status/Makefile.am:
