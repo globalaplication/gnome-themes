@@ -1,3 +1,8 @@
+2007-05-05  Pedro Villavicencio  <pvillavi@gnome.org>
+
+	* configure.in: Fixed the build, re-added Makefile for
+	gtk-themes/HighContrastLargePrintInverse/pixmaps directory.
+
 2007-05-04  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
