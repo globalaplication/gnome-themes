@@ -90,12 +90,18 @@ style "clearlooks-notebook" = "clearlooks-wide"
 {
 #  bg[NORMAL]      = "#efebe5"
 #  bg[INSENSITIVE] = "#efebe5"
+  bg[NORMAL]        = shade (1.06, @bg_color)
 }
 
 style "clearlooks-tasklist" = "clearlooks-default"
 {
   xthickness = 5
   ythickness = 3
+}
+
+style "clearlooks-toolbar" = "clearlooks-wide"
+{
+  bg[NORMAL]       = shade (1.02, @bg_color)
 }
 
 style "clearlooks-menu" = "clearlooks-default"
@@ -132,7 +138,7 @@ style "clearlooks-tooltips" = "clearlooks-default"
 {
   xthickness = 4
   ythickness = 4
-  bg[NORMAL] = { 1.0,1.0,0.75 }
+  bg[NORMAL] = mix(0.60, shade (1.05,@bg_color), @selected_bg_color)
 }
 
 style "clearlooks-progressbar" = "clearlooks-wide"
@@ -169,7 +175,7 @@ class "GtkEntry"     style "clearlooks-wider"
 class "GtkMenuItem"    style "clearlooks-menu-item"
 class "GtkNotebook"    style "clearlooks-notebook"
 class "GtkProgressBar" style "clearlooks-progressbar"
- 
+class "GtkToolbar"   style "clearlooks-toolbar" 
 #class "GtkMenuBar" style "clearlooks-menubar"
 
 widget_class "*MenuItem.*" style "clearlooks-menu-item"
@@ -192,4 +198,3 @@ widget_class "*.GtkFrame.GtkLabel" style "clearlooks-frame-title"
 # notebook stuff
 widget_class "*.GtkNotebook.*.GtkEventBox" style "clearlooks-notebook"
 widget_class "*.GtkNotebook.*.GtkViewport" style "clearlooks-notebook"
-

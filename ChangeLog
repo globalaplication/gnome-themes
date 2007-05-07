@@ -1,3 +1,9 @@
+2007-05-07  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+
+	Using brighter bg for notebook and toolbar.
+
 2007-05-05  Pedro Villavicencio  <pvillavi@gnome.org>
 
 	* configure.in: Fixed the build, re-added Makefile for
