@@ -90,7 +90,7 @@ style "clearlooks-notebook" = "clearlooks-wide"
 {
 #  bg[NORMAL]      = "#efebe5"
 #  bg[INSENSITIVE] = "#efebe5"
-  bg[NORMAL]        = shade (1.06, @bg_color)
+  bg[NORMAL]        = shade (1.04, @bg_color)
 }
 
 style "clearlooks-tasklist" = "clearlooks-default"
