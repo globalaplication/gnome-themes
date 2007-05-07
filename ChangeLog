@@ -2,6 +2,12 @@
 
 	* gtk-themes/Glossy/gtkrc:
 
+	Usability fix on inactive buttons.
+
+2007-05-07  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+
 	Changed bg_color.
 
 2007-05-07  Andrea Cimitan  <andrea.cimitan@gmail.com>

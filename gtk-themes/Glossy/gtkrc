@@ -81,9 +81,9 @@ style "clearlooks-wider" = "clearlooks-default"
 style "clearlooks-button" = "clearlooks-wider"
 {
   bg[NORMAL]        = shade (1.05, @bg_color) # "#f6f4f1"
-  bg[INSENSITIVE]   = shade (1.04, @bg_color) # "#f2efeb"
+#  bg[INSENSITIVE]   = shade (1.04, @bg_color) # "#f2efeb"
   bg[PRELIGHT]      =  mix(0.60, shade (1.05,@bg_color), @selected_bg_color)
- # bg[PRELIGHT]      = shade (1.08, @bg_color) # "#faf9f8"
+#  bg[PRELIGHT]      = shade (1.08, @bg_color) # "#faf9f8"
 }
 
 style "clearlooks-notebook" = "clearlooks-wide"
