@@ -1,3 +1,9 @@
+2007-05-09  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+	
+	More shade on pressed buttons.
+
 2007-05-07  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Glossy/gtkrc:
