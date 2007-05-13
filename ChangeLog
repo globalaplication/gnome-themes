@@ -1,3 +1,24 @@
+2007-05-13  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* configure.in:
+	* desktop-themes/Inverted/Makefile.am:
+	* desktop-themes/Inverted/index.theme.in:
+	* desktop-themes/Makefile.am:
+
+	Removed Inverted metatheme, sorry Calum for adding this before.
+
+	* gtk-themes/Glossy/gtkrc:
+	
+	Added nautilus extra widget with symbolic color.
+
+	* gtk-themes/Gummy/Makefile.am:
+	* gtk-themes/Gummy/gtkrc:
+	* gtk-themes/Makefile.am:
+	* metacity-themes/Gummy/metacity-theme-1.xml:
+	* metacity-themes/Makefile.am:
+
+	Added Gummy gtkrc and metacity theme.
+
 2007-05-09  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Glossy/gtkrc:

@@ -117,7 +117,6 @@ desktop-themes/HighContrastLargePrint/Makefile
 desktop-themes/HighContrastLargePrint/index.theme.in
 desktop-themes/HighContrastLargePrintInverse/Makefile
 desktop-themes/HighContrastLargePrintInverse/index.theme.in
-desktop-themes/Inverted/Makefile
 desktop-themes/LargePrint/Makefile
 desktop-themes/LargePrint/index.theme.in
 desktop-themes/LowContrast/Makefile
@@ -128,6 +127,7 @@ metacity-themes/Makefile
 gtk-themes/Makefile
 gtk-themes/Glider/Makefile
 gtk-themes/Glossy/Makefile
+gtk-themes/Gummy/Makefile
 gtk-themes/HighContrast/Makefile
 gtk-themes/HighContrast/gtkrc
 gtk-themes/HighContrastInverse/Makefile

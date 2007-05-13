@@ -2,6 +2,7 @@ THEMES= \
 	Clearlooks\
 	Glider \
 	Glossy \
+	Gummy \
 	Inverted \
 	Mist
 

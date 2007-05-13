@@ -7,7 +7,6 @@ SUBDIRS=		\
 	HighContrastInverse	\
 	HighContrastLargePrint	\
 	HighContrastLargePrintInverse \
-	Inverted        \
 	LargePrint	\
 	LowContrast	\
 	LowContrastLargePrint	\

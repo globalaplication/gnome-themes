@@ -1,5 +1,5 @@
 
-gtk_color_scheme = "fg_color:#000\nbg_color:#DFE4E8\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#5598d7\nselected_fg_color:#fff"
+gtk_color_scheme = "fg_color:#000\nbg_color:#D3D6DB\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#8AB5E6\nselected_fg_color:#fff"
 
 style "clearlooks-default"
 {
@@ -58,10 +58,10 @@ style "clearlooks-default"
 
   engine "clearlooks" 
   {
-    #scrollbar_color   = "#76acde"
+#    scrollbar_color   = "#404040"
     menubarstyle      = 2       # 0 = flat, 1 = sunken, 2 = flat gradient
     animation         = FALSE
-    style             = GLOSSY
+    style             = GUMMY
   }
 }
 
@@ -80,9 +80,9 @@ style "clearlooks-wider" = "clearlooks-default"
 
 style "clearlooks-button" = "clearlooks-wider"
 {
-  bg[NORMAL]        = shade (1.05, @bg_color) # "#f6f4f1"
+  bg[NORMAL]        = shade (1.06, @bg_color) # "#f6f4f1"
 #  bg[INSENSITIVE]   = shade (1.04, @bg_color) # "#f2efeb"
-  bg[PRELIGHT]      =  mix(0.60, shade (1.05,@bg_color), @selected_bg_color)
+  bg[PRELIGHT]      =  mix(0.80, shade (1.08, @bg_color), @selected_bg_color)
 #  bg[PRELIGHT]      = shade (1.08, @bg_color) # "#faf9f8"
   bg[ACTIVE]        = shade (0.85, @bg_color)
 }
@@ -91,7 +91,7 @@ style "clearlooks-notebook" = "clearlooks-wide"
 {
 #  bg[NORMAL]      = "#efebe5"
 #  bg[INSENSITIVE] = "#efebe5"
-  bg[NORMAL]        = shade (1.04, @bg_color)
+  bg[NORMAL]        = shade (1.06, @bg_color)
 }
 
 style "clearlooks-tasklist" = "clearlooks-default"
@@ -161,7 +161,7 @@ style "clearlooks-menubar" = "blackrock-default"
 style "clearlooks-scale" = "clearooks-button"
 {
 	GtkRange::trough-side-details = 1
-}	
+}
 
 style "nautilus-location" {
   bg[NORMAL] = mix(0.60, shade (1.05,@bg_color), @selected_bg_color)
