@@ -1,5 +1,9 @@
 2007-05-15  Calum Benson  <calum.benson@sun.com>
 
+	* configure.in: Post-release version bump.
+
+2007-05-15  Calum Benson  <calum.benson@sun.com>
+
 	* NEWS: for 2.19.2 release.
 
 2007-05-13  Andrea Cimitan  <andrea.cimitan@gmail.com>
