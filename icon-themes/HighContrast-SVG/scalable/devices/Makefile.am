@@ -10,6 +10,7 @@ icon_DATA =				\
 	battery.svg \
 	camera-photo.svg \
 	camera-video.svg \
+	camera-web.svg \
 	computer.svg \
 	drive-harddisk.svg \
 	drive-optical.svg \
@@ -17,6 +18,7 @@ icon_DATA =				\
 	input-gaming.svg \
 	input-keyboard.svg \
 	input-mouse.svg \
+	input-tablet.svg \
 	media-flash.svg \
 	media-floppy.svg \
 	media-optical.svg \
@@ -25,7 +27,10 @@ icon_DATA =				\
 	multimedia-player.svg \
 	network-wired.svg \
 	network-wireless.svg \
+	pda.svg \
+	phone.svg \
 	printer.svg \
+	scanner.svg \
 	video-display.svg
 
 

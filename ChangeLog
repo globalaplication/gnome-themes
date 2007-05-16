@@ -1,3 +1,18 @@
+2007-05-16  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/camera-web.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/input-tablet.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/pda.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/phone.svg:
+	* icon-themes/HighContrast-SVG/scalable/devices/scanner.svg:
+
+	Placeholders for new named icons in the spec.
+
+	* icon-themes/HighContrast-SVG/scalable/devices/multimedia-player.svg:
+
+	Fresh icon, using iPod(R)(TM) shape by now.
+	
 2007-05-15  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in: Post-release version bump.
