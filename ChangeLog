@@ -1,3 +1,13 @@
+2007-05-19  Wouter Bolsterlee  <wbolster@svn.gnome.org>
+
+	reviewed by: Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/Gummy/gtkrc:
+
+	Use the text color for the cursor color as well to make
+	the cursor not disappear with inverted (light on dark)
+	color schemes.
+
 2007-05-16  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
@@ -2243,11 +2253,11 @@
 
 2006-04-04  Gora Mohanty  <gmohanty@cvs.gnome.org>
 
-        * configure.in: Added 'or' (Oriya) to ALL_LINGUAS.
+	* configure.in: Added 'or' (Oriya) to ALL_LINGUAS.
 
 2006-03-28 Vladimer Sichinava  <vlsichinava@gmail.com>
 
-        * configure.in: Added "ka" (Georgian) to ALL_LINGUAS
+	* configure.in: Added "ka" (Georgian) to ALL_LINGUAS
 
 2006-03-24  Tommi Vainikainen  <thv@iki.fi>
 
@@ -2333,14 +2343,14 @@
 
 2005-10-12  Calum Benson  <calum.benson@sun.com>
 
-        * metacity-themes/Simple/metacity-theme-1.xml:
+	* metacity-themes/Simple/metacity-theme-1.xml:
 	
 	Revert fix for 121361 again... we don't install no steenking
 	metacity Simple theme here any more...
 	
 2005-10-12  Calum Benson  <calum.benson@sun.com>
 
-        * metacity-themes/Simple/metacity-theme-1.xml:
+	* metacity-themes/Simple/metacity-theme-1.xml:
 	
 	Fix for 121361: Unfocused window border widgets invisible with
 	Simple+Inverse theme.  Patch from muktha.narayan@wipro.com.
@@ -2506,7 +2516,7 @@
 
 2005-03-31  Steve Murphy  <murf@e-tools.com>
 
-        * configure.in: Added "rw" to ALL_LINGUAS.
+	* configure.in: Added "rw" to ALL_LINGUAS.
 
 2005-03-31  Calum Benson  <calum.benson@sun.com>
 
@@ -2521,16 +2531,16 @@
 
  2005-03-03  Shakti Sen  <shprasad@novell.com>
 
-       * LargePrint/icons/index.theme:
-       * HighContrastLargePrint/icons/index.theme:
-       * HighContrastLargePrintInverse/icons/index.theme:
-       * LowContrastLargePrint/icons/index.theme:
+	* LargePrint/icons/index.theme:
+	* HighContrastLargePrint/icons/index.theme:
+	* HighContrastLargePrintInverse/icons/index.theme:
+	* LowContrastLargePrint/icons/index.theme:
 
-       Adding 'Hidden=true' not to show these themes in 'Icons' tab of
-       gnome-theme-manager->Theme Details->Icons list.
+	Adding 'Hidden=true' not to show these themes in 'Icons' tab of
+	gnome-theme-manager->Theme Details->Icons list.
 
-       This will fix #168977 when #168348 is fixed (and should have
-       no noticeable effect in the meantime).
+	This will fix #168977 when #168348 is fixed (and should have
+	no noticeable effect in the meantime).
 
 2005-03-24  Adi Attar  <aattar@cvs.gnome.org>
 
@@ -3066,7 +3076,7 @@ buttons in Simple theme (Eugenia Loli-Queru).
 
 2004-05-31  Dinesh Nadarajah <dinesh_list@sbcglobal.net>
 
-        * ta.po: Added/Updated Tamil Translation.
+	* ta.po: Added/Updated Tamil Translation.
 
 2004-05-31  Calum Benson  <calum.benson@sun.com>
 
@@ -3085,21 +3095,21 @@ buttons in Simple theme (Eugenia Loli-Queru).
 
 	Give HCLPI theme the symlink treatment.
 
-        Modified:
-        * HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
-        * HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
-        * HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am:
+	Modified:
+	* HighContrastLargePrintInverse/icons/48x48/devices/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/Makefile.am:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/Makefile.am:
 
-        Added:
-        * HighContrastLargePrintInverse/icons/48x48/devices/symlinks.dat:
-        * HighContrastLargePrintInverse/icons/48x48/filesystems/symlinks.dat:
-        * HighContrastLargePrintInverse/icons/48x48/mimetypes/symlinks.dat:
-        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-font.pn
-        g
-        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
-        tion-x-executable.png:
-        * HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
-        tion.png:
+	Added:
+	* HighContrastLargePrintInverse/icons/48x48/devices/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/filesystems/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/symlinks.dat:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-font.pn
+	g
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
+	tion-x-executable.png:
+	* HighContrastLargePrintInverse/icons/48x48/mimetypes/gnome-mime-x-applica
+	tion.png:
 
 	Removed:
 	* HighContrastLargePrintInverse/icons/48x48/devices/gnome-dev-cdrom
@@ -3400,7 +3410,7 @@ buttons in Simple theme (Eugenia Loli-Queru).
 	* HighContrastLargePrint/icons/48x48/filesystems/symlinks.dat:
 	* HighContrastLargePrint/icons/48x48/mimetypes/symlinks.dat:
 	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-x-font.pn
-        g
+	g
 	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-x-applica
 	tion-x-executable.png:
 	* HighContrastLargePrint/icons/48x48/mimetypes/gnome-mime-x-applica
@@ -3752,11 +3762,11 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2004-04-09  Guntupalli Karunakar  <karunakar@freedomink.org>
 
-        * configure.in: Added "gu" (Gujarati) to ALL_LINGUAS.
+	* configure.in: Added "gu" (Gujarati) to ALL_LINGUAS.
 
 2004-03-25  Guntupalli Karunakar  <karunakar@freedomink.org>
 
-        * configure.in: Added "pa" (Punjabi) to ALL_LINGUAS.
+	* configure.in: Added "pa" (Punjabi) to ALL_LINGUAS.
 
 2004-03-23  Ãsmund SkjÃ¦veland  <aasmunds@fys.uio.no>
 
@@ -4094,7 +4104,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2004-02-06  Robert Sedak  <robert.sedak@sk.htnet.hr>
 
-        * configure.in: Added "hr" (Croatian) to ALL_LINGUAS.
+	* configure.in: Added "hr" (Croatian) to ALL_LINGUAS.
 
 2004-01-13  Calum Benson  <calum.benson@sun.com>
 
@@ -4103,7 +4113,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 	Bump version for tarball.
 
 2004.01.09  Arafat Medini <lumina@silverpen.de>
-                                                                                
+
 	* configure.in: Added Arabic Locale "ar" to ALL_LINGUAS
 
 2004-01-07  Narayana Pattipati <narayana.pattipati@wipro.com>
@@ -4181,13 +4191,13 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2003-10-06  Calum Benson  <calum.benson@sun.com>
  
-        * gtk-themes/Grand-Canyon/gtkrc: 
+	* gtk-themes/Grand-Canyon/gtkrc: 
 
 	Applied patch from Guillame Melquiond, fixes #123005.
 
 2003-09-30  Christian Rose  <menthos@menthos.com>
  
-        * configure.in: Added "eu" to ALL_LINGUAS.
+	* configure.in: Added "eu" to ALL_LINGUAS.
  
 2003-09-17  Seth Nickell  <seth@gnome.org>
 
@@ -4212,7 +4222,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2003-08-22 Paul Duffy <dubhthach@frink.nuigalway.ie>
 
-       * configure.in: Added "ga" to ALL_LINGUAS
+	* configure.in: Added "ga" to ALL_LINGUAS
 
 2003-08-19  Brian Cameron  <Brian.Cameron@sun.com>
 
@@ -4352,11 +4362,11 @@ Fixes #126829, window menu icons not visible in a11y themes.
 	* LargePrint/gtk-2.0/LargePrint.rc:
 	* HighContrastLargePrintInverse/gtk-2.0/HighContrastLargePrintInverse.rc:
 	Added GtkCheckButton::indicator_size = 18, 
-        increasing indicator size from 13 to 18.
+	increasing indicator size from 13 to 18.
 
 2003-05-09  Telsa Gwynne  <hobbit@aloss.ukuu.org.uk>
-                                                                               
-        * configure.in: Added cy to ALL_LINGUAS
+
+	* configure.in: Added cy to ALL_LINGUAS
 
 2003-05-08  Abel Cheung  <maddog@linux.org.hk>
 
@@ -4483,7 +4493,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2003-02-01  Duarte Loreto <happyguy_pt@hotmail.com>
 
-        * configure.in: Added "pt" to ALL_LINGUAS.
+	* configure.in: Added "pt" to ALL_LINGUAS.
 
 2003-01-30  Seth Nickell  <snickell@stanford.edu>
 
@@ -4750,7 +4760,7 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 	* gorilla/scalable/mimetypes/gnome-mime-audio.svg:
 	* gorilla/scalable/mimetypes/gnome-mime-video.svg: not quite
-     working now (inheritance clash)
+	working now (inheritance clash)
 	* gorilla/scalable/filesystems/gnome-fs-home.svg: size fix
 	* gorilla/index.theme: temporary emblem size fix
 
@@ -4841,8 +4851,8 @@ Fixes #126829, window menu icons not visible in a11y themes.
 
 2002-12-06  Glynn Foster  <glynn.foster@sun.com>
 
-        * common/gtk-stock-icons.rc: Add icon for session properties
-        dialog that uses "session-stock-edit".
+	* common/gtk-stock-icons.rc: Add icon for session properties
+	dialog that uses "session-stock-edit".
 
 
 2002-12-06  Bill Haneman <bill.haneman@sun.com>
@@ -6052,8 +6062,8 @@ Thu Nov 21 14:59:24 2002  Jonathan Blandford  <jrb@redhat.com>
 2002-10-18  Calum Benson  <calum.benson@sun.com>
 
 	Added a few new icons from Suzanna, and deleted all the 
-        non-largeprint icons that were just duplicating the 
-        largeprint ones-- now uses proper theme inheritance instead.
+	non-largeprint icons that were just duplicating the 
+	largeprint ones-- now uses proper theme inheritance instead.
 
 	* HighContrast/icons/48x48/apps/Makefile.am:
 	* HighContrast/icons/48x48/apps/accessibility-directory.png:

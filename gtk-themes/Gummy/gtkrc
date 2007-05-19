@@ -3,6 +3,8 @@ gtk_color_scheme = "fg_color:#000\nbg_color:#D3D6DB\nbase_color:#fff\ntext_color
 
 style "clearlooks-default"
 {
+  GtkWidget      ::cursor-color      = @text_color
+
   GtkButton      ::default_border    = { 0, 0, 0, 0 }
   GtkRange       ::trough_border     = 0
   GtkPaned       ::handle_size       = 6
