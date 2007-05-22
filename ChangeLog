@@ -1,3 +1,13 @@
+2007-05-22  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Gummy/gtkrc:
+
+	GtkRange must use bg[NORMAL] from the parentbg, 
+	since otherwise it is drawn with a different color 
+	and it is not merging the window's bg. 
+	(Try Glossy or Gummy with Clearlooks colors)
+
 2007-05-19  Wouter Bolsterlee  <wbolster@svn.gnome.org>
 
 	reviewed by: Benjamin Berg  <benjamin@sipsolutions.net>
