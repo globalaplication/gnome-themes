@@ -1,5 +1,5 @@
 
-gtk_color_scheme = "fg_color:#000\nbg_color:#D3D6DB\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#8AB5E6\nselected_fg_color:#fff"
+gtk_color_scheme = "fg_color:#000\nbg_color:#DFE3E8\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#77A6D9\nselected_fg_color:#fff"
 
 style "clearlooks-default"
 {
