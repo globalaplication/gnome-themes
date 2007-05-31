@@ -1,5 +1,14 @@
 2007-05-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Gummy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+
+	Use colorize_scrollbar in style options.
+	WARNING: requires svn version of gtk-engines
+
+2007-05-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
 	* gtk-themes/Gummy/gtkrc:
 
 	Changed colorscheme.
