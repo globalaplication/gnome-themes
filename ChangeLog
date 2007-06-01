@@ -1,3 +1,9 @@
+2007-06-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Inverted/gtkrc:
+
+	Fixed nautilus extra widget.	
+
 2007-05-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Glossy/gtkrc:
