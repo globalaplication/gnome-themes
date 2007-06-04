@@ -1,4 +1,11 @@
-2007-06-04  Luca Ferretti  <elle.uca@libero.it>>
+2007-06-04  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/status-extra/user.svg:
+
+	A single user icon. I've to check if it's in I.N. spec or used
+	somewhere with another name.
+
+2007-06-04  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/places-extra/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/places-extra/library-internet-radio.svg:
@@ -8,6 +15,7 @@
 
 	HC extra icons for themeable icons in Rhythmbox
 	(we hope other music players will follow the same naming scheme)
+	By Andreas Nilsson.
 
 2007-06-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
