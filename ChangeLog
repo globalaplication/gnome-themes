@@ -1,3 +1,14 @@
+2007-06-04  Luca Ferretti  <elle.uca@libero.it>>
+
+	* icon-themes/HighContrast-SVG/scalable/places-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/places-extra/library-internet-radio.svg:
+	* icon-themes/HighContrast-SVG/scalable/places-extra/library-podcast.svg:
+	* icon-themes/HighContrast-SVG/scalable/places-extra/playlist-automatic.svg:
+	* icon-themes/HighContrast-SVG/scalable/places-extra/playlist.svg:
+
+	HC extra icons for themeable icons in Rhythmbox
+	(we hope other music players will follow the same naming scheme)
+
 2007-06-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Inverted/gtkrc:
