@@ -1,3 +1,65 @@
+2.19.3
+======
+
+Enhancements/bugfixes:
+
+2007-06-04  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/status-extra/user.svg:
+       A single user icon. I've to check if it's in I.N. spec or used
+       somewhere with another name.
+
+2007-06-04  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/places-extra/Makefile.am:
+       * icon-themes/HighContrast-SVG/scalable/places-extra/library-internet-radio.svg:
+       * icon-themes/HighContrast-SVG/scalable/places-extra/library-podcast.svg:
+       * icon-themes/HighContrast-SVG/scalable/places-extra/playlist-automatic.svg:
+       * icon-themes/HighContrast-SVG/scalable/places-extra/playlist.svg:
+       HC extra icons for themeable icons in Rhythmbox
+       (we hope other music players will follow the same naming scheme)
+       By Andreas Nilsson.
+
+2007-06-01  Andrea Cimitan  <andrea.cimitan@gmail.com>
+       * gtk-themes/Inverted/gtkrc:
+       Fixed nautilus extra widget.
+
+2007-05-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
+       * gtk-themes/Glossy/gtkrc:
+       * gtk-themes/Gummy/gtkrc:
+       * gtk-themes/Inverted/gtkrc:
+       Use colorize_scrollbar in style options.
+       WARNING: requires svn version of gtk-engines
+
+2007-05-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
+       * gtk-themes/Gummy/gtkrc:
+       Changed colorscheme.
+
+2007-05-22  Andrea Cimitan  <andrea.cimitan@gmail.com>
+       * gtk-themes/Glossy/gtkrc:
+       * gtk-themes/Gummy/gtkrc:
+       GtkRange must use bg[NORMAL] from the parentbg, 
+       since otherwise it is drawn with a different color 
+       and it is not merging the window's bg. 
+       (Try Glossy or Gummy with Clearlooks colors)
+
+2007-05-19  Wouter Bolsterlee  <wbolster@svn.gnome.org>
+       * gtk-themes/Gummy/gtkrc:
+       Use the text color for the cursor color as well to make
+       the cursor not disappear with inverted (light on dark)
+       color schemes.
+
+2007-05-16  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+       * icon-themes/HighContrast-SVG/scalable/devices/camera-web.svg:
+       * icon-themes/HighContrast-SVG/scalable/devices/input-tablet.svg:
+       * icon-themes/HighContrast-SVG/scalable/devices/pda.svg:
+       * icon-themes/HighContrast-SVG/scalable/devices/phone.svg:
+       * icon-themes/HighContrast-SVG/scalable/devices/scanner.svg:
+       Placeholders for new named icons in the spec.
+
+       * icon-themes/HighContrast-SVG/scalable/devices/multimedia-player.svg:
+       Fresh icon, using iPod(R)(TM) shape by now.
+
+
 2.19.2
 ======
 
