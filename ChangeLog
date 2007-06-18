@@ -1,3 +1,12 @@
+2007-06-18  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Gummy/gtkrc:
+	* metacity-themes/Gummy/metacity-theme-1.xml:
+
+	Gummy is using toolbarstyle = 1.
+	Gummy's got a thinner border and a different top-left highlight.
+
 2007-06-04  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS: update for 2.19.3.

@@ -63,6 +63,7 @@ style "clearlooks-default"
 #    scrollbar_color   = "#404040"
     colorize_scrollbar = TRUE
     menubarstyle      = 2       # 0 = flat, 1 = sunken, 2 = flat gradient
+    toolbarstyle      = 1 # 0 = flat, 1 = enable effects
     animation         = FALSE
     style             = GUMMY
   }
@@ -105,7 +106,7 @@ style "clearlooks-tasklist" = "clearlooks-default"
 
 style "clearlooks-toolbar" = "clearlooks-wide"
 {
-  bg[NORMAL]       = shade (1.02, @bg_color)
+#  bg[NORMAL]       = shade (1.02, @bg_color)
 }
 
 style "clearlooks-menu" = "clearlooks-default"

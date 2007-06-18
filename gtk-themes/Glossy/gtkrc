@@ -60,7 +60,8 @@ style "clearlooks-default"
   {
     #scrollbar_color   = "#76acde"
     colorize_scrollbar = TRUE
-    menubarstyle      = 2       # 0 = flat, 1 = sunken, 2 = flat gradient
+    menubarstyle      = 2 # 0 = flat, 1 = sunken, 2 = flat gradient
+    toolbarstyle      = 0 # 0 = flat, 1 = enable effects
     animation         = FALSE
     style             = GLOSSY
   }
