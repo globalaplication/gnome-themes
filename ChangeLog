@@ -2,6 +2,12 @@
 
 	* gtk-themes/Gummy/gtkrc:
 
+	Typo error :)
+
+2007-06-19  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Gummy/gtkrc:
+
 	Few changes in buttons shadings, lower quality but much more 
 	compatibility with wide-ranges of colours.
 
