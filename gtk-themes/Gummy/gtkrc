@@ -69,7 +69,6 @@ style "clearlooks-default"
   }
 }
 
-
 style "clearlooks-wide" = "clearlooks-default"
 {
   xthickness = 2
@@ -84,9 +83,9 @@ style "clearlooks-wider" = "clearlooks-default"
 
 style "clearlooks-button" = "clearlooks-wider"
 {
-  bg[NORMAL]        = shade (1.06, @bg_color) # "#f6f4f1"
+  bg[NORMAL]        = shade (1.04, @bg_color) # "#f6f4f1"
 #  bg[INSENSITIVE]   = shade (1.04, @bg_color) # "#f2efeb"
-  bg[PRELIGHT]      =  mix(0.80, shade (1.08, @bg_color), @selected_bg_color)
+  bg[PRELIGHT]      =  shade (1.06, @bg_color), @selected_bg_color)
 #  bg[PRELIGHT]      = shade (1.08, @bg_color) # "#faf9f8"
   bg[ACTIVE]        = shade (0.85, @bg_color)
 }
@@ -95,7 +94,7 @@ style "clearlooks-notebook" = "clearlooks-wide"
 {
 #  bg[NORMAL]      = "#efebe5"
 #  bg[INSENSITIVE] = "#efebe5"
-  bg[NORMAL]        = shade (1.06, @bg_color)
+  bg[NORMAL]        = shade (1.04, @bg_color)
 }
 
 style "clearlooks-tasklist" = "clearlooks-default"
