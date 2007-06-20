@@ -276,7 +276,7 @@
 		<color value="shade/gtk:bg[NORMAL]/0.94"/>
 	</gradient>
 
-	<line color="shade/gtk:bg[NORMAL]/0.65" x1="1" y1="title_height + 6" x2="width - 2" y2="title_height + 6"/>
+	<line color="shade/gtk:bg[NORMAL]/0.7" x1="1" y1="title_height + 6" x2="width - 2" y2="title_height + 6"/>
 	<rectangle color="shade/gtk:bg[NORMAL]/0.55" filled="false" x="0" y="0" width="width - 1" height="height - 1"/>
 </draw_ops>
 
@@ -296,7 +296,7 @@
 		<color value="shade/gtk:bg[NORMAL]/0.94"/>
 	</gradient>
 	
-	<line color="shade/gtk:bg[NORMAL]/0.65" x1="0" y1="title_height + 6" x2="width" y2="title_height + 6"/>
+	<line color="shade/gtk:bg[NORMAL]/0.7" x1="0" y1="title_height + 6" x2="width" y2="title_height + 6"/>
 	<line color="shade/gtk:bg[NORMAL]/0.55" x1="0" y1="height-1" x2="width" y2="height-1"/>
 </draw_ops>
 
