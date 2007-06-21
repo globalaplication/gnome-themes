@@ -1,29 +1,30 @@
-# translation of gnome-themes.HEAD.ta.po to Tamil
-# translation of ta.po to Tamil
+# translation of gnome-themes.HEAD.po to TAMIL
 # Tamil Translation of Gnome-themes.
 # Copyright (C) 2004 zhakanini
 # This file is distributed under the same license as the PACKAGE package.
+#
 # Jayaradha N <jaya@pune.redhat.com>, 2004.
 # Felix <ifelix@redhat.com>, 2006.
-#
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD.ta\n"
+"Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-01 06:36+0200\n"
-"PO-Revision-Date: 2006-09-01 15:50+0530\n"
-"Last-Translator: Felix <ifelix@redhat.com>\n"
-"Language-Team: Tamil <ta@li.org>\n"
+"POT-Creation-Date: 2007-01-02 04:00+0000\n"
+"PO-Revision-Date: 2007-06-21 11:56+0530\n"
+"Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
+"Language-Team: TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
 "\n"
 
 #: ../HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "வெளுப்பின் மிது கறுப்பு உரை மற்றும் சின்னங்கள்"
+msgstr "வெளுப்பின் மீது கறுப்பு உரை மற்றும் சின்னங்கள்"
 
 #: ../HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -35,23 +36,23 @@ msgstr "உயர் மாறுபாடு எதிர்மறை"
 
 #: ../HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "வெளுப்பின் மிது கறுப்பு உரை மற்றும் சின்னங்கள்"
+msgstr "கறுப்பு மீது வெளுப்பு உரை மற்றும் சின்னங்கள்"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:1
 msgid "High Contrast Large Print"
-msgstr "உயர்ந்த மாறுபாடு உள்ள பெரிய அச்ச"
+msgstr "உயர்ந்த மாறுபாடு, பெரிய அச்சு"
 
 #: ../HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "பெரிய வெளுப்பின் மிது கறுப்பு உரை மற்றும் சின்னங்கள்"
+msgstr "பெரிய வெளுப்பின் மீது கறுப்பு உரை மற்றும் சின்னங்கள்"
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr " உயர்ந்த  மாறுபாடு உள்ள அச்சின் எதிர்மறை "
+msgstr "உயர்ந்த மாறுபாடு உள்ள அச்சின் எதிர்மறை "
 
 #: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "பெரிய கறுப்பின் மிது வெண்மை உரை மற்றும் சின்னங்கள்"
+msgstr "பெரிய கறுப்பின் மீது வெண்மை உரை மற்றும் சின்னங்கள்"
 
 #: ../LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -75,15 +76,15 @@ msgstr "அதிகமாக குறைக்கபட்ட உரை மற
 
 #: ../LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "குறைந்த மாறுபாடு உள்ள பெரிய அச்ச"
+msgstr "குறைந்த மாறுபாடு உள்ள பெரிய அச்சு"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
-msgstr "கவரும் பயன்படுத்தல்"
+msgstr "கவரும் பயன்பாடு"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
-msgstr "Clearlooks"
+msgstr "தூய்மையான தோற்றம்."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -92,7 +93,7 @@ msgstr "கிரஸ்"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with purple highlights"
-msgstr "Smooth gradients உடன் பர்ப்பிள் முன்னிலைப்படுத்தப்படும்"
+msgstr "Smooth gradients உடன் ஊதா முன்னிலைப்படுத்தப்படும்"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -100,7 +101,15 @@ msgstr "க்ளைடர்"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "எளிமையான,மென்மையான மற்றும் அழகுணர்சியுடன் கூடிய"
+msgstr "எளிமையான, மென்மையான மற்றும் அழகுணர்சியுடன் கூடிய"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "ஒரு பளபளப்பான கருப்பொருள்"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "பளபளப்பான"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -117,5 +126,5 @@ msgstr "கறுப்பு எல்லையுடன் அதிக அட
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
-msgstr "HighContrast-SVG"
+msgstr "உயர் மாறுபாடு-எஸ்விஜி(SVG)"
 
