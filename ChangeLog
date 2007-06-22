@@ -1,3 +1,12 @@
+2007-06-22  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/video-x-generic.svg:
+	New icon, using film stripe metaphor (just a test, needs feedback
+	from theme list people).
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/audio-x-generic.svg:
+	Edit, changing some strage, crooked lines.
+
 2007-06-20  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Inverted/metacity-theme-1.xml:
