@@ -24,6 +24,8 @@ icon_DATA =				\
 	security-high.svg \
 	security-low.svg \
 	security-medium.svg \
+	software-update-available.svg \
+	software-update-urgent.svg \
 	user-trash-full.svg
 
 

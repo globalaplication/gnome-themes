@@ -1,3 +1,10 @@
+2007-06-26  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/software-update-available.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/software-update-urgent.svg:
+	New icons for software update.
+
 2007-06-22  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/video-x-generic.svg:

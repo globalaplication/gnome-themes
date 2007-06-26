@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2160"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:modified="true">
+  <defs
+     id="defs2162" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.5625"
+     inkscape:cx="24"
+     inkscape:cy="23.037892"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1122"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="26">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="44.018433"
+       id="guide2168" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="3.9078341"
+       id="guide2170" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="3.9815668"
+       id="guide2172" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="43.9447"
+       id="guide2174" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Updates</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti &lt;elle.uca@libero.it&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>updates</rdf:li>
+            <rdf:li>available</rdf:li>
+            <rdf:li>software</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Based on same icon in GNOME icon theme</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:#729fcf;fill-opacity:0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7029"
+       width="48.147465"
+       height="48.147465"
+       x="0"
+       y="0"
+       ry="0" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.52460814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2178"
+       sodipodi:sides="8"
+       sodipodi:cx="24.479263"
+       sodipodi:cy="24.1106"
+       sodipodi:r1="24.796349"
+       sodipodi:r2="15.026587"
+       sodipodi:arg1="-1.9452288"
+       sodipodi:arg2="-1.5507025"
+       inkscape:flatsided="false"
+       inkscape:rounded="-0.02"
+       inkscape:randomized="0"
+       d="M 15.410138,1.0322575 C 15.179956,1.1222272 25.028284,9.0915606 24.781185,9.0870465 C 24.53493,9.0825478 34.610883,1.4777138 34.385276,1.3789075 C 34.158894,1.2797622 35.487544,13.878751 35.31601,13.700834 C 35.145063,13.523525 47.647268,15.27087 47.557605,15.041474 C 47.467636,14.811292 39.498302,24.65962 39.502816,24.412521 C 39.507315,24.166266 47.112149,34.24222 47.210955,34.016612 C 47.310101,33.79023 34.711111,35.11888 34.889029,34.947346 C 35.066338,34.776399 33.318993,47.278604 33.548388,47.188942 C 33.778571,47.098972 23.930243,39.129638 24.177342,39.134153 C 24.423597,39.138651 14.347643,46.743485 14.573251,46.842292 C 14.799633,46.941437 13.470983,34.342448 13.642516,34.520365 C 13.813464,34.697675 1.3112591,32.950329 1.4009213,33.179725 C 1.490891,33.409907 9.4602244,23.561579 9.4557103,23.808678 C 9.4512116,24.054933 1.8463776,13.978979 1.7475712,14.204587 C 1.648426,14.430969 14.247415,13.102319 14.069498,13.273853 C 13.892188,13.4448 15.639534,0.94259532 15.410138,1.0322575 z "
+       transform="matrix(0.820487,0.3319062,-0.3289678,0.8210527,11.846697,-3.8811857)" />
+  </g>
+</svg>
