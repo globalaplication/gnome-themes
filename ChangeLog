@@ -1,3 +1,16 @@
+2007-06-27  Luca Ferretti  <elle.uca@libero.it>
+
+	* gtk-themes/*/pixmaps/stock_menu-panel.png:
+	* gtk-themes/*/pixmaps/stock_sliding-panel.png:
+	* gtk-themes/*/pixmaps/stock_floating-panel.png:
+	* gtk-themes/*/pixmaps/stock_corner-panel.png:
+	* gtk-themes/*/pixmaps/stock_panel_hide_*.png:
+	* common/all-stock-icons.data:
+	* common/panel-stock-icons.rc:
+
+	Remove from a11y themes old, no longer used stock icons
+	for GNOME Panel.
+
 2007-06-26  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:

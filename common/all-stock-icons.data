@@ -39,15 +39,10 @@ pixmap_DATA=	stock_about.png stock_add.png stock_apply.png \
 		stock_run.png stock_searchtool.png stock_lockscreen.png \
 		stock_logout.png stock_gnome-logo.png stock_cde-menu.png \
 		stock_internet.png stock_gnome-util.png \
-		stock_launcher-program.png \
-		stock_corner-panel.png stock_edge-panel.png \
-		stock_floating-panel.png stock_sliding-panel.png \
-		stock_menu-panel.png stock_multimedia.png \
+		stock_launcher-program.png stock_multimedia.png \
 		stock_drawer.png stock_screenshot.png \
 		stock_amusements.png stock_accessories.png \
 		stock_commandline-browser.xpm stock_commandline-history.xpm\
-		stock_panel_hide_up.png stock_panel_hide_down.png \
-		stock_panel_hide_left.png stock_panel_hide_right.png \
 		media-prev.png media-next.png \
                 media-stop.png media-eject.png \
                 media-play.png media-pause.png media-record.png \
