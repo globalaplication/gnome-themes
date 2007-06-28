@@ -1,3 +1,13 @@
+2007-06-28  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/status/software-update-available.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/software-update-urgent.svg:
+	200% more roundess!!!
+
+	* icon-themes/HighContrast-SVG/scalable/status/network-offline.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-online.svg:
+	Size, pixel perfect, borders...
+
 2007-06-27  Luca Ferretti  <elle.uca@libero.it>
 
 	* gtk-themes/*/pixmaps/stock_menu-panel.png:
