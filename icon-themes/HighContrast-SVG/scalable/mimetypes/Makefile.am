@@ -34,4 +34,4 @@ uninstall-symlinks:
 		fi; \
 	done
 
-uninstall-am: uninstall-iconDATA uninstall-info-am uninstall-symlinks
+uninstall-am: uninstall-iconDATA uninstall-symlinks

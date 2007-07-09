@@ -1,3 +1,24 @@
+2.19.5
+======
+
+New/improved themes:
+
+* Tweaked Gummy metacity and button shading, use toolbarstyle=1.
+Andrea Cimitan  <andrea.cimitan@gmail.com>:
+
+* New software update, network, generic audio/video icons for HighContrast-SVG.
+* Remove old panel icons from other a11y themes.
+Luca Ferretti  <elle.uca@libero.it>
+
+New/updated translations:
+
+* ta.po: Updated Tamil Translation:  I Felix  <ifelix25@gmail.com>
+
+2.19.4
+======
+
+No release.
+
 2.19.3
 ======
 
