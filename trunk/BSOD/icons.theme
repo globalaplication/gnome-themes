@@ -1,0 +1,29 @@
+[Icon Theme]
+Name=BSOD
+Comment=Blue Screen of Death
+Directories=48x48/actions,48x48/apps,48x48/devices,48x48/filesystems,48x48/mimetype
+
+[48x48/actions]
+Size=48
+Context=Actions
+Type=Threshold
+
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Threshold
+
+[48x48/devices]
+Size=48
+Context=Devices
+Type=Threshold
+
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Threshold
+
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
+Type=Threshold
