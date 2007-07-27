@@ -126,7 +126,7 @@ style "clearlooks-menu-item" = "clearlooks-default"
   ythickness = 3
   fg[PRELIGHT] = @selected_fg_color
   engine "clearlooks" {
-  radius = 0
+  radius = 3.0
   }
 }
 
