@@ -16,7 +16,7 @@ style "clearlooks-default"
   GtkMenuBar     ::internal-padding  = 0
   GtkTreeView    ::expander_size     = 14
   GtkExpander    ::expander_size     = 16
-  GtkScale       ::slider-length     = 15
+  GtkScale       ::slider-length     = 23
 #  GtkToolbar     ::button-relief     = GTK_RELIEF_NORMAL
 #  GtkMenuBar     ::shadow-type       = GTK_SHADOW_OUT
 #  GtkScrollbar   ::has-secondary-forward-stepper = 1
@@ -94,7 +94,7 @@ style "clearlooks-notebook" = "clearlooks-wide"
 {
 #  bg[NORMAL]      = "#efebe5"
 #  bg[INSENSITIVE] = "#efebe5"
-  bg[NORMAL]        = shade (1.04, @bg_color)
+  bg[NORMAL]        = shade (1.03, @bg_color)
 }
 
 style "clearlooks-tasklist" = "clearlooks-default"
@@ -125,6 +125,9 @@ style "clearlooks-menu-item" = "clearlooks-default"
   xthickness = 2
   ythickness = 3
   fg[PRELIGHT] = @selected_fg_color
+  engine "clearlooks" {
+  radius = 0
+  }
 }
 
 style "clearlooks-tree" = "clearlooks-default"
