@@ -1,8 +1,8 @@
 THEMES= \
-	Clearlooks\
+	Clearlooks \
+	ClearlooksClassic \
 	Glider \
 	Glossy \
-	Gummy \
 	Inverted \
 	Mist
 

@@ -1,5 +1,17 @@
 2007-07-28  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
+	* configure.in:
+	* gtk-themes/ClearlooksClassic/Makefile.am:
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/Makefile.am:
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
+	* metacity-themes/Makefile.am:
+
+	Updated namings, Now Gummy is Clearlooks and Clearlooks is ClearlooksClassic.
+
+2007-07-28  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
 	* gtk-themes/Gummy/gtkrc:
 	
 	Fix a mistake

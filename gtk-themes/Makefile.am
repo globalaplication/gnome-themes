@@ -1,1 +1,1 @@
-SUBDIRS=Glider Glossy Gummy Simple HighContrast HighContrastInverse HighContrastLargePrint HighContrastLargePrintInverse Inverted LowContrast LowContrastLargePrint LargePrint
+SUBDIRS=Glider Glossy ClearlooksClassic Simple HighContrast HighContrastInverse HighContrastLargePrint HighContrastLargePrintInverse Inverted LowContrast LowContrastLargePrint LargePrint

@@ -127,7 +127,7 @@ metacity-themes/Makefile
 gtk-themes/Makefile
 gtk-themes/Glider/Makefile
 gtk-themes/Glossy/Makefile
-gtk-themes/Gummy/Makefile
+gtk-themes/ClearlooksClassic/Makefile
 gtk-themes/HighContrast/Makefile
 gtk-themes/HighContrast/gtkrc
 gtk-themes/HighContrastInverse/Makefile
