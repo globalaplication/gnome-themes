@@ -1,3 +1,10 @@
+2007-07-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Glossy/gtkrc:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	
+	Updated Glossy menuitems and metacity
+
 2007-07-30  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
