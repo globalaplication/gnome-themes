@@ -114,7 +114,7 @@ style "clearlooks-menu" = "clearlooks-default"
   bg[NORMAL] = shade (1.08, @bg_color) # "#f9f7f3"
 }
 
-style "clearlooks-menubar-item" = "clearlooks-button"
+style "clearlooks-menubar-item" = "clearlooks-default"
 {
   xthickness = 2
   ythickness = 3
@@ -191,7 +191,6 @@ class "GtkFrame"     style "clearlooks-wide"
 class "GtkSeparator" style "clearlooks-wide"
 class "GtkMenu"      style "clearlooks-menu"
 class "GtkEntry"     style "clearlooks-wider"
-class "GtkMenuItem"    style "clearlooks-menu-item"
 class "GtkNotebook"    style "clearlooks-notebook"
 class "GtkProgressBar" style "clearlooks-progressbar"
 class "GtkToolbar"   style "clearlooks-toolbar" 
