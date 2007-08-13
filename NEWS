@@ -1,3 +1,22 @@
+2.19.90
+=======
+
+New/improved themes:
+
+2007-07-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+       * gtk-themes/Glossy/gtkrc:
+       * metacity-themes/Glossy/metacity-theme-1.xml:
+
+       Updated Glossy menuitems and metacity
+
+New/updated translations:
+
+2007-08-08  Baris Cicek <baris@teamforce.name.tr>
+
+       * tr.po: Updated Turkish translation
+
+
 2.19.6
 ======
 

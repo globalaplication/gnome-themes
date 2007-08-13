@@ -1,3 +1,10 @@
+2007-08-13  Calum Benson  <calum@solaris-devx>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.19.90 release.
+
 2007-07-31  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Glossy/gtkrc:
