@@ -1,3 +1,8 @@
+2007-08-20  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	new shadings. A little tweak to improve support on colorschemes
+
 2007-08-13  Calum Benson  <calum@solaris-devx>
 
 	* NEWS:
