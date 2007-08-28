@@ -1,3 +1,10 @@
+2007-08-28  Calum Benson  <calum@solaris-devx>
+
+	* NEWS:
+	* configure.in:
+	
+	Update for 2.19.91 release.
+
 2007-08-20  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
