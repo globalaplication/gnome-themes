@@ -1,4 +1,10 @@
-2007-08-28  Calum Benson  <calum@solaris-devx>
+2007-09-03  Calum Benson  <calum@gnome.org>
+
+	* NEWS:
+
+	Update for 2.19.92 release.
+
+2007-08-28  Calum Benson  <calum@gnome.org>
 
 	* NEWS:
 	* configure.in:
