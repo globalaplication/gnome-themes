@@ -1,3 +1,18 @@
+2007-09-05  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* gtk-themes/Gummy/Makefile.am:
+	* gtk-themes/Gummy/gtkrc:
+	* metacity-themes/Gummy/metacity-theme-1.xml:
+
+	We forgot the svn del :), removed those outdated folders.
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+
+	Fix _A LOT_ of themes (the one with dark fg_selected), for the 2.20 release!
+
 2007-09-03  Calum Benson  <calum@gnome.org>
 
 	* NEWS:
