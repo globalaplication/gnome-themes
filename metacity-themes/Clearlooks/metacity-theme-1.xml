@@ -119,7 +119,7 @@
 
 	<!-- ** corner hilight for right top ** -->
 	<line color="shade/gtk:bg[SELECTED]/0.98" x1="width-3" y1="3" x2="width-3" y2="4"/>
-	<line color="shade/gtk:bg[SELECTED]/1.14" x1="width-5" y1="2" x2="width-4" y2="2"/>
+	<line color="shade/gtk:bg[SELECTED]/1.16" x1="width-5" y1="2" x2="width-4" y2="2"/>
 
 	<!-- ** corner hilight for left bottom ** -->
 	<!--<line color="shade/gtk:bg[NORMAL]/1.3" x1="2" y1="height-4" x2="2" y2="height-5"/>
@@ -137,7 +137,7 @@
 
 	<!-- ** corner hilight for right top ** -->
 	<line color="shade/gtk:bg[NORMAL]/0.88" x1="width-3" y1="3" x2="width-3" y2="4"/>
-	<line color="shade/gtk:bg[NORMAL]/1.03" x1="width-5" y1="2" x2="width-4" y2="2"/>
+	<line color="shade/gtk:bg[NORMAL]/1.04" x1="width-5" y1="2" x2="width-4" y2="2"/>
 
 	<!-- ** corner hilight for left bottom ** -->
 	<!--<line color="shade/gtk:bg[NORMAL]/1.3" x1="2" y1="height-4" x2="2" y2="height-5"/>
@@ -155,10 +155,10 @@
 
 	<!-- ** corner hilight for right top ** -->
 	<line color="shade/gtk:bg[SELECTED]/0.98" x1="width-3" y1="3" x2="width-3" y2="4"/>
-	<line color="shade/gtk:bg[SELECTED]/1.14" x1="width-5" y1="2" x2="width-4" y2="2"/>
+	<line color="shade/gtk:bg[SELECTED]/1.16" x1="width-5" y1="2" x2="width-4" y2="2"/>
 
 	<!-- ** corner hilight for left bottom ** -->
-	<line color="shade/gtk:bg[SELECTED]/1.12" x1="2" y1="height-4" x2="2" y2="height-5"/>
+	<line color="shade/gtk:bg[SELECTED]/1.08" x1="2" y1="height-4" x2="2" y2="height-5"/>
 	<line color="shade/gtk:bg[SELECTED]/0.98" x1="3" y1="height-3" x2="4" y2="height-3"/>
 
 	<!-- ** corner hilight for right bottom ** -->
@@ -173,7 +173,7 @@
 
 	<!-- ** corner hilight for right top ** -->
 	<line color="shade/gtk:bg[NORMAL]/0.88" x1="width-3" y1="3" x2="width-3" y2="4"/>
-	<line color="shade/gtk:bg[NORMAL]/1.03" x1="width-5" y1="2" x2="width-4" y2="2"/>
+	<line color="shade/gtk:bg[NORMAL]/1.04" x1="width-5" y1="2" x2="width-4" y2="2"/>
 
 	<!-- ** corner hilight for left bottom ** -->
 	<line color="shade/gtk:bg[NORMAL]/1.02" x1="2" y1="height-4" x2="2" y2="height-5"/>
