@@ -1,3 +1,10 @@
+2007-09-09  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/Glider/gtkrc:
+
+	Add support for tooltip_*_color in Glider and ClearlooksClassic.
+
 2007-09-09  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:

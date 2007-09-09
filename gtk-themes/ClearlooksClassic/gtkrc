@@ -1,5 +1,5 @@
 
-gtk_color_scheme = "fg_color:#000\nbg_color:#ede9e3\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#5598d7\nselected_fg_color:#fff"
+gtk_color_scheme = "fg_color:#000\nbg_color:#ede9e3\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#5598d7\nselected_fg_color:#fff\ntooltip_bg_color:#FFFFBF\ntooltip_fg_color:#000000"
 
 style "clearlooks-default"
 {
@@ -155,6 +155,15 @@ style "clearlooks-scale" = "clearooks-button"
 	GtkRange::trough-side-details = 1
 }	
 
+style "clearlooks-tooltips"
+{
+	xthickness = 4
+	ythickness = 4
+
+	bg[NORMAL] = @tooltip_bg_color
+	fg[NORMAL] = @tooltip_fg_color
+}
+
 style "nautilus-location" {
   bg[NORMAL] = mix(0.60, shade (1.05,@bg_color), @selected_bg_color)
 }
@@ -197,3 +206,4 @@ widget_class "*.GtkNotebook.*.GtkViewport" style "clearlooks-notebook"
 
 widget_class "*<GtkProgressBar>" style "clearlooks-progressbar"
  
+widget "*gtk-tooltip*" style "clearlooks-tooltips"
