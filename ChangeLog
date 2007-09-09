@@ -1,3 +1,12 @@
+2007-09-09  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+
+	Tweaks in shadings and polished code.
+
 2007-09-05  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Gummy/Makefile.am:
