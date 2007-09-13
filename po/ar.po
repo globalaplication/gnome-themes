@@ -1,79 +1,24 @@
-# translation of gnome-themes.gnome-2-16.ar.po to Arabic
+# translation of gnome-themes.HEAD.ar.po to Arabic
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
 #
 # Arafat Medini <lumina@silverpen.de>, 2003.
 # Djihed Afifi <djihed@gmail.com>, 2006.
-# Khaled Hosny <khaledhosny@eglug.org>, 2006.
+# Khaled Hosny <khaledhosny@eglug.org>, 2006, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.gnome-2-16.ar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-12-17 19:08+0100\n"
-"PO-Revision-Date: 2006-12-30 13:43+0200\n"
-"Last-Translator: Mohamed Magdy <alnokta@yahoo.com>\n"
-"Language-Team: Arabic <support@arabeyes.org>\n"
+"POT-Creation-Date: 2007-04-14 15:52+0100\n"
+"PO-Revision-Date: 2007-04-06 20:48+0200\n"
+"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "أيقونات ونصوص بأسلوب أسود على أبيض"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "تباين عال"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "تباين عال معكوس"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "نصوص و أيقونات بأسلوب أبيض على أسود"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "تباين عال خط عريض"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "نصوص و أيقونات عريضة بأسلوب أسود على أبيض"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "تباين عال معكوس و خطوط طباعة عريضة"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "نصوص و أيقونات عريضة بأسلوب أبيض على أسود"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "خطوط طبع عريضة"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "نصوص و أيقونات عريضة"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "تباين ضعيف"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "نصوص و أيقونات مخفّفة"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "نصوص و أيقونات مخفّفة عريضة"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "خطوط طبع عريضة تباين ضعيف"
+"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : "
+"3\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -81,7 +26,7 @@ msgstr "سهولة إستعمال جَذَّابة"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
-msgstr "كليرلوكس"
+msgstr "مظهر نقي"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -90,11 +35,11 @@ msgstr "كروكس"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with purple highlights"
-msgstr "ميولات ناعمة مع خيوط بنفسجية"
+msgstr "تدرجات ناعمة مع خيوط بنفسجية"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
-msgstr "جلايدر"
+msgstr "مُنزَلِق"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
@@ -102,11 +47,67 @@ msgstr "بسيط, ملس و جذاب جماليا"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
 msgid "A glossy looking theme"
-msgstr "تيمة ذات مظهر لامع"
+msgstr "سِمة ذات مظهر لامع"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "لامع"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "أيقونات ونصوص بأسلوب أسود على أبيض"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "تباين عال"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "تباين عال معكوس"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "نصوص و أيقونات بأسلوب أبيض على أسود"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large Print"
+msgstr "خطوط عريضة عالية التباين"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "نصوص و أيقونات عريضة بأسلوب أسود على أبيض"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "خطوط عريضة عالية التباين معكوسة"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "نصوص و أيقونات عريضة بأسلوب أبيض على أسود"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "خطوط طبع عريضة"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "نصوص و أيقونات عريضة"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "تباين ضعيف"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "نصوص و أيقونات مخفّفة"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "نصوص و أيقونات مخفّفة عريضة"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "خطوط عريضة ضعيفة التباين"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -119,9 +120,8 @@ msgstr "غشى"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
-msgstr "أيقونات متغيرة الحجم و ذات تباين عال مع حدود سوداء"
+msgstr "أيقونات متغيرة الحجم ذات تباين عال مع حدود سوداء"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
-msgstr "تباين عال-SVG"
-
+msgstr "رسومات متّجهية عالية التباين"
