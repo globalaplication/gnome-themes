@@ -1,3 +1,18 @@
+2007-09-16  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+
+	Very little minimal small fix to a shade, 0.5 -> 0.45.
+	This is not a risk in stability, so I don't think we can consider it
+	an break in the freeze (just a simple number...).
+	If calum agrees OK, otherwise just tag and tarball agaisnt the 
+	previous revision.
+	Just don't kill me :) 
+	- Andrea
+
 2007-09-10  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/Glossy/gtkrc:
