@@ -1,3 +1,40 @@
+2.20.0
+======
+
+2007-09-16 et al.  Andrea Cimitan  <andrea.cimitan@gmail.com>
+       Inverted, Clearlooks & Glossy themes: code polish and visual tweaks.
+       Fix _A LOT_ of themes (the one with dark fg_selected), for the 
+       2.20 release!
+
+2007-09-10  Benjamin Berg  <benjamin@sipsolutions.net>
+       * gtk-themes/Glossy/gtkrc:
+       Use gtk-tooltip* instead of gtk-tooltips to match the tooltip
+       window.
+
+2007-09-09  Benjamin Berg  <benjamin@sipsolutions.net>
+       Add support for tooltip_*_color in Glider and ClearlooksClassic.
+
+2007-09-05  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+       * gtk-themes/Gummy/Makefile.am:
+       * gtk-themes/Gummy/gtkrc:
+       * metacity-themes/Gummy/metacity-theme-1.xml:
+
+       We forgot the svn del :), removed those outdated folders.
+
+New/updated translations:
+
+2007-09-15  Andre Klapper  <a9016009@gmx.de>
+       * sk.po: Updated Slovak translation on behalf of Peter Tuharsky
+        <tuharsky@misbb.sk>.
+
+2007-09-13  Djihed Afifi <djihed@gmail.com> 
+       * ar.po: Updated Arabic Translation by Khaled Hosny.
+
+2007-09-12  Goran Raki??  <grakic@devbase.net>
+       * sr.po, sr@Latn.po: Updated Serbian translation.
+
+
 2.19.92
 =======
 
