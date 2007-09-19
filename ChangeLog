@@ -1,3 +1,13 @@
+2007-09-19  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* configure.in:
+
+	2.20 release.
+	
+	* gtk-themes/Glossy/gtkrc:
+	
+	Fixed glossy colorscheme (less blueish, as 2.18 ones.
+
 2007-09-16  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
