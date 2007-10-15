@@ -1,3 +1,10 @@
+2007-10-15  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.20.1 release.
+
 2007-09-19  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
