@@ -1,0 +1,16 @@
+SUBDIRS=	gtk-themes \
+		metacity-themes \
+		icon-themes \
+		desktop-themes \
+		common \
+		po
+
+EXTRA_DIST = \
+	gnome-themes.spec \
+	gnome-themes.spec.in \
+	low-contrast-preset.scm \
+	intltool-extract.in \
+	intltool-merge.in \
+	intltool-update.in
+
+DISTCLEANFILES=intltool-extract intltool-merge intltool-update

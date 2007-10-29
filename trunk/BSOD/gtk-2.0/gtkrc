@@ -1,0 +1,209 @@
+# "Blue Screen of Death" Theme
+#
+# Good for testing theme compliance; basically anything that is 
+# still visible onscreen when this theme is in use is a theming 
+# bug!  You might want to run a non-themed Xterm or the gnopernicus
+# screenreader when trying out this theme, to keep from painting
+# yourself into a corner...
+#
+# Written by Bill Haneman.
+#
+# email: bill.haneman@sun.com
+
+pixmap_path "xHOMEx/.themes/BSOD/pixmaps"
+
+style "default"
+{
+  engine "hcengine" {}
+
+  GtkWidget::interior_focus = 1
+  GtkWidget::focus-padding = 0
+  GtkEntry::cursor_color    = { 0.00, 0.00, 1.00 }
+
+  fg[NORMAL]      = { 0.00, 0.00, 1.00 }
+  text[NORMAL]      = { 0.00, 0.00, 1.00 }
+  bg[NORMAL]      = { 0.00, 0.00, 1.00 }
+  base[NORMAL]    = { 0.00, 0.00, 1.00 }
+
+  fg[INSENSITIVE]      = { 0.00, 0.00, 1.00 }
+  bg[INSENSITIVE]      = { 0.00, 0.00, 1.00 }
+  base[INSENSITIVE]      = { 0.00, 0.00, 1.00 }
+
+  fg[PRELIGHT]    = { 0.00, 0.00, 1.00 }
+  text[PRELIGHT]    = { 0.00, 0.00, 1.00 }
+  bg[PRELIGHT]    = { 0.00, 0.00, 1.00 }
+  base[PRELIGHT]    = { 0.00, 0.00, 1.00 }
+
+  fg[ACTIVE]      = { 0.00, 0.00, 1.00 }
+  text[ACTIVE]      = { 0.00, 0.00, 1.00 }
+  bg[ACTIVE]      = { 0.00, 0.00, 1.00 }
+  base[ACTIVE]      = { 0.00, 0.00, 1.00 }
+
+  fg[SELECTED]    = { 0.00, 0.00, 1.00 }
+  text[SELECTED]    = { 0.00, 0.00, 1.00 }
+  bg[SELECTED]    = { 0.00, 0.00, 1.00 }
+  base[SELECTED]    = { 0.00, 0.00, 1.00 }
+
+
+  stock["gnome-stock-about"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-volume"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-mic"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-line-in"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-attach"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-book-blue"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-book-green"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-book-red"] = {{ "stock_blue.png" }}
+  stock["gnome-stock-book-yellow"] = {{ "stock_blue.png" }}
+
+  stock["gtk-dialog-info"] =   {{ "stock_blue.png" }}
+  stock["gtk-dialog-question"] = {{ "stock_blue.png" }}
+  stock["gtk-dialog-error"] =  {{ "stock_blue.png" }}
+  stock["gtk-dialog-warning"] =  {{ "stock_blue.png" }}
+
+  stock["gtk-dnd"] = {{ "stock_blue.png" }} 
+  stock["gtk-dnd-multiple"] = {{ "stock_blue.png" }} 
+
+  stock["gtk-add"] =	       {{ "stock_blue.png" }}
+  stock["gtk-apply"] =	       {{ "stock_blue.png" }}
+  stock["gtk-bold"] =	       {{ "stock_blue.png" }} 
+  stock["gtk-cancel"] =	       {{ "stock_blue.png" }}
+  stock["gtk-cdrom"] =	       {{ "stock_blue.png" }}
+  stock["gtk-clear"] =	       {{ "stock_blue.png" }}
+  stock["gtk-close"] =	       {{ "stock_blue.png" }}
+  stock["gtk-convert"] =       {{ "stock_blue.png" }}
+  stock["gtk-copy"] =	       {{ "stock_blue.png" }}
+  stock["gtk-cut"] =	       {{ "stock_blue.png" }}
+  stock["gtk-delete"] =	       {{ "stock_blue.png" }}
+  stock["gtk-execute"] =       {{ "stock_blue.png" }}
+  stock["gtk-find"] =	       {{ "stock_blue.png" }}
+  stock["gtk-find-and-replace"] = {{ "stock_blue.png" }}
+  stock["gtk-floppy"] =		{{ "stock_blue.png" }}
+  stock["gtk-goto-bottom"] =	{{ "stock_blue.png" }}
+  stock["gtk-goto-first"] =	{{ "stock_blue.png" }}
+  stock["gtk-goto-last"] =	{{ "stock_blue.png" }}
+  stock["gtk-goto-top"] =	{{ "stock_blue.png" }}
+  stock["gtk-go-back"] =	{{ "stock_blue.png" }}
+  stock["gtk-go-down"] =	{{ "stock_blue.png" }}
+  stock["gtk-go-forward"] =	{{ "stock_blue.png" }}
+  stock["gtk-go-up"] =		{{ "stock_blue.png" }}
+  stock["gtk-help"] =		{{ "stock_blue.png" }}
+  stock["gtk-home"] =		{{ "stock_blue.png" }}
+  stock["gtk-index"] =		{{ "stock_blue.png" }}
+  stock["gtk-italic"] =		{{ "stock_blue.png" }}
+
+  stock["gtk-jump-to"] =	{{ "stock_blue.png" }}
+  stock["gtk-justify-center"] =	{{ "stock_blue.png" }}
+  stock["gtk-justify-fill"] =	{{ "stock_blue.png" }}
+  stock["gtk-justify-left"] =	{{ "stock_blue.png" }}
+  stock["gtk-justify-right"] =	{{ "stock_blue.png" }}
+  stock["gtk-missing-image"] =	{{ "stock_blue.png" }}
+  stock["gtk-new"] =	     	{{ "stock_blue.png" }}
+  stock["gtk-no"] =		{{ "stock_blue.png" }} 
+  stock["gtk-ok"] =		{{ "stock_blue.png" }}
+  stock["gtk-open"] =		{{ "stock_blue.png" }} 
+  stock["gtk-paste"] =		{{ "stock_blue.png" }}
+  stock["gtk-print"] =		{{ "stock_blue.png" }}
+  stock["gtk-print-preview"] =	{{ "stock_blue.png" }}
+  stock["gtk-preferences"] =	{{ "stock_blue.png" }}
+  stock["gtk-properties"] =	{{ "stock_blue.png" }}
+  stock["gtk-quit"] =		{{ "stock_blue.png" }}
+  stock["gtk-redo"] =		{{ "stock_blue.png" }}
+  stock["gtk-refresh"] =	{{ "stock_blue.png" }}
+  stock["gtk-remove"] =		{{ "stock_blue.png" }}
+  stock["gtk-revert-to-saved"] ={{ "stock_blue.png" }}
+  stock["gtk-save"] =		{{ "stock_blue.png" }}
+  stock["gtk-save-as"] =	{{ "stock_blue.png" }}
+  stock["gtk-select-color"] =	{{ "stock_blue.png" }}
+  stock["gtk-select-font"] =	{{ "stock_blue.png" }}
+  stock["gtk-sort-ascending"] =	{{ "stock_blue.png" }}
+  stock["gtk-sort-descending"] ={{ "stock_blue.png" }}
+  stock["gtk-spell-check"] =	{{ "stock_blue.png" }}
+  stock["gtk-stop"] =		{{ "stock_blue.png" }}
+  stock["gtk-strikethrough"] =	{{ "stock_blue.png" }}
+  stock["gtk-undelete"] =	{{ "stock_blue.png" }}
+  stock["gtk-underline"] =	{{ "stock_blue.png" }}
+  stock["gtk-undo"] =		{{ "stock_blue.png" }}
+  stock["gtk-yes"] =		{{ "stock_blue.png" }} 
+  stock["gtk-zoom-100"] =	{{ "stock_blue.png" }}
+  stock["gtk-zoom-fit"] =	{{ "stock_blue.png" }}
+  stock["gtk-zoom-in"] =	{{ "stock_blue.png" }}
+  stock["gtk-zoom-out"] =	{{ "stock_blue.png" }}
+
+  stock["terminal-edit"] =      {{ "stock_blue.png" }}
+  stock["session-stock-edit"] = {{ "stock_blue.png" }}
+}
+
+class "GtkWidget" style "default"
+
+style "panel-icons"
+{
+        stock ["panel-run"] =           {{"stock_blue.png"}}
+        stock ["panel-searchtool"] =    {{"stock_blue.png"}}
+        stock ["panel-screenshot"] =    {{"stock_blue.png"}}
+        stock ["panel-lockscreen"] =    {{"stock_blue.png"}}
+        stock ["panel-logout"] =        {{"stock_blue.png"}}
+        stock ["panel-gnome-logo"] =    {{"stock_blue.png"}}
+
+        stock ["panel-cde"] =           {{"stock_blue.png"}}
+#TBD    stock ["panel-debian"] =        {{""}}
+#TBD    stock ["panel-kde"] =           {{""}}
+#TBD    stock ["panel-suse"] =          {{""}}
+
+	stock ["panel-amusements"] =    {{"stock_blue.png"}}
+	stock ["panel-accessories"] =   {{"stock_blue.png"}}
+        stock ["panel-multimedia"] =    {{"stock_blue.png"}}
+
+        stock ["panel-internet"] =      {{"stock_blue.png"}}
+        stock ["panel-utility"] =       {{"stock_blue.png"}}
+
+        stock ["panel-corner-type"] =   {{"stock_blue.png"}}
+        stock ["panel-edge-type"] =     {{"stock_blue.png"}}
+        stock ["panel-floating-type"] = {{"stock_blue.png"}}
+        stock ["panel-sliding-type"] =  {{"stock_blue.png"}}
+        stock ["panel-menu-type"] =     {{"stock_blue.png"}}
+
+        stock ["panel-launcher"] =      {{"stock_blue.png"}}
+
+        stock ["panel-drawer"] =        {{"stock_blue.png"}}
+#       stock ["panel-applet"] =        {{""}}
+#       stock ["panel-desktop"] =       {{""}}
+
+	stock ["panel-arrow-left"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-right"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-up"] =	{{"stock_blue.png"}}
+	stock ["panel-arrow-down"] =	{{"stock_blue.png"}}
+
+	stock ["commandline-browser"] =	{{"stock_blue.png"}}
+	stock ["commandline-history"] =	{{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "panel-icons"
+style "media-icons"
+{
+
+        stock ["media-stop"] =       {{"stock_blue.png"}}
+        stock ["media-play"] = 	{{"stock_blue.png"}}
+        stock ["media-pause"] = 	{{"stock_blue.png"}}
+        stock ["media-prev"] =       {{"stock_blue.png"}}
+        stock ["media-next"] =       {{"stock_blue.png"}}
+        stock ["media-eject"] =      {{"stock_blue.png"}}
+        stock ["media-record"] =      {{"stock_blue.png"}}
+
+	stock ["volume-mute"] =      	{{"stock_blue.png"}}
+        stock ["volume-zero"] =      	{{"stock_blue.png"}}
+        stock ["volume-min"] =      	{{"stock_blue.png"}}
+        stock ["volume-med"] =      	{{"stock_blue.png"}}
+        stock ["volume-max"] =      	{{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "media-icons"
+
+style "capplet-icons"
+{
+
+        stock ["mouse-dblclck-maybe"] =    {{"stock_blue.png"}}
+        stock ["mouse-dblclck-on"] =       {{"stock_blue.png"}}
+        stock ["mouse-dblclck-off"] =      {{"stock_blue.png"}}
+
+}
+class "GtkWidget" style "capplet-icons"

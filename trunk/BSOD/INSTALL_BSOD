@@ -1,0 +1,40 @@
+#!/bin/sh
+# A crude script to install the BSOD theme to your home directory.
+# Requires gnome-icon-theme to be checked out in the same directory
+# as gnome-themes.
+#
+# calum.benson@sun.com, Aug-15-2003
+
+# Copy the gtk stuff into $HOME/.themes
+mkdir $HOME/.themes > /dev/null 2>&1
+mkdir $HOME/.themes/BSOD > /dev/null 2>&1
+cp -r index.theme gtk-2.0 pixmaps $HOME/.themes/BSOD > /dev/null 2>&1
+
+# Set the pixmap_path correctly; it doesn't recognise $HOME unfortunately
+sed -e "s|xHOMEx|$HOME|" gtk-2.0/gtkrc > $HOME/.themes/BSOD/gtk-2.0/gtkrc
+
+# Copy the icon stuff into $HOME/.icons
+mkdir $HOME/.icons > /dev/null 2>&1
+mkdir $HOME/.icons/BSOD > /dev/null 2>&1
+mkdir $HOME/.icons/BSOD/48x48 > /dev/null 2>&1
+cp icons.theme $HOME/.icons/BSOD/index.theme > /dev/null 2>&1
+
+for icontype in apps devices emblems filesystems mimetypes stock stock/document stock/generic; do
+	echo $icontype
+	mkdir $HOME/.icons/BSOD/48x48/$icontype > /dev/null 2>&1
+
+	# Create blue icons for everything in gnome-icon-theme
+	for iconname in ../../gnome-icon-theme/48x48/$icontype/*.png ; do
+		iname=`basename $iconname`
+		cp bsod-icon.png $HOME/.icons/BSOD/48x48/$icontype/$iname > /dev/null 2>&1
+	done
+
+	# Create blue icons for everything in HCLP theme
+	# (these will be mostly the same but include icons for a few extra
+	# Sun-specific apps)
+	for iconname in ../HighContrastLargePrint/48x48/$icontype/*.png ; do
+		iname=`basename $iconname`
+		cp bsod-icon.png $HOME/.icons/BSOD/48x48/$icontype/$iname > /dev/null 2>&1
+	done
+done
+
