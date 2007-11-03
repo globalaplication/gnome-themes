@@ -8,8 +8,6 @@
 #
 # email: bill.haneman@sun.com
 
-pixmap_path "@prefix@/share/themes/LargePrint/pixmaps"
-
 gtk-icon-sizes = "@LARGEPRINT_ICON_SIZES@"
 
 style "default"
@@ -43,8 +41,6 @@ style "default"
 
   PanelToplevel::arrow-size = 18
 
-@gtk_stock_icons_rc@
-@panel_stock_icons_rc@
-@media_stock_icons_rc@
-@capplet_stock_icons_rc@
-@metacity_stock_icons_rc@
+}
+
+class "GtkWidget" style "default"

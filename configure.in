@@ -141,7 +141,6 @@ gtk-themes/HighContrastLargePrintInverse/pixmaps/Makefile
 gtk-themes/Inverted/Makefile
 gtk-themes/LargePrint/Makefile
 gtk-themes/LargePrint/gtkrc
-gtk-themes/LargePrint/pixmaps/Makefile
 gtk-themes/LowContrast/Makefile
 gtk-themes/LowContrast/gtkrc
 gtk-themes/LowContrastLargePrint/Makefile

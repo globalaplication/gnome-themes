@@ -1,3 +1,18 @@
+2007-11-03  Luca Ferretti  <elle.uca@libero.it>
+
+	* configure.in:
+	* gtk-themes/LargePrint/Makefile.am:
+	* gtk-themes/LargePrint/gtkrc.in:
+	* gtk-themes/LargePrint/pixmaps/*:
+
+	Don't use GTK+ stock icons in LargePrint, but grab
+	icons directly from current icon theme (yeah, this
+	is the theme formerly known as LargoEmbargo on
+	gnome-themes-list).
+
+	The pixmap directory was removed from svn 'cause no
+	longer used.
+
 2007-10-22  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
