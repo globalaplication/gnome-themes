@@ -14,7 +14,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
    sodipodi:docbase="/home/luca/Scrivania/hc"
-   sodipodi:docname="applications-development.svg"
+   sodipodi:docname="tomboy.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4934" />
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999999"
-     inkscape:cx="30.10882"
-     inkscape:cy="21.876668"
+     inkscape:zoom="14.333333"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1012"
-     inkscape:window-height="768"
-     inkscape:window-x="196"
-     inkscape:window-y="153" />
+     inkscape:window-width="1244"
+     inkscape:window-height="908"
+     inkscape:window-x="28"
+     inkscape:window-y="63" />
   <metadata
      id="metadata4937">
     <rdf:RDF>
@@ -44,9 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
-        <dc:title>Development Application Category</dc:title>
+        <dc:title>Tomboy Application icon</dc:title>
         <dc:date>September 2007</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -58,14 +56,16 @@
             <dc:title>Andreas Nilsson</dc:title>
           </cc:Agent>
         </dc:rights>
+        <dc:source>http://www.gnome.org</dc:source>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>development</rdf:li>
-            <rdf:li>hacking</rdf:li>
-            <rdf:li />
+            <rdf:li>tomboy</rdf:li>
+            <rdf:li>notes</rdf:li>
+            <rdf:li>sticky</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:source>http://www.gnome.org</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -89,34 +89,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 45,3.0000002 L 9.6693593,13.423568 L 9.1390292,15.942636 L 31.173482,37.977088 L 33.935617,37.468855 L 45,3.0000002 z "
-       id="rect4942"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1.9999999,2.1250001 L 46,2.1250001 L 46,33.120562 L 32.973498,46.000004 L 1.9999999,46.000004 L 1.9999999,2.1250001 z "
+       id="rect4940"
        sodipodi:nodetypes="cccccc" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4947"
-       width="14.000001"
-       height="21"
-       x="26.409876"
-       y="4.7702661"
-       rx="5.1517777"
-       ry="5.1517777"
-       transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4949"
-       width="4"
-       height="18.0401"
-       x="31.409878"
-       y="-2.2297347"
-       transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.999999,30 L 30,30 L 30,46"
+       id="path5915" />
     <rect
        style="opacity:0.6;fill:none;fill-opacity:0.8093385;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.70588235"
-       id="rect2160"
+       id="rect2170"
        width="48"
        height="48"
        x="0"
-       y="0" />
+       y="0"
+       rx="0"
+       ry="0" />
   </g>
 </svg>

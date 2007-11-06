@@ -4,7 +4,10 @@ context = apps
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =
+icon_DATA = \
+	bug-buddy.svg	\
+	glchess.svg	\
+	tomboy.svg
 
 EXTRA_DIST = \
 	$(icon_DATA)

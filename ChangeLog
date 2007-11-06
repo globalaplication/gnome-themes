@@ -1,3 +1,18 @@
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-reply-sender.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-accessibility.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-locale.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/system-file-manager.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/bug-buddy.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/glchess.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/tomboy.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-development.svg:
+	* icon-themes/HighContrast-SVG/scalable/categories/preferences-desktop-peripherals.svg:
+
+	New or updated icons from Andreas Nilsson.
+
 2007-11-03  Luca Ferretti  <elle.uca@libero.it>
 
 	* configure.in:
