@@ -1,5 +1,21 @@
 2007-11-06  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/document-properties.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-undo.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-redo.svg:
+
+	Fix canvas size (60->48) and make pixel perfect.
+
+
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-italic.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-bold.svg:
+
+	As previous, plus more bold in format-text-bold and more italic in
+	format text italic. They should be mutually vertically aligned too.
+
+	
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/mail-reply-sender.svg:
 	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-accessibility.svg:
 	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-locale.svg:
