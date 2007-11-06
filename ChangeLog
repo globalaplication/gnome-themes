@@ -1,5 +1,11 @@
 2007-11-06  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/index.theme.in:
+
+	Enable *-extra directories in index.theme.
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/mail-forward.svg:
 
 	Just flip mail-reply sender from Andreas...
