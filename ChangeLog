@@ -1,5 +1,11 @@
 2007-11-06  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-forward.svg:
+
+	Just flip mail-reply sender from Andreas...
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/document-properties.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-undo.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-redo.svg:
@@ -12,7 +18,6 @@
 
 	As previous, plus more bold in format-text-bold and more italic in
 	format text italic. They should be mutually vertically aligned too.
-
 	
 2007-11-06  Luca Ferretti  <elle.uca@libero.it>
 
