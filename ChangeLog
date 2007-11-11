@@ -1,5 +1,11 @@
 2007-11-11  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-copy.svg:
+
+	Updated to use the same "paper" showed in edit-paste.
+
+2007-11-11  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-cut.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-paste.svg:
 
