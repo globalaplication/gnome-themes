@@ -1,3 +1,10 @@
+2007-11-11  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-cut.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-paste.svg:
+
+	Fix canvas size (60->48), pixel perfect and borders.
+
 2007-11-06  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/index.theme.in:
