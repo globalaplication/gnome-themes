@@ -1,3 +1,50 @@
+2.21.2
+======
+
+New features/bugfixes:
+
+2007-11-11  Luca Ferretti  <elle.uca@libero.it>
+
+       * icon-themes/HighContrast-SVG/scalable/actions/edit-copy.svg:
+       Updated to use the same "paper" showed in edit-paste.
+
+2007-11-11  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/actions/edit-cut.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/edit-paste.svg:
+       Fix canvas size (60->48), pixel perfect and borders.
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/index.theme.in:
+       Enable *-extra directories in index.theme.
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+
+       * icon-themes/HighContrast-SVG/scalable/actions/mail-forward.svg:
+       Just flip mail-reply sender from Andreas...
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/actions/document-properties.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/edit-undo.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/edit-redo.svg:
+       Fix canvas size (60->48) and make pixel perfect.
+
+       * icon-themes/HighContrast-SVG/scalable/actions/format-text-italic.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/format-text-bold.svg:
+       As previous, plus more bold in format-text-bold and more italic in
+       format text italic. They should be mutually vertically aligned too.
+
+2007-11-06  Luca Ferretti  <elle.uca@libero.it>
+       Ten new/updated icons high contrast SVG icons from Andreas Nilsson.
+
+2007-11-03  Luca Ferretti  <elle.uca@libero.it>
+       Don't use GTK+ stock icons in LargePrint, but grab
+       icons directly from current icon theme (yeah, this
+       is the theme formerly known as LargoEmbargo on
+       gnome-themes-list).
+       The pixmap directory was removed from svn 'cause no
+       longer used.
+
+
 2.21.1
 ======
 
