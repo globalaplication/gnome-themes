@@ -1,3 +1,15 @@
+2007-11-12  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	
+	+20-30% speed boost, obteined by using <line> instead <tint>
+	operations.
+	Fixes: https://bugs.freedesktop.org/show_bug.cgi?id=12450
+	(Compiz gwd is buggied, by this improvements helps a lot).
+	
+	I'm afraid I haven't committed in time for 2.21.1, this is a
+	great improvement for they guys who are using compiz  :(
+
 2007-11-11  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-copy.svg:
