@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-12-04 15:43+0100\n"
+"POT-Creation-Date: 2007-11-14 15:28+0100\n"
 "PO-Revision-Date: 2006-11-04 14:45+0100\n"
 "Last-Translator: Ignacio Casal Quinteiro <nacho.resa@gmail.com>\n"
 "Language-Team: Galego <trasno@ceu.fi.udc.es>\n"
@@ -16,62 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Texto e iconas en negro sobre branco"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "Alto contraste"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "Alto contraste invertido"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "Texto e iconas en branco sobre negro"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "Alto contraste de impresión grande"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Texto e iconas grandes en negro sobre branco"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "Alto contraste de impresión grande invertido"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "Texto e iconas grandes en branco sobre negro"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "Impresión grande"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Texto e iconas grandes"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Baixo contraste"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Texto e iconas de tons baixos"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Texto e iconas grandes de ton baixo"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "Impresión grande de baixo contraste"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -97,6 +41,70 @@ msgstr "Glider"
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simple, suave e esteticamente agradable"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Un tema de aparencia brillante"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Glossy"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Texto e iconas en negro sobre branco"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Alto contraste"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Alto contraste invertido"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Texto e iconas en branco sobre negro"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large Print"
+msgstr "Alto contraste de impresión grande"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Texto e iconas grandes en negro sobre branco"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Alto contraste de impresión grande invertido"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Texto e iconas grandes en branco sobre negro"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Impresión grande"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Texto e iconas grandes"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Baixo contraste"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Texto e iconas de tons baixos"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Texto e iconas grandes de ton baixo"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Impresión grande de baixo contraste"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
