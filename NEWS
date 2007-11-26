@@ -1,3 +1,27 @@
+2.20.2
+======
+
+Bugfixes:
+2007-11-12  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+       * metacity-themes/Clearlooks/metacity-theme-1.xml:
+       +20-30% speed boost, obteined by using <line> instead <tint>
+       operations.
+       Fixes: https://bugs.freedesktop.org/show_bug.cgi?id=12450
+       (Compiz gwd is buggied, by this improvements helps a lot).
+
+New/improved translations:
+
+2007-11-14  Ignacio Casal Quinteiro  <nacho.resa@gmail.com>
+       * gl.po: Updated Galician Translation.
+
+2007-10-25  Priit Laes  <plaes@svn.gnome.org>
+       * et.po: Translation updated by Ivar Smolin.
+
+2007-10-21  Djihed Afifi <djihed@gmail.com> 
+       * ar.po: Updated Arabic Translation by Khaled Hosny.
+
+
 2.20.1
 ======
 
