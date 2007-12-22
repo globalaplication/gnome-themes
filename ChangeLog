@@ -1,3 +1,10 @@
+2007-12-22  Thomas Wood  <thos@gnome.org>
+
+	Patch by: Michael Hofmann <mh21@piware.de>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	Patch from bug 499998 - Work around bug 382646 in ClearlooksClassic
+
 2007-11-12  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
