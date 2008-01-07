@@ -9,6 +9,7 @@ GtkTheme=LargePrint
 IconTheme=LargePrint
 MetacityTheme=Atlanta
 ApplicationFont=@LARGEPRINT_FONT@
+DocumentsFont=@LARGEPRINT_DOCUMENTS_FONT@
 DesktopFont=@LARGEPRINT_DESKTOP_FONT@
+WindowTitleFont=@LARGEPRINT_WINDOW_FONT@
 MonospaceFont=@LARGEPRINT_MONOSPACE_FONT@
-
