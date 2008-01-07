@@ -5,6 +5,4 @@ SUBDIRS=Crux \
 	HighContrastLargePrintInverse \
 	HighContrast-SVG 	\
 	LargePrint 		\
-	LowContrast 		\
-	LowContrastLargePrint 	\
 	Mist 

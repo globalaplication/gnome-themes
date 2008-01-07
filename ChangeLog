@@ -1,3 +1,15 @@
+2008-01-07  Calum Benson  <calum.benson@sun.com>
+
+	* configure.in:
+	* desktop-themes/LowContrast/index.theme.in:
+	* desktop-themes/LowContrastLargePrint/index.theme.in:
+	* icon-themes/LowContrast: removed
+	* icon-themes/LowContrastLargePrint: removed
+
+	Removed low contrast icon theme, which incurs high maintenance
+	for little benefit at present.  Will hopefully reinstate some
+	of its functionality with a low contrast engine instead in future. 
+
 2007-12-22  Thomas Wood  <thos@gnome.org>
 
 	Patch by: Michael Hofmann <mh21@piware.de>

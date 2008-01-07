@@ -6,5 +6,5 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=LowContrast
-IconTheme=LowContrast
+IconTheme=gnome
 MetacityTheme=Atlanta

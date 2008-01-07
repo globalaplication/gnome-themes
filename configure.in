@@ -212,16 +212,6 @@ icon-themes/HighContrast-SVG/scalable/mimetypes-extra/Makefile
 icon-themes/HighContrast-SVG/scalable/places-extra/Makefile
 icon-themes/HighContrast-SVG/scalable/status-extra/Makefile
 icon-themes/LargePrint/Makefile
-icon-themes/LowContrast/Makefile
-icon-themes/LowContrastLargePrint/Makefile
-icon-themes/LowContrastLargePrint/36x36/Makefile
-icon-themes/LowContrastLargePrint/36x36/apps/Makefile
-icon-themes/LowContrastLargePrint/48x48/Makefile
-icon-themes/LowContrastLargePrint/48x48/apps/Makefile
-icon-themes/LowContrastLargePrint/48x48/devices/Makefile
-icon-themes/LowContrastLargePrint/48x48/emblems/Makefile
-icon-themes/LowContrastLargePrint/48x48/filesystems/Makefile
-icon-themes/LowContrastLargePrint/48x48/mimetypes/Makefile
 icon-themes/Mist/Makefile
 icon-themes/Mist/16x16/Makefile
 icon-themes/Mist/16x16/actions/Makefile
