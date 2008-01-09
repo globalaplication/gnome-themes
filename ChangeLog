@@ -1,3 +1,12 @@
+2008-01-09  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/media-record.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-pause.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-playback-stop.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/media-eject.svg:
+
+	Fix canvas size (60->48), pixel perfect and borders.
+
 2008-01-07  Luca Ferretti  <elle.uca@libero.it>
 
 	* configure.in:

@@ -6,15 +6,17 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.000000pt"
-   height="48.000000pt"
+   width="48"
+   height="48"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
-   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/actions"
-   sodipodi:docname="media-record.svg">
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/luca/svn/gnome2/gnome-themes/icon-themes/HighContrast-SVG/scalable/actions"
+   sodipodi:docname="media-record.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,43 +26,40 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.805901"
-     inkscape:cx="30"
-     inkscape:cy="28.770836"
-     inkscape:document-units="pt"
+     inkscape:zoom="15.125"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:grid-points="true"
-     gridspacingy="1.0000000pt"
-     gridspacingx="1.0000000pt"
+     gridspacingy="1px"
+     gridspacingx="1px"
      gridoriginy="0.0000000pt"
      gridoriginx="0.0000000pt"
      gridtolerance="1.0000000pt"
      guidetolerance="1.0000000pt"
      inkscape:guide-points="true"
-     inkscape:window-width="1274"
-     inkscape:window-height="944"
+     inkscape:window-width="1280"
+     inkscape:window-height="947"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     width="48px"
+     height="48px"
+     gridanglex="37.5px"
+     gridanglez="37.5px"
+     grid_units="px">
     <sodipodi:guide
        orientation="vertical"
        position="8.7244504"
        id="guide4180" />
     <sodipodi:guide
        orientation="horizontal"
-       position="29.815598"
-       id="guide4182" />
-    <sodipodi:guide
-       orientation="horizontal"
        position="58.275941"
        id="guide8580" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="1.694068"
-       id="guide8582" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -72,7 +71,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
-        <dc:title>Record</dc:title>
+        <dc:title>Media Record</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Luca Ferretti</dc:title>
@@ -83,6 +82,12 @@
             <rdf:li>record multimedia audio video</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:date>January 2008</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>http://www.gnome.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -106,21 +111,22 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:9.3750000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:none"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:none"
        id="rect1306"
-       width="48.000000pt"
-       height="48.000000pt"
-       x="0.0000000"
-       y="0.0000000"
+       width="48"
+       height="48"
+       x="0"
+       y="0"
        sodipodi:insensitive="true" />
     <path
        sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path12085"
-       sodipodi:cx="30"
-       sodipodi:cy="30"
-       sodipodi:rx="23.75"
-       sodipodi:ry="23.75"
-       d="M 53.75 30 A 23.75 23.75 0 1 1  6.25,30 A 23.75 23.75 0 1 1  53.75 30 z" />
+       sodipodi:cx="22"
+       sodipodi:cy="22"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       d="M 42 22 A 20 20 0 1 1  2,22 A 20 20 0 1 1  42 22 z"
+       transform="translate(2,2)" />
   </g>
 </svg>
