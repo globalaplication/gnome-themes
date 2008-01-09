@@ -1,14 +1,14 @@
-# translation of eu.po to Basque
+# translation of gnome-themes.HEAD.po to Basque
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
 #
-# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004, 2006, 2007.
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004, 2006, 2007, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: eu\n"
+"Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-03-31 17:42+0200\n"
-"PO-Revision-Date: 2007-03-31 17:43+0200\n"
+"POT-Creation-Date: 2008-01-09 17:56+0100\n"
+"PO-Revision-Date: 2008-01-09 14:54+0100\n"
 "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
 "Language-Team: Basque <itzulpena@euskalgnu.org>\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "Beltz-zurigaineko testu eta ikono handiak"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Alderantzizko kontraste handiko tipografi handia"
+msgstr "Alderantzizko kontraste altuko tipografi handia"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -92,7 +92,7 @@ msgstr "Testu eta ikono handiak"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Kontraste txikia"
+msgstr "Kontraste baxua"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
@@ -104,7 +104,7 @@ msgstr "Tonu baxuko testu eta ikono handiak"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Kontraste txikidun tipografia handia"
+msgstr "Kontraste baxuko tipografia handia"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -117,9 +117,8 @@ msgstr "Lainobera"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
-msgstr "Kontraste handiko ikono eskalakorrak (ertz beltzak)"
+msgstr "Kontraste altuko ikono eskalakorrak (ertz beltzak)"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
-msgstr "Kontraste handiko SVG"
-
+msgstr "Kontraste altuko SVG"
