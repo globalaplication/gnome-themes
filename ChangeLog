@@ -1,3 +1,10 @@
+2008-01-10  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-underline.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-strikethrough.svg:
+	Updated, matching italic and bold palcement, plus of course canvas
+	size, pixel perfect and borders.
+
 2008-01-09  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/media-skip-backward.svg:
