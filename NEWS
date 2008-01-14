@@ -1,5 +1,84 @@
-2.21.2
+2.21.5
 ======
+
+(2.21.3, 2.21.4 -- no release made)
+
+Bugfixes/features:
+---
+
+2008-01-10  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/actions/format-text-underline.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/format-text-strikethrough.svg:
+       Updated, matching italic and bold palcement, plus of course canvas
+       size, pixel perfect and borders.
+
+2008-01-09  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/actions/media-skip-backward.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/media-skip-forward.svg:
+
+       Fix canvas size (60->48), pixel perfect and borders.
+
+2008-01-09  Luca Ferretti  <elle.uca@libero.it>
+       * icon-themes/HighContrast-SVG/scalable/actions/media-record.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/media-playback-pause.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/media-playback-stop.svg:
+       * icon-themes/HighContrast-SVG/scalable/actions/media-eject.svg:
+
+       Fix canvas size (60->48), pixel perfect and borders.
+
+2008-01-07  Luca Ferretti  <elle.uca@libero.it>
+       * configure.in:
+       * desktop-themes/HighContrastLargePrint/index.theme.in.in:
+       * desktop-themes/HighContrastLargePrintInverse/index.theme.in.in:
+       * desktop-themes/LargePrint/index.theme.in.in:
+
+       Define LARGEPRINT_DOCUMENTS_FONT and LARGEPRINT_WINDOW_FONT
+       and use them in index.theme.in.in to set recently added
+       DocumentsFont and WindowTitleFont keys (see gnome-control-center
+       bug #504250 for details about those keys).
+
+       This means that now all GTK+/GNOME managed fonts on screen will
+       use the same family and size when you choose to use suggested
+       font by *LargePrint* themes.
+
+       * icon-themes/HighContrast-SVG/scalable/actions/view-restore.svg:
+
+       Updated, simplified a little.
+
+
+2008-01-07  Calum Benson  <calum.benson@sun.com>
+       * configure.in:
+       * desktop-themes/LowContrast/index.theme.in:
+       * desktop-themes/LowContrastLargePrint/index.theme.in:
+       * icon-themes/LowContrast: removed
+       * icon-themes/LowContrastLargePrint: removed
+
+       Removed low contrast icon theme, which incurs high maintenance
+       for little benefit at present.  Will hopefully reinstate some
+       of its functionality with a low contrast engine instead in future. 
+
+2007-12-22  Thomas Wood  <thos@gnome.org>
+
+       Patch by: Michael Hofmann <mh21@piware.de>
+
+       * gtk-themes/ClearlooksClassic/gtkrc:
+       Patch from bug 499998 - Work around bug 382646 in ClearlooksClassic
+
+New/updated translations:
+---
+
+2008-01-13  Sean de Burca  <sdeburca@svn.gnome.org>
+       * ga.po: Updated Irish translation.
+
+2008-01-09  Inaki Larranaga Murgoitio  <dooteo@euskalgnu.org>
+        * eu.po: Updated Basque translation.
+
+2007-12-31  Yannig Marchegay <yannig@marchegay.org>
+       * oc.po: Updated Occitan translation.
+
+
+2.21.2
+=======
 
 New features/bugfixes:
 
