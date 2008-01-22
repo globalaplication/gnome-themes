@@ -352,15 +352,17 @@
 	
 	<line color="shade/gtk:bg[SELECTED]/1.02" x1="2" y1="0" x2="width-3" y2="0"/>
 	<line color="shade/gtk:bg[SELECTED]/1.01" x1="1" y1="1" x2="width-2" y2="1"/>
-	<line color="shade/gtk:bg[SELECTED]/1.0" x1="0" y1="2" x2="width-1" y2="2"/>
-	<line color="shade/gtk:bg[SELECTED]/1.0" x1="3" y1="0" x2="width-4" y2="0"/>
+	<line color="shade/gtk:bg[SELECTED]/1.00" x1="0" y1="2" x2="width-1" y2="2"/>
+	<line color="shade/gtk:bg[SELECTED]/1.00" x1="3" y1="0" x2="width-4" y2="0"/>
+
 	<line color="shade/gtk:bg[SELECTED]/0.99" x1="2" y1="1" x2="width-3" y2="1"/>
 	<line color="shade/gtk:bg[SELECTED]/0.98" x1="1" y1="2" x2="width-2" y2="2"/>
 
 	<line color="shade/gtk:bg[SELECTED]/1.04" x1="2" y1="height-1" x2="width-3" y2="height-1"/>
 	<line color="shade/gtk:bg[SELECTED]/1.00" x1="1" y1="height-2" x2="width-2" y2="height-2"/>
 	<line color="shade/gtk:bg[SELECTED]/1.00" x1="0" y1="height-3" x2="width-1" y2="height-3"/>
-	<line color="shade/gtk:bg[SELECTED]/1.06" x1="3" y1="height-1" x2="width-4" y2="height-1"/>	
+	<line color="shade/gtk:bg[SELECTED]/1.06" x1="3" y1="height-1" x2="width-4" y2="height-1"/>
+	
 	<line color="shade/gtk:bg[SELECTED]/1.02" x1="2" y1="height-2" x2="width-3" y2="height-2"/>
 	<line color="shade/gtk:bg[SELECTED]/1.02" x1="1" y1="height-3" x2="width-2" y2="height-3"/>
 
@@ -371,13 +373,13 @@
 	<line color="shade/gtk:bg[SELECTED]/0.6" x1="width-2" y1="3" x2="width-2" y2="height-4"/>	
 	<line color="shade/gtk:bg[SELECTED]/0.6" x1="2" y1="2" x2="width-3" y2="2"/>	
 	<line color="shade/gtk:bg[SELECTED]/0.6" x1="2" y1="height-3" x2="width-3" y2="height-3"/>
-	
+
 	<!-- inside highlight -->
-	<line color="shade/gtk:bg[SELECTED]/1.2" x1="3" y1="2" x2="width-4" y2="2"/>
-	<line color="shade/gtk:bg[SELECTED]/1.1" x1="2" y1="3" x2="2" y2="height-4"/>
+	<line color="shade/gtk:bg[SELECTED]/1.2" x1="4" y1="2" x2="width-5" y2="2"/>
+	<line color="shade/gtk:bg[SELECTED]/1.1" x1="2" y1="4" x2="2" y2="height-5"/>
 	<!-- inside shadow -->
-	<line color="shade/gtk:bg[SELECTED]/0.9" x1="3" y1="height-3" x2="width-4" y2="height-3"/>
-	<line color="shade/gtk:bg[SELECTED]/0.92" x1="width-3" y1="3" x2="width-3" y2="height-4"/>
+	<line color="shade/gtk:bg[SELECTED]/0.9" x1="4" y1="height-3" x2="width-5" y2="height-3"/>
+	<line color="shade/gtk:bg[SELECTED]/0.92" x1="width-3" y1="4" x2="width-3" y2="height-5"/>
 	
 	<!-- fill gradient -->
 	<gradient type="vertical" x="3" y="3" width="width-6" height="height-6">
@@ -406,7 +408,7 @@
 	<!-- inset -->
 	<gradient type="vertical" x="0" y="3" width="width" height="height-6">
 		<color value="shade/gtk:bg[NORMAL]/0.93"/>
-  	<color value="shade/gtk:bg[NORMAL]/0.97"/>
+	<color value="shade/gtk:bg[NORMAL]/0.97"/>
 	</gradient>
 	
 	<line color="shade/gtk:bg[NORMAL]/0.94" x1="2" y1="0" x2="width-3" y2="0"/>
@@ -419,17 +421,17 @@
 	<line color="shade/gtk:bg[NORMAL]/0.96" x1="2" y1="height-1" x2="width-3" y2="height-1"/>
 	<line color="shade/gtk:bg[NORMAL]/0.95" x1="1" y1="height-2" x2="width-2" y2="height-2"/>
 	<line color="shade/gtk:bg[NORMAL]/0.94" x1="0" y1="height-3" x2="width-1" y2="height-3"/>
-	<line color="shade/gtk:bg[NORMAL]/0.97" x1="3" y1="height-1" x2="width-4" y2="height-1"/>	
+	<line color="shade/gtk:bg[NORMAL]/0.97" x1="3" y1="height-1" x2="width-4" y2="height-1"/>
 	<line color="shade/gtk:bg[NORMAL]/0.96" x1="2" y1="height-2" x2="width-3" y2="height-2"/>
 	<line color="shade/gtk:bg[NORMAL]/0.95" x1="1" y1="height-3" x2="width-2" y2="height-3"/>
 
 	<!-- border outline -->
-	<line color="shade/gtk:bg[NORMAL]/0.6" x1="3" y1="1" x2="width-4" y2="1"/>	
-	<line color="shade/gtk:bg[NORMAL]/0.6" x1="3" y1="height-2" x2="width-4" y2="height-2"/>	
-	<line color="shade/gtk:bg[NORMAL]/0.6" x1="1" y1="3" x2="1" y2="height-4"/>	
+	<line color="shade/gtk:bg[NORMAL]/0.6" x1="3" y1="1" x2="width-4" y2="1"/>
+	<line color="shade/gtk:bg[NORMAL]/0.6" x1="3" y1="height-2" x2="width-4" y2="height-2"/>
+	<line color="shade/gtk:bg[NORMAL]/0.6" x1="1" y1="3" x2="1" y2="height-4"/>
 	<line color="shade/gtk:bg[NORMAL]/0.6" x1="width-2" y1="3" x2="width-2" y2="height-4"/>	
-		
-	<line color="shade/gtk:bg[NORMAL]/0.6" x1="2" y1="2" x2="width-3" y2="2"/>	
+	
+	<line color="shade/gtk:bg[NORMAL]/0.6" x1="2" y1="2" x2="width-3" y2="2"/>
 	<line color="shade/gtk:bg[NORMAL]/0.6" x1="2" y1="height-3" x2="width-3" y2="height-3"/>
 	
 	<!-- inside highlight -->

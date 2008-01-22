@@ -192,7 +192,6 @@ class "GtkSeparator" style "clearlooks-wide"
 class "GtkMenu"      style "clearlooks-menu"
 class "GtkEntry"     style "clearlooks-wider"
 class "GtkNotebook"    style "clearlooks-notebook"
-class "GtkProgressBar" style "clearlooks-progressbar"
 class "GtkToolbar"   style "clearlooks-toolbar" 
 #class "GtkMenuBar" style "clearlooks-menubar"
 
@@ -202,6 +201,7 @@ widget_class "*.<GtkMenuBar>.*" style "clearlooks-menubar-item"
 # combobox stuff
 widget_class "*.GtkComboBox.GtkButton" style "clearlooks-combo"
 widget_class "*.GtkCombo.GtkButton"    style "clearlooks-combo"
+
 # tooltips stuff
 widget_class "*.tooltips.*.GtkToggleButton" style "clearlooks-tasklist"
 widget "gtk-tooltip*" style "clearlooks-tooltips"
@@ -216,3 +216,5 @@ widget_class "*.GtkFrame.GtkLabel" style "clearlooks-frame-title"
 # notebook stuff
 widget_class "*.GtkNotebook.*.GtkEventBox" style "clearlooks-notebook"
 widget_class "*.GtkNotebook.*.GtkViewport" style "clearlooks-notebook"
+
+class "GtkProgressBar" style "clearlooks-progressbar"
