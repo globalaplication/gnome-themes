@@ -466,7 +466,7 @@
 	</gradient>
 
 	<!-- bottom border smooth effect -->
-	<line color="shade/gtk:bg[NORMAL]/0.87" x1="3" y1="height-3" x2="width-4" y2="height-3"/>
+	<line color="shade/gtk:bg[NORMAL]/0.89" x1="3" y1="height-3" x2="width-4" y2="height-3"/>
 	<line color="shade/gtk:bg[NORMAL]/0.97" x1="4" y1="height-3" x2="width-5" y2="height-3"/>
 </draw_ops>
 
