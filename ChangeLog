@@ -1,18 +1,31 @@
+2008-01-23  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
+	* metacity-themes/Glossy/metacity-theme-1.xml:
+	* metacity-themes/Inverted/metacity-theme-1.xml:
+	
+	Performance boost for ClearlooksClassic, Glossy, Inverted.
+	Fix in Clearlooks and smooth effect on top corners
+
 2008-01-22  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* gtk-themes/Glossy/gtkrc:
 	* gtk-themes/Inverted/gtkrc:
+	
 	Fixed GtkProgressbars inside GtkMenu
 
 	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
 	* metacity-themes/Glossy/metacity-theme-1.xml:
 	* metacity-themes/Inverted/metacity-theme-1.xml:
+	
 	Indents
 
 2008-01-10  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/format-text-underline.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/format-text-strikethrough.svg:
+	
 	Updated, matching italic and bold palcement, plus of course canvas
 	size, pixel perfect and borders.
 
