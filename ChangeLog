@@ -1,3 +1,33 @@
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
+	* configure.in:
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/*:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/*:
+	Add new status and places directories.
+	
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/symlinks.dat:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-home.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-network.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-directory-accept.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-share.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-directory.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-directory-accept.icon:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-directory.icon:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-desktop.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-trash-empty.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-trash-full.png:
+	Move old named icons to places and status, using fd.o Naming Spec names. Also remove
+	no longer needed links in symlinks.dat (let icon-naming-utils create theme).
+
+	* icon-themes/HighContrastLargePrintInverse/index.theme:
+	Add new directories and remove all sizes (16, 24, ..) not included in this theme.
+	This should save cpu cycles in lookup.
+
+	Note: we have to migrate to fd.o Naming Spec because Nautilus is now using this.
+	More moves will come.
+
 2008-01-23  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:

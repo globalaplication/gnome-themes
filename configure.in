@@ -193,6 +193,8 @@ icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/filesystems/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile
+icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile
+icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile
 icon-themes/HighContrast-SVG/Makefile
 icon-themes/HighContrast-SVG/48x48/Makefile
 icon-themes/HighContrast-SVG/48x48/animations/Makefile
