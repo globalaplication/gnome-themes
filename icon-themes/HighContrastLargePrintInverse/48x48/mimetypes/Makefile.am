@@ -18,7 +18,7 @@ icon_DATA =	\
 	$(NULL)
 
 EXTRA_DIST = \
-	(icon_DATA) \
+	$(icon_DATA) \
 	$(NULL)
 
 install-data-local: install-iconDATA

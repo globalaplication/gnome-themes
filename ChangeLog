@@ -1,9 +1,21 @@
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
-	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.am
-	* icon-themes/HighContrastLargePrintInverse/48x48/apps/start-here.png
-	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
-	* icon-themes/HighContrastLargePrintInverse/48x48/places/start-here.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
+	fixed a typo in previous commit
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/*:
+	Move icons to new fd.o Naming Spec names.
+	Remove symlinks.dat, links and fallback icons are managed by
+	icon-naming-utils and applications.
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/start-here.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/start-here.png:
 	Move existing start-here icon to places
 
 	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/Makefile.am:
