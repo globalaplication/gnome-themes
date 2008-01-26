@@ -8,12 +8,12 @@ icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA = \
 	computer.png \
+	drive-harddisk.png \
 	drive-optical.png \
 	drive-removable-media.png \
 	input-keyboard.png \
 	input-mouse.png \
 	media-floppy.png \
-	media-harddisk.png \
 	media-optical.png \
 	printer.png \
 	$(NULL)

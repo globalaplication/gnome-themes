@@ -1,5 +1,11 @@
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/drive-harddisk.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.am:
+	drive-harddisk, not media-harddisk
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrastLargePrintInverse/48x48/devices/*:
 	Port existing devices icon to Naming Spec.
 
