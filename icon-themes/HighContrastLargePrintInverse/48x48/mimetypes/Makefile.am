@@ -1,32 +1,38 @@
-NULL=
+NULL =
+themedir =  $(datadir)/icons/HighContrastLargePrintInverse
+size = 48x48
+context = mimetypes
 
-icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/mimetypes
+icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA=	\
-		gnome-compressed.png \
-		gnome-mime-image.png \
-		gnome-library.png \
-		gnome-mime-text.png \
-		gnome-mime-application.png \
-		gnome-mime-text-x-troff-man.png \
-		gnome-mime-application-x-core-file.png \
-		gnome-mime-x-font.png \
-		gnome-mime-application-x-executable.png \
-		gnome-mime-audio.png \
-		gnome-mime-video.png \
-		$(NULL)
+icon_DATA =	\
+	application-x-executable.png \
+	audio-x-generic.png \
+	font-x-generic.png \
+	gnome-mime-application-x-core-file.png \
+	image-x-generic.png \
+	text-x-generic.png \
+	package-x-generic.png \
+	video-x-generic.png \
+	x-office-address-book.png \
+	$(NULL)
 
-EXTRA_DIST=	$(icon_DATA) \
-		symlinks.dat
+EXTRA_DIST = \
+	(icon_DATA) \
+	$(NULL)
 
-install: install-am
-	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)
+install-data-local: install-iconDATA
+	if  test -n "$(ICONMAP)" ; then \
+		(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context)) ; \
+	fi
+
 
 uninstall-symlinks:
-	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
-	if test -h $(DESTDIR)$(icondir)/$$p; then \
-		rm -f $(DESTDIR)$(icondir)/$$p; \
-	fi; \
-done
+	list=`ls $(DESTDIR)$(themedir)/$(size)/$(context)`; \
+	for p in $$list; do \
+		if test -h $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; then \
+			rm -f $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; \
+		fi; \
+	done
 
 uninstall-am: uninstall-iconDATA uninstall-symlinks
