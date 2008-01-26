@@ -1,7 +1,12 @@
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/*:
+	Port existing devices icon to Naming Spec.
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
-	fixed a typo in previous commit
+	Fixed a typo in previous commit
 
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
