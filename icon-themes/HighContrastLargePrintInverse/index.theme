@@ -2,7 +2,7 @@
 Name=HighContrastLargePrintInverse
 Comment=Inverse High Contrast Large Icon Theme
 Hidden=true
-Directories=48x48/actions,48x48/apps,48x48/devices,48x48/filesystems,48x48/mimetypes,48x48/places,48x48/status,36x36/apps
+Directories=48x48/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,48x48/status,36x36/apps
 Inherits=gnome
 
 [36x36/apps]
@@ -23,11 +23,6 @@ Type=Threshold
 [48x48/devices]
 Size=48
 Context=Devices
-Type=Threshold
-
-[48x48/filesystems]
-Size=48
-Context=FileSystems
 Type=Threshold
 
 [48x48/mimetypes]

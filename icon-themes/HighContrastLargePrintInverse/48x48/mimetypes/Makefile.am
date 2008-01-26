@@ -12,6 +12,7 @@ icon_DATA =	\
 	gnome-mime-application-x-core-file.png \
 	image-x-generic.png \
 	text-x-generic.png \
+	text-x-preview.png \
 	package-x-generic.png \
 	video-x-generic.png \
 	x-office-address-book.png \
