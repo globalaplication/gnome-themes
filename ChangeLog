@@ -1,5 +1,19 @@
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/start-here.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/start-here.png
+	Move existing start-here icon to places
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/gnome-fs-client.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/network-server.png:
+	Move gnome-fs-client to network-server (suboptimal, but this completes the
+	places icon set).
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
 	* configure.in:
 	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
 	* icon-themes/HighContrastLargePrintInverse/48x48/status/*:

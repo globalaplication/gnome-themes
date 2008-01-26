@@ -3,7 +3,6 @@ NULL=
 icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/filesystems/
 
 icon_DATA=	\
-		gnome-fs-client.png \
                 gnome-fs-executable.png \
                 gnome-fs-regular.png \
 		$(NULL)

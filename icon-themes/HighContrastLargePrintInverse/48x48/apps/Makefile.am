@@ -78,7 +78,6 @@ icon_DATA=	\
 		panel-force-quit.png \
                 perfmeter.png \
 		star.png \
-		start-here.png \
                 window-capplet.png \
 		$(NULL)
 
