@@ -1,5 +1,10 @@
 2008-01-27  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/categories/places/start-here.svg:
+	Initial work to fix size and appearance...
+
+2008-01-27  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/categories/applications-multimedia.svg:
 	copy audio-x-generic here, waiting for a best icon
 
