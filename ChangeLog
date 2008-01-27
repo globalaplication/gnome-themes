@@ -1,3 +1,20 @@
+2008-01-27  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/categories/applications-multimedia.svg:
+	copy audio-x-generic here, waiting for a best icon
+
+2008-01-26  Luca Ferretti  <elle.uca@libero.it>
+
+	* configure.in:
+	* icon-themes/HighContrastLargePrintInverse/index.theme
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/filesystems/*:
+	Die filesystems, die...
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/text-x-preview.png:
+	Move gnome-fs-regular here, according to icon-naming-utils.
+
 2008-01-26  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrastLargePrintInverse/48x48/devices/drive-harddisk.png:
