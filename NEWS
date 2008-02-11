@@ -1,3 +1,52 @@
+2.21.91
+=======
+
+Features/bugfixes:
+
+    HCLP theme changes, Luca Ferretti  <elle.uca@libero.it>:
+	- start-here: Initial work to fix size and appearance...
+	- copy audio-x-generic to applications-multimedia, waiting for a best icon
+	- Die filesystems, die...
+	- Move gnome-fs-regular to text-x-preview, according to icon-naming-utils.
+	- s/media-harddisk/media-harddisk
+	- Port existing devices icon to Naming Spec.
+	- Move icons to new fd.o Naming Spec names.
+	- Remove symlinks.dat, links and fallback icons are managed by
+	icon-naming-utils and applications.
+	- Move existing start-here icon to places
+	- Move gnome-fs-client to network-server (suboptimal, but this completes the
+	places icon set).
+	- Add new status and places directories.
+	- Move old named icons to places and status, using fd.o Naming Spec
+          names. Also remove no longer needed links in symlinks.dat (let 
+           icon-naming-utils create theme).
+	- icon-themes/HighContrastLargePrintInverse/index.theme:
+	- Add new directories and remove all sizes (16, 24, ..) not 
+          included in this theme.  This should save cpu cycles in lookup.
+
+2008-01-23  Andrea Cimitan  <andrea.cimitan@gmail.com>
+	
+	Performance boost for ClearlooksClassic, Glossy, Inverted.
+	Fix in Clearlooks and smooth effect on top corners
+
+2008-01-22  Andrea Cimitan  <andrea.cimitan@gmail.com>
+	
+	Glossy, Inverted: Fixed GtkProgressbars inside GtkMenu
+
+New/updated translations:
+
+2008-02-10  Petr Kovar  <pknbe@volny.cz>
+	* cs.po: Updated Czech translation by Pavel Sefranek.
+
+2008-02-03  Andre Klapper  <a9016009@gmx.de>
+	added Friulian translation on behalf of Massimo Furlani.
+	Fixes bug #513142.
+
+2008-01-31  Djihed Afifi <djihed@gmail.com> 
+	* ar.po: Updated Arabic Translation by Khaled Hosny.
+
+
+
 2.21.5
 ======
 
