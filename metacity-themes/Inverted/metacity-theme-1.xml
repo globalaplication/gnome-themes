@@ -184,8 +184,13 @@
 	<line color="shade/gtk:bg[NORMAL]/0.88" x1="width-4" y1="height-3" x2="width-5" y2="height-3"/>
 </draw_ops>
 
+<draw_ops name="window_bg">
+	<rectangle color="gtk:bg[NORMAL]" filled="true" x="0" y="0" width="width" height="height"/>
+</draw_ops>
+
 <!-- ::: BEVEL FOCUSED ::: -->
 <draw_ops name="bevel">
+	<include name="window_bg"/>
 	<!-- ** titlebar outline ** -->
 	<rectangle color="shade/gtk:bg[SELECTED]/0.55" filled="false" x="0" y="0" width="width - 1" height="title_height + 6"/>
 
@@ -260,6 +265,7 @@
 
 <!-- ::: BEVEL UNFOCUSED ::: -->
 <draw_ops name="bevel_unfocused">
+	<include name="window_bg"/>
 	<line color="shade/gtk:bg[NORMAL]/0.88" x1="1" y1="height - 2" x2="width - 2" y2="height - 2"/>
 	<line color="shade/gtk:bg[NORMAL]/0.88" x1="width - 2" y1="2" x2="width - 2" y2="height - 2"/>
 	<line color="shade/gtk:bg[NORMAL]/0.98" x1="1" y1="1" x2="width - 2" y2="1"/>
