@@ -1,3 +1,21 @@
+2.21.92
+=======
+
+Features/bugfixes:
+
+2008-02-18  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+Ugly workaround to a metacity bug eith RGBA colormaps:
+http://bugzilla.gnome.org/show_bug.cgi?id=516226
+I hope this won't break performances too much...
+
+New/updated translations:
+
+2008-02-14  Pawan Chitrakar <chautari@gmail.com>
+	* ne.po: Updated Nepali Translation.
+
+
+
 2.21.91
 =======
 
