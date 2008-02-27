@@ -1,6 +1,11 @@
 2008-02-27  Andrea Cimitan  <andrea.cimitan@gmail.com>
 
 	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	Dummy commit to highlight a wrong svn comment of rev 1427
+
+2008-02-27  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
 	1px change.
 
 2008-02-18  Andrea Cimitan  <andrea.cimitan@gmail.com>
@@ -9,7 +14,7 @@
 	* metacity-themes/ClearlooksClassic/metacity-theme-1.xml:
 	* metacity-themes/Glossy/metacity-theme-1.xml:
 	* metacity-themes/Inverted/metacity-theme-1.xml:
-	Ugly workaround to a metacity bug eith RGBA colormaps:
+	Ugly workaround to a metacity bug with RGBA colormaps:
 	http://bugzilla.gnome.org/show_bug.cgi?id=516226
 	I hope this won't break performances too much...
 
