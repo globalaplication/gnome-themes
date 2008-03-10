@@ -1,3 +1,32 @@
+2.22.0
+======
+
+Features/bugfixes:
+
+2008-03-02  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/Glider/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+	Add work arounds for dark themes. This workarounds for
+	GtkCList/GtkCTree, GtkList and GtkComboBox and its popup menu.
+	Also fixed the event boxes in notebooks in Glossy.
+
+2008-02-27  Andrea Cimitan  <andrea.cimitan@gmail.com>
+
+	* metacity-themes/Clearlooks/metacity-theme-1.xml:
+	1px change.
+
+Translations:
+
+2008-03-03  Jorge Gonzalez  <jorgegonz@svn.gnome.org>
+	* es.po: Updated Spanish translation
+
+2008-03-03  Rahul Bhalerao <b.rahul.pm@gmail.com>
+	* mr.po: Updated Marathi translations from Sandeep Shedmake.
+
+
 2.21.92
 =======
 
