@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-02 11:56+0300\n"
+"POT-Creation-Date: 2008-03-16 17:29+0000\n"
 "PO-Revision-Date: 2006-09-02 11:58+0300\n"
 "Last-Translator: Kostas Papadimas <pkst@gnome.org>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -20,62 +20,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.2\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Μαύρο σε λευκό κείμενο και εικονίδια"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "Υψηλή Αντίθεση"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "Αντιστροφή Υψηλής Αντίθεσης"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "Λευκό σε μαύρα εικονιδια και κείμενο"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "Υψηλή αντίθεση με μεγάλους χαρακτήρες"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Μεγάλο Μαύρο σε λευκό κείμενο και εικονίδια"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "Large Print με αντιστροφή υψηλής αντίθεσης"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "Μεγάλο Λευκό σε μαύρα εικονιδια και κείμενο"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "Large Print"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Μεγάλο κείμενο και εικονίδια"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Χαμηλή Αντίθεση"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Muted κείμενο και εικονίδια"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Μεγάλο Muted κείμενο και εικονίδια"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "Χαμηλής Αντίθεσης Large Print"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -102,6 +46,70 @@ msgstr "Glider"
 msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Απλό, απαλό και ευχάριστο αισθητικά"
 
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr "Στιλπνό και γυαλιστερό"
+
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr "Στιλπνό"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Μαύρο σε λευκό κείμενο και εικονίδια"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Υψηλή Αντίθεση"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Αντιστροφή Υψηλής Αντίθεσης"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Λευκό σε μαύρα εικονιδια και κείμενο"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+msgid "High Contrast Large Print"
+msgstr "Υψηλή αντίθεση με μεγάλους χαρακτήρες"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Μεγάλο Μαύρο σε λευκό κείμενο και εικονίδια"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Large Print με αντιστροφή υψηλής αντίθεσης"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Μεγάλο Λευκό σε μαύρα εικονιδια και κείμενο"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Large Print"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Μεγάλο κείμενο και εικονίδια"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Χαμηλή Αντίθεση"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Muted κείμενο και εικονίδια"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Μεγάλο Muted κείμενο και εικονίδια"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Χαμηλής Αντίθεσης Large Print"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Μια μινιμαλιστική εμφάνιση"
@@ -109,7 +117,7 @@ msgstr "Μια μινιμαλιστική εμφάνιση"
 #: ../desktop-themes/Mist/index.theme.in.h:2
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr "Mist"
+msgstr "Μινιμαλίστικο"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -118,4 +126,3 @@ msgstr "Υψηλής αντίθεσης scalable εικονίδια με μαύ�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Υψηλής αντίθεσης-SVG"
-
