@@ -1,4 +1,11 @@
-2008-03-10  Calum Benson  <calum@playstation>
+2008-04-21  Calum Benson  <calum.benson@sun.com>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.23.1.
+
+2008-03-10  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
 	* configure.in:
@@ -35,7 +42,7 @@
 	http://bugzilla.gnome.org/show_bug.cgi?id=516226
 	I hope this won't break performances too much...
 
-2008-02-13  Calum Benson  <calum@playstation>
+2008-02-13  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
 	* configure.in:
