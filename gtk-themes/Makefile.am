@@ -1,1 +1,0 @@
-SUBDIRS=Glider Glossy ClearlooksClassic Simple HighContrast HighContrastInverse HighContrastLargePrint HighContrastLargePrintInverse Inverted LowContrast LowContrastLargePrint LargePrint
