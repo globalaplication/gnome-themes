@@ -1,4 +1,20 @@
-2008-05-29  Calum Benson  <calum@playstation>
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
+	
+	Deleted:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/accessibility-directory.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/keyboard.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gucharmap.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/accessibility-directory.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/keyboard.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gucharmap.png
+
+	Deleted more legacy icons that now have f.d.o. replacements.
+
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
 
 	* common/mkiconlinks.sh:
 	* configure.in:
@@ -18,7 +34,7 @@
 	Now builds and installs.  symlinks.dat and icon-name-mapping
 	stuff still disabled for now.
 
-2008-05-29  Calum Benson  <calum@playstation>
+2008-05-29  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
 	* icon-themes/HighContrastLargePrint/48x48/filesystems/.cvsignore:

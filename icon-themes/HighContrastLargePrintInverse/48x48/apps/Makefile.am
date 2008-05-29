@@ -3,7 +3,6 @@ NULL=
 icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/apps/
 
 icon_DATA=	\
-		accessibility-directory.png \
 		accessories-character-map.png \
 		advanced-directory.png \
 		ax-applet.png \
@@ -45,9 +44,7 @@ icon_DATA=	\
 		gnome-starthere.png \
 		gnome-windows.png \
 		gnome-workspace.png \
-		gucharmap.png \
 		help-browser.png \
-		keyboard.png \
 		launcher-program.png \
 		mozilla-icon.png \
 		multimedia-volume-control.png \
