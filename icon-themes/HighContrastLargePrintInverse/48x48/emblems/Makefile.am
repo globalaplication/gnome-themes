@@ -1,6 +1,10 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/emblems/
+themedir = $(datadir)/icons/HighContrastLargePrintInverse
+size = 48x48
+context = emblems
+
+icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
 		emblem-important.png \
@@ -10,3 +14,7 @@ icon_DATA=	\
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)
+
+install-data-local: install-iconDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
+

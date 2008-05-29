@@ -1,6 +1,10 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/mimetypes
+themedir = $(datadir)/icons/HighContrastLargePrint
+size = 48x48
+context = mimetypes
+
+icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
 		application-x-executable.png \
@@ -17,6 +21,9 @@ icon_DATA=	\
 
 EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
+
+install-data-local: install-iconDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
 
 install: install-am
 	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)

@@ -1,6 +1,10 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrintInverse/36x36/animations/
+themedir = $(datadir)/icons/HighContrastLargePrintInverse
+size = 36x36
+context = animations
+
+icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
 		process-idle.png \
@@ -8,3 +12,7 @@ icon_DATA=	\
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)
+
+install-data-local: install-iconDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
+

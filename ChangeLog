@@ -1,3 +1,47 @@
+2008-05-29  Calum Benson  <calum@playstation>
+
+	* common/mkiconlinks.sh:
+	* icon-themes/HighContrastLargePrint/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrint/36x36/animations/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/categories/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/emblems/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/places/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/status/Makefile.am:
+	* icon-themes/HighContrastLargePrint/Makefile.am:
+	* icon-themes/HighContrastLargePrint/index.theme:
+	* icon-themes/HighContrastLargePrint/index.theme.in:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/animations/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefil
+	e.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/index.theme:
+	* icon-themes/HighContrastLargePrintInverse/index.theme.in:
+
+	Reinstate icon-name-mapping for HCLP and HCLPI themes, plus some other
+	fixes to make Makefiles more consistent with the other themes in
+	the module. symlink.dat stuff still disabled.
+
 2008-05-29  Calum Benson  <calum.benson@sun.com>
 
 	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am

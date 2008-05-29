@@ -1,6 +1,10 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/places/
+themedir = $(datadir)/icons/HighContrastLargePrint
+size = 48x48
+context = places
+
+icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
 		folder-remote.png \
@@ -15,3 +19,7 @@ icon_DATA=	\
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)
+
+install-data-local: install-iconDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
+

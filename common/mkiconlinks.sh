@@ -27,7 +27,7 @@ while [ ! -z "$NEXTLINE" ] ; do
 
 	#Link each pair in turn
 	for i in $LINKTO ; do
-		echoln -s -f "$ORIG_FILE" "$i"
+		echo ln -s -f "$ORIG_FILE" "$i"
 #		echo $i >> removable.txt
 	done
 
