@@ -1,10 +1,6 @@
 NULL=
 
-themedir = $(datadir)/icons/HighContrastLargePrint
-size = 48x48
-context = devices
-
-icondir = $(themedir)/$(size)/$(context)
+icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/devices/
 
 icon_DATA=	\
 		computer.png \
@@ -22,9 +18,6 @@ icon_DATA=	\
 
 EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
-
-install-data-local: install-iconDATA
-	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
 
 install: install-am
 	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)

@@ -1,15 +1,14 @@
 NULL=
 
-themedir = $(datadir)/icons/HighContrastLargePrintInverse
-size = 48x48
-context = status
+themedir = $(datadir)/icons/HighContrastLargePrint
+size = 36x36
+context = animations
 
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
-		folder-drag-accept.icon \
-		folder-drag-accept.png \
-		user-trash-full.png \
+		process-idle.png \
+		process-working.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA)

@@ -1,18 +1,18 @@
 NULL=
 
-themedir = $(datadir)/icons/HighContrastLargePrintInverse
+themedir = $(datadir)/icons/HighContrastLargePrint
 size = 48x48
-context = status
+context = actions
 
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
-		folder-drag-accept.icon \
-		folder-drag-accept.png \
-		user-trash-full.png \
+		system-log-out.png \
+		system-run.png \
+		system-search.png \
 		$(NULL)
 
-EXTRA_DIST=	$(icon_DATA)
+EXTRA_DIST=	$(icon_DATA) 
 
 install-data-local: install-iconDATA
 	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))

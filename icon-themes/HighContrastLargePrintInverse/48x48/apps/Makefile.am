@@ -1,91 +1,85 @@
 NULL=
 
-icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/apps/
+themedir = $(datadir)/icons/HighContrastLargePrintInverse
+size = 48x48
+context = apps
+
+icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
-                accessibility-directory.png \
-                advanced-directory.png \
+		accessories-character-map.png \
+		advanced-directory.png \
 		ax-applet.png \
-                charpick.png \
+		charpick.png \
+		clock.png \
 		display-capplet.png \
 		evolution-1.4.png \
-		file-manager.png \
-                file-roller.png \
-                gcalctool.png \
+		file-roller.png \
+		gcalctool.png \
 		gdict.png \
-                gedit-icon.png \
-                gkb.png \
+		gedit-icon.png \
+		gkb.png \
 		gnome-application-generic.png \
+		gnome-audio2.png \
+		gnome-calc3.png \
+		gnome-ccmime.png \
+		gnome-ccscreensaver.png \
+		gnome-cd.png \
+		gnome-cdplayer-icon.png \
+		gnome-eog.png \
 		gnome-folder-generic.png \
-                gnome-applications.png \
-                gnome-audio2.png \
-                gnome-calc3.png \
-                gnome-ccmime.png \
-                gnome-ccscreensaver.png \
-                gnome-cdplayer-icon.png \
-                gnome-cd.png \
-                gnome-character-map.png \
-                clock.png \
-                gnome-devel.png \
-                gnome-eog.png \
-                gnome-ghex.png  \
-                gnome-ghostview.png \
-                gnome-globe.png \
-                gnome-graphics.png \
-                gnome-grecord.png \
-                gnome-help.png  \
-                gnome-home.png \
-                gnome-joystick.png \
-                gnome-log.png \
-		gnome-logout.png \
+		gnome-ghex.png \
+		gnome-ghostview.png \
+		gnome-grecord.png \
+		gnome-home.png \
+		gnome-info.png \
+		gnome-log.png \
 		gnome-logo-icon-transparent.png \
-                gnome-mailcheck.png \
-                gnome-mini-commander.png \
-		gnome-mixer.png \
-                gnome-mixer-applet.png \
-                gnome-mixer.png \
-                gnome-multimedia.png \
-                gnome-panel.png \
-		gnome-run.png \
+		gnome-mailcheck.png \
+		gnome-mini-commander.png \
+		gnome-mixer-applet.png \
+		gnome-panel.png \
 		gnome-screenshot.png \
-		gnome-searchtool.png \
 		gnome-searchtool-animation-rest.png \
 		gnome-searchtool-animation.png \
-                gnome-session.png \
-                gnome-settings-accessibility-keyboard.png \
-                gnome-settings-accessibility-technologies.png \
-                gnome-settings-background.png \
-                gnome-settings-default-applications.png \
-                gnome-settings-font.png \
-                gnome-settings-keybindings.png \
-                gnome-settings.png \
-                gnome-settings-sound.png \
-                gnome-settings-theme.png \
+		gnome-settings-accessibility-keyboard.png \
+		gnome-settings-default-applications.png \
 		gnome-settings-ui-behavior.png \
-                gnome-starthere.png \
-                gnome-system.png \
-                gnome-terminal.png \
-                gnome-util.png \
-                gnome-window-manager.png \
-                gnome-windows.png \
-                gnome-workspace.png \
-                gucharmap.png \
-		keyboard.png \
-                launcher-program.png \
+		gnome-starthere.png \
+		gnome-windows.png \
+		gnome-workspace.png \
+		help-browser.png \
+		launcher-program.png \
 		mozilla-icon.png \
+		multimedia-volume-control.png \
 		orca.png \
 		panel-drawer.png \
 		panel-force-quit.png \
-                perfmeter.png \
+		perfmeter.png \
+		preferences-desktop-accessibility.png \
+		preferences-desktop-font.png \
+		preferences-desktop-keyboard-shortcuts.png \
+		preferences-desktop-sound.png \
+		preferences-desktop-theme.png \
+		preferences-desktop-wallpaper.png \
+		preferences-system-session.png \
+		preferences-system-windows.png \
+		smc.png \
 		star.png \
-                window-capplet.png \
+		system-file-manager.png \
+		utilities-terminal.png \
+		window-capplet.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
+install-data-local: install-iconDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
+
+
 install: install-am
-	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir) 
  
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \

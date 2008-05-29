@@ -1,8 +1,19 @@
-indexthemedir =	$(datadir)/icons/HighContrastLargePrint/
+themedir = $(datadir)/icons/HighContrastLargePrint
 
-indextheme_DATA = index.theme
+SUBDIRS = 36x36 48x48 
 
-EXTRA_DIST=	$(indextheme_DATA)
+THEME_IN_FILES = index.theme.in
 
-SUBDIRS= 48x48 36x36
+%.theme:   %.theme.in $(INTLTOOL_MERGE) $(wildcard $(top_srcdir)/po/*.po) ; $(INTLTOOL_MERGE) $(top_srcdir)/po $< $@ -d -u -c $(top_builddir)/po/.intltool-merge-cache
 
+theme_DATA = index.theme
+
+EXTRA_DIST=				\
+	index.theme.in
+
+CLEANFILES = 				\
+	index.theme
+
+
+MAINTAINERCLEANFILES =			\
+	Makefile.in

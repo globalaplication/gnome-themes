@@ -1,3 +1,144 @@
+2008-05-29  Calum Benson  <calum@playstation>
+
+	* common/mkiconlinks.sh:
+	* icon-themes/HighContrastLargePrint/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrint/36x36/animations/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/categories/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/emblems/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/places/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/status/Makefile.am:
+	* icon-themes/HighContrastLargePrint/Makefile.am:
+	* icon-themes/HighContrastLargePrint/index.theme:
+	* icon-themes/HighContrastLargePrint/index.theme.in:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/animations/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefil
+	e.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/index.theme:
+	* icon-themes/HighContrastLargePrintInverse/index.theme.in:
+
+	Reinstate icon-name-mapping for HCLP and HCLPI themes, plus some other
+	fixes to make Makefiles more consistent with the other themes in
+	the module. symlink.dat stuff still disabled.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
+	
+	Deleted:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/accessibility-directory.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/keyboard.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gucharmap.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/accessibility-directory.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/keyboard.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gucharmap.png
+
+	Deleted more legacy icons that now have f.d.o. replacements.
+
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* common/mkiconlinks.sh:
+	* configure.in:
+	* icon-themes/HighContrast/index.theme:
+	* icon-themes/HighContrastInverse/index.theme:
+	* icon-themes/HighContrastLargePrint/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/index.theme:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/apps/.cvsignore:
+	* icon-themes/HighContrastLargePrintInverse/36x36/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/index.theme:
+
+	Now builds and installs.  symlinks.dat and icon-name-mapping
+	stuff still disabled for now.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* configure.in:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/.cvsignore:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/gnome-fs-dir
+	ectory-accept.icon:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/gnome-fs-dir
+	ectory.icon:
+
+	Delete some more cruft, and update configure.in.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/places/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/animations/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefil
+	e.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.a
+	m:
+
+	First pass at updated makefiles for HCLPI theme, plus fix a few
+	inconsistencies between HCLP and HCLPI themes.  symlinks.dat stuff
+	still broken for now.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/categories/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/emblems/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/status/Makefile.am:
+
+	First pass at updated makefiles for HCLP theme.  
+	symlinks.dat stuff still broken for now.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint
+	* icon-themes/HighContrastLargePrintInverse
+
+	~160 icons renamed to match freedesktop icon naming spec.  Now to
+	do some more tidying up and get it building again...
+
 2008-04-21  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:

@@ -1,6 +1,6 @@
 NULL=
 
-themedir = $(datadir)/icons/HighContrastLargePrintInverse
+themedir = $(datadir)/icons/HighContrastLargePrint
 size = 48x48
 context = places
 
