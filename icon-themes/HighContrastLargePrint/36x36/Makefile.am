@@ -1,1 +1,1 @@
-SUBDIRS= animations apps
+SUBDIRS= animations 
