@@ -6,11 +6,13 @@ icon_DATA=	\
 		computer.png \
 		drive-harddisk.png \
 		drive-optical.png \
+		drive-removable-media.png \
 		gnome-dev-printer-network.png \
 		gnome-dev-printer-new.png \
 		input-keyboard.png \
 		input-mouse.png \
 		media-floppy.png \
+		media-optical.png \
 		printer.png \
 		$(NULL)
 

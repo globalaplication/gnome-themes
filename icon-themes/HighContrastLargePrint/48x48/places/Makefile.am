@@ -6,7 +6,9 @@ icon_DATA=	\
 		folder-remote.png \
 		folder.icon \
 		folder.png \
+		network-server.png \
 		network-workgroup.png \
+		start-here.png \
 		user-desktop.png \
 		user-home.png \
 		user-trash.png \

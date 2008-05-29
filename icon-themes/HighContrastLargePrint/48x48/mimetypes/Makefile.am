@@ -5,18 +5,14 @@ icondir=	$(datadir)/icons/HighContrastLargePrint/48x48/mimetypes
 icon_DATA=	\
 		application-x-executable.png \
 		audio-x-generic.png \
-		gnome-compressed.png \
-		gnome-library.png \
+		font-x-generic.png \
 		gnome-mime-application-x-core-file.png \
-		gnome-mime-application-x-executable.png \
-		gnome-mime-application.png \
-		gnome-mime-text-x-troff-man.png \
-		gnome-mime-x-font.png \
 		image-x-generic.png \
-		symlinks.dat
+		package-x-generic.png \
 		text-x-generic.png \
 		text-x-preview.png \
 		video-x-generic.png \
+		x-office-address-book.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \

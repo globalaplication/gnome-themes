@@ -63,6 +63,7 @@ icon_DATA=	\
 		preferences-desktop-wallpaper.png \
 		preferences-system-session.png \
 		preferences-system-windows.png \
+		smc.png \
 		star.png \
 		start-here.png \
 		symlinks.dat

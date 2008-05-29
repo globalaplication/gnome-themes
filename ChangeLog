@@ -1,5 +1,34 @@
 2008-05-29  Calum Benson  <calum.benson@sun.com>
 
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/places/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/animations/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/Makefi
+	le.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.
+	am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefil
+	e.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/places/Makefile.a
+	m:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.a
+	m:
+
+	First pass at updated makefiles for HCLPI theme, plus fix a few
+	inconsistencies between HCLP and HCLPI themes.  symlinks.dat stuff
+	still broken for now.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
 	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am:
 	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
 	* icon-themes/HighContrastLargePrint/48x48/categories/Makefile.am:

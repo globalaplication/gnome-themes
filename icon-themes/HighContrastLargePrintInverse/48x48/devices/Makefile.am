@@ -1,38 +1,32 @@
 NULL=
 
-themedir =  $(datadir)/icons/HighContrastLargePrintInverse
-size = 48x48
-context = devices
+icondir=	$(datadir)/icons/HighContrastLargePrintInverse/48x48/devices/
 
-icondir = $(themedir)/$(size)/$(context)
+icon_DATA=	\
+		computer.png \
+		drive-harddisk.png \
+		drive-optical.png \
+		drive-removable-media.png \
+		gnome-dev-printer-network.png \
+		gnome-dev-printer-new.png \
+		input-keyboard.png \
+		input-mouse.png \
+		media-floppy.png \
+		media-optical.png \
+		printer.png \
+		$(NULL)
 
-icon_DATA = \
-	computer.png \
-	drive-harddisk.png \
-	drive-optical.png \
-	drive-removable-media.png \
-	input-keyboard.png \
-	input-mouse.png \
-	media-floppy.png \
-	media-optical.png \
-	printer.png \
-	$(NULL)
+EXTRA_DIST=	$(icon_DATA) \
+		symlinks.dat
 
-EXTRA_DIST = \
-	$(icon_DATA)
-	$(NULL)
-
-install-data-local: install-iconDATA
-	if  test -n "$(ICONMAP)" ; then \
-		(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context)) ; \
-	fi
+install: install-am
+	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)
 
 uninstall-symlinks:
-	list=`ls $(DESTDIR)$(themedir)/$(size)/$(context)`; \
-	for p in $$list; do \
-		if test -h $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; then \
-			rm -f $(DESTDIR)$(themedir)/$(size)/$(context)/$$p; \
-		fi; \
+	list=`ls $(DESTDIR)$(icondir)`; for p in $$list; do \
+	if test -h $(DESTDIR)$(icondir)/$$p; then \
+		rm -f $(DESTDIR)$(icondir)/$$p; \
+	fi; \
 	done
 
 uninstall-am: uninstall-iconDATA uninstall-symlinks
