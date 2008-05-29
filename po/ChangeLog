@@ -1,3 +1,11 @@
+2008-05-29  Calum Benson  <calum.benson@sun.com>
+
+	Add index.theme.in files for HCLP and HCLPI themes.
+
+	* POTFILES.in:
+
+	Add index.theme.in files for HCLP and HCLPI themes.
+
 2008-05-26  Subhransu Behera <arya_subhransu@yahoo.co.in>
 	* or.po: Updated Oriya Translation by Manoj Giri.
 
