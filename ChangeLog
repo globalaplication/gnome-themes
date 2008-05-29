@@ -1,3 +1,15 @@
+2008-05-29  Calum Benson  <calum@playstation>
+
+	* configure.in:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/.cvsignore:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/gnome-fs-dir
+	ectory-accept.icon:
+	* icon-themes/HighContrastLargePrint/48x48/filesystems/gnome-fs-dir
+	ectory.icon:
+
+	Delete some more cruft, and update configure.in.
+
 2008-05-29  Calum Benson  <calum.benson@sun.com>
 
 	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
