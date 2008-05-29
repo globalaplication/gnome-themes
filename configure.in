@@ -190,7 +190,6 @@ icon-themes/HighContrastLargePrint/48x48/status/Makefile
 icon-themes/HighContrastLargePrintInverse/Makefile
 icon-themes/HighContrastLargePrintInverse/36x36/Makefile
 icon-themes/HighContrastLargePrintInverse/36x36/animations/Makefile
-icon-themes/HighContrastLargePrintInverse/36x36/apps/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile
 icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile

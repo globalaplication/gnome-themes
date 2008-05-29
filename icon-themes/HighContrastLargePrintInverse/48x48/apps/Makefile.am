@@ -65,8 +65,6 @@ icon_DATA=	\
 		preferences-system-windows.png \
 		smc.png \
 		star.png \
-		start-here.png \
-		symlinks.dat
 		system-file-manager.png \
 		utilities-terminal.png \
 		window-capplet.png \

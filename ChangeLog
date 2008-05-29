@@ -1,5 +1,25 @@
 2008-05-29  Calum Benson  <calum@playstation>
 
+	* common/mkiconlinks.sh:
+	* configure.in:
+	* icon-themes/HighContrast/index.theme:
+	* icon-themes/HighContrastInverse/index.theme:
+	* icon-themes/HighContrastLargePrint/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrint/index.theme:
+	* icon-themes/HighContrastLargePrintInverse/36x36/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/36x36/apps/.cvsignore:
+	* icon-themes/HighContrastLargePrintInverse/36x36/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/index.theme:
+
+	Now builds and installs.  symlinks.dat and icon-name-mapping
+	stuff still disabled for now.
+
+2008-05-29  Calum Benson  <calum@playstation>
+
 	* configure.in:
 	* icon-themes/HighContrastLargePrint/48x48/filesystems/.cvsignore:
 	* icon-themes/HighContrastLargePrint/48x48/filesystems/Makefile.am:
