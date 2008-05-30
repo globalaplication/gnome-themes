@@ -1,5 +1,12 @@
 2008-05-30  Calum Benson  <calum.benson@sun.com>
 
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am:
+
+	Remember to update the Makefiles this time...
+
+2008-05-30  Calum Benson  <calum.benson@sun.com>
+
 	Deleted:
 	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-cdplayer-icon.png
 	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-ghex.png

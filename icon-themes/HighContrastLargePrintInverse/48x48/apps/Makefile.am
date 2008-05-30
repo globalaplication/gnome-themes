@@ -7,17 +7,22 @@ context = apps
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
+		accessories-calculator.png \
 		accessories-character-map.png \
+		accessories-text-editor.png \
 		advanced-directory.png \
+		applets-screenshooter.png \
 		ax-applet.png \
 		charpick.png \
 		clock.png \
 		display-capplet.png \
-		evolution-1.4.png \
+		eog.png \
+		evince.png \
+		evolution.png \
 		file-roller.png \
-		gcalctool.png \
 		gdict.png \
-		gedit-icon.png \
+		ghex.png \
+		gimp.png \
 		gkb.png \
 		gnome-application-generic.png \
 		gnome-audio2.png \
@@ -25,11 +30,7 @@ icon_DATA=	\
 		gnome-ccmime.png \
 		gnome-ccscreensaver.png \
 		gnome-cd.png \
-		gnome-cdplayer-icon.png \
-		gnome-eog.png \
 		gnome-folder-generic.png \
-		gnome-ghex.png \
-		gnome-ghostview.png \
 		gnome-grecord.png \
 		gnome-home.png \
 		gnome-info.png \
@@ -39,7 +40,6 @@ icon_DATA=	\
 		gnome-mini-commander.png \
 		gnome-mixer-applet.png \
 		gnome-panel.png \
-		gnome-screenshot.png \
 		gnome-searchtool-animation-rest.png \
 		gnome-searchtool-animation.png \
 		gnome-settings-accessibility-keyboard.png \
@@ -48,6 +48,7 @@ icon_DATA=	\
 		gnome-starthere.png \
 		gnome-windows.png \
 		gnome-workspace.png \
+		gok.png \
 		help-browser.png \
 		launcher-program.png \
 		mozilla-icon.png \
@@ -65,6 +66,7 @@ icon_DATA=	\
 		preferences-system-session.png \
 		preferences-system-windows.png \
 		smc.png \
+		sound-juicer.png \
 		star.png \
 		system-file-manager.png \
 		utilities-terminal.png \
