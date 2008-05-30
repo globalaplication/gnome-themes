@@ -1,4 +1,48 @@
-2008-05-29  Calum Benson  <calum@playstation>
+2008-05-30  Calum Benson  <calum.benson@sun.com>
+
+	Deleted:
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-cdplayer-icon.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-ghex.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-eog.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-screenshot.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-ghostview.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/evolution-1.4.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gcalctool.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gedit-icon.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-cdplayer-icon.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-ghex.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-eog.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-screenshot.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-ghostview.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/evolution-1.4.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gcalctool.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gedit-icon.png
+
+	Added:
+	* icon-themes/HighContrastLargePrint/48x48/apps/evolution.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/applets-screenshooter.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/sound-juicer.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/accessories-text-editor.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gimp.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/evince.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/eog.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gok.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/accessories-calculator.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/ghex.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/evolution.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/applets-screenshooter.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/sound-juicer.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/accessories-text-editor.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gimp.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/evince.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/eog.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gok.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/accessories-calculator.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/ghex.png
+
+	Update some application names.
+
+2008-05-29  Calum Benson  <calum.benson@sun.com>
 
 	* common/mkiconlinks.sh:
 	* icon-themes/HighContrastLargePrint/36x36/Makefile.am:
