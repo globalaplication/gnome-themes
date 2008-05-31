@@ -1,77 +1,23 @@
-# Vietnamese Translation for Gnome-themes.
-# Copyright © 2007 Gnome i18n Project for Vietnamese.
+# Vietnamese Translation for Gnome Themes.
+# Copyright © 2008 Gnome i18n Project for Vietnamese.
 # T.M.Thanh <tmthanh@yahoo.com>, 2002.
 # Nguyen Thai Ngoc Duy <pclouds@vnlinux.org>, 2004.
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
-# 
+#  Phạm Thành Long <lngt@ngonngu.net>, 2007.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2008.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Gnome-themes GNOME HEAD\n"
+"Project-Id-Version: gnome-themes GNOME TRUNK\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-07 03:28+0000\n"
-"PO-Revision-Date: 2007-03-08 10:24+7000\n"
-"Last-Translator: Phạm Thành Long <lngt@ngonngu.net>\n"
-"Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
+"POT-Creation-Date: 2008-05-30 04:09+0000\n"
+"PO-Revision-Date: 2008-05-31 23:09+0930\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Biểu tượng và chữ đen nền trắng"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "Độ tương phản cao"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "Độ tương phản cao ngược lại"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "Biểu tượng và chữ trắng nền đen"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "In ra lớn với độ tương phản cao"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Biểu tượng và chữ cỡ lớn màu đen nền trắng"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "In cỡ lớn với độ tương phản cao ngược lại"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "Biểu tượng và chữ cỡ lớn màu trắng nền đen"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "In cỡ lớn"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Biểu tượng và chữ cỡ lớn"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Độ tương phản thấp"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Biểu tượng và chữ câm"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Biểu tượng và chữ câm lớn"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "In cỡ lớn, độ tương phản thấp"
+"X-Generator: LocFactoryEditor 1.7b3\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -106,6 +52,64 @@ msgstr "Giao diện hào nhoáng"
 msgid "Glossy"
 msgstr "Hào nhoáng"
 
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Biểu tượng và chữ đen nền trắng"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Độ tương phản cao"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Độ tương phản cao ngược lại"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Biểu tượng và chữ trắng nền đen"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
+msgid "High Contrast Large Print"
+msgstr "In ra lớn với độ tương phản cao"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Biểu tượng và chữ cỡ lớn màu đen nền trắng"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "In cỡ lớn với độ tương phản cao ngược lại"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Biểu tượng và chữ cỡ lớn màu trắng nền đen"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "In cỡ lớn"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Biểu tượng và chữ cỡ lớn"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Độ tương phản thấp"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Biểu tượng và chữ câm"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Biểu tượng và chữ câm lớn"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "In cỡ lớn, độ tương phản thấp"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "Diện mạo nguyên thủy"
@@ -123,44 +127,10 @@ msgstr "Biểu tượng co dãn đưọc, độ tương phản cao, với viền
 msgid "HighContrast-SVG"
 msgstr "Độ tương phản cao-SVG"
 
-#~ msgid "Dusty orange appearance"
-#~ msgstr "Diện mạo màu da cam xỉn"
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "Sắc thái biểu tượng tương phản cao lớn"
 
-#~ msgid "Grand Canyon"
-#~ msgstr "Hẽm núi to"
-
-#~ msgid "Ocean Dream"
-#~ msgstr "Giấc mơ biển"
-
-#~ msgid "The colours of the seashore"
-#~ msgstr "Màu của biển"
-
-#~ msgid "Simple"
-#~ msgstr "Đơn giản"
-
-#~ msgid "Thin appearance, high performance"
-#~ msgstr "Diện mạo nghèo nàn, độ thực thi cao"
-
-#~ msgid "A soft glassy appearance"
-#~ msgstr "Diện mạo thủy tinh mịn"
-
-#~ msgid "Smokey Blue"
-#~ msgstr "Khói xanh da trời"
-
-#~ msgid "Traditional"
-#~ msgstr "Truyền thống"
-
-#~ msgid "Traditional hard-edged 3D appearance"
-#~ msgstr "Diện mạo bờ đậm ba chiều truyền thống"
-
-#~ msgid "Flat-Blue"
-#~ msgstr "Xanh da trời - phẳng"
-
-#~ msgid "Sandy"
-#~ msgstr "Cát"
-
-#~ msgid "Smokey-Blue"
-#~ msgstr "Khói xanh da trời"
-
-#~ msgid "Smokey-Red"
-#~ msgstr "Khói đỏ"
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Sắc thái biểu tượng tương phản cao ngược lớn"
