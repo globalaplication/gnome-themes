@@ -8,12 +8,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-11-14 15:28+0100\n"
-"PO-Revision-Date: 2006-11-04 14:45+0100\n"
+"POT-Creation-Date: 2008-05-31 18:49+0200\n"
+"PO-Revision-Date: 2008-05-31 18:50+0200\n"
 "Last-Translator: Ignacio Casal Quinteiro <nacho.resa@gmail.com>\n"
 "Language-Team: Galego <trasno@ceu.fi.udc.es>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type:  text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
@@ -67,6 +67,7 @@ msgid "White-on-black text and icons"
 msgstr "Texto e iconas en branco sobre negro"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "Alto contraste de impresión grande"
 
@@ -75,6 +76,7 @@ msgid "Large black-on-white text and icons"
 msgstr "Texto e iconas grandes en negro sobre branco"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "Alto contraste de impresión grande invertido"
 
@@ -122,3 +124,11 @@ msgstr "Iconas escalables de alto contraste con bordos negros"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Alto contraste-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "Tema de iconas de alto contraste"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Tema de iconas de alto contraste invertido"
