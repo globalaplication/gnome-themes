@@ -1,3 +1,32 @@
+2.23.3
+======
+
+Features/bugfixes:
+
+Make HighContrastLargePrint and HighContrastLargePrintInverse themes f.d.o
+icon naming spec compliant.  (Probably not quite 100% yet, but getting there.)
+
+New/updated translations:
+
+2008-05-31  Ignacio Casal Quinteiro  <nacho.resa@gmail.com>
+	* gl.po: Updated Galician Translation.
+
+2008-05-31   Clytie Siddall <clytie@riverland.net.au>
+	* vi.po: Updated Vietnamese translation.
+
+2008-05-31  Jorge Gonzalez  <jorgegonz@svn.gnome.org> 
+	* es.po: Updated Spanish translation
+
+2008-05-26  Subhransu Behera <arya_subhransu@yahoo.co.in>
+	* or.po: Updated Oriya Translation by Manoj Giri.
+
+2008-05-22  Djihed Afifi <djihed@gmail.com> 
+	* ar.po: Updated Arabic Translation by Khaled Hosny.
+
+2008-05-19  Djihed Afifi <djihed@gmail.com> 
+	* ar.po: Updated Arabic Translation by Khaled Hosny.
+
+
 2.23.1
 ======
 
