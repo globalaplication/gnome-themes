@@ -20,6 +20,7 @@ icon_DATA=	\
 
 EXTRA_DIST=	$(icon_DATA) 
 
+if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
 	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
-
+endif

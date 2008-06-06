@@ -22,9 +22,10 @@ icon_DATA=	\
 EXTRA_DIST=	$(icon_DATA) \
 		symlinks.dat
 
+if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
 	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
-
+endif
 
 install: install-am
 	$(SHELL) $(top_srcdir)/common/mkiconlinks.sh $(srcdir)/symlinks.dat $(DESTDIR)$(icondir)

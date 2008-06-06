@@ -14,11 +14,10 @@ EXTRA_DIST =		\
 MAINTAINERCLEANFILES =	\
 	Makefile.in
 
+if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
-	if  test -n "$(ICONMAP)" ; then \
-		(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context)) ; \
-	fi
-
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
+endif
 
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(themedir)/$(size)/$(context)`; \

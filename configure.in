@@ -67,6 +67,12 @@ AC_ARG_ENABLE(all-themes,
  [enable_all_themes=no])
 AM_CONDITIONAL(CORE_THEMES_ONLY, test "$enable_all_themes" = no)
 
+AC_ARG_ENABLE(legacy-icon-mapping,
+ AC_HELP_STRING([--disable-legacy-icon-mapping],
+     [Disable symlinking of legacy icon filenames to icon naming spec-compliant filenames (not supported by all themes)]),,
+ [legacy_icon_mapping=yes])
+AM_CONDITIONAL(LEGACY_ICON_MAPPING, test "$legacy_icon_mapping" = yes)
+
 ### Icon sizes for all large print themes
 
 LARGEPRINT_DND="48,48"
