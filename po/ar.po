@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.gnome-2-16.ar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-12 23:51+0000\n"
+"POT-Creation-Date: 2008-06-11 22:29+0100\n"
 "PO-Revision-Date: 2007-04-06 20:48+0200\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
@@ -70,6 +70,7 @@ msgid "White-on-black text and icons"
 msgstr "نصوص و أيقونات بأسلوب أبيض على أسود"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "خطوط عريضة عالية التباين"
 
@@ -78,6 +79,7 @@ msgid "Large black-on-white text and icons"
 msgstr "نصوص و أيقونات عريضة بأسلوب أسود على أبيض"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "خطوط عريضة عالية التباين معكوسة"
 
@@ -125,3 +127,13 @@ msgstr "أيقونات متغيرة الحجم ذات تباين عال مع ح�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "رسومات متّجهية عالية التباين"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+#, fuzzy
+msgid "Large High Contrast Icon Theme"
+msgstr "تباين عال معكوس"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+#, fuzzy
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "تباين عال معكوس"
