@@ -1,3 +1,29 @@
+2.23.4
+======
+
+Features/bugfixes:
+
+Add a --disable-legacy-icon-mapping configure option for development and 
+testing purposes.  (May later enable this automatically for dev builds and 
+disable it for stable releases, as per gnome-icon-theme; we'll see.)
+
+Flag affects HCLP, HCLPI, HC-SVG, Crux and Mist icon themes.
+
+New/updated translations:
+
+2008-06-12  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+	* th.po: Updated Thai translation.
+
+2008-06-11  Djihed Afifi <djihed@gmail.com> 
+	* ar.po: Updated Arabic Translation by Khaled Hosny.
+
+2008-06-07  Kjartan Maraas  <kmaraas@gnome.org>
+	* nb.po: Updated Norwegian bokm??l translation.
+
+2008-06-05  Priit Laes  <plaes at svn dot gnome dot org>
+	* et.po: Translation updated by Ivar Smolin
+
+
 2.23.3
 ======
 
