@@ -1,83 +1,29 @@
 # translation of gnome-themes.HEAD.gu.po to Gujarati
-# Copyright (C) 2004, 2005, 2006, 2007 Free Software Foundation, Inc.
 # MagNet <magnet@magnet-i.com>, 2004.
 # Ankit Patel <ankit@redhat.com>, 2004, 2007.
 # Ankit Patel <ankit644@yahoo.com>, 2005, 2006.
+# Sweta Kothari <swkothar@redhat.com>, 2008.
+# Copyright (C) 2004, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.gu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 04:00+0000\n"
-"PO-Revision-Date: 2007-03-05 20:00+0530\n"
-"Last-Translator: Ankit Patel <ankit@redhat.com>\n"
-"Language-Team: Gujarati <fedora-trans-gu@redhat.com>\n"
+"POT-Creation-Date: 2008-05-30 04:09+0000\n"
+"PO-Revision-Date: 2008-08-04 16:24+0530\n"
+"Last-Translator: Sweta Kothari <swkothar@redhat.com>\n"
+"Language-Team: Gujarati\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "<magnet@magnet-i.com>\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
 "\n"
 "\n"
 "\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "સફેદ પર કાળા લખાણ અને ચિહ્નો"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "ઊંચો તફાવત"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "ઊંચો તફાવત અોછો કરો"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "કાળા પર સફેદ લખાણ અને ચિહ્નો"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "સફેદ પર કાળા વિશાળ લખાણો અને ચિહ્નો"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ અોછી કરો"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "કાળા પર સફેદ વિશાળ લખાણો અને ચિહ્નો"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "વિશાળ છાપ"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "વિશાળ લખાણો અને ચિહ્નો"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "નીચો તફાવત"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "બદલાયેલા લખાણો અને ચિહ્નો"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "વિશાળ બદલાયેલા લખાણો અને ચિહ્નો"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "નીચા તફાવતવાળી વિશાળ છાપ"
+"\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -112,6 +58,64 @@ msgstr "ગ્લોસી દેખાતી થીમ"
 msgid "Glossy"
 msgstr "ગ્લોસી"
 
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "સફેદ પર કાળા લખાણ અને ચિહ્નો"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "ઊંચો તફાવત"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "ઊંચો તફાવત અોછો કરો"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "કાળા પર સફેદ લખાણ અને ચિહ્નો"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
+msgid "High Contrast Large Print"
+msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "સફેદ પર કાળા વિશાળ લખાણો અને ચિહ્નો"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ અોછી કરો"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "કાળા પર સફેદ વિશાળ લખાણો અને ચિહ્નો"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "વિશાળ છાપ"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "વિશાળ લખાણો અને ચિહ્નો"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "નીચો તફાવત"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "બદલાયેલા લખાણો અને ચિહ્નો"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "વિશાળ બદલાયેલા લખાણો અને ચિહ્નો"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "નીચા તફાવતવાળી વિશાળ છાપ"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "નાનાંમાં નાનો દેખાવ"
@@ -128,4 +132,12 @@ msgstr "કાળી કિનારીઓ સાથે ઉચ્ચ વિર�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "HighContrast-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "વિશાળ ઊંચો તફાવત આઇકોન થીમ"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "વિશાળ વિપરીત ઊંચો તફાવત આઇકોન થીમ"
 
