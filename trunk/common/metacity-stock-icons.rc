@@ -1,0 +1,7 @@
+style "metacity-icons"
+{
+        stock ["metacity-maximize"] =  {{"metacity-maximize.png"}}
+        stock ["metacity-minimize"] =  {{"metacity-minimize.png"}}
+        stock ["metacity-delete"] =    {{"metacity-delete.png"}}
+}
+class "GtkWidget" style "metacity-icons"
