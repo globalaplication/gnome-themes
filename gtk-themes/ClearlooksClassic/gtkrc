@@ -27,6 +27,12 @@ style "clearlooks-default"
 
   GtkMenu::vertical_padding = 0
   GtkMenu::horizontal_padding = 0
+
+  # The following line hints to gecko (and possibly other appliations)
+  # that the entry should be drawn transparently on the canvas.
+  # Without this, gecko will fill in the background of the entry.
+  GtkEntry       ::honors-transparent-bg-hint = 1
+
   xthickness = 1
   ythickness = 1
 
