@@ -7,6 +7,7 @@ context = actions
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
+		stock_new-tab.png \
 		system-log-out.png \
 		system-run.png \
 		system-search.png \
