@@ -20,13 +20,16 @@ style "default"
 	cell_indicator_size = 18
   }
 
+  xthickness = 3
+  ythickness = 3
+
 # For Java Desktop System
   PanelMenu::stripe-gradient-top = "#000033"
   PanelMenu::stripe-gradient-bottom = "#000033"
 
   GtkWidget::link-color = "#FFFFFF"
   GtkWidget::visited-link-color = "#FFCCFF"
-  GtkWidget::focus-line-pattern = "\10\2"
+  GtkWidget::focus-line-pattern = "\10\3"
   GtkWidget::interior_focus = 1
   GtkWidget::focus-padding = 0
   GtkWidget::focus-line-width = 3
