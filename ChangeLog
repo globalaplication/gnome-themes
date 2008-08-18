@@ -1,4 +1,4 @@
-2008-08-15  Calum Benson  <calum.benson@sun.com>
+2008-08-18  Calum Benson  <calum.benson@sun.com>
 
 	Add volume control icons to HC and HCI themes, fixes 363342.
 
@@ -14,7 +14,7 @@
 	* icon-themes/HighContrastLargePrint/48x48/status/audio-volume-low.png
 
 
-2008-08-15  Calum Benson  <calum.benson@sun.com>
+2008-08-18  Calum Benson  <calum.benson@sun.com>
 
 	Add stock_new-tab icon from piers@gnome.org (320624)
 
@@ -23,7 +23,7 @@
 	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am
 	* icon-themes/HighContrastLargePrint/48x48/actions/stock_new-tab.png
 
-2008-08-15  Calum Benson  <calum.benson@sun.com>
+2008-08-18  Calum Benson  <calum.benson@sun.com>
 
 	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.am
 	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/emblem-desktop.png
@@ -32,7 +32,7 @@
 
 	Add desktop-emblem to HC and HCI themes, fixes 140773.
 
-2008-08-15  Calum Benson  <calum.benson@sun.com>
+2008-08-18  Calum Benson  <calum.benson@sun.com>
 
 	Ensure all category icons are represented in the HC and HCI themes
 	(fixes bug 434839).  Also remove extraneous search directories

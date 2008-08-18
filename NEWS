@@ -1,3 +1,56 @@
+2.23.90
+=======
+
+Features/bugfixes:
+
+2008-08-18  Calum Benson  <calum.benson@sun.com>
+ 
+	Add volume control icons to HC and HCI themes, fixes 363342.
+	Add HC and HCI stock_new-tab icon from piers@gnome.org (320624)
+	Add desktop-emblem to HC and HCI themes, fixes 140773.
+	Ensure all category icons are represented in the HC and HCI themes
+	(fixes bug 434839).  Also remove extraneous search directories
+	from HC and HCI index.theme files.
+
+2008-08-18  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	Fix the x/ythickness and increase some other sizes in the
+	highcontrast theme. (bug #452062, Etienne Bersac)
+
+2008-08-15  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	Bump required gtk-engines version to 2.15.3 (current trunk)
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+
+	Set a style property that is installed by Gecko on GtkEntry.
+	Together with a workaround in the engine, this allows us to have
+	properly rounded corners for entries on webpages.
+
+
+New/updated translations:
+
+2008-08-15  Robert-Andre Mauchin  <zebob.m@pengzone.org>
+	* fr.po: Updated French translation.
+
+2008-08-13  Duarte Loreto <happyguy_pt@hotmail.com>
+	* pt.po: Updated Portuguese translation.
+
+2008-08-11  Ilkka Tuohela <hile@iki.fi>
+	* fi.po: Updated Finnish translation.
+
+2008-08-06  Og Maciel <ogmaciel@gnome.org>
+    * pt_BR.po: Updated translation by Djavan Fagundes.
+
+2008-08-06  Djihed Afifi <djihed@gmail.com> 
+	* ar.po: Updated Arabic Translation by Khaled Hosny.
+
+2008-08-05  Daniel Nylander <po@danielnylander.se>
+	* sv.po: Updated Swedish translation.
+	
+
 2.23.6
 ======
 
