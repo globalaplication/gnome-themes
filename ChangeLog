@@ -1,3 +1,36 @@
+2008-08-15  Calum Benson  <calum.benson@sun.com>
+
+	Ensure all category icons are represented in the HC and HCI themes
+	(fixes bug 434839).
+
+	Modified:
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/index.theme.in
+	* icon-themes/HighContrastLargePrint/index.theme.in
+	* icon-themes/HighContrastLargePrint/48x48/categories/Makefile.am
+
+	Added:
+	* icon-themes/HighContrastLargePrint/48x48/categories/applications-science.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/applications-utilities.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/applications-other.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/preferences-system-network.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/applications-engineering.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/preferences-other.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/preferences-system.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/preferences-desktop-peripherals.png
+	* icon-themes/HighContrastLargePrint/48x48/categories/preferences-desktop-personal.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/applications-science.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/applications-utilities.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/applications-other.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/preferences-system-network.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/applications-engineering.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/preferences-other.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/preferences-system.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/preferences-desktop-peripherals.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/categories/preferences-desktop-personal.png
+
+
+
 2008-08-18  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/HighContrast/gtkrc.in:
@@ -19,7 +52,6 @@
 	Together with a workaround in the engine, this allows us to have
 	properly rounded corners for entries on webpages.
 
-2008-06-07  Calum Benson  <calum.benson@sun.com>
 
 	* configure.in:
 	* icon-themes/Crux/16x16/actions/Makefile.am:

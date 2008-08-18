@@ -7,16 +7,25 @@ context = categories
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
-		applications-accessories.png \
-		applications-development.png \
-		applications-games.png \
-		applications-graphics.png \
-		applications-internet.png \
-		applications-multimedia.png \
-		applications-office.png \
-		applications-system.png \
-		preferences-desktop.png \
-		$(NULL)
+	applications-science.png \
+	preferences-system-network.png \
+	applications-development.png \
+	applications-other.png \
+	applications-utilities.png \
+	preferences-desktop-personal.png \
+	preferences-system.png \
+	applications-system.png \
+	applications-office.png \
+	applications-engineering.png \
+	applications-accessories.png \
+	preferences-desktop-peripherals.png \
+	applications-internet.png \
+	applications-graphics.png \
+	preferences-desktop.png \
+	preferences-other.png \
+	applications-games.png \
+	applications-multimedia.png \
+	$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) 
 
