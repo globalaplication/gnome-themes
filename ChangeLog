@@ -1,5 +1,21 @@
 2008-08-15  Calum Benson  <calum.benson@sun.com>
 
+	Add volume control icons to HC and HCI themes, fixes 363342.
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am
+	* icon-themes/HighContrastLargePrint/48x48/status/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/audio-volume-muted.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/audio-volume-high.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/audio-volume-medium.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/audio-volume-low.png
+	* icon-themes/HighContrastLargePrint/48x48/status/audio-volume-muted.png
+	* icon-themes/HighContrastLargePrint/48x48/status/audio-volume-high.png
+	* icon-themes/HighContrastLargePrint/48x48/status/audio-volume-medium.png
+	* icon-themes/HighContrastLargePrint/48x48/status/audio-volume-low.png
+
+
+2008-08-15  Calum Benson  <calum.benson@sun.com>
+
 	Add stock_new-tab icon from piers@gnome.org (320624)
 
 	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am

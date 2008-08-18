@@ -7,6 +7,10 @@ context = status
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
+		audio-volume-high.png \
+		audio-volume-low.png \
+		audio-volume-medium.png \
+		audio-volume-muted.png \
 		folder-drag-accept.icon \
 		folder-drag-accept.png \
 		user-trash-full.png \
