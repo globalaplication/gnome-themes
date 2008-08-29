@@ -1,5 +1,10 @@
 # NO BLANK LINES ALLOWED
 #
+# For gdm 2.24
+preferences-system-session.png: session-properties.png
+#
+#
+#
 # Applications
 #gnome-application-generic.png: gok.png gnopernicus.png jDictionary.png jEdit.png jGraphPad.png gthumb.png gnome-pdf.png postscript-viewer.png sun_java.png glow-app-icon.png gaim.png gnomemeeting-logo-icon.png gtkam-camera.png jmplay.48.png media-player-48.png realplay.png gnome-planner.png glade-2.png gnome-monitor.png nb48x48.png stock_notes.png gnome-money.png stock_weather-storm.png drivemount-applet.png panel-notification-area.png quick-lounge-applet.png battstat.png
 #

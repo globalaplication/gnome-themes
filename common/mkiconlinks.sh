@@ -15,20 +15,23 @@ cd $2
 read NEXTLINE 
 while [ ! -z "$NEXTLINE" ] ; do
 
-	#Extract first field, minus its trailing colon
-	ORIG_FILE=`echo $NEXTLINE | awk '/:/{print $1}' | sed -e 's/://'`
+	# Skip lines beginning with '#'
+	if [ ! "${NEXTLINE:0:1}" == '#' ]; then
+		#Extract first field, minus its trailing colon
+		ORIG_FILE=`echo $NEXTLINE | awk '/:/{print $1}' | sed -e 's/://'`
 
-	#Extract list of following fields
-	LINKTO=`echo $NEXTLINE | awk '/:/{for (i=2; i<=NF; i++) print $i}'`
+		#Extract list of following fields
+		LINKTO=`echo $NEXTLINE | awk '/:/{for (i=2; i<=NF; i++) print $i}'`
 
-	if [ ! -z "$LINKTO" ] ; then
-		echo "Creating symlinks to `pwd`/$ORIG_FILE"
+		if [ ! -z "$LINKTO" ] ; then
+			echo "Creating symlinks to `pwd`/$ORIG_FILE"
+		fi
+
 	fi
 
 	#Link each pair in turn
 	for i in $LINKTO ; do
-		echo
-#		ln -s -f "$ORIG_FILE" "$i"
+		ln -s -f "$ORIG_FILE" "$i"
 	done
 
 	read NEXTLINE 
