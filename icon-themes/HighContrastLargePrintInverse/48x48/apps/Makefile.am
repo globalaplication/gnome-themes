@@ -60,6 +60,7 @@ icon_DATA=	\
 		preferences-desktop-accessibility.png \
 		preferences-desktop-font.png \
 		preferences-desktop-keyboard-shortcuts.png \
+		preferences-desktop-locale.png \
 		preferences-desktop-sound.png \
 		preferences-desktop-theme.png \
 		preferences-desktop-wallpaper.png \

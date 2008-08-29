@@ -1,3 +1,31 @@
+2008-08-29  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrint/48x48/actions/go-home.png
+	* icon-themes/HighContrastLargePrint/48x48/actions/media-playback-pause.png
+	* icon-themes/HighContrastLargePrint/48x48/actions/system-shutdown.png
+	* icon-themes/HighContrastLargePrint/48x48/actions/view-refresh.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/preferences-desktop-locale.png
+	* icon-themes/HighContrastLargePrint/48x48/emblems/emblem-default.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/go-home.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/media-playback-pause.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/system-shutdown.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/view-refresh.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/preferences-desktop-locale.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/emblem-default.png
+	* icon-themes/HighContrastLargePrint/48x48/actions/Makefile.am
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrint/48x48/apps/preferences-desktop-accessibility.png
+	* icon-themes/HighContrastLargePrint/48x48/devices/input-keyboard.png
+	* icon-themes/HighContrastLargePrint/48x48/devices/symlinks.dat
+	* icon-themes/HighContrastLargePrint/48x48/emblems/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/preferences-desktop-accessibility.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/input-keyboard.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/Makefile.am
+
+	Add HC icons for new gdm, per <http://mail.gnome.org/archives/gnome-themes-list/2008-August/msg00018.html>
+
 2008-08-19  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/ClearlooksClassic/gtkrc:
