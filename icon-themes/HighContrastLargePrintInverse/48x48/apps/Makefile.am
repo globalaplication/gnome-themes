@@ -59,6 +59,7 @@ icon_DATA=	\
 		perfmeter.png \
 		preferences-desktop-accessibility.png \
 		preferences-desktop-font.png \
+		preferences-desktop-keyboard.png \
 		preferences-desktop-keyboard-shortcuts.png \
 		preferences-desktop-locale.png \
 		preferences-desktop-sound.png \

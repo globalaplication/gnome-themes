@@ -1,3 +1,17 @@
+2008-09-05  Calum Benson  <calum.benson@sun.com>
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/preferences-desktop-keyboard.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/preferences-desktop-keyboard.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gok.png
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrintInverse/48x48/apps/gnome-settings-accessibility-keyboard.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/gok.png
+	* icon-themes/HighContrastLargePrint/48x48/apps/Makefile.am
+	* icon-themes/HighContrastLargePrint/48x48/apps/gnome-settings-accessibility-keyboard.png
+
+	Add preferences-desktop-keyboard to the HC themes, and update a
+	couple of the 'old-style' HC keyboard icons to the new style.
+
 2008-09-01  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
