@@ -7,69 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-01 22:39+0000\n"
+"POT-Creation-Date: 2008-09-06 23:33+0100\n"
 "PO-Revision-Date: 2007-01-01 22:40-0000\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Black-on-white text and icons"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "High Contrast"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "High Contrast Inverse"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "White-on-black text and icons"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "High Contrast Large Print"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Large black-on-white text and icons"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "High Contrast Large Print Inverse"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "Large white-on-black text and icons"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "Large Print"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Large text and icons"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Low Contrast"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Muted text and icons"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Large muted text and icons"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "Low Contrast Large Print"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -98,11 +42,69 @@ msgstr "Simple, smooth and aesthetically pleasing"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
 msgid "A glossy looking theme"
-msgstr "A glossy looking theme"
+msgstr "A glossy-looking theme"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "Glossy"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Black-on-white text and icons"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "High Contrast"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "High Contrast Inverse"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "White-on-black text and icons"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
+msgid "High Contrast Large Print"
+msgstr "High Contrast Large Print"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Large black-on-white text and icons"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "High Contrast Large Print Inverse"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Large white-on-black text and icons"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Large Print"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Large text and icons"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Low Contrast"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Muted text and icons"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Large muted text and icons"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Low Contrast Large Print"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
@@ -121,32 +123,52 @@ msgstr "High contrast scalable icons with black borders"
 msgid "HighContrast-SVG"
 msgstr "HighContrast-SVG"
 
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "Large High Contrast Icon Theme"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Large Inverse High Contrast Icon Theme"
+
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Dusty orange appearance"
+
 #~ msgid "Grand Canyon"
 #~ msgstr "Grand Canyon"
+
 #~ msgid "Ocean Dream"
 #~ msgstr "Ocean Dream"
+
 #~ msgid "The colours of the seashore"
 #~ msgstr "The colours of the seashore"
+
 #~ msgid "Simple"
 #~ msgstr "Simple"
+
 #~ msgid "Thin appearance, high performance"
 #~ msgstr "Thin appearance, high performance"
+
 #~ msgid "A soft glassy appearance"
 #~ msgstr "A soft glassy appearance"
+
 #~ msgid "Smokey Blue"
 #~ msgstr "Smokey Blue"
+
 #~ msgid "Traditional"
 #~ msgstr "Traditional"
+
 #~ msgid "Traditional hard-edged 3D appearance"
 #~ msgstr "Traditional hard-edged 3D appearance"
+
 #~ msgid "Flat-Blue"
 #~ msgstr "Flat-Blue"
+
 #~ msgid "Sandy"
 #~ msgstr "Sandy"
+
 #~ msgid "Smokey-Blue"
 #~ msgstr "Smokey-Blue"
+
 #~ msgid "Smokey-Red"
 #~ msgstr "Smokey-Red"
-
