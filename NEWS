@@ -1,3 +1,32 @@
+2.23.92
+=======
+
+Features/bugfixes:
+
+2008-09-05  Calum Benson  <calum.benson@sun.com>
+
+Add preferences-desktop-keyboard to the HC themes, and update a
+couple of the 'old-style' HC keyboard icons to the new style.
+
+New/updated translations:
+
+2008-09-08  Gil Forcada  <gforcada@gnome.org>
+	* ca.po: Updated Catalan translation.
+
+2008-09-07  Wouter Bolsterlee  <wbolster@svn.gnome.org>
+	* nl.po: Updated Dutch translation by Wouter Bolsterlee.
+
+2008-09-07  Funda Wang  <fundawang@gmail.com>
+	* zh_CN.po: Updated zh_CN translation.
+
+2008-09-06  Philip Withnall  <philip@tecnocode.co.uk>
+	* en_GB.po: Updated British English translation.
+
+2008-09-05  Runa Bhattacharjee <runab@redhat.com>
+	* bn_IN.po: Updated Bengali India Translation
+
+
+
 2.23.91
 =======
 
