@@ -1,8 +1,8 @@
 # Serbian translation of gnome-themes
 # Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
-# 
+#
 # This file is distributed under the same license as the gnome-themes package.
-# 
+#
 # Maintainer: Goran Rakić <grakic@devbase.net>
 # Reviewed on 2004-02-14 by Aleksandar Urošević <urke@users.sourceforge.net>
 #
@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-09-12 04:32+0200\n"
-"PO-Revision-Date: 2006-09-02 19:57+0200\n"
+"POT-Creation-Date: 2008-09-20 03:47+0200\n"
+"PO-Revision-Date: 2008-09-20 03:47+0100\n"
 "Last-Translator: Goran Rakić <grakic@devbase.net>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -69,6 +69,7 @@ msgid "White-on-black text and icons"
 msgstr "Tekst i ikone u beloj boji na crnoj podlozi"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "Uvećani prikaz sa velikim kontrastom"
 
@@ -77,6 +78,7 @@ msgid "Large black-on-white text and icons"
 msgstr "Velike ikone i tekst u crnoj boji na beloj podlozi"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "Uvećani obrnuti veliki kontrast"
 
@@ -125,44 +127,40 @@ msgstr "Uvećani kontrast sa crnim ivicama i rastegljivim ikonicama"
 msgid "HighContrast-SVG"
 msgstr "Veliki kontrast SVG"
 
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr " Tema ikonica velikog kontrasta"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Tema ikonica obrnutog velikog kontrasta"
+
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Magloviti narandžasti prikaz"
-
 #~ msgid "Grand Canyon"
 #~ msgstr "Veliki Kanjon"
-
 #~ msgid "Ocean Dream"
 #~ msgstr "San okeana"
-
 #~ msgid "The colours of the seashore"
 #~ msgstr "Boje obale mora"
-
 #~ msgid "Simple"
 #~ msgstr "Jednostavno"
-
 #~ msgid "Thin appearance, high performance"
 #~ msgstr "Jednostavan prikaz, visoke perfomanse"
-
 #~ msgid "A soft glassy appearance"
 #~ msgstr "Blago staklasti prikaz"
-
 #~ msgid "Smokey Blue"
 #~ msgstr "Prljavo plava"
-
 #~ msgid "Traditional"
 #~ msgstr "Tradicionalna"
-
 #~ msgid "Traditional hard-edged 3D appearance"
 #~ msgstr "Tradiconalni prikaz sa oštrim ivicama"
-
 #~ msgid "Flat-Blue"
 #~ msgstr "Izravnato plava"
-
 #~ msgid "Sandy"
 #~ msgstr "Peskovito"
-
 #~ msgid "Smokey-Blue"
 #~ msgstr "Prljavo plava"
-
 #~ msgid "Smokey-Red"
 #~ msgstr "Prljavo crvena"
+
