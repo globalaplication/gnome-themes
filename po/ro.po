@@ -1,74 +1,18 @@
 # Romanian translation for gnome-themes
 # Copyright (C) 2003, 2004 Free Software Foundation, Inc.
-# Mişu Moldovan <dumol@go.ro>, 2003, 2004.
+# Mișu Moldovan <dumol@go.ro>, 2003, 2004.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-03 22:38+0000\n"
+"POT-Creation-Date: 2008-05-30 04:09+0000\n"
 "PO-Revision-Date: 2005-09-04 03:45+0300\n"
-"Last-Translator: Mişu Moldovan <dumol@go.ro>\n"
+"Last-Translator: Mișu Moldovan <dumol@go.ro>\n"
 "Language-Team: Romanian <gnomero-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Text şi iconiţe Negru-pe-Alb"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "Contrast puternic"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "Contrast puternic şi culori inversate"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "Text şi iconiţe Alb-pe-Negru"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "Iconiţe mari şi contrast puternic"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "Text şi iconiţe mari Negru-pe-Alb"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "Iconiţe mari, contrast puternic şi culori inversate"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "Text şi iconiţe mari Alb-pe-Negru"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "Mărime mare"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "Text şi iconiţe mari"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "Contrast slab"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "Text şi iconiţe cu contrast slab"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Text şi iconiţe mari cu contrast slab"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "Mărime mare cu contrast slab"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -84,7 +28,8 @@ msgid "Crux"
 msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
-msgid "Smooth gradients with teal highlights"
+#, fuzzy
+msgid "Smooth gradients with purple highlights"
 msgstr "O temă cu multe efecte vizuale"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
@@ -93,68 +38,140 @@ msgstr "Planor"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "Simplă, elegantă şi atrăgătoare"
+msgstr "Simplă, elegantă și atrăgătoare"
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:1
-msgid "Dusty orange appearance"
-msgstr "Culoarea vântului turbat"
+#: ../desktop-themes/Glossy/index.theme.in.h:1
+msgid "A glossy looking theme"
+msgstr ""
 
-#: ../desktop-themes/Grand-Canyon/index.theme.in.h:2
-msgid "Grand Canyon"
-msgstr "Marele Canion"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "Glossy"
+msgstr ""
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "Text și iconițe Negru-pe-Alb"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "Contrast puternic"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "Contrast puternic și culori inversate"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "Text și iconițe Alb-pe-Negru"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
+msgid "High Contrast Large Print"
+msgstr "Iconițe mari și contrast puternic"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "Text și iconițe mari Negru-pe-Alb"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "Iconițe mari, contrast puternic și culori inversate"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "Text și iconițe mari Alb-pe-Negru"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "Mărime mare"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "Text și iconițe mari"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "Contrast slab"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "Text și iconițe cu contrast slab"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "Text și iconițe mari cu contrast slab"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "Mărime mare cu contrast slab"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "O temă minimalistă"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Mist"
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:1
-msgid "Ocean Dream"
-msgstr "Vis oceanic"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "High contrast scalable icons with black borders"
+msgstr ""
 
-#: ../desktop-themes/Ocean-Dream/index.theme.in.h:2
-msgid "The colours of the seashore"
-msgstr "Culorile unei plaje oceanice"
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+#, fuzzy
+msgid "HighContrast-SVG"
+msgstr "Contrast puternic"
 
-#: ../desktop-themes/Simple/index.theme.in.h:1
-msgid "Simple"
-msgstr "Simplă"
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+#, fuzzy
+msgid "Large High Contrast Icon Theme"
+msgstr "Contrast puternic și culori inversate"
 
-#: ../desktop-themes/Simple/index.theme.in.h:2
-msgid "Thin appearance, high performance"
-msgstr "O temă discretă pentru performanţe maxime"
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+#, fuzzy
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Contrast puternic și culori inversate"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:1
-msgid "A soft glassy appearance"
-msgstr "O temă cristalină "
+#~ msgid "Dusty orange appearance"
+#~ msgstr "Culoarea vântului turbat"
 
-#: ../desktop-themes/Smokey-Blue/index.theme.in.h:2
-msgid "Smokey Blue"
-msgstr "Albastru fumuriu"
+#~ msgid "Grand Canyon"
+#~ msgstr "Marele Canion"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:1
-msgid "Traditional"
-msgstr "Tradiţională"
+#~ msgid "Ocean Dream"
+#~ msgstr "Vis oceanic"
 
-#: ../desktop-themes/Traditional/index.theme.in.h:2
-msgid "Traditional hard-edged 3D appearance"
-msgstr "O temă tradiţională cu efecte 3D"
+#~ msgid "The colours of the seashore"
+#~ msgstr "Culorile unei plaje oceanice"
 
-#: ../icon-themes/Flat-Blue/index.theme.in.h:1
-msgid "Flat-Blue"
-msgstr "Albastră-simplă"
+#~ msgid "Simple"
+#~ msgstr "Simplă"
 
-#: ../icon-themes/Sandy/index.theme.in.h:1
-msgid "Sandy"
-msgstr "Nisipoasă"
+#~ msgid "Thin appearance, high performance"
+#~ msgstr "O temă discretă pentru performanțe maxime"
 
-#: ../icon-themes/Smokey-Blue/index.theme.in.h:1
-msgid "Smokey-Blue"
-msgstr "Albastru-fumuriu"
+#~ msgid "A soft glassy appearance"
+#~ msgstr "O temă cristalină "
 
-#: ../icon-themes/Smokey-Red/index.theme.in.h:1
-msgid "Smokey-Red"
-msgstr "Roşu-fumuriu"
+#~ msgid "Smokey Blue"
+#~ msgstr "Albastru fumuriu"
+
+#~ msgid "Traditional"
+#~ msgstr "Tradițională"
+
+#~ msgid "Traditional hard-edged 3D appearance"
+#~ msgstr "O temă tradițională cu efecte 3D"
+
+#~ msgid "Flat-Blue"
+#~ msgstr "Albastră-simplă"
+
+#~ msgid "Sandy"
+#~ msgstr "Nisipoasă"
+
+#~ msgid "Smokey-Blue"
+#~ msgstr "Albastru-fumuriu"
+
+#~ msgid "Smokey-Red"
+#~ msgstr "Roșu-fumuriu"
