@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-21 23:40+0200\n"
-"PO-Revision-Date: 2008-09-21 23:39+0200\n"
+"PO-Revision-Date: 2008-09-22 21:06+0000\n"
 "Last-Translator: Ole Laursen <olau@hardworking.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
@@ -126,11 +126,11 @@ msgstr "Højkontrast"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
-msgstr "Højkontrast storikontema"
+msgstr "Storikontema med høj kontrast"
 
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
-msgstr "Højkontrast inverteret storikontema"
+msgstr "Højkontrast storikontema, inverteret"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Støvet, orange udseende"
