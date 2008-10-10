@@ -45,6 +45,7 @@ style "default"
   GtkHSV::focus-line-pattern = "\0"
   GtkRange::slider_width = 20
   GtkTreeView::expander_size = 20
+  GtkTreeView::grid-line-width = 2
   GtkCheckButton::indicator_size = 18
   GtkCheckMenuItem::indicator_size = 18
   GtkExpander::expander-size = 24

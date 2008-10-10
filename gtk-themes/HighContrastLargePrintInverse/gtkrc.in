@@ -40,6 +40,7 @@ style "default"
   GtkEntry::cursor_color    = "#00cccc"
   GtkEntry::cursor_aspect_ratio = 0.1
   GtkTreeView::expander_size = 20
+  GtkTreeView::grid-line-width = 2
   GtkTextView::cursor_aspect_ratio = 0.1
   GtkTextView::cursor_color    = "#00cccc"
   EelEditableLabel::cursor_color    = "#00cccc"

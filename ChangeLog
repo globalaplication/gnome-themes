@@ -1,3 +1,13 @@
+2008-10-09  Calum Benson  <calum@unknown>
+
+	* gtk-themes/HighContrastLargePrint/gtkrc.in:
+	* gtk-themes/HighContrastLargePrintInverse/gtkrc.in:
+	* gtk-themes/LargePrint/gtkrc.in:
+
+	Set GtkTreeView::grid-line-width to 2px in the large print themes.
+	Closes bug #548761 (reported by Benjamin Berg), although might
+	still need further tweaking. 
+
 2008-09-22  Calum Benson  <calum@unknown>
 
 	* NEWS:
