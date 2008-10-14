@@ -5,28 +5,24 @@ AC_INIT([gnome-themes], [2.25.1],
 AC_CONFIG_SRCDIR([icon-themes])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
-AM_CONFIG_HEADER([config.h])
-AM_MAINTAINER_MODE
-
-dnl Honor aclocal flags
-ACLOCAL_AMFLAGS="\${ACLOCAL_FLAGS}"
-AC_SUBST(ACLOCAL_AMFLAGS)
 
 IT_PROG_INTLTOOL([0.35.0])
+PKG_PROG_PKG_CONFIG([0.19])
 
-AC_PROG_CC
-# Checks for header files.
-AC_HEADER_STDC
-# Checks for typedefs, structures, and compiler characteristics.
-AC_C_CONST
-# Checks for library functions.
-AC_TYPE_SIGNAL
-AC_FUNC_ALLOCA
-AC_CHECK_FUNCS(setenv putenv)
+GETTEXT_PACKAGE="${PACKAGE}"
+AC_SUBST(GETTEXT_PACKAGE)
 
-AM_PROG_LIBTOOL
+AM_GLIB_GNU_GETTEXT
 
-# theme engines
+# AM_GLIB_GNU_GETTEXT above subst. $DATADIRNAME
+# this is the directory where the *.{mo,gmo} files are installed
+localedir='${prefix}/${DATADIRNAME}/locale'
+AC_SUBST(localedir)
+
+# Workaround to make aclocal get the right flags
+AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
+
+# Check GTK+ theme engines
 PKG_CHECK_MODULES(THEME_ENGINE,
  [gtk+-2.0 >= 2.0.0 dnl
   gdk-pixbuf-2.0 >= 2.0.0 dnl
@@ -35,43 +31,64 @@ PKG_CHECK_MODULES(THEME_ENGINE,
 GTK_VERSION=`$PKG_CONFIG --variable=gtk_binary_version gtk+-2.0`
 AC_SUBST(GTK_VERSION)
 
-# icon-naming-utils
-UTILS_REQUIRED=0.8.0
-AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
-PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,
-                 have_utils=yes, have_utils=no)
-
-if test "x$have_utils" = "xyes"; then
-   UTILS_PATH="`$PKG_CONFIG --variable=program_path icon-naming-utils`"
-   case "$host" in
-      *-*-solaris*) ICONMAP="icon-name-mapping" ;;
-      *) ICONMAP="$UTILS_PATH/icon-name-mapping" ;;
-   esac
-   AC_SUBST(ICONMAP)
+# Check if it's a development (odd minor) version
+AC_MSG_CHECKING([development series build])
+MINOR_VERSION="`echo $PACKAGE_VERSION|cut -d. -f2`"
+if expr $MINOR_VERSION % 2 > /dev/null != "0"; then
+   # Development version, disable mapping
+   # and enable placeholder by default
+   icon_mapping_policy=no
+   placeholders_policy=yes
    AC_MSG_RESULT([yes])
 else
-   AC_MSG_RESULT([no])
-   AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
-                 and install gnome-themes])
+  # Stable version, enable mapping
+  # and disable placeholders by default
+  icon_mapping_policy=yes
+  placeholders_policy=no
+  AC_MSG_RESULT([no])
 fi
 
-# gettext stuff
-GETTEXT_PACKAGE=gnome-themes
-AC_SUBST(GETTEXT_PACKAGE)
+# Configure option to force placeholders
+AC_ARG_ENABLE([placeholders],
+	AC_HELP_STRING([--enable-placeholders],
+			[Enable placeholder icons [default=auto]]),
+	enable_placeholders=$enableval,
+	enable_placeholders=$placeholders_policy)
+	      
+AM_CONDITIONAL(PLACEHOLDERS, test "x$enable_placeholders" != "xno")
 
-AM_GLIB_GNU_GETTEXT
+# Configure option to force icon mapping
+AC_ARG_ENABLE([icon-mapping],
+        AC_HELP_STRING([--enable-icon-mapping],
+                        [Enable compatibility symlinks [default=auto]]),
+        enable_mapping=$enableval,
+        enable_mapping=$icon_mapping_policy)
 
+# Check for icon-naming-utils
+ICONMAP="true"
+if test "x$enable_mapping" != "xno"; then
+   UTILS_REQUIRED=0.8.7
+
+   AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
+   PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED, have_utils=yes, have_utils=no)
+   if test "x$have_utils" = "xyes"; then
+      UTILS_PATH="`$PKG_CONFIG --variable=program_path icon-naming-utils`"
+      ICONMAP="$UTILS_PATH/icon-name-mapping"
+      AC_MSG_RESULT([yes])
+   else
+	AC_MSG_RESULT([no])
+   	AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build and install gnome-themes])
+   fi
+fi
+AC_SUBST(ICONMAP)
+AM_CONDITIONAL(LEGACY_ICON_MAPPING, test "x$enable_mapping" != "xno")
+
+# Configure options for extra a11y themes
 AC_ARG_ENABLE(all-themes,
  AC_HELP_STRING([--enable-all-themes],
      [Install all a11y theme sets, default is core a11y themes only]),,
  [enable_all_themes=no])
 AM_CONDITIONAL(CORE_THEMES_ONLY, test "$enable_all_themes" = no)
-
-AC_ARG_ENABLE(legacy-icon-mapping,
- AC_HELP_STRING([--disable-legacy-icon-mapping],
-     [Disable symlinking of legacy icon filenames to icon naming spec-compliant filenames (not supported by all themes)]),,
- [legacy_icon_mapping=yes])
-AM_CONDITIONAL(LEGACY_ICON_MAPPING, test "$legacy_icon_mapping" = yes)
 
 ### Icon sizes for all large print themes
 
@@ -253,3 +270,14 @@ po/Makefile.in
 ])
 
 AC_OUTPUT
+
+dnl ==========================================================================
+echo "
+gnome-themes-$VERSION:
+
+        Installation prefix:	${prefix}
+
+	Enable placeholders: ${enable_placeholders}
+	Enable legacy icons: ${enable_mapping}
+	Enable all themes:   ${enable_all_themes}
+"

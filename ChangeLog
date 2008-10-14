@@ -1,3 +1,28 @@
+2008-10-14  Luca Ferretti <elle.uca@libero.it>
+
+	reviewed by: Calum Benson  <calum.benson@sun.com>
+
+	* autogen.sh:
+	* configure.in:
+
+	Add support to placeholder icons. Closes bug #451878
+	Side effects: clean up autogen.sh and configure.in, replace
+	--disable-legacy-icon-mapping option with --enable-icon-mapping,
+	and add --enable-placeholders, update required icon-naming-utils
+	to 0.8.7 (following gnome-icon-theme).
+
+	Note that now by default gnome-themes during development
+	release	(odd minor) will not create symlinks for legacy icons
+	and will install placeholder icons, automatically. On stable
+	releases this behavior is, of course, swithched.
+
+	Vendors can force this policy using provide --enable-* options
+	at configure time.
+	
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+
+	Start using placeholders. More will come.
+
 2008-10-14  Calum Benson  <calum.benson@sun.com>
 
 	* desktop-themes/HighContrastLargePrint/Makefile.am:

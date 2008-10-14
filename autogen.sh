@@ -4,15 +4,20 @@
 srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
-ORIGDIR=`pwd`
-PKG_NAME=gnome-themes
+PKG_NAME="gnome-themes"
 
-REQUIRED_AUTOMAKE_VERSION=1.9
+(test -f $srcdir/configure.in \
+  && test -f $srcdir/README \
+  && test -d $srcdir/icon-themes/HighContrast) || {
+    echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
+    echo " top-level $PKG_NAME directory"
+    exit 1
+}
 
-if [ ! -f "$srcdir/gnome-themes.spec.in" ]; then
- echo "$srcdir doesn't look like source directory for $PKG_NAME" >&2
- exit 1
-fi
+which gnome-autogen.sh || {
+    echo "You need to install gnome-common from the GNOME CVS"
+    exit 1
+}
 
-. gnome-autogen.sh
+REQUIRED_AUTOMAKE_VERSION=1.9 USE_GNOME2_MACROS=1 . gnome-autogen.sh
 

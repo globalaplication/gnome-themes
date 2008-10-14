@@ -4,10 +4,8 @@ context = actions
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =					\
-	address-book-new.svg \
+icon_DATA = \
 	application-exit.svg \
-	appointment-new.svg \
 	contact-new.svg \
 	dialog-cancel.svg \
 	dialog-close.svg \
@@ -15,7 +13,6 @@ icon_DATA =					\
 	document-new.svg \
 	document-open-recent.svg \
 	document-open.svg \
-	document-page-setup.svg \
 	document-print-preview.svg \
 	document-print.svg \
 	document-properties.svg \
@@ -30,7 +27,6 @@ icon_DATA =					\
 	edit-find.svg \
 	edit-paste.svg \
 	edit-redo.svg \
-	edit-select-all.svg \
 	edit-undo.svg \
 	folder-new.svg \
 	format-indent-less.svg \
@@ -40,8 +36,6 @@ icon_DATA =					\
 	format-justify-left.svg \
 	format-justify-right.svg \
 	format-text-bold.svg \
-	format-text-direction-ltr.svg \
-	format-text-direction-rtl.svg \
 	format-text-italic.svg \
 	format-text-strikethrough.svg \
 	format-text-underline.svg \
@@ -58,23 +52,15 @@ icon_DATA =					\
 	help-about.svg \
 	help-contents.svg \
 	help-faq.svg \
-	insert-image.svg \
-	insert-link.svg \
 	insert-object.svg \
-	insert-text.svg \
 	list-add.svg \
 	list-remove.svg \
 	mail-forward.svg \
 	mail-mark-important.svg \
-	mail-mark-junk.svg \
-	mail-mark-notjunk.svg \
 	mail-mark-read.svg \
 	mail-mark-unread.svg \
 	mail-message-new.svg \
-	mail-reply-all.svg \
 	mail-reply-sender.svg \
-	mail-send-receive.svg \
-	mail-send.svg \
 	media-eject.svg \
 	media-playback-pause.svg \
 	media-playback-start.svg \
@@ -108,9 +94,30 @@ icon_DATA =					\
 	zoom-original.svg \
 	zoom-out.svg
 
+placeholder_FILES = \
+	address-book-new.svg \
+	appointment-new.svg \
+	document-page-setup.svg \
+	edit-select-all.svg \
+	format-text-direction-ltr.svg \
+	format-text-direction-rtl.svg \
+	insert-image.svg \
+	insert-link.svg \
+	insert-text.svg \
+	mail-mark-junk.svg \
+	mail-mark-notjunk.svg \
+	mail-reply-all.svg \
+	mail-send.svg \
+	mail-send-receive.svg
+
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
 
 EXTRA_DIST =				\
-	$(icon_DATA)
+	$(icon_DATA)	\
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
