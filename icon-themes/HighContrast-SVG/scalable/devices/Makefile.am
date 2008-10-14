@@ -4,8 +4,7 @@ context = devices
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =				\
-	audio-card.svg \
+icon_DATA = \
 	audio-input-microphone.svg \
 	battery.svg \
 	camera-photo.svg \
@@ -15,7 +14,6 @@ icon_DATA =				\
 	drive-harddisk.svg \
 	drive-optical.svg \
 	drive-removable-media.svg \
-	input-gaming.svg \
 	input-keyboard.svg \
 	input-mouse.svg \
 	input-tablet.svg \
@@ -23,19 +21,27 @@ icon_DATA =				\
 	media-floppy.svg \
 	media-optical.svg \
 	media-tape.svg \
-	modem.svg \
 	multimedia-player.svg \
 	network-wired.svg \
-	network-wireless.svg \
 	pda.svg \
 	phone.svg \
 	printer.svg \
 	scanner.svg \
 	video-display.svg
 
+placeholder_FILES = \
+	audio-card.svg \
+	input-gaming.svg \
+	modem.svg \
+	network-wireless.svg
 
-EXTRA_DIST =				\
-	$(icon_DATA)
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
+EXTRA_DIST = \
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA

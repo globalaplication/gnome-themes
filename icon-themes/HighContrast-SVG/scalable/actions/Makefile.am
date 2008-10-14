@@ -97,7 +97,10 @@ icon_DATA = \
 placeholder_FILES = \
 	address-book-new.svg \
 	appointment-new.svg \
+	call-start.svg \
+	call-stop.svg \
 	document-page-setup.svg \
+	document-send.svg \
 	edit-select-all.svg \
 	format-text-direction-ltr.svg \
 	format-text-direction-rtl.svg \

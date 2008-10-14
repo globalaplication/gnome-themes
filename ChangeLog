@@ -1,3 +1,19 @@
+2008-10-14  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/categories/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+
+	Use placeholder icons.
+
+	* icon-themes/HighContrast-SVG/scalable/apps/system-software-install.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/document-send.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/call-start.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/call-stop.svg:
+
+	Add missing placeholder files, copying from existing ones. 
+
 2008-10-14  Luca Ferretti <elle.uca@libero.it>
 
 	reviewed by: Calum Benson  <calum.benson@sun.com>

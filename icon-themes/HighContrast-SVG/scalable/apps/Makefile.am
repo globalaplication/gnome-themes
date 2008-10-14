@@ -4,10 +4,9 @@ context = apps
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =						\
+icon_DATA = \
 	accessories-calculator.svg \
 	accessories-character-map.svg \
-	accessories-dictionary.svg \
 	accessories-text-editor.svg \
 	help-browser.svg \
 	internet-group-chat.svg \
@@ -18,22 +17,31 @@ icon_DATA =						\
 	orca.svg \
 	preferences-desktop-accessibility.svg \
 	preferences-desktop-font.svg \
-	preferences-desktop-keyboard.svg \
 	preferences-desktop-locale.svg \
-	preferences-desktop-multimedia.svg \
 	preferences-desktop-screensaver.svg \
-	preferences-desktop-theme.svg \
-	preferences-desktop-wallpaper.svg \
 	preferences-system-network-proxy.svg \
 	preferences-system-session.svg \
 	preferences-system-windows.svg \
 	system-file-manager.svg \
-	system-software-update.svg \
 	utilities-system-monitor.svg \
 	utilities-terminal.svg
 
-EXTRA_DIST =						\
-	$(icon_DATA)
+placeholder_FILE = \
+	accessories-dictionary.svg \
+	preferences-desktop-keyboard.svg \
+	preferences-desktop-multimedia.svg \
+	preferences-desktop-theme.svg \
+	preferences-desktop-wallpaper.svg \
+	system-software-install.svg \
+	system-software-update.svg
+
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
+EXTRA_DIST = \
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
