@@ -103,7 +103,7 @@ icon_DATA =					\
 	view-sort-descending.svg \
 	window-close.svg \
 	window-new.svg \
-	zoom-best-fit.svg \
+	zoom-fit-best.svg \
 	zoom-in.svg \
 	zoom-original.svg \
 	zoom-out.svg

@@ -1,5 +1,12 @@
 2008-10-14  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/zoom-best-fit.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+
+	Following latest spec, moved to zoom-fit-best.svg
+
+2008-10-14  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/places/user-bookmarks.svg:
 	* icon-themes/HighContrast-SVG/scalable/places/Makefile.am:
 
