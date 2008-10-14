@@ -1,5 +1,13 @@
 2008-10-14  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/places/user-bookmarks.svg:
+	* icon-themes/HighContrast-SVG/scalable/places/Makefile.am:
+
+	Added "user-bookmarks" copying existing bookmarsk-view from
+	action-extras
+
+2008-10-14  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-clear.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/edit-find-replace.svg:
 
