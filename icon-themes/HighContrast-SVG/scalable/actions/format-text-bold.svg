@@ -31,7 +31,7 @@
          rdf:resource="http://web.resource.org/cc/ShareAlike" /><cc:requires
          rdf:resource="http://web.resource.org/cc/SourceCode" /></cc:License></rdf:RDF></metadata><defs
    id="defs25" /><sodipodi:namedview
-   inkscape:window-height="949"
+   inkscape:window-height="947"
    inkscape:window-width="1280"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
@@ -101,10 +101,10 @@
 				<path
    sodipodi:nodetypes="cccccccccccccc"
    id="path11026"
-   d="M 19,32 L 16,40 L 5,40 L 17,8 L 31,8 L 43,40 L 32,40 L 29,32.1 L 19,32 z M 28,26 L 25,15 L 23,15 L 20,26 L 28,26 z "
+   d="M 19,32 L 16,41 L 5,41 L 17,7 L 31,7 L 43,41 L 32,41 L 29,32.1 L 19,32 z M 28,26 L 25,15 L 23,15 L 20,26 L 28,26 z "
    style="stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;fill:none;stroke:#ffffff;stroke-opacity:1" /><path
    style="stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round"
-   d="M 19,32 L 16,40 L 5,40 L 17,8 L 31,8 L 43,40 L 32,40 L 29,32.1 L 19,32 z M 28,26 L 25,15 L 23,15 L 20,26 L 28,26 z "
+   d="M 19,32 L 16,41 L 5,41 L 17,7 L 31,7 L 43,41 L 32,41 L 29,32.1 L 19,32 z M 28,26 L 25,15 L 23,15 L 20,26 L 28,26 z "
    id="path19"
    sodipodi:nodetypes="cccccccccccccc" />
 			</g>

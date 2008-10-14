@@ -1,3 +1,18 @@
+2008-10-14  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-clear.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/edit-find-replace.svg:
+
+	Convert from 48 points to 48 pixels and other small adjustments.
+
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-italic.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/format-text-bold.svg:
+
+	Small changes in orderd to make those appear like "real" bold and 
+	italic version of the same A charatec (for example, put the horizontal
+	line at same height, but thinner in italic). Maybe not really needed
+	in HC theme, but we love details :)
+
 2008-10-09  Calum Benson  <calum@unknown>
 
 	* gtk-themes/HighContrastLargePrint/gtkrc.in:
