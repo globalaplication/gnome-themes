@@ -16,9 +16,19 @@ icon_DATA =					\
 	video-x-generic.svg \
 	x-office-spreadsheet.svg
 
+placeholder_FILES = \
+	text-x-generic-template.svg \
+	x-office-address-book.svg \
+	x-office-presentation.svg \
+	x-office-document.svg
 
-EXTRA_DIST =					\
-	$(icon_DATA)
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
+EXTRA_DIST = \
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA

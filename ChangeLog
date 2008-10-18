@@ -1,3 +1,13 @@
+2008-10-18  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/text-x-generic-template.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-address-book.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-document.svg:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-presentation.svg:
+
+	Add missing placeholders for MimeTypes category.
+
 2008-10-14  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
