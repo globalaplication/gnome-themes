@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-16 17:29+0000\n"
+"POT-Creation-Date: 2008-10-22 17:56+0100\n"
 "PO-Revision-Date: 2006-09-02 11:58+0300\n"
 "Last-Translator: Kostas Papadimas <pkst@gnome.org>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -71,6 +71,7 @@ msgid "White-on-black text and icons"
 msgstr "Λευκό σε μαύρα εικονιδια και κείμενο"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "Υψηλή αντίθεση με μεγάλους χαρακτήρες"
 
@@ -79,6 +80,7 @@ msgid "Large black-on-white text and icons"
 msgstr "Μεγάλο Μαύρο σε λευκό κείμενο και εικονίδια"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "Large Print με αντιστροφή υψηλής αντίθεσης"
 
@@ -126,3 +128,13 @@ msgstr "Υψηλής αντίθεσης scalable εικονίδια με μαύ�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Υψηλής αντίθεσης-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+#, fuzzy
+msgid "Large High Contrast Icon Theme"
+msgstr "Αντιστροφή Υψηλής Αντίθεσης"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+#, fuzzy
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Αντιστροφή Υψηλής Αντίθεσης"
