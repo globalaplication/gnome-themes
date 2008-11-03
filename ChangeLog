@@ -1,3 +1,18 @@
+2008-11-03  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* configure.in:
+	* desktop-themes/ClearlooksTest/.cvsignore:
+	* desktop-themes/ClearlooksTest/Makefile.am:
+	* desktop-themes/ClearlooksTest/index.theme.in:
+	* desktop-themes/Makefile.am:
+	* gtk-themes/ClearlooksTest/Makefile.am:
+	* gtk-themes/ClearlooksTest/gtkrc:
+	* gtk-themes/Makefile.am:
+	Add a test theme as proposed on desktop-devel-list earlier. It is
+	not the default though.
+	The theme will only be build in unstable releases, or when specified
+	at configure time.
+
 2008-10-18  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:

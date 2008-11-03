@@ -10,4 +10,20 @@ SUBDIRS=		\
 	LargePrint	\
 	LowContrast	\
 	LowContrastLargePrint	\
-	Mist
+	Mist		\
+	$(TEST_THEMES)
+
+DIST_SUBDIRS=		\
+	Crux		\
+	Clearlooks	\
+	Glider		\
+	Glossy		\
+	HighContrast	\
+	HighContrastInverse	\
+	HighContrastLargePrint	\
+	HighContrastLargePrintInverse \
+	LargePrint	\
+	LowContrast	\
+	LowContrastLargePrint	\
+	Mist		\
+	ClearlooksTest
