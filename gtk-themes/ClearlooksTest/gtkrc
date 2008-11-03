@@ -343,6 +343,8 @@ widget_class "*<GtkNotebook>" style "clearlooks-notebook_bg"
 widget_class "*<GtkNotebook>*<GtkEventBox>" style "clearlooks-notebook_bg"
 widget_class "*<GtkNotebook>*<GtkDrawingArea>" style "clearlooks-notebook_bg"
 widget_class "*<GtkNotebook>*<GtkLayout>" style "clearlooks-notebook_bg"
+widget_class "*<GtkNotebook>*<GtkViewport>" style "clearlooks-notebook_bg"
+widget_class "*<GtkNotebook>*<GtkScrolledWindow>" style "clearlooks-notebook_bg"
 
 widget_class "*<GtkButton>" style "clearlooks-button"
 widget_class "*<GtkNotebook>" style "clearlooks-notebook"
