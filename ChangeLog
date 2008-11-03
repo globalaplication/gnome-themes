@@ -1,3 +1,9 @@
+2008-11-03  Calum Benson <calum.benson@sun.com>
+
+	* NEWS:
+
+	Update for 2.25.1 release.
+
 2008-11-03  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* configure.in:

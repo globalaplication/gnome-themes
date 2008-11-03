@@ -1,3 +1,53 @@
+2.25.1
+======
+
+Features/bugfixes:
+
+2008-11-03  Benjamin Berg  <benjamin@sipsolutions.net>
+ 
+	Add a test theme as proposed on desktop-devel-list earlier. It is
+	not the default though.
+	The theme will only be build in unstable releases, or when specified
+	at configure time.
+
+Various HighContrast-SVG fixes from Luca Ferretti  <elle.uca@libero.it>:
+
+	Add support for HighContrast-SVG placeholder icons. Closes bug #451878.
+
+	Note that now by default gnome-themes during development
+	release	(odd minor) will not create symlinks for legacy icons
+	and will install placeholder icons, automatically. On stable
+	releases this behavior is, of course, swithched.
+
+	Vendors can force this policy using provide --enable-* options
+	at configure time.
+
+	Following latest spec, moved to zoom-fit-best.svg
+
+	Added "user-bookmarks" copying existing bookmarsk-view from
+	action-extras.
+
+	Small changes in orderd to make those appear like "real" bold and 
+	italic version of the same A charatec (for example, put the horizontal
+	line at same height, but thinner in italic). Maybe not really needed
+	in HC theme, but we love details :)
+
+2008-10-14  Calum Benson  <calum.benson@sun.com>
+	Clean up the CORE_FILES_ONLY installation-- don't bother
+	checking for a file called 'index.theme~' any more, we haven't
+	used that for years.
+
+2008-10-09  Calum Benson  <calum.benson@sun.com>
+	Set GtkTreeView::grid-line-width to 2px in the large print themes.
+	Closes bug #548761 (reported by Benjamin Berg), although might
+	still need further tweaking. 
+
+New/updated translations:
+
+2008-10-22  Simos Xenitellis  <simos@gnome.org>
+	* el.po: Updated Greek translation by Nick Agianniotis.
+
+
 2.24.0
 =======
 
