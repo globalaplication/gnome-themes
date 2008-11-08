@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-30 04:09+0000\n"
-"PO-Revision-Date: 2008-05-31 10:49+0200\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
+"PO-Revision-Date: 2008-11-08 13:52+0100\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,6 +27,16 @@ msgstr "Facilidad de uso atractiva"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Tema de pruebas Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr ""
+"Tema con un esquema de color diferente para encontrar problemas en las "
+"aplicaciones."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -135,4 +145,3 @@ msgstr "Tema de iconos grande de alto contraste"
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
 msgstr "Tema de iconos grande de alto contraste invertido"
-
