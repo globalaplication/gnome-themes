@@ -18,10 +18,11 @@ placeholder_FILES = \
 	face-angry.svg \
 	face-crying.svg \
 	face-devilish.svg \
-	face-embarassed.svg \
+	face-embarrassed.svg \
 	face-kiss.svg \
 	face-laugh.svg \
 	face-monkey.svg \
+	face-raspberry.svg \
 	face-sick.svg \
 	face-smirk.svg \
 	face-tired.svg \

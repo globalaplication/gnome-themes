@@ -1,5 +1,16 @@
 2008-11-17  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-embarrassed.svg:
+	Fix typo in filename.
+	
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-raspberry.svg:
+	Added this missing placeholder.
+
+	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
+	Adjust to previous changes.
+
+2008-11-17  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/emotes/face-XXX.svg:
 
