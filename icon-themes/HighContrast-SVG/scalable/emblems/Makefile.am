@@ -16,8 +16,18 @@ icon_DATA =				\
 	emblem-symbolic-link.svg \
 	emblem-system.svg
 
+placeholder_FILES = \
+	emblem-shared.svg \
+	emblem-synchronized.svg \
+	emblem-unreadable.svg
+
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
 EXTRA_DIST =				\
-	$(icon_DATA)
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA

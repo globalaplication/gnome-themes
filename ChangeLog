@@ -1,3 +1,12 @@
+2008-11-17  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-shared.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-synchronized.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-unreadable.svg:
+
+	Add missing placeholders for Emblems category.
+
 2008-11-03  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/ClearlooksClassic/gtkrc:
