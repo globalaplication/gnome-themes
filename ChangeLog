@@ -1,5 +1,9 @@
 2008-11-17  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
+
+	face-glasses renamed to face-cool as per spec
+
 	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-shared.svg:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-synchronized.svg:
