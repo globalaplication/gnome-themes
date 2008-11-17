@@ -1,6 +1,13 @@
 2008-11-17  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emotes/face-XXX.svg:
+
+	Add missing placeholders for Emotes category.
+
+2008-11-17  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/emotes/Makefile.am:
 
 	face-glasses renamed to face-cool as per spec
 

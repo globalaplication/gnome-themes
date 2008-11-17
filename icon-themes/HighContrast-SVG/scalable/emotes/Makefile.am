@@ -4,7 +4,7 @@ context = emotes
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =				\
+icon_DATA = \
 	face-cool.svg \
 	face-plain.svg \
 	face-sad.svg \
@@ -13,14 +13,33 @@ icon_DATA =				\
 	face-surprise.svg \
 	face-wink.svg
 
-EXTRA_DIST =				\
-	$(icon_DATA)
+placeholder_FILES = \
+	face-angel.svg \
+	face-angry.svg \
+	face-crying.svg \
+	face-devilish.svg \
+	face-embarassed.svg \
+	face-kiss.svg \
+	face-laugh.svg \
+	face-monkey.svg \
+	face-sick.svg \
+	face-smirk.svg \
+	face-tired.svg \
+	face-uncertain.svg \
+	face-worried.svg
+
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
+EXTRA_DIST = \
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
 	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
 endif
-
 
 uninstall-symlinks:
 	list=`ls $(DESTDIR)$(themedir)/$(size)/$(context)`; \
