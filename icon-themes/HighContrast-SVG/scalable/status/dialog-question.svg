@@ -1,25 +1,64 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"   "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd" [
-	<!ENTITY st0 "stroke:#FFFFFF;stroke-width:7.0909;stroke-linejoin:round;">
-	<!ENTITY st1 "fill:none;stroke:none;">
-	<!ENTITY st2 "fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
-	<!ENTITY st3 "stroke:none;">
-]>
-<svg  width="48pt" height="48pt" viewBox="0 0 48 48" xml:space="preserve">
-	<g id="Layer_x0020_4" style="&st2;">
-		<g>
-			<g>
-				<path style="&st0;" d="M19.2,30.3l-0.1-1.4c-0.1-2.7,0.7-5.5,3.1-8.3c1.7-2,3.1-3.8,3.1-5.6s-1.2-3.1-3.8-3.1c-1.8,0-3.9,0.6-5.3,1.5l-1.8-5.7c1.9-1.1,5.1-2.2,8.9-2.2c7,0,10.2,3.9,10.2,8.2c0,4.1-2.6,6.7-4.6,9c-1.9,2.1-2.8,4.2-2.7,6.6v1h-7z M22.5,42.5
-					c-2.8,0-4.7-2.1-4.7-4.8c0-2.9,2-4.8,4.7-4.8c2.9,0,4.7,2,4.8,4.8c0,2.8-1.9,4.8-4.7,4.8h-0.1z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48pt"
+   height="48pt"
+   viewBox="0 0 48 48"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="dialog-question.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   inkscape:window-height="480"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base" />
+	<g
+   id="Layer_x0020_4"
+   style="fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+		<g
+   id="g5">
+			<g
+   id="g7">
+				<path
+   style="stroke:#FFFFFF;stroke-width:7.0909;stroke-linejoin:round;"
+   d="M19.2,30.3l-0.1-1.4c-0.1-2.7,0.7-5.5,3.1-8.3c1.7-2,3.1-3.8,3.1-5.6s-1.2-3.1-3.8-3.1c-1.8,0-3.9,0.6-5.3,1.5l-1.8-5.7c1.9-1.1,5.1-2.2,8.9-2.2c7,0,10.2,3.9,10.2,8.2c0,4.1-2.6,6.7-4.6,9c-1.9,2.1-2.8,4.2-2.7,6.6v1h-7z M22.5,42.5      c-2.8,0-4.7-2.1-4.7-4.8c0-2.9,2-4.8,4.7-4.8c2.9,0,4.7,2,4.8,4.8c0,2.8-1.9,4.8-4.7,4.8h-0.1z"
+   id="path9" />
 			</g>
-			<g>
-				<path style="&st3;" d="M19.2,30.3l-0.1-1.4c-0.1-2.7,0.7-5.5,3.1-8.3c1.7-2,3.1-3.8,3.1-5.6s-1.2-3.1-3.8-3.1c-1.8,0-3.9,0.6-5.3,1.5l-1.8-5.7c1.9-1.1,5.1-2.2,8.9-2.2c7,0,10.2,3.9,10.2,8.2c0,4.1-2.6,6.7-4.6,9c-1.9,2.1-2.8,4.2-2.7,6.6v1h-7z M22.5,42.5
-					c-2.8,0-4.7-2.1-4.7-4.8c0-2.9,2-4.8,4.7-4.8c2.9,0,4.7,2,4.8,4.8c0,2.8-1.9,4.8-4.7,4.8h-0.1z"/>
+			<g
+   id="g11">
+				<path
+   style="stroke:none;"
+   d="M19.2,30.3l-0.1-1.4c-0.1-2.7,0.7-5.5,3.1-8.3c1.7-2,3.1-3.8,3.1-5.6s-1.2-3.1-3.8-3.1c-1.8,0-3.9,0.6-5.3,1.5l-1.8-5.7c1.9-1.1,5.1-2.2,8.9-2.2c7,0,10.2,3.9,10.2,8.2c0,4.1-2.6,6.7-4.6,9c-1.9,2.1-2.8,4.2-2.7,6.6v1h-7z M22.5,42.5      c-2.8,0-4.7-2.1-4.7-4.8c0-2.9,2-4.8,4.7-4.8c2.9,0,4.7,2,4.8,4.8c0,2.8-1.9,4.8-4.7,4.8h-0.1z"
+   id="path13" />
 			</g>
 		</g>
 	</g>
-	<g id="crop_x0020_marks" style="&st2;">
-		<path style="&st1;" d="M48,48H0V0h48v48z"/>
+	<g
+   id="crop_x0020_marks"
+   style="fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">
+		<path
+   style="fill:none;stroke:none;"
+   d="M48,48H0V0h48v48z"
+   id="path16" />
 	</g>
 </svg>
