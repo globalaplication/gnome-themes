@@ -1,3 +1,22 @@
+2008-11-19  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/apps*/*svg:
+
+	Move from apps to apps-extra some icons no longer in Icon
+	Naming Spec: internet-group-chat, internet-mail, internet-news-reader,
+	internet-web-browser, preferences-system-network-proxy,
+	preferences-system-session, preferences-system-windows.
+
+	Move from apps to apps-extra orca icon.
+
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/bug-buddy.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/glchess.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps-extra/tomboy.svg:
+
+	Added svn:mime-type property.
+	
 2008-11-17  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/emotes/face-embarrassed.svg:

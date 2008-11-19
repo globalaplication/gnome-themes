@@ -9,19 +9,11 @@ icon_DATA = \
 	accessories-character-map.svg \
 	accessories-text-editor.svg \
 	help-browser.svg \
-	internet-group-chat.svg \
-	internet-mail.svg \
-	internet-news-reader.svg \
-	internet-web-browser.svg \
 	multimedia-volume-control.svg \
-	orca.svg \
 	preferences-desktop-accessibility.svg \
 	preferences-desktop-font.svg \
 	preferences-desktop-locale.svg \
 	preferences-desktop-screensaver.svg \
-	preferences-system-network-proxy.svg \
-	preferences-system-session.svg \
-	preferences-system-windows.svg \
 	system-file-manager.svg \
 	utilities-system-monitor.svg \
 	utilities-terminal.svg
