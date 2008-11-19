@@ -1,5 +1,11 @@
 2008-11-19  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/status/dialog-information.svg:
+
+	Remove old Adobe Illustrator cruft, fix canvas and border sizes.
+
+2008-11-19  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/mail-attachment.svg:
 
 	Remove old Adobe Illustrator cruft, fix canvas, and make it
