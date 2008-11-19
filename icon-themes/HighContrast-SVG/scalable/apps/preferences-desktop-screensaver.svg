@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
-   xmlns:s="http://inkscape.sourceforge.net/DTD/s odipodi-0.dtd"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,16 +11,14 @@
    width="48.000000px"
    height="48.000000px"
    id="svg3304"
-   s:version="0.32"
-   inkscape:version="0.44"
-   s:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/apps"
-   s:docname="preferences-desktop-screensaver.svg"
    sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/apps"
    sodipodi:docname="preferences-desktop-screensaver.svg"
-   sodipodi:docbase="/home/luca/Artwork/blackwhite-icon-theme/scalable/apps">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      inkscape:window-height="948"
-     inkscape:window-width="1280"
+     inkscape:window-width="1276"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -38,101 +35,12 @@
      inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs3306">
-    <linearGradient
-       id="linearGradient14414">
-      <stop
-         id="stop14422"
-         offset="0"
-         style="stop-color:white;stop-opacity:1;" />
-      <stop
-         style="stop-color:white;stop-opacity:0;"
-         offset="1"
-         id="stop14418" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5833">
-      <stop
-         style="stop-color:#afafb2;stop-opacity:1;"
-         offset="0"
-         id="stop5835" />
-      <stop
-         style="stop-color:#8e8e93;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop5837" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5541">
-      <stop
-         style="stop-color:#3b5a7a;stop-opacity:1;"
-         offset="0"
-         id="stop5543" />
-      <stop
-         style="stop-color:#4e77a1;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop5545" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4807">
-      <stop
-         style="stop-color:#527da8;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#7e9fc1;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient13580">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop13582" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop13584" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7022">
-      <stop
-         style="stop-color:#f7f7f9;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop7024" />
-      <stop
-         style="stop-color:#f4f4f6;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop7026" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient11400">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop11402" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop11404" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient14318">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop14320" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop14322" />
-    </linearGradient>
-  </defs>
-  <s:namedview
-     id="base"
+     id="defs3306" />
+  <sodipodi:namedview
+     id="namedview29"
      pagecolor="#ffffff"
      bordercolor="#849193"
      borderopacity="1.0000000"
@@ -220,9 +128,9 @@
        style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.1061153;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
        d="M 4.8886262,2.6477059 L 43.017460,2.6477059 C 45.042579,2.6477059 46.518438,4.1781440 46.518438,6.5349096 L 46.530314,37.000000 L 1.4964810,36.979702 L 1.5128113,6.3336485 C 1.5128113,4.4321166 3.0522187,2.6477059 4.8886262,2.6477059 z "
        id="rect5040"
-       s:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc" />
     <path
-       s:nodetypes="csccscc"
+       sodipodi:nodetypes="csccscc"
        id="path6541"
        d="M 18.000000,34.000000 C 18.000000,34.000000 19.000000,40.000000 10.992358,40.000000 C 8.4866814,40.000000 9.0000000,44.035151 9.0000000,44.035151 L 39.000000,44.000000 C 39.000000,44.000000 39.431748,40.077717 36.915122,40.058968 C 29.000000,40.000000 30.000000,34.000000 30.000000,34.000000 L 18.000000,34.000000 z "
        style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
@@ -230,10 +138,9 @@
        style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
        d="M 18,33.343365 C 18,33.343365 19.19699,39.080711 11.189348,39.04556 C 8.683696,39.034561 9,44 9,44 L 39.084878,44 C 39.084878,44 39.3853,39.092566 36.868673,39.074016 C 28.868673,39.015048 30,33.409029 30,33.409029 L 18,33.343365 z "
        id="path9222"
-       s:nodetypes="csccscc"
        sodipodi:nodetypes="csccscc" />
     <path
-       s:nodetypes="ccccccc"
+       sodipodi:nodetypes="ccccccc"
        id="path2175"
        d="M 7.3758149,5.5616037 L 40.499022,5.3738592 C 42.524141,5.3738592 44.000000,6.8015137 44.000000,9.0000000 L 44.000000,34.000000 L 4.0000000,34.000000 L 4.0000000,9.0000000 C 4.0000000,7.2261741 5.5394074,5.5616037 7.3758149,5.5616037 z "
        style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:3.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />

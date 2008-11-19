@@ -1,5 +1,25 @@
 2008-11-19  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-system.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-default.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-important.svg:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-favorite.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-flip-horizontal.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/go-jump.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-left.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-rotate-right.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-mark-important.svg:
+	* icon-themes/HighContrast-SVG/scalable/actions/object-flip-vertical.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-screensaver.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/preferences-desktop-font.svg:
+	* icon-themes/HighContrast-SVG/scalable/apps/multimedia-volume-control.svg:
+
+	Apply `inkscape --vacuum-defs` removing wrong/odd stuff (mostly invalid
+	URI to sodipodi-0.dtd, due to extraneus space) generating wrong	SVG files.
+	Thanks WebKit to show this issue.
+
+2008-11-19  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/dialog-information.svg:
 
 	Remove old Adobe Illustrator cruft, fix canvas and border sizes.
