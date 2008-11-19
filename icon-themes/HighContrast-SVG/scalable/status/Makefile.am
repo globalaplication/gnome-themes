@@ -49,7 +49,7 @@ placeholder_FILE = \
 	security-medium.svg \
 	security-low.svg \
 	sync-error.svg \
-	sync-syncrhonizing.svg \
+	sync-synchronizing.svg \
 	task-due.svg \
 	task-past-due.svg \
 	user-away.svg \
