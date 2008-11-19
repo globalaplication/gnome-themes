@@ -1,5 +1,11 @@
 2008-11-19  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/status/user-trash-full.svg:
+
+	Fixed canvas size, borders, alignment.
+
+2008-11-19  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
 
 	Use placeholder icons.
