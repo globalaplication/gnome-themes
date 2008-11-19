@@ -1,5 +1,52 @@
 2008-11-19  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+	Use placeholder icons.
+	
+	* icon-themes/HighContrast-SVG/scalable/status/appointment-soon.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/battery-caution.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/battery-low.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/image-loading.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-read.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-replied.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-signed-verified.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-signed.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/mail-unread.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/media-playlist-repeat.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/media-playlist-shuffle.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-error.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-idle.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-receive.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-transmit-receive.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/network-transmit.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/printer-error.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/printer-printing.svg
+	:
+	* icon-themes/HighContrast-SVG/scalable/status/sync-error.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/sync-syncrhonizing.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/task-due.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/task-past-due.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/user-away.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/user-idle.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/user-offline.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/user-online.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-clear-night.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-clear.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-few-clouds-night.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-few-clouds.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-fog.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-overcast.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-severe-alert.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-showers-scattered.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-showers.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-snow.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-storm.svg:
+
+	Add missing placeholder icons.
+
+2008-11-19  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/apps/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/apps-extra/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/apps*/*svg:

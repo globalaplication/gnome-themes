@@ -21,16 +21,61 @@ icon_DATA =				\
 	mail-attachment.svg \
 	network-offline.svg \
 	network-online.svg \
-	security-high.svg \
-	security-low.svg \
-	security-medium.svg \
 	software-update-available.svg \
 	software-update-urgent.svg \
 	user-trash-full.svg
 
+placeholder_FILE = \
+	appointment-missed.svg \
+	appointment-soon.svg \
+	battery-low.svg \
+	battery-caution.svg \
+	image-loading.svg \
+	mail-read.svg \
+	mail-replied.svg \
+	mail-signed.svg \
+	mail-signed-verified.svg \
+	mail-unread.svg \
+	media-playlist-repeat.svg \
+	media-playlist-shuffle.svg \
+	network-error.svg \
+	network-idle.svg \
+	network-receive.svg \
+	network-transmit.svg \
+	network-transmit-receive.svg \
+	printer-error.svg \
+	printer-printing.svg \
+	security-high.svg \
+	security-medium.svg \
+	security-low.svg \
+	sync-error.svg \
+	sync-syncrhonizing.svg \
+	task-due.svg \
+	task-past-due.svg \
+	user-away.svg \
+	user-idle.svg \
+	user-offline.svg \
+	user-online.svg \
+	weather-clear.svg \
+	weather-clear-night.svg \
+	weather-few-clouds.svg \
+	weather-few-clouds-night.svg \
+	weather-fog.svg \
+	weather-overcast.svg \
+	weather-severe-alert.svg \
+	weather-showers.svg \
+	weather-showers-scattered.svg \
+	weather-snow.svg \
+	weather-storm.svg
 
-EXTRA_DIST =				\
-	$(icon_DATA)
+
+if PLACEHOLDERS
+icon_DATA += $(placeholder_FILES)
+endif
+
+EXTRA_DIST = \
+	$(icon_DATA) \
+	$(placeholder_FILES)
 
 if LEGACY_ICON_MAPPING
 install-data-local: install-iconDATA
