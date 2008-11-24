@@ -1,5 +1,9 @@
 2008-11-24  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/document-page-setup.svg:
+	Added icon proposed by Kevin Kubasik with a minor touchup (pixel 
+	perfect, remove cruft...). Close bug #502155	
+
 	* icon-themes/HighContrast-SVG/scalable/actions/call-stop.svg:
 	* icon-themes/HighContrast-SVG/scalable/actions/call-start.svg:
 	Quick hack for those actions, based on common icons used by
