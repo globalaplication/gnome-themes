@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.083333"
-     inkscape:cx="10.176796"
-     inkscape:cy="29.303867"
+     inkscape:cx="9.0165748"
+     inkscape:cy="29.303866"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -108,6 +108,14 @@
        id="path3668"
        d="M 13,29 L 5,29 L 5,16 C 5,14 6,13 8,13 L 40,13 C 42,13 43,14 43,16 L 43,29 L 35,29 L 35,22 C 35,22 35,21 34,21 L 14,21 C 13,21 13,22 13,22 L 13,29 z"
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:none;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       ry="2.0552487"
+       y="24"
+       x="16"
+       height="5"
+       width="16"
+       id="rect2384"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;fill-opacity:1"
        d="M 13,29 L 5,29 L 5,16 C 5,14 6,13 8,13 L 40,13 C 42,13 43,14 43,16 L 43,29 L 35,29 L 35,22 C 35,22 35,21 34,21 L 14,21 C 13,21 13,22 13,22 L 13,29 z"
