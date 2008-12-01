@@ -1,3 +1,31 @@
+2.25.2
+======
+Features/bugfixes:
+
+* Many new icons for HighContrast-SVG (Luca Feretti, Kevin Kubasik).
+
+* Apply `inkscape --vacuum-defs` removing wrong/odd stuff (mostly invalid
+ URI to sodipodi-0.dtd, due to extraneus space) generating wrong SVG  
+ files. Thanks WebKit to show this issue. (Luca Feretti)
+
+* Move from apps to apps-extra some icons no longer in Icon
+ Naming Spec: internet-group-chat, internet-mail, internet-news-reader,
+ internet-web-browser, preferences-system-network-proxy,
+ preferences-system-session, preferences-system-windows.
+ (Luca Feretti)
+
+2008-11-03  Benjamin Berg  <benjamin@sipsolutions.net>
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/ClearlooksTest/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+	Fix the bg color of GtkViewport and GtkScrolledWindow in notebooks.
+
+New/updated translations:
+
+2008-11-08  Jorge Gonzalez  <jorgegonz@svn.gnome.org>
+	* es.po: Updated Spanish translation.   
+
 2.25.1
 ======
 
