@@ -60,6 +60,7 @@ icon_DATA = \
 	mail-mark-read.svg \
 	mail-mark-unread.svg \
 	mail-message-new.svg \
+	mail-reply-all.svg \
 	mail-reply-sender.svg \
 	media-eject.svg \
 	media-playback-pause.svg \
@@ -109,7 +110,6 @@ placeholder_FILES = \
 	insert-text.svg \
 	mail-mark-junk.svg \
 	mail-mark-notjunk.svg \
-	mail-reply-all.svg \
 	mail-send.svg \
 	mail-send-receive.svg
 

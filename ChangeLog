@@ -1,5 +1,12 @@
 2008-12-15  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-reply-all.svg:
+	Added icon proposed Kevin Kubasik with a minor touchup.
+	Close bug #561646
+
+2008-12-15  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
 	Fixed a stupid typo.
 
