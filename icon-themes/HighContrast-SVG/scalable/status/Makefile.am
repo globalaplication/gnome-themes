@@ -25,7 +25,7 @@ icon_DATA =				\
 	software-update-urgent.svg \
 	user-trash-full.svg
 
-placeholder_FILE = \
+placeholder_FILES = \
 	appointment-missed.svg \
 	appointment-soon.svg \
 	battery-low.svg \
