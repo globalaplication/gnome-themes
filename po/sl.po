@@ -9,9 +9,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-10 04:00+0000\n"
-"PO-Revision-Date: 2008-07-10 15:23+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes&amp;component=general\n"
+"POT-Creation-Date: 2008-12-01 18:34+0000\n"
+"PO-Revision-Date: 2008-12-11 17:43+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,15 @@ msgstr "Privlačna uporabnost"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
-msgstr "Čisti videz"
+msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Testna tema Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Tema z drugačno barvno shemo za iskanje težav v vmesniku programa."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
