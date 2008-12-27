@@ -1,3 +1,37 @@
+2008-12-27  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-clear-night.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-clear.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-few-clouds-night.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-few-clouds.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-fog.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-overcast.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-showers.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-showers-scattered.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-snow.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/weather-storm.png:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:
+
+	Swap black/white and convert to PNG icons from previous commit for Inverse.
+
+2008-12-27  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/status/weather-clear.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-clear-night.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-few-clouds.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-few-clouds-night.sv:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-fog.svg:	
+	* icon-themes/HighContrast-SVG/scalable/status/weather-overcast.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-showers-scattered.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-showers.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-snow.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/weather-storm.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+	New icons for status/weather.
+	Close bugs #564117, #564119, #564193, #564228, #564230, #564231,
+	#564234, #564323, #564326, #564420.
+
 2008-12-15  Calum Benson <calum.benson@sun.com>
 
 	* NEWS:
