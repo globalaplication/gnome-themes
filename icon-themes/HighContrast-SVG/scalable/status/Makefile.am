@@ -23,7 +23,17 @@ icon_DATA =				\
 	network-online.svg \
 	software-update-available.svg \
 	software-update-urgent.svg \
-	user-trash-full.svg
+	user-trash-full.svg \
+	weather-clear.svg \
+	weather-clear-night.svg \
+	weather-few-clouds.svg \
+	weather-few-clouds-night.svg \
+	weather-fog.svg \
+	weather-overcast.svg \
+	weather-showers.svg \
+	weather-showers-scattered.svg \
+	weather-snow.svg \
+	weather-storm.svg
 
 placeholder_FILES = \
 	appointment-missed.svg \
@@ -56,18 +66,7 @@ placeholder_FILES = \
 	user-idle.svg \
 	user-offline.svg \
 	user-online.svg \
-	weather-clear.svg \
-	weather-clear-night.svg \
-	weather-few-clouds.svg \
-	weather-few-clouds-night.svg \
-	weather-fog.svg \
-	weather-overcast.svg \
-	weather-severe-alert.svg \
-	weather-showers.svg \
-	weather-showers-scattered.svg \
-	weather-snow.svg \
-	weather-storm.svg
-
+	weather-severe-alert.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)
