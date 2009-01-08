@@ -1,8 +1,8 @@
 # Swedish messages for gnome-themes.
-# Copyright (C) 2002-2008 Free Software Foundation, Inc.
+# Copyright (C) 2002-2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
-# Daniel Nylander <po@danielnylander.se>, 2006, 2008.
 # Christian Rose <menthos@menthos.com>, 2002, 2003, 2004, 2005.
+# Daniel Nylander <po@danielnylander.se>, 2006, 2008, 2009.
 #
 # $Id: sv.po,v 1.24 2006/12/11 07:00:44 dnylande Exp $
 #
@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-05 11:32+0200\n"
-"PO-Revision-Date: 2008-08-05 11:33+0100\n"
+"POT-Creation-Date: 2009-01-08 01:24+0100\n"
+"PO-Revision-Date: 2009-01-08 01:25+0100\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "MIME-Version: 1.0\n"
@@ -25,6 +25,14 @@ msgstr "Attraktiv användbarhet"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Clearlooks testtema"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Tema med ett annat färgschema för att hitta problem i program."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
