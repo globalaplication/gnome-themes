@@ -1,3 +1,33 @@
+2.25.5
+======
+
+Features/bugfixes:
+
+2008-12-27  Luca Ferretti  <elle.uca@libero.it>
+	New high contrast icons for status/weather.
+	Close bugs #564117, #564119, #564193, #564228, #564230, #564231,
+	#564234, #564323, #564326, #564420.
+
+New/Updated translations:
+
+2009-01-09  Leonardo Ferreira Fontenelle  <leonardof@gnome.org>
+	* pt_BR.po: Updated Brazilian Portuguese translation. Contributed by
+	Djavan Fagundes.
+
+2009-01-08  Daniel Nylander <po@danielnylander.se>
+	* sv.po: Updated Swedish translation.
+
+2009-01-05  Kjartan Maraas  <kmaraas@gnome.org>
+	* nb.po: Updated Norwegian bokmål translation.
+
+2009-01-03  Priit Laes  <plaes at svn dot gnome dot org>
+	* et.po: Translation updated by Ivar Smolin
+
+2.25.4
+======
+
+Not released.
+
 2.25.3
 ======
 
