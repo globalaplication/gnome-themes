@@ -52,6 +52,7 @@ icon_DATA = \
 	help-about.svg \
 	help-contents.svg \
 	help-faq.svg \
+	insert-image.svg \
 	insert-object.svg \
 	insert-text.svg \
 	list-add.svg \
@@ -106,7 +107,6 @@ placeholder_FILES = \
 	edit-select-all.svg \
 	format-text-direction-ltr.svg \
 	format-text-direction-rtl.svg \
-	insert-image.svg \
 	insert-link.svg \
 	mail-mark-junk.svg \
 	mail-mark-notjunk.svg \

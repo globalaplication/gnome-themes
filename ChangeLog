@@ -1,4 +1,16 @@
 2009-01-20  Luca Ferretti  <elle.uca@libero.it>
+	
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-image.svg:
+
+	New icon from Vinicius Depizzol (Close bug #566037)
+	
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/insert-image.png:
+
+	Same icon, this time direclty inverted with Negative in Inkscape :)
+
+2009-01-20  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/actions/insert-text.svg:

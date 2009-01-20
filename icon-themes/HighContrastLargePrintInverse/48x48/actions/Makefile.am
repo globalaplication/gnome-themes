@@ -8,6 +8,7 @@ icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA=	\
 		go-home.png \
+		insert-image.png \
 		insert-text.png \
 		media-playback-pause.png \
 		stock_new-tab.png \
