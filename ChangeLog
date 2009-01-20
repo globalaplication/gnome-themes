@@ -1,3 +1,15 @@
+2009-01-20  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/insert-text.svg:
+
+	New icon from Vinicius Depizzol (Close bug #566038)
+	
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/insert-text.png:
+
+	Same icon, inverted in GIMP.
+
 2009-01-19  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:
