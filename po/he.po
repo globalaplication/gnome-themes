@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.he\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-30 04:09+0000\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
 "PO-Revision-Date: 2006-04-27 16:30+0300\n"
 "Last-Translator: Reuven Gonen <linxspider@yahoo.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
@@ -23,6 +23,14 @@ msgstr "שימושיות אטרקטיבית"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "מראה נקי"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "בדיקת ערכת הנושא מראה נקי"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "ערכת נושא עם סכימות צבעים שונות על מנת למצוא בעיות ביישומים."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
