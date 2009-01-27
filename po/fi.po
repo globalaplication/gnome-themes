@@ -1,16 +1,17 @@
 # Gnome-themes Finnish Translation.
 # Suomennos: http://gnome.fi/
-# Copyright (C) 2003 Free Software Foundation, Inc.
+# Copyright (C) 2003-2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Sami Pesonen <sampeson@iki.fi>, 2003-2004.
+# Ilkka Tuohela, <hile@iki.fi>, 2004-2009.
 #
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-11 16:31+0300\n"
-"PO-Revision-Date: 2007-02-14 15:19+0300\n"
+"POT-Creation-Date: 2009-01-27 17:51+0300\n"
+"PO-Revision-Date: 2009-01-27 17:55+0300\n"
 "Last-Translator: Sami Pesonen <sampeson@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +25,14 @@ msgstr "Houkuttelevan käytettävä"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Seesteinen"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Clearlooks-testiteema"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Teema erilaisella väriskeemalla virheiden löytämiseksi ohjelmista."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
