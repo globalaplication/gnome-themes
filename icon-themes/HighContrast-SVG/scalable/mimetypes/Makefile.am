@@ -11,13 +11,13 @@ icon_DATA =					\
 	image-x-generic.svg \
 	text-html.svg \
 	text-x-generic.svg \
+	text-x-generic-template.svg \
 	text-x-preview.svg \
 	text-x-script.svg \
 	video-x-generic.svg \
 	x-office-spreadsheet.svg
 
 placeholder_FILES = \
-	text-x-generic-template.svg \
 	x-office-address-book.svg \
 	x-office-presentation.svg \
 	x-office-document.svg

@@ -1,3 +1,12 @@
+2009-01-30  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/text-x-generic-template.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/text-x-generic-template.png:
+
+	New icon 'text-x-generic-template' (Close bug #565878)
+
 2009-01-20  Luca Ferretti  <elle.uca@libero.it>
 	
 	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:

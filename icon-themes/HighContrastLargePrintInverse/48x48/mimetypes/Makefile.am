@@ -14,6 +14,7 @@ icon_DATA=	\
 		image-x-generic.png \
 		package-x-generic.png \
 		text-x-generic.png \
+		text-x-generic-template.png \
 		text-x-preview.png \
 		video-x-generic.png \
 		x-office-address-book.png \
