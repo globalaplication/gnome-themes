@@ -15,10 +15,10 @@ icon_DATA =					\
 	text-x-preview.svg \
 	text-x-script.svg \
 	video-x-generic.svg \
+	x-office-address-book.svg \
 	x-office-spreadsheet.svg
 
 placeholder_FILES = \
-	x-office-address-book.svg \
 	x-office-presentation.svg \
 	x-office-document.svg
 

@@ -1,6 +1,14 @@
 2009-01-30  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-address-book.svg:
+	* icon-themes/HighContrastLargePrint/48x48/mimetypes/x-office-address-book.svg:
+
+	New icon for 'x-office-address-book' (Closes bug #565870).
+
+2009-01-30  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/text-x-generic-template.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
 	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/text-x-generic-template.png:
