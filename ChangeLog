@@ -1,5 +1,14 @@
 2009-01-31  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-calendar.svg:
+	* icon-themes/HighContrastLargePrintInverse/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/scalable/mimetypes/x-office-calendar.png:
+
+	New icon for 'x-office-calendar' (Closes bug #565794)
+
+2009-01-31  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/index.theme.in:
 	Don't ihnerits on HighContrastLargePrint and use "folder" as Example.
 
