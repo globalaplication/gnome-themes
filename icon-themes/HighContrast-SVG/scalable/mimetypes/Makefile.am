@@ -16,6 +16,7 @@ icon_DATA =					\
 	text-x-script.svg \
 	video-x-generic.svg \
 	x-office-address-book.svg \
+	x-office-calendar.svg \
 	x-office-spreadsheet.svg
 
 placeholder_FILES = \

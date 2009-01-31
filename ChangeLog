@@ -1,3 +1,8 @@
+2009-01-31  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/index.theme.in:
+	Don't ihnerits on HighContrastLargePrint and use "folder" as Example.
+
 2009-01-30  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:

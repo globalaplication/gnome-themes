@@ -1,8 +1,8 @@
 [Icon Theme]
 _Name=HighContrast-SVG
 _Comment=High contrast scalable icons with black borders
-Inherits=HighContrastLargePrint,gnome,crystalsvg
-Example=x-directory-normal
+Inherits=gnome,crystalsvg
+Example=folder
 
 # KDE Specific Stuff from Tango
 DisplayDepth=32
