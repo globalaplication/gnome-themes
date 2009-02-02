@@ -1,3 +1,31 @@
+2.25.90
+=======
+
+Features/bugfixes:
+
+Luca Ferretti  <elle.uca@libero.it>:
+	New icon for 'x-office-calendar' (Closes bug #565794)
+	HC-SVG: Don't ihnerit HighContrastLargePrint, and use "folder" 
+	as Example.
+	New icon for 'x-office-address-book' (Closes bug #565870).
+	New icon 'text-x-generic-template' (Close bug #565878)
+New HC-SVG icons from Vinicius Depizzol (bugs #566037, #566038), inverse
+versions by Luca Ferretti.
+
+New/updated translations:
+
+2009-01-28  Changwoo Ryu  <cwryu@debian.org>
+	* ko.po: Updated Korean translation.
+
+2009-01-27  Ilkka Tuohela <hile@iki.fi>
+	* fi.po: Updated Finnish translation.
+
+2009-01-25  Raivis Dejus  <orvils@gmail.com>
+	* lv.po: Updated Latvian translation.
+
+2009-01-21  Yair Hershkoviz  <yairhr@gmail.com>
+	* he.po: Updated Hebrew translation.
+
 2.25.5
 ======
 
