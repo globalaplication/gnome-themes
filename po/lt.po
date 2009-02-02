@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lt\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-13 01:32+0300\n"
-"PO-Revision-Date: 2008-09-13 01:32+0300\n"
+"POT-Creation-Date: 2009-02-02 04:14+0200\n"
+"PO-Revision-Date: 2009-02-02 04:13+0200\n"
 "Last-Translator: Gintautas Miliauskas <gintas@akl.lt>\n"
 "Language-Team: Lithuanian <gnome-lt@lists.akl.lt>\n"
 "MIME-Version: 1.0\n"
@@ -29,6 +29,15 @@ msgstr "Patrauklus patogumas"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Clearlooks bandomoji tema"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr ""
+"Tema su kitokia spalvų schema, kad būtų lengviau rasti problemas programose."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
