@@ -9,6 +9,8 @@ icon_DATA =				\
 	audio-volume-low.svg \
 	audio-volume-medium.svg \
 	audio-volume-muted.svg \
+	battery-low.svg \
+	battery-caution.svg \
 	dialog-error.svg \
 	dialog-information.svg \
 	dialog-password.svg \
@@ -40,8 +42,6 @@ icon_DATA =				\
 placeholder_FILES = \
 	appointment-missed.svg \
 	appointment-soon.svg \
-	battery-low.svg \
-	battery-caution.svg \
 	image-loading.svg \
 	mail-read.svg \
 	mail-replied.svg \

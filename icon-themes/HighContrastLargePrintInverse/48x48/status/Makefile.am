@@ -11,6 +11,8 @@ icon_DATA=	\
 		audio-volume-low.png \
 		audio-volume-medium.png \
 		audio-volume-muted.png \
+		battery-caution.png \
+		battery-low.png \
 		folder-drag-accept.icon \
 		folder-drag-accept.png \
 		user-trash-full.png \

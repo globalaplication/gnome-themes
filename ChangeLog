@@ -1,5 +1,15 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/battery-*svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/battery-*.png:
+
+	New 'battery-low' and 'battery-caution' from Vinicius Depizzol and
+	me (Close bugs #564629 and #564631)
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/devides/network-wireless.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.am:
