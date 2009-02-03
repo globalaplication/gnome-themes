@@ -1,6 +1,15 @@
 2009-02-03  Luca Ferretti <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-presentation.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/x-office-presentation.png:
+
+	New icon for 'x-office-presentation' (Closes bug #565705)
+
+2009-02-03  Luca Ferretti <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-document.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
 	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/x-office-document.png:
