@@ -17,11 +17,11 @@ icon_DATA =					\
 	video-x-generic.svg \
 	x-office-address-book.svg \
 	x-office-calendar.svg \
+	x-office-document.svg \
 	x-office-spreadsheet.svg
 
 placeholder_FILES = \
-	x-office-presentation.svg \
-	x-office-document.svg
+	x-office-presentation.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)

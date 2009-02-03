@@ -1,3 +1,12 @@
+2009-02-03  Luca Ferretti <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/mimetypes/x-office-document.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/mimetypes/x-office-document.png:
+
+	New icon for 'x-office-document' (Closes bug #565800)
+
 2009-01-30  Calum Benson  <calum.benson@sun.com>
 
 	* NEWS:

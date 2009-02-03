@@ -19,6 +19,7 @@ icon_DATA=	\
 		video-x-generic.png \
 		x-office-address-book.png \
 		x-office-calendar.png \
+		x-office-document.png \
 		$(NULL)
 
 EXTRA_DIST=	$(icon_DATA) \
