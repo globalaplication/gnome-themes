@@ -1,5 +1,22 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-unreadable.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/emblem-unreadable.png:
+
+	New icon for 'emblem-unreadable' (Closes bug #565854)
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/media-plylist-shuffle.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/media-playlist-shuffle.png:
+
+	New icon for 'media-playlist-shuffle' (Closes bug #565243)
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/status/media-plylist-repeat.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:

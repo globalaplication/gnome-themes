@@ -14,12 +14,12 @@ icon_DATA =				\
 	emblem-photos.svg \
 	emblem-readonly.svg \
 	emblem-symbolic-link.svg \
-	emblem-system.svg
+	emblem-system.svg \
+	emblem-unreadable.svg
 
 placeholder_FILES = \
 	emblem-shared.svg \
-	emblem-synchronized.svg \
-	emblem-unreadable.svg
+	emblem-synchronized.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)
