@@ -23,6 +23,7 @@ icon_DATA = \
 	media-tape.svg \
 	multimedia-player.svg \
 	network-wired.svg \
+	network-wireless.svg \
 	pda.svg \
 	phone.svg \
 	printer.svg \
@@ -32,8 +33,7 @@ icon_DATA = \
 placeholder_FILES = \
 	audio-card.svg \
 	input-gaming.svg \
-	modem.svg \
-	network-wireless.svg
+	modem.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)

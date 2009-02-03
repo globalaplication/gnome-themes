@@ -1,5 +1,14 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/devices/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/devides/network-wireless.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/devices/network-wireless.png:
+
+	New icon for 'network-wireless' (Closes bug #565704)
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/actions/mail-send-receive.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am:
