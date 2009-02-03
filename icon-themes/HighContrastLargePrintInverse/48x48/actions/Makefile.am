@@ -11,6 +11,7 @@ icon_DATA=	\
 		insert-image.png \
 		insert-text.png \
 		media-playback-pause.png \
+		mail-send-receive.png \
 		stock_new-tab.png \
 		system-log-out.png \
 		system-run.png \

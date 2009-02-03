@@ -1,5 +1,14 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrast-SVG/scalable/actions/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/actions/mail-send-receive.svg:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/Makefile.am:
+	* icon-themes/HighContrastLargePrintInverse/48x48/actions/mail-send-receive.png:
+
+	New icon for 'mail-send-receive' (Closes bug #565788)
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/emblems/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/emblems/emblem-unreadable.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/emblems/emblem-unreadable.png:
@@ -9,7 +18,7 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
-	* icon-themes/HighContrast-SVG/scalable/status/media-plylist-shuffle.svg:
+	* icon-themes/HighContrast-SVG/scalable/status/media-playlist-shuffle.svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:
 	* icon-themes/HighContrastLargePrintInverse/48x48/status/media-playlist-shuffle.png:
 

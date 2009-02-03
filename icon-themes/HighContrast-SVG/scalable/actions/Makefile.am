@@ -64,6 +64,7 @@ icon_DATA = \
 	mail-message-new.svg \
 	mail-reply-all.svg \
 	mail-reply-sender.svg \
+	mail-send-receive.svg \
 	media-eject.svg \
 	media-playback-pause.svg \
 	media-playback-start.svg \
@@ -110,8 +111,7 @@ placeholder_FILES = \
 	insert-link.svg \
 	mail-mark-junk.svg \
 	mail-mark-notjunk.svg \
-	mail-send.svg \
-	mail-send-receive.svg
+	mail-send.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)
