@@ -15,6 +15,7 @@ icon_DATA=	\
 		folder-drag-accept.png \
 		user-trash-full.png \
 		media-playlist-repeat.png \
+		media-playlist-shuffle.png \
 		weather-clear-night.png \
 		weather-clear.png \
 		weather-few-clouds-night.png \
