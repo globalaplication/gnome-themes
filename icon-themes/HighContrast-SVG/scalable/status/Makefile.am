@@ -19,6 +19,7 @@ icon_DATA =				\
 	folder-visiting.svg \
 	image-missing.svg \
 	mail-attachment.svg \
+	media-playlist-repeat.svg \
 	network-offline.svg \
 	network-online.svg \
 	software-update-available.svg \
@@ -46,7 +47,6 @@ placeholder_FILES = \
 	mail-signed.svg \
 	mail-signed-verified.svg \
 	mail-unread.svg \
-	media-playlist-repeat.svg \
 	media-playlist-shuffle.svg \
 	network-error.svg \
 	network-idle.svg \
