@@ -18,6 +18,8 @@ icon_DATA=	\
 		user-trash-full.png \
 		media-playlist-repeat.png \
 		media-playlist-shuffle.png \
+		printer-error.png \
+		printer-printing.png \
 		weather-clear-night.png \
 		weather-clear.png \
 		weather-few-clouds-night.png \

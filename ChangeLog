@@ -1,5 +1,17 @@
 2009-02-03  Luca Ferretti  <elle.uca@libero.it>
 
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/printer*:
+	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:
+	* icon-themes/HighContrast-SVG/scalable/status/printer*:
+	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
+
+	New 'printer-printing' and 'printer-error' by Vinicius Depizzol
+	Note: I wasn't able to produce Inverse using Negaive function
+	in Inkscape... Strange, needs investingation. By now close
+	bug #564910 and #564914
+
+2009-02-03  Luca Ferretti  <elle.uca@libero.it>
+
 	* icon-themes/HighContrast-SVG/scalable/status/Makefile.am:
 	* icon-themes/HighContrast-SVG/scalable/status/battery-*svg:
 	* icon-themes/HighContrastLargePrintInverse/48x48/status/Makefile.am:

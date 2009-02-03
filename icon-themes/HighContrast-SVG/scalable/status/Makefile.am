@@ -25,6 +25,7 @@ icon_DATA =				\
 	media-playlist-shuffle.svg \
 	network-offline.svg \
 	network-online.svg \
+	printer-printing.svg \
 	software-update-available.svg \
 	software-update-urgent.svg \
 	user-trash-full.svg \
@@ -53,8 +54,6 @@ placeholder_FILES = \
 	network-receive.svg \
 	network-transmit.svg \
 	network-transmit-receive.svg \
-	printer-error.svg \
-	printer-printing.svg \
 	security-high.svg \
 	security-medium.svg \
 	security-low.svg \
