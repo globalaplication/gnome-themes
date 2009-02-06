@@ -1,24 +1,25 @@
-# translation of gnome-themes.HEAD.or.po to Oriya
+# translation of or.po to Oriya
 # Oriya translation of gnome-themes.HEAD.pot.
-# Copyright (C) 2006, 2008, Free Software Foundation, Inc.
+# Copyright (C) 2006, 2008, 2009, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # $Id: or.po,v 1.1 2006/04/03 20:44:04 gmohanty Exp $
 #
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2006.
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2008.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes.HEAD.or\n"
+"Project-Id-Version: or\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-12 23:51+0000\n"
-"PO-Revision-Date: 2008-05-15 15:22+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
+"PO-Revision-Date: 2009-02-06 12:29+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -27,6 +28,14 @@ msgstr "ଆକର୍ଷଣକାରୀ ବ୍ଯବହାରଯୋଗ୍ଯତ�
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "ପରିଷ୍କାର ଚେହେରା"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "ପରିଷ୍କାର ଚେହେରା ପରୀକ୍ଷଣ ପ୍ରସଙ୍ଗ"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକରେ ସମସ୍ୟା ଖୋଜିବା ପାଇଁ ଭିନ୍ନ ରଙ୍ଗ ଯୋଜନା ସହିତ ପ୍ରସଙ୍ଗ"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -70,6 +79,7 @@ msgid "White-on-black text and icons"
 msgstr "କଳା-ଉପରେ-ଧଳା ପାଠ୍ଯ ଓ ଚିତ୍ରସଙ୍କେତ"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "ଅଧିକ ପ୍ରଭେଦ ବଡ଼ ଅକ୍ଷର"
 
@@ -78,6 +88,7 @@ msgid "Large black-on-white text and icons"
 msgstr "କଳା-ଉପରେ-ଧଳା ବଡ଼ ଅକ୍ଷର ପାଠ୍ଯ ଓ ଚିତ୍ରସଙ୍କେତ"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "ଅଧିକ ପ୍ରଭେଦ ବଡ଼ ଅକ୍ଷର ବିପରୀତ"
 
@@ -125,4 +136,12 @@ msgstr "କଳା ଧାର ସହିତ ଅଧିକ ପ୍ରଭେଦ ଆକ�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "ଅଧିକ ପ୍ରଭେଦ ବିଶିଷ୍ଟ-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "ଅଧିକ ପ୍ରଭେଦ ଚିତ୍ରସଙ୍କେତ ପ୍ରସଙ୍ଗ"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "ଅଧିକ ବିପରୀତ ପ୍ରଭେଦ ଚିତ୍ରସଙ୍କେତ ପ୍ରସଙ୍ଗ"
 
