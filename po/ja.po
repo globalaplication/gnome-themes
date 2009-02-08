@@ -1,14 +1,14 @@
 # gnome-themes ja.po.
-# Copyright (C) 2003-2008 Free Software Foundation, Inc.
+# Copyright (C) 2003-2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
-# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2003-2008.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2003-2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-31 23:32+0900\n"
-"PO-Revision-Date: 2008-07-31 23:30+0900\n"
+"POT-Creation-Date: 2009-02-09 00:36+0900\n"
+"PO-Revision-Date: 2009-02-09 00:36+0900\n"
 "Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,14 @@ msgstr "魅力的でなじみやすいデフォルトのテーマ"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "クリアールックス"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "クリアールックスのテスト用テーマ"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "アプリケーションの問題を発見するために別のスキーマを持ったテーマ"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
