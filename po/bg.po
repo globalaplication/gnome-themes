@@ -1,6 +1,6 @@
 # Bulgarian translation of gnome-themes po-file
-# Copyright (C) 2002, 2004, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
-# Alexander Shopov <ash@contact.bg>, 2002, 2005, 2006, 2007, 2008.
+# Copyright (C) 2002, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
+# Alexander Shopov <ash@contact.bg>, 2002, 2005, 2006, 2007, 2008, 2009.
 # Rostislav Raykov <zbrox@i-space.org>, 2004.
 # Vladimir Petkov <vpetkov@i-space.org>, 2004.
 #
@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-21 23:08+0300\n"
-"PO-Revision-Date: 2008-07-18 06:58+0300\n"
+"POT-Creation-Date: 2009-02-10 07:18+0200\n"
+"PO-Revision-Date: 2009-02-10 07:18+0200\n"
 "Last-Translator: Alexander Shopov <ash@contact.bg>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,14 @@ msgstr "Привлекателна лекота"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Яснота"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Тестов вариант на Яснота"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Тема с различна цветова схема за откриването на проблеми в програмите."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
