@@ -1,23 +1,25 @@
-# Catalan messages for gnome-themes.
-# Copyright © 2002, 2003, 2004, 2007 Free Software Foundation, Inc.
+# Asturian translation for gnome-themes
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
 # This file is distributed under the same license as the gnome-themes package.
-# Jordi Mallach <jordi@sindominio.net>, 2002, 2003, 2004, 2007.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes 2.7.0\n"
+"Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-10 02:09+0100\n"
-"PO-Revision-Date: 2009-02-10 02:09+0100\n"
-"Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
-"Language-Team: Catalan <tradgnome@softcatala.org>\n"
+"POT-Creation-Date: 2009-02-10 09:35+0100\n"
+"PO-Revision-Date: 2009-02-10 02:03+0100\n"
+"Last-Translator: Mikel González <dangerous_piper@softastur.org>\n"
+"Language-Team: Asturian <gnome@softastur.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-02-10 00:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
-msgstr "Usabilitat atractiva"
+msgstr "Facilidá d'usu atrautiva"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
@@ -25,13 +27,11 @@ msgstr "Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
 msgid "Clearlooks Test Theme"
-msgstr "Tema de prova del Clearlooks"
+msgstr "Tema de prueba Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
 msgid "Theme with a different colorscheme to find problems in applications."
-msgstr ""
-"Tema amb un esquema de colors diferent per a trobar problemes en les "
-"aplicacions."
+msgstr "tema con colores distintos pa dar con problemes nes aplicaciones."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -40,7 +40,7 @@ msgstr "Crux"
 
 #: ../desktop-themes/Crux/index.theme.in.h:2
 msgid "Smooth gradients with purple highlights"
-msgstr "Degradat suau amb ressaltats porpres"
+msgstr "Degradaos sonces con resaltaos púrpures"
 
 #: ../desktop-themes/Glider/index.theme.in.h:1
 msgid "Glider"
@@ -48,137 +48,95 @@ msgstr "Glider"
 
 #: ../desktop-themes/Glider/index.theme.in.h:2
 msgid "Simple, smooth and aesthetically pleasing"
-msgstr "Simple, suau i agradable estèticament"
+msgstr "Cenciellu, dondu y estéticamente complaciente"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
 msgid "A glossy looking theme"
-msgstr "Un tema lluent"
+msgstr "Un tema d'aspeutu pulíu"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr "LLuent"
+msgstr "Pulíu"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Text i icones en negre sobre blanc"
+msgstr "Testos ya iconos en prieto sobro blanco"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr "Contrast alt"
+msgstr "Altu contraste"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "Contrast alt invertit"
+msgstr "Altu contraste invertíu"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Text i icones en blanc sobre negre"
+msgstr "Testos ya iconos en blanco sobro prieto"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Contrast alt amb impressió gran"
+msgstr "Altu contraste ya imprentación grande"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Text i icones grans en negre sobre blanc"
+msgstr "Testos ya iconos grandes en prieto sobro blanco"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Contrast alt invertit amb impressió gran"
+msgstr "Altu contraste grande invertíu"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Text i icones grans en blanc sobre negre"
+msgstr "Testos ya iconos grandes en blanco sobro prieto"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "Impressió gran"
+msgstr "Imprentación grande"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "Text i icones grans"
+msgstr "Testos ya iconos grandes"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
-msgstr "Contrast baix"
+msgstr "Baxu contraste"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Text i icones en mat"
+msgstr "Testos ya iconos de tonos baxos"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Text i icones grans en mat"
+msgstr "Testos ya iconos grandes de tonu baxu"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Contrast baix amb impressió gran"
+msgstr "Imprentación de baxu contraste grande"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
-msgstr "Una aparença minimalista"
+msgstr "Un aspeutu minimalista"
 
 #: ../desktop-themes/Mist/index.theme.in.h:2
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr "Boira"
+msgstr "Ñeblina"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
-msgstr "Icones escalables de contrast alt amb vores negres"
+msgstr "Iconos escalables d'altu contraste con bordes prietos"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
-msgstr "ContrastAlt-SVG"
+msgstr "Altu contraste-SVG"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
-msgstr "Tema d'icones grans de contrast alt"
+msgstr "Tema d'iconos grandes d'altu contraste"
 
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
-msgstr "Tema d'icones grans de contrast alt invertit"
-
-#~ msgid "Dusty orange appearance"
-#~ msgstr "Una aparença ataronjada"
-
-#~ msgid "Grand Canyon"
-#~ msgstr "Gran Canyó"
-
-#~ msgid "Ocean Dream"
-#~ msgstr "Somni oceànic"
-
-#~ msgid "The colours of the seashore"
-#~ msgstr "Els colors del cavall marí"
-
-#~ msgid "Simple"
-#~ msgstr "Simple"
-
-#~ msgid "Thin appearance, high performance"
-#~ msgstr "Aparença plana, alt rendiment"
-
-#~ msgid "A soft glassy appearance"
-#~ msgstr "Una aparença suau i cristalina"
-
-#~ msgid "Smokey Blue"
-#~ msgstr "Blau fumejant"
-
-#~ msgid "Traditional"
-#~ msgstr "Tradicional"
-
-#~ msgid "Traditional hard-edged 3D appearance"
-#~ msgstr "Aparença tradicional amb cantons 3D durs"
-
-#~ msgid "Flat-Blue"
-#~ msgstr "Blau pla"
-
-#~ msgid "Sandy"
-#~ msgstr "Arenós"
-
-#~ msgid "Smokey-Blue"
-#~ msgstr "Blau fumejant"
-
-#~ msgid "Smokey-Red"
-#~ msgstr "Roig fumejant"
+msgstr "Tema d'iconos grandes d'altu contraste invertíu"
