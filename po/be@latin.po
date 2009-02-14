@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-09-22 00:22+0300\n"
-"PO-Revision-Date: 2007-09-22 00:35+0300\n"
+"POT-Creation-Date: 2009-02-14 03:50+0200\n"
+"PO-Revision-Date: 2009-02-14 03:52+0200\n"
 "Last-Translator: Ihar Hrachyshka <ihar.hrachyshka@gmail.com>\n"
 "Language-Team: Belarusian Latin <be-latin.open-tran.eu>\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,14 @@ msgstr "Pryvabnaja zručnaść"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Testavy matyŭ Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Matyŭ ź inšaj schiemaj koleraŭ, kab šukać prablemy ŭ aplikacyjach."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -65,6 +73,7 @@ msgid "White-on-black text and icons"
 msgstr "Biełyja ikony j tekst na čornym fonie"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
 msgstr "Vysoki kantrast, vialiki, drukarski"
 
@@ -73,6 +82,7 @@ msgid "Large black-on-white text and icons"
 msgstr "Vialikija čornyja ikony j tekst na biełym fonie"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
 msgstr "Invertavany vysoki kantrast, vialiki, drukarski"
 
@@ -120,3 +130,11 @@ msgstr "Maštabavalnyja ikony vysokaha kantrastu z čornymi krajami"
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "Vysoki kantrast-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "Matyŭ vialikich ikon z vysokim kantrastam"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "Invertavany matyŭ vialikich ikon z vysokim kantrastam"
