@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: gnome-themes 2.25.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-07 13:33+0100\n"
-"PO-Revision-Date: 2009-02-14 23:13+0100\n"
+"PO-Revision-Date: 2009-02-15 12:24+0100\n"
 "Last-Translator: Luca Ferretti <elle.uca@libero.it>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -27,12 +27,10 @@ msgid "Clearlooks"
 msgstr "Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
-#, fuzzy
 msgid "Clearlooks Test Theme"
 msgstr "Tema di test per Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
-#, fuzzy
 msgid "Theme with a different colorscheme to find problems in applications."
 msgstr ""
 "Tema con un diverso schema di colore per trovare problemi nelle applicazioni."
@@ -76,7 +74,7 @@ msgstr "Contrasto elevato inverso"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
-msgstr "Bianco su nero per testo ed icone"
+msgstr "Bianco su nero per testo e icone"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
@@ -85,7 +83,7 @@ msgstr "Contrasto elevato, caratteri larghi"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
-msgstr "Nero su bianco per testo ed icone grandi"
+msgstr "Nero su bianco per testo e icone grandi"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
@@ -94,7 +92,7 @@ msgstr "Contrasto elevato inverso, caratteri larghi"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Bianco su nero per testo ed icone grandi"
+msgstr "Bianco su nero per testo e icone grandi"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -102,7 +100,7 @@ msgstr "Caratteri larghi"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
-msgstr "Testo ed icone grandi"
+msgstr "Testo e icone grandi"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:1
 msgid "Low Contrast"
@@ -110,11 +108,11 @@ msgstr "Contrasto ridotto"
 
 #: ../desktop-themes/LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
-msgstr "Colori attenuati per testo ed icone"
+msgstr "Colori attenuati per testo e icone"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Colori attenuati per testo ed icone grandi"
+msgstr "Colori attenuati per testo e icone grandi"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -137,12 +135,10 @@ msgstr "Icone scalabili a contrasto elevato con bordi neri"
 msgid "HighContrast-SVG"
 msgstr "Contrasto elevato - SVG"
 
-# GNOME-2-24
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
 msgstr "Tema icone grandi a contrasto elevato"
 
-# GNOME-2-24
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
 msgstr "Tema icone grandi a contrasto elevato inverso"
