@@ -1,17 +1,19 @@
 # Dutch translation for Gnome themes
 #
+# This file is distributed under the same license as the gnome-themes package.
+#
 # Vincent van Adrighem <V.vanAdrighem@dirck.mine.nu>, 2003
 # Reinout van Schouwen <reinout@cs.vu.nl>, 2003
 # Henrik Goijer <henrikgoijer@home.nl>, 2004
 # Tino Meinen <a.t.meinen@chello.nl>, 2004, 2006.
-# Wouter Bolsterlee <wbolster@gnome.org>, 2008.
+# Wouter Bolsterlee <wbolster@gnome.org>, 2008–2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes cvs\n"
+"Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-07 18:28+0200\n"
-"PO-Revision-Date: 2008-09-07 18:28+0200\n"
+"POT-Creation-Date: 2009-02-16 13:19+0100\n"
+"PO-Revision-Date: 2009-02-16 13:18+0100\n"
 "Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
 "Language-Team: Dutch <vertaling@nl.linux.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,6 +28,15 @@ msgstr "Bruikbaar en mooi"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Clearlooks-testthema"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr ""
+"Thema met een afwijkend kleurenschema om problemen in toepassingen te vinden."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
