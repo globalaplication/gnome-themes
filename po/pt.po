@@ -1,14 +1,14 @@
 # gnome-themes' Portuguese translation.
-# Copyright © 2003, 2004, 2005, 2006, 2007, 2008 gnome-themes
+# Copyright © 2003, 2004, 2005, 2006, 2007, 2008, 2009 gnome-themes
 # This file is distributed under the same license as the gnome-themes package.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004, 2005, 2006, 2007, 2008.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004, 2005, 2006, 2007, 2008, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.24\n"
+"Project-Id-Version: 2.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-13 11:47+0100\n"
-"PO-Revision-Date: 2008-08-13 11:50+0000\n"
+"POT-Creation-Date: 2009-02-25 23:59+0000\n"
+"PO-Revision-Date: 2009-02-26 00:05+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,14 @@ msgstr "Usabilidade Atraente"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Aspecto Claro"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Tema de Teste de Aspecto Claro"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Tema com um esquema de cores diferente para encontrar problemas em aplicações."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
