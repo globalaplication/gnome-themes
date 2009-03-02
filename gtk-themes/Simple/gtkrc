@@ -64,8 +64,15 @@ style "progressbar" = "default"
   fg[PRELIGHT] = "#ffffff"
 }
 
+style "entry"
+{
+  bg[SELECTED] = "#A3B0C9"
+  fg[SELECTED] = "#000000"
+}
+
 class "GtkWidget" style "default"
 class "GtkMenuItem*"	style "menu"
 class "GtkCheckButton" style "togglebuttons"
 class "GtkRadioButton" style "togglebuttons"
 class "GtkProgressBar" style "progressbar"
+class "GtkEntry" style "entry"

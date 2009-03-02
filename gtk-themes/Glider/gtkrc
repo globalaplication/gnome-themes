@@ -111,6 +111,7 @@ style "textentry"
 {
 #    bg[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
 #    base[INSENSITIVE] = "#DEDCD7" # Varient of Basic 3D Highlight
+    bg[SELECTED] = mix(0.85, @selected_bg_color, @base_color)
 }
 widget_class "*GtkEntry" style "textentry"
 

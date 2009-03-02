@@ -1,5 +1,11 @@
 2009-03-02  Benjamin Berg  <benjamin@sipsolutions.net>
 
+	* gtk-themes/Glider/gtkrc:
+	* gtk-themes/Simple/gtkrc:
+	Improve the progress bar in entries a bit.
+
+2009-03-02  Benjamin Berg  <benjamin@sipsolutions.net>
+
 	* gtk-themes/Simple/gtkrc:
 	Fix progress bar color (it broke quite a long time ago).
 
