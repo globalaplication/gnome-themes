@@ -60,6 +60,7 @@ style "togglebuttons" = "default"
 
 style "progressbar" = "default"
 {
+  bg[PRELIGHT] = "#456b7f"
   fg[PRELIGHT] = "#ffffff"
 }
 
