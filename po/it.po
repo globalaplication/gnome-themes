@@ -3,15 +3,12 @@
 # Copyright (C) 2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc
 # Luca Ferretti <elle.uca@libero.it>, 2003, 2004, 2005, 2006, 2007, 2008, 2009.
 #
-#
-# L'utilità di questo commento è nulla, mi serviva solo una
-# lettera accentate per rendere il file UTF-8 :-P
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.25.x\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-07 13:33+0100\n"
-"PO-Revision-Date: 2009-02-15 12:24+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes&component=general\n"
+"POT-Creation-Date: 2009-02-16 18:26+0000\n"
+"PO-Revision-Date: 2009-03-02 21:15+0100\n"
 "Last-Translator: Luca Ferretti <elle.uca@libero.it>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +59,7 @@ msgstr "Glossy"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
-msgstr "Nero su bianco per testo ed icone"
+msgstr "Nero su bianco per testo e icone"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:2
 msgid "High Contrast"
@@ -79,7 +76,7 @@ msgstr "Bianco su nero per testo e icone"
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
 msgid "High Contrast Large Print"
-msgstr "Contrasto elevato, caratteri larghi"
+msgstr "Contrasto elevato, caratteri grandi"
 
 #: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
 msgid "Large black-on-white text and icons"
@@ -88,7 +85,7 @@ msgstr "Nero su bianco per testo e icone grandi"
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "Contrasto elevato inverso, caratteri larghi"
+msgstr "Contrasto elevato inverso, caratteri grandi"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -96,7 +93,7 @@ msgstr "Bianco su nero per testo e icone grandi"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
-msgstr "Caratteri larghi"
+msgstr "Caratteri grandi"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:2
 msgid "Large text and icons"
@@ -116,7 +113,7 @@ msgstr "Colori attenuati per testo e icone grandi"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
-msgstr "Contrasto ridotto, caratteri larghi"
+msgstr "Contrasto ridotto, caratteri grandi"
 
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
