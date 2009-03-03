@@ -1,17 +1,17 @@
 # translation of bn_IN.po to Bengali INDIA
 # The Bengali India  translation for gnome-themes
-# Copyright (C) 2002, 2006, 2007, 2008 Free Software Foundation, Inc.
+# Copyright (C) 2002, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 #
 # Jamil Ahmed <jamil@bengalinux.org>, 2003.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
-# Runa Bhattacharjee <runab@redhat.com>, 2008.
+# Runa Bhattacharjee <runab@redhat.com>, 2008, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: bn_IN\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-30 04:09+0000\n"
-"PO-Revision-Date: 2008-09-05 12:48+0530\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
+"PO-Revision-Date: 2009-03-03 18:41+0530\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
 "Language-Team: Bengali INDIA <fedora-trans-bn_IN@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,14 @@ msgstr "আকর্ষণীয় ব্যবহারযোগ্যতা"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "ক্লিয়ার-লুকস"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "ক্লিয়ার-লুকস পরীক্ষামূলক থিম"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "অ্যাপ্লিকেশনের মধ্যে উপস্থিত সমস্যা সনাক্ত করার জন্য ভিন্ন রঙের বিন্যাস বিশিষ্ট একটি থিম।"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
