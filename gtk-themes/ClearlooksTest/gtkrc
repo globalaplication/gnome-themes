@@ -41,6 +41,8 @@ style "clearlooks-default" {
 	# Without this, gecko will fill in the background of the entry.
 	GtkEntry::honors-transparent-bg-hint = 1
 
+	GtkEntry::progress-border = { 2, 2, 2, 2 }
+
 	####################
 	# Color Definitions
 	####################
@@ -90,6 +92,14 @@ style "clearlooks-wide" {
 style "clearlooks-wider" {
 	xthickness = 3
 	ythickness = 3
+}
+
+style "clearlooks-entry" {
+	xthickness = 3
+	ythickness = 3
+
+	bg[SELECTED] = mix (0.4, @selected_bg_color, @base_color)
+	fg[SELECTED] = @text_color
 }
 
 style "clearlooks-spinbutton" {
@@ -324,7 +334,7 @@ class "GtkWidget" style "clearlooks-default"
 class "GtkSeparator" style "clearlooks-wide"
 class "GtkFrame" style "clearlooks-wide"
 class "GtkCalendar" style "clearlooks-wide"
-class "GtkEntry" style "clearlooks-wider"
+class "GtkEntry" style "clearlooks-entry"
 
 class "GtkSpinButton" style "clearlooks-spinbutton"
 class "GtkScale" style "clearlooks-scale"

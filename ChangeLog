@@ -1,3 +1,11 @@
+2009-03-08  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/ClearlooksTest/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+	Add support for the entry progress in Clearlooks based themes.
+
 2009-03-02  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/Glider/gtkrc:
