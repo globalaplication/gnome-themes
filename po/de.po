@@ -2,15 +2,15 @@
 # Copyright (C) 2002-2003 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 # Christian Neumair <chris@gnome-de.org>, 2002, 2003.
-# Hendrik Richter <hendrikr@gnome.org>, 2004, 2005, 2006, 2007, 2008.
+# Hendrik Richter <hendrikr@gnome.org>, 2004, 2005, 2006, 2007, 2008, 2009.
 #
 # Manche Themennamen sind Eigennamen. Bitte nicht übersetzen.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.4.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-01 09:13+0200\n"
-"PO-Revision-Date: 2008-09-01 09:16+0200\n"
+"POT-Creation-Date: 2009-03-10 09:39+0100\n"
+"PO-Revision-Date: 2009-03-10 10:35+0100\n"
 "Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,15 @@ msgstr "Attraktiv und benutzerfreundlich"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "Clearlooks-Test-Thema"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr ""
+"Thema mit einem speziellen Farbschema um Probleme in Anwendungen zu finden."
 
 # Eigenname
 #: ../desktop-themes/Crux/index.theme.in.h:1
