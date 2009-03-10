@@ -1,3 +1,11 @@
+2009-03-10  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/ClearlooksTest/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+	Fix the focus color of entries.
+
 2009-03-08  Benjamin Berg  <benjamin@sipsolutions.net>
 
 	* gtk-themes/ClearlooksClassic/gtkrc:
