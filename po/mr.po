@@ -1,15 +1,15 @@
-# translation of mr.po to marathi
+# translation of gnome-themes.HEAD.mr.po to marathi
 # This file is distributed under GPL.
 #
 # Sameer N. Ingole <strike@proscrutiny.com>, 2006.
 # Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
-# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008.
+# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: mr\n"
+"Project-Id-Version: gnome-themes.HEAD.mr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-05-30 04:09+0000\n"
-"PO-Revision-Date: 2008-09-12 10:41+0530\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
+"PO-Revision-Date: 2009-03-13 13:21+0530\n"
 "Last-Translator: Sandeep Shedmake <sandeep.shedmake@gmail.com>\n"
 "Language-Team: marathi\n"
 "MIME-Version: 1.0\n"
@@ -25,6 +25,14 @@ msgstr "आकर्षक उपयोगीता"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "क्लिअरलुक्स"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "क्लिअरलुक्स चाचणी दृष्य कल्पना"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "अनुप्रयोग अंतर्गत अडचणी शोधण्याकरीता विविध रंग मांडणी सह दृष्य कल्पना."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
