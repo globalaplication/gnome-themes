@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-10 02:09+0100\n"
-"PO-Revision-Date: 2009-02-10 02:09+0100\n"
+"POT-Creation-Date: 2009-03-15 22:15+0100\n"
+"PO-Revision-Date: 2009-03-09 21:34+0100\n"
 "Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "Un tema lluent"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr "LLuent"
+msgstr "Lluent"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -92,6 +92,7 @@ msgstr "Contrast alt invertit amb impressió gran"
 msgid "Large white-on-black text and icons"
 msgstr "Text i icones grans en blanc sobre negre"
 
+# FIXME: potser hauria de ser «Gran format» (dpm)
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
 msgstr "Impressió gran"
@@ -104,14 +105,17 @@ msgstr "Text i icones grans"
 msgid "Low Contrast"
 msgstr "Contrast baix"
 
+# FIXME: muted potser hauria de ser «suavitzats» (dpm)
 #: ../desktop-themes/LowContrast/index.theme.in.h:2
 msgid "Muted text and icons"
 msgstr "Text i icones en mat"
 
+# FIXME: muted potser hauria de ser «suavitzats» (dpm)
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
 msgstr "Text i icones grans en mat"
 
+# FIXME: potser hauria de ser «Gran format» (dpm)
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "Contrast baix amb impressió gran"
