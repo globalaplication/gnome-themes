@@ -5,79 +5,21 @@
 #
 #
 # jaswinder singh <jaswindersinghra@yahoo.com>, 2004.
-# Amanpreet Singh Alam <aalam@redhat.com>, 2004.
-# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
-# A S Alam <aalam@users.sf.net>, 2007.
+# A S Alam <aalam@users.sf.net>, 2004, 2005, 2006, 2007, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 04:00+0000\n"
-"PO-Revision-Date: 2007-03-12 07:32+0530\n"
+"POT-Creation-Date: 2008-11-07 13:33+0100\n"
+"PO-Revision-Date: 2009-03-14 22:49+0000\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
-"Language-Team: Punjabi <punjabi-l10n@lists.sf.net>\n"
+"Language-Team: Punjabi/Panjabi <punjab-l10n@list.sf.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
-
-#: ../HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "ਚਿੱਟੇ ਉੱਪਰ ਕਾਲਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../HighContrast/index.theme.in.h:2
-msgid "High Contrast"
-msgstr "ਵੱਧ ਭਿੰਨਤਾ"
-
-#: ../HighContrastInverse/index.theme.in.h:1
-msgid "High Contrast Inverse"
-msgstr "ਵੱਧ ਭਿੰਨਤਾ ਉਲਟ"
-
-#: ../HighContrastInverse/index.theme.in.h:2
-msgid "White-on-black text and icons"
-msgstr "ਕਾਲੇ ਉੱਪਰ ਚਿੱਟਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:1
-msgid "High Contrast Large Print"
-msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ"
-
-#: ../HighContrastLargePrint/index.theme.in.in.h:2
-msgid "Large black-on-white text and icons"
-msgstr "ਚਿੱਟੇ ਉੱਪਰ ਕਾਲਾ ਵੱਡਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:1
-msgid "High Contrast Large Print Inverse"
-msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ ਉਲਟ"
-
-#: ../HighContrastLargePrintInverse/index.theme.in.in.h:2
-msgid "Large white-on-black text and icons"
-msgstr "ਕਾਲੇ ਉਪਰ ਚਿਟੇ ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../LargePrint/index.theme.in.in.h:1
-msgid "Large Print"
-msgstr "ਵੱਡਾ ਪਰਿੰਟ"
-
-#: ../LargePrint/index.theme.in.in.h:2
-msgid "Large text and icons"
-msgstr "ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../LowContrast/index.theme.in.h:1
-msgid "Low Contrast"
-msgstr "ਘੱਟ ਭਿੰਨਤਾ"
-
-#: ../LowContrast/index.theme.in.h:2
-msgid "Muted text and icons"
-msgstr "ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "ਵੱਡੇ ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
-
-#: ../LowContrastLargePrint/index.theme.in.in.h:2
-msgid "Low Contrast Large Print"
-msgstr "ਘੱਟ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -86,6 +28,14 @@ msgstr "ਦਿਲਖਿੱਚਵੀਂ ਸਹੂਲਤ"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "ਸਾਫ਼ ਦਿੱਖ"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+msgid "Clearlooks Test Theme"
+msgstr "ਸਾਫ਼ ਦਿੱਖ ਟੈਸਟ ਥੀਮ"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਸਮੱਸਿਆ ਲੱਭਣ ਲਈ ਵੱਖਰੀ ਰੰਗ-ਸਕੀਮ ਨਾਲ ਥੀਮ ਹੈ।"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -112,6 +62,64 @@ msgstr "ਇੱਕ ਗਲੋਸੀ ਦਿੱਖ ਸਰੂਪ"
 msgid "Glossy"
 msgstr "ਗਲੋਸੀ"
 
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
+msgid "Black-on-white text and icons"
+msgstr "ਚਿੱਟੇ ਉੱਤੇ ਕਾਲਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "High Contrast"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
+msgid "High Contrast Inverse"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਉਲਟ"
+
+#: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
+msgid "White-on-black text and icons"
+msgstr "ਕਾਲੇ ਉੱਤੇ ਚਿੱਟਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:1
+msgid "High Contrast Large Print"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ"
+
+#: ../desktop-themes/HighContrastLargePrint/index.theme.in.in.h:2
+msgid "Large black-on-white text and icons"
+msgstr "ਚਿੱਟੇ ਉੱਤੇ ਕਾਲਾ ਵੱਡਾ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
+msgid "High Contrast Large Print Inverse"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ ਉਲਟ"
+
+#: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
+msgid "Large white-on-black text and icons"
+msgstr "ਕਾਲੇ ਉਤੇ ਚਿੱਟੇ ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:1
+msgid "Large Print"
+msgstr "ਵੱਡਾ ਪਰਿੰਟ"
+
+#: ../desktop-themes/LargePrint/index.theme.in.in.h:2
+msgid "Large text and icons"
+msgstr "ਵੱਡੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:1
+msgid "Low Contrast"
+msgstr "ਘੱਟ ਭਿੰਨਤਾ"
+
+#: ../desktop-themes/LowContrast/index.theme.in.h:2
+msgid "Muted text and icons"
+msgstr "ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
+msgid "Large muted text and icons"
+msgstr "ਵੱਡੇ ਤਬਦੀਲ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
+
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Low Contrast Large Print"
+msgstr "ਘੱਟ ਭਿੰਨਤਾ ਵੱਡਾ ਪਰਿੰਟ"
+
 #: ../desktop-themes/Mist/index.theme.in.h:1
 msgid "A minimalistic appearance"
 msgstr "ਇਕ minimalistic ਦਿੱਖ"
@@ -128,4 +136,12 @@ msgstr "ਕਾਲੇ ਹਾਸ਼ੀਏ ਨਾਲ ਉੱਚ ਵੱਖਰੇਵ�
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
 msgstr "ਵੱਧ ਵੱਖਰੇਵਾਂ-SVG"
+
+#: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
+msgid "Large High Contrast Icon Theme"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਉਲਟ ਆਈਕਾਨ ਥੀਮ"
+
+#: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
+msgid "Large Inverse High Contrast Icon Theme"
+msgstr "ਵੱਧ ਭਿੰਨਤਾ ਉਲਟ ਆਈਕਾਨ ਥੀਮ"
 
