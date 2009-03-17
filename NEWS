@@ -1,3 +1,31 @@
+2.26.0
+======
+
+Features/bugfixes:
+
+	* Fix progress bar color in Simple (Benjamin Berg)
+	* Improve the progress bar in entries a bit in Glider and Simple
+	  (Benjamin Berg)
+	* Add support for the entry progress in Clearlooks based themes
+	  (Benjamin Berg)
+
+New/updated translations:
+
+	Amitakhya Phukan (as)
+	Runa Bhattacharjee (bn_IN)
+	Jordi Mallach (ca)
+	Ole Laursen (da)
+	Hendrik Richter (de)
+	Jennie Petoumenou (el)
+	Suso Baleato (gl)
+	Rajesh Ranjan (hi)
+	Luca Ferretti (it)
+	Sandeep Shedmake (mr)
+	Nickolay V. Shmyrev (ru)
+	I. Felix (ta)
+	Krishna Babu K (te)
+
+
 2.25.92
 =======
 
