@@ -8,8 +8,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.gnome-2-16.ar\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-06-11 22:29+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"themes&component=general\n"
+"POT-Creation-Date: 2009-03-17 14:13+0000\n"
 "PO-Revision-Date: 2008-09-18 02:29+0100\n"
 "Last-Translator: Djihed Afifi <djihed@gmail.com>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
@@ -17,7 +18,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : "
+"3\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Attractive Usability"
@@ -26,6 +28,15 @@ msgstr "سهولة إستعمال جَذَّابة"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "مظهر نقي"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+#, fuzzy
+msgid "Clearlooks Test Theme"
+msgstr "مظهر نقي"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr ""
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -134,4 +145,3 @@ msgstr "نسق ايقونات تباين عال وكبير"
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
 msgstr "نسق ايقونات تباين عال معكوس وكبير"
-
