@@ -1,3 +1,11 @@
+2009-04-09  Benjamin Berg  <benjamin@sipsolutions.net>
+
+	* gtk-themes/ClearlooksClassic/gtkrc:
+	* gtk-themes/ClearlooksTest/gtkrc:
+	* gtk-themes/Glossy/gtkrc:
+	* gtk-themes/Inverted/gtkrc:
+	Turns out that the shade for the focus color was the wrong one.
+
 2009-03-17  Vincent Untz  <vuntz@gnome.org>
 
 	* configure.in: post-release bump to 2.26.1
