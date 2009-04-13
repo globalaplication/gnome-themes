@@ -1,3 +1,22 @@
+2.26.1
+======
+
+Features/bugfixes:
+
+2009-04-09  Benjamin Berg  <benjamin@sipsolutions.net>
+	ClearlooksClassic,ClearlooksTest,Glossy,Inverted:
+	Turns out that the shade for the focus color was the wrong one.
+
+New/updated translations:
+
+2009-03-24  Shankar Prasad  <svenkate@redhat.com>
+        * kn.po: Added Kannada(kn.po) translations.
+	* LINGUAS: Addded Kananda(kn) to the list.
+
+2009-03-18  Djihed Afifi <djihed@gmail.com>
+	* ar.po: Updated Arabic translation by Djihed Afifi.
+
+
 2.26.0
 ======
 
