@@ -1,3 +1,29 @@
+2.27.2
+======
+
+Author: Calum Benson <calum@gnome.org>
+    [ChangeLog] Switch to git-generated ChangeLog.
+
+Author: Luca Ferretti <elle.uca@libero.it>
+    [HC-svg] Fixed canvas size for numerous HC-svg icons.
+    Fix wrong background
+
+Author: <miquelespla@gmail.com>
+    Added Valencian-Catalan translation
+
+Author: krishnababu k <kkrothap@redhat.ocm>
+    Adding new Telegu Translations
+
+2.27.1
+======
+
+Author: Olav Vitters <olav@bkor.dhs.org>
+    Add DOAP file
+
+Author: Ray Wang <wanglei1123@gmail.com>
+    Updated zh_CN translation.
+
+
 2.26.1
 ======
 
