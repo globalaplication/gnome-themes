@@ -4,7 +4,8 @@ context = devices
 
 icondir = $(themedir)/$(size)/$(context)
 
-icon_DATA =
+icon_DATA = \
+	drive-removable-media-flash.svg
 
 EXTRA_DIST = \
 	$(icon_DATA)
