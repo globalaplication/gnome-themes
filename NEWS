@@ -1,3 +1,39 @@
+2.27.3
+======
+
+Features/bugfixes:
+
+Author: Luca Ferretti <elle.uca@libero.it>
+
+    [HC-svg] Fix canvas size for dialog-question
+    [HC-svg] Fix canvas size for folder-drag-accept
+    [HC-svg] Fix canvas size for folder-open
+
+    [HC-svg] Redraw computer to fix canvas size
+    Quick hack based on video-display icon, could be good in future
+    review this icon, video-display and screensaver one in order
+    to differentiate them in a better way
+
+    [HC-svg] Re-draw audio-input-microphone
+    Previous one had wrong canvas size and different appearance. I choosed
+    to re-draw from scratch using the same appearance (old talk radio)
+    used on phisical jack, gnome-icon-theme and moblin icon theme.
+    More works could be needed
+
+    [HC-svg] Fix canvas size for utilities-terminal
+    [HC-svg] Fix canvas size for utities-system-monitor
+    [HC-svg] Fix canvas size for help browser
+    [HC-svg] media-flash, not drive-removable-media-flash
+    [HC-svg] Add icons for wireless signal strenght in nm-applet
+
+    [HC-svg] Add extra drive-removable-media-flash icon
+    If I'm right, this icon should be used by gvfs (hal and gdu) when you
+    plug an USB thumdrive. Could be good check it...
+
+    [HC-svg] Fixed canvas size and spacing for text-editor
+    [HC-svg] Redraw (and simplify) accessories calculator to fix canvas size
+    [HC-svg] Redraw accessories-character-map to fix canvas size and spacing
+
 2.27.2
 ======
 
