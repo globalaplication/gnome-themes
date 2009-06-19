@@ -111,7 +111,8 @@ placeholder_FILES = \
 	insert-link.svg \
 	mail-mark-junk.svg \
 	mail-mark-notjunk.svg \
-	mail-send.svg
+	mail-send.svg \
+	system-reboot.svg
 
 if PLACEHOLDERS
 icon_DATA += $(placeholder_FILES)
