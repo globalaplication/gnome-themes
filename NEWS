@@ -1,3 +1,29 @@
+2.27.4
+======
+
+Features/bugfixes:
+
+Author: Luca Ferretti <elle.uca@libero.it>
+    [HC-svg] Add placeholder for system-reeboot
+    Recently added to icon-naming-spec, copying the red dot by now;
+    Maybe a flipped view-restore could be good.
+
+New/updated translations:
+
+Author: Maxim V. Dziumanenko <dziumanenko@gmail.com>
+    Updated Ukrainian translation
+
+
+2.27.3.1
+========
+
+Features/bugfixes:
+
+Author: Matthias Clasen <mclasen@redhat.com>
+    Remove a duplicate line
+    This causes build failures with recent autotools. Bug 587113
+
+
 2.27.3
 ======
 
