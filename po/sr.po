@@ -9,8 +9,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.6\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-20 03:47+0200\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"themes&component=general\n"
+"POT-Creation-Date: 2009-04-18 20:11+0000\n"
 "PO-Revision-Date: 2008-09-20 03:47+0100\n"
 "Last-Translator: Горан Ракић <grakic@devbase.net>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
@@ -26,6 +27,15 @@ msgstr "Привлачна употребљивост"
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Бистар изглед"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
+#| msgid "Clearlooks"
+msgid "Clearlooks Test Theme"
+msgstr "Пробна тема за бистар изглед"
+
+#: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
+msgid "Theme with a different colorscheme to find problems in applications."
+msgstr "Тема са бојама које помажу да пронађете проблеме у програмима."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -137,30 +147,42 @@ msgstr "Тема иконица обрнутог великог контраст
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Магловити наранџасти приказ"
+
 #~ msgid "Grand Canyon"
 #~ msgstr "Велики Кањон"
+
 #~ msgid "Ocean Dream"
 #~ msgstr "Сан океана"
+
 #~ msgid "The colours of the seashore"
 #~ msgstr "Боје обале мора"
+
 #~ msgid "Simple"
 #~ msgstr "Једноставно"
+
 #~ msgid "Thin appearance, high performance"
 #~ msgstr "Једноставан приказ, високе перфомансе"
+
 #~ msgid "A soft glassy appearance"
 #~ msgstr "Благо стакласти приказ"
+
 #~ msgid "Smokey Blue"
 #~ msgstr "Прљаво плава"
+
 #~ msgid "Traditional"
 #~ msgstr "Традиционална"
+
 #~ msgid "Traditional hard-edged 3D appearance"
 #~ msgstr "Традицонални приказ са оштрим ивицама"
+
 #~ msgid "Flat-Blue"
 #~ msgstr "Изравнато плава"
+
 #~ msgid "Sandy"
 #~ msgstr "Песковито"
+
 #~ msgid "Smokey-Blue"
 #~ msgstr "Прљаво плава"
+
 #~ msgid "Smokey-Red"
 #~ msgstr "Прљаво црвена"
-
