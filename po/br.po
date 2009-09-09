@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-themes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-17 18:09+0000\n"
-"PO-Revision-Date: 2009-08-26 13:02+0100\n"
+"PO-Revision-Date: 2009-09-06 20:46+0100\n"
 "Last-Translator: Denis\n"
 "Language-Team: Breton <br@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:2
 msgid "High Contrast"
-msgstr ""
+msgstr "Dargemm uhel"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "HighContrast-SVG"
-msgstr ""
+msgstr "DargemmUhel-SVG"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
