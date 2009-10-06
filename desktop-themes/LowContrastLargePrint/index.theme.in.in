@@ -6,7 +6,7 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=LowContrastLargePrint
-IconTheme=LowContrastLargePrint
+IconTheme=gnome
 MetacityTheme=Atlanta
 ApplicationFont=@LARGEPRINT_FONT@
 DesktopFont=@LARGEPRINT_DESKTOP_FONT@
