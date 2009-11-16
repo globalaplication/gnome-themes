@@ -1,3 +1,27 @@
+2.29.2
+======
+
+Features/bugfixes:
+
+Calum Benson <calum@gnome.org>
+   Use gnome icon theme for LowContrastLargePrint desktop theme. Fixes bug 
+   filed downstream at: 
+   http://bugs.opensolaris.org/bugdatabase/view_bug.do?bug_id=6789528.
+
+   Update symlinks to match f.d.o. icon naming spec. Fixes bug reported 
+   downstream at: 
+   http://bugs.opensolaris.org/bugdatabase/view_bug.do?bug_id=6881612.
+
+New/Updated translations:
+
+Thomas Thurman <tthurman@Dorothy.plexq.com>
+    Shavian translation
+
+2.29.1
+======
+
+Not released.
+
 2.28.0
 ======
 
