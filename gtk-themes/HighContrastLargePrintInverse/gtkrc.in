@@ -59,6 +59,12 @@ style "default"
   GtkIMHtml::hyperlink-visited-color = "#ffccff"
   GtkIMHtml::hyperlink-prelight-color = "#ffccff"
 
+  # Used in Evolution
+  GtkHTML::link_color = "#99ffff"       
+  GtkHTML::vlink_color = "#ffccff"      
+  GtkHTML::vlink_color = "#ffccff"     
+  GtkHTML::cite_color = "#BB8E8E"
+
   fg[NORMAL]      = "#ffffff"
   text[NORMAL]      = "#ffffff"
   bg[NORMAL]      = "#000033" 
