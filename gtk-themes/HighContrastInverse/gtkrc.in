@@ -42,6 +42,11 @@ style "default"
   GtkTreeView::expander-size = 16
   GtkRange::stepper-size = 20
   
+  # Pidgin
+  GtkIMHtml::hyperlink-color = "#99ffff"
+  GtkIMHtml::hyperlink-visited-color = "#ffccff" 
+  GtkIMHtml::hyperlink-prelight-color = "#ffccff"
+
   fg[NORMAL]      = "#ffffff"
   text[NORMAL]      = "#ffffff"
   bg[NORMAL]      = "#000033" 
