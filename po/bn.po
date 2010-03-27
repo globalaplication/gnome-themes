@@ -4,15 +4,16 @@
 # Jamil Ahmed <jamil@bengalinux.org>, 2003.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
 # Sadia Afroz <sadia@ankur.org.bd>, 2010.
+# Israt Jahan <israt@ankur.org.bd>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "themes&component=general\n"
-"POT-Creation-Date: 2009-04-17 13:13+0000\n"
-"PO-Revision-Date: 2010-01-24 02:15+0600\n"
-"Last-Translator: Sadia Afroz <sadia@ankur.org.bd>\n"
+"POT-Creation-Date: 2010-01-24 17:28+0000\n"
+"PO-Revision-Date: 2010-03-24 02:15+0600\n"
+"Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,12 +59,12 @@ msgstr "সহজ, মসৃন এবং নান্দনিক"
 # Translated by sadia
 #: ../desktop-themes/Glossy/index.theme.in.h:1
 msgid "A glossy looking theme"
-msgstr "একটি উজ্জল থীম"
+msgstr "একটি উজ্জ্বল থীম"
 
 # Translated by sadia
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr "উজ্জল"
+msgstr "উজ্জ্বল"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
