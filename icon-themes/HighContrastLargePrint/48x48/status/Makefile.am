@@ -13,6 +13,12 @@ icon_DATA=	\
 		audio-volume-muted.png \
 		folder-drag-accept.icon \
 		folder-drag-accept.png \
+		network-error.png \
+		network-idle.png \
+		network-offline.png \
+		network-receive.png \
+		network-transmit-receive.png \
+		network-transmit.png \
 		user-trash-full.png \
 		$(NULL)
 

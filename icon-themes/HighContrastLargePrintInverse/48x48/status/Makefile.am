@@ -18,6 +18,12 @@ icon_DATA=	\
 		user-trash-full.png \
 		media-playlist-repeat.png \
 		media-playlist-shuffle.png \
+		network-error.png \
+		network-idle.png \
+		network-offline.png \
+		network-receive.png \
+		network-transmit.png \
+		network-transmit-receive.png \
 		printer-error.png \
 		printer-printing.png \
 		weather-clear-night.png \
