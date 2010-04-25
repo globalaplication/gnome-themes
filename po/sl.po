@@ -1,14 +1,15 @@
+# Slovenian translation of gnome-themes.
 # Copyright (C) 2002-2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-themes package.
 #
 # Andraz Tori <andraz.tori1@guest.arnes.si>, 2006.
 # Matjaž Horvat <m@owca.info>, 2006.
 # Matic Žgur <mr.zgur@gmail.com>, 2007.
-# Matej Urbančič <mateju@svn.gnome.org> 2008.
+# Matej Urbančič <mateju@svn.gnome.org> 2008 - 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-themes\n"
+"Project-Id-Version: gnome-themes master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes&amp;component=general\n"
 "POT-Creation-Date: 2008-12-01 18:34+0000\n"
 "PO-Revision-Date: 2008-12-11 17:43+0100\n"
@@ -29,11 +30,11 @@ msgstr "Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
 msgid "Clearlooks Test Theme"
-msgstr "Testna tema Clearlooks"
+msgstr "Poskusna tema Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
 msgid "Theme with a different colorscheme to find problems in applications."
-msgstr "Tema z drugačno barvno shemo za iskanje težav v vmesniku programa."
+msgstr "Tema z drugačno barvno shemo za iskanje napak v vmesniku programa."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -58,7 +59,7 @@ msgstr "Tema z bleščečim videzom"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
-msgstr "Bleščeča"
+msgstr "Bleščeče"
 
 #: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "Black-on-white text and icons"
@@ -93,7 +94,7 @@ msgstr "Visok kontrast, velik izpis, obrnjeno"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
-msgstr "Velika, besedilo in ikone belo na črnem "
+msgstr "Velika, besedilo in ikone belo na črnem"
 
 #: ../desktop-themes/LargePrint/index.theme.in.in.h:1
 msgid "Large Print"
@@ -113,7 +114,7 @@ msgstr "Medla besedila in ikone"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
 msgid "Large muted text and icons"
-msgstr "Velika, medla besedila in ikone "
+msgstr "Velika, medla besedila in ikone"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
@@ -126,7 +127,7 @@ msgstr "Minimalističen videz"
 #: ../desktop-themes/Mist/index.theme.in.h:2
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
-msgstr "Megla"
+msgstr "Meglice"
 
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "High contrast scalable icons with black borders"
@@ -148,38 +149,54 @@ msgstr "Obrnjen visoko kontrastni slog"
 
 #~ msgid "Dusty orange appearance"
 #~ msgstr "Prašen oranžni videz"
+
 #~ msgid "Grand Canyon"
 #~ msgstr "Veliki kanjon"
+
 #~ msgid "Ocean Dream"
 #~ msgstr "Oceanske sanje"
+
 #~ msgid "The colours of the seashore"
 #~ msgstr "Barve morske obale"
+
 #~ msgid "Simple"
 #~ msgstr "Enostavna"
+
 #~ msgid "Thin appearance, high performance"
 #~ msgstr "Tenak videz, visoko storilno"
+
 #~ msgid "A soft glassy appearance"
 #~ msgstr "Mehak steklen videz"
+
 #~ msgid "Smokey Blue"
 #~ msgstr "Dimno modra"
+
 #~ msgid "Traditional"
 #~ msgstr "Tradicionalna"
+
 #~ msgid "Traditional hard-edged 3D appearance"
 #~ msgstr "Tradicionalen močno-obrobljen videz 3D"
+
 #~ msgid "Flat-Blue"
 #~ msgstr "Čisto modra"
+
 #~ msgid "Sandy"
 #~ msgstr "Peščena"
+
 #~ msgid "Smokey-Blue"
 #~ msgstr "Dimno-modra"
+
 #~ msgid "Smokey-Red"
 #~ msgstr "Dimno-rdeča"
+
 #~ msgid "Default"
 #~ msgstr "Privzeta"
+
 #~ msgid "Plain"
 #~ msgstr "Pusta"
+
 #~ msgid "Default Gnome Theme"
 #~ msgstr "Gnomova privzeta tema"
+
 #~ msgid "Gnome"
 #~ msgstr "Gnome"
-
