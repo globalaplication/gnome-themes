@@ -1,3 +1,29 @@
+2.30.1
+======
+
+Bugfixes/new features:
+
+Calum Benson <calum.benson@oracle.com>
+    Copy some status icons over from HCLPI that weren't in HCLP, for some reason
+
+Calum Benson <calum.benson@oracle.com>
+    Add HCLP and HCLPI versions of gnome-netstatus icons.
+    Fixes bug #140773.
+
+Calum Benson <calum.benson@oracle.com>
+    Tidy up Type information in high contrast index.theme files,
+    which was causing some icons to appear larger than intended.
+    Fixes bug #580558.
+
+New/updated translations:
+
+Matej Urbancic <mateju@svn.gnome.org>
+    Updated Slovenian translation
+
+Yannig Marchegay <yannig@marchegay.org>
+    Updated Occitan translation
+
+
 2.30.0
 =======
 
