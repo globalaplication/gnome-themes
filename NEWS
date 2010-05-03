@@ -1,3 +1,27 @@
+2.31.1
+======
+
+New features/bugfixes:
+
+Calum Benson <calum.benson@oracle.com>
+    Add some high contrast icons for Firefox and Thunderbird.
+    Add pidgin icons to HCLP, HCLPI and HCSVG themes.
+    Add gtkam icons to HCLP and HCLPI themes.
+    Add PDA icons to HCLP and HCLPI themes.
+    Copy some status icons over from HCLPI that weren't in HCLP. 
+    Add HCLP and HCLPI versions of gnome-netstatus icons. Fixes bug #140773.  
+    Tidy up Type information in high contrast index.theme files,
+    which was causing some icons to appear larger than intended.
+    Fixes bug #580558.
+
+New/updated translations:
+
+Matej Urbancic <mateju@svn.gnome.org>
+    Updated Slovenian translation
+
+Yannig Marchegay <yannig@marchegay.org>
+    Updated Occitan translation
+
 2.30.0
 =======
 

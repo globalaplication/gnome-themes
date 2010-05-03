@@ -17,6 +17,7 @@ icon_DATA=	\
 		input-mouse.png \
 		media-floppy.png \
 		media-optical.png \
+		pda.png \
 		printer.png \
 		$(NULL)
 

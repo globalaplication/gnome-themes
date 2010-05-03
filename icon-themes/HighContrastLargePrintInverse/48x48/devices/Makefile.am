@@ -18,6 +18,7 @@ icon_DATA=	\
 		media-floppy.png \
 		media-optical.png \
 		network-wireless.png \
+		pda.png \
 		printer.png \
 		$(NULL)
 

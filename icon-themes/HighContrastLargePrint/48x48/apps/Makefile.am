@@ -20,10 +20,12 @@ icon_DATA=	\
 		evince.png \
 		evolution.png \
 		file-roller.png \
+		firefox-icon.png \
 		gdict.png \
 		ghex.png \
 		gimp.png \
 		gkb.png \
+		gtkam-camera.png \
 		gnome-application-generic.png \
 		gnome-audio2.png \
 		gnome-calc3.png \
@@ -39,6 +41,7 @@ icon_DATA=	\
 		gnome-mailcheck.png \
 		gnome-mini-commander.png \
 		gnome-mixer-applet.png \
+		gnome-palm.png \
 		gnome-panel.png \
 		gnome-searchtool-animation-rest.png \
 		gnome-searchtool-animation.png \
@@ -54,6 +57,7 @@ icon_DATA=	\
 		mozilla-icon.png \
 		multimedia-volume-control.png \
 		orca.png \
+		pidgin.png \
 		panel-drawer.png \
 		panel-force-quit.png \
 		perfmeter.png \
@@ -71,6 +75,7 @@ icon_DATA=	\
 		sound-juicer.png \
 		star.png \
 		system-file-manager.png \
+		thunderbird-icon.png \
 		utilities-terminal.png \
 		window-capplet.png \
 		$(NULL)

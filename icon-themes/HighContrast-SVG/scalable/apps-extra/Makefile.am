@@ -10,8 +10,11 @@ icon_DATA = \
 	internet-mail.svg \
 	internet-news-reader.svg \
 	internet-web-browser.svg \
+	firefox-icon.svg \
 	glchess.svg	\
 	orca.svg \
+	pidgin.svg \
+	thunderbird-icon.svg \
 	preferences-system-network-proxy.svg \
 	preferences-system-session.svg \
 	preferences-system-windows.svg \
