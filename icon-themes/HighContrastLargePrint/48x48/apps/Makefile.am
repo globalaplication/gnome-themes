@@ -76,6 +76,7 @@ icon_DATA=	\
 		totem.png \
 		system-file-manager.png \
 		utilities-terminal.png \
+		utilities-system-monitor.png \
 		window-capplet.png \
 		$(NULL)
 
