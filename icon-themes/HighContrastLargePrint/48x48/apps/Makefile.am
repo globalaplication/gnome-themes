@@ -14,6 +14,7 @@ icon_DATA=	\
 		advanced-directory.png \
 		applets-screenshooter.png \
 		ax-applet.png \
+		brasero.png \
 		charpick.png \
 		clock.png \
 		display-capplet.png \

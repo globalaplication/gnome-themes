@@ -5,6 +5,7 @@ context = apps
 icondir = $(themedir)/$(size)/$(context)
 
 icon_DATA = \
+	brasero.svg \
 	bug-buddy.svg	\
 	internet-group-chat.svg \
 	internet-mail.svg \
@@ -19,6 +20,7 @@ icon_DATA = \
 	preferences-system-session.svg \
 	preferences-system-windows.svg \
 	rhythmbox.svg \
+	sound-juicer.svg \
 	tomboy.svg \
 	totem.svg
 
