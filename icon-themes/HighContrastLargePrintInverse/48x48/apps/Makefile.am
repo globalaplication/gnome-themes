@@ -9,6 +9,7 @@ icondir = $(themedir)/$(size)/$(context)
 icon_DATA=	\
 		accessories-calculator.png \
 		accessories-character-map.png \
+		accessories-dictionary.png \
 		accessories-text-editor.png \
 		advanced-directory.png \
 		applets-screenshooter.png \
@@ -21,7 +22,6 @@ icon_DATA=	\
 		evolution.png \
 		file-roller.png \
 		firefox-icon.png \
-		gdict.png \
 		ghex.png \
 		gimp.png \
 		gkb.png \

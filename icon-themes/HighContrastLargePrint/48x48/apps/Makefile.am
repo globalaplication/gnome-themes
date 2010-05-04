@@ -10,6 +10,7 @@ icon_DATA=	\
 		accessories-calculator.png \
 		accessories-character-map.png \
 		accessories-text-editor.png \
+		accessories-dictionary.png \
 		advanced-directory.png \
 		applets-screenshooter.png \
 		ax-applet.png \
@@ -21,7 +22,6 @@ icon_DATA=	\
 		evolution.png \
 		file-roller.png \
 		firefox-icon.png \
-		gdict.png \
 		ghex.png \
 		gimp.png \
 		gkb.png \
