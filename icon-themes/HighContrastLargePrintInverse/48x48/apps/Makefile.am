@@ -80,6 +80,7 @@ icon_DATA=	\
 		thunderbird-icon.png \
 		totem.png \
 		utilities-terminal.png \
+		utilities-system-monitor.png \
 		window-capplet.png \
 		$(NULL)
 
