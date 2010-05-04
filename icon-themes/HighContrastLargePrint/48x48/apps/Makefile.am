@@ -71,9 +71,11 @@ icon_DATA=	\
 		preferences-desktop-wallpaper.png \
 		preferences-system-session.png \
 		preferences-system-windows.png \
+		rhythmbox.png \
 		smc.png \
 		sound-juicer.png \
 		star.png \
+		totem.png \
 		system-file-manager.png \
 		thunderbird-icon.png \
 		utilities-terminal.png \
