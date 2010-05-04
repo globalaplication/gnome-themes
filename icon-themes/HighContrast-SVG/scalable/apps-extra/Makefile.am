@@ -15,7 +15,9 @@ icon_DATA = \
 	preferences-system-network-proxy.svg \
 	preferences-system-session.svg \
 	preferences-system-windows.svg \
-	tomboy.svg
+	rhythmbox.svg \
+	tomboy.svg \
+	totem.svg
 
 EXTRA_DIST = \
 	$(icon_DATA)
