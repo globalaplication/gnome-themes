@@ -15,12 +15,12 @@ icon_DATA = \
 	glchess.svg	\
 	orca.svg \
 	pidgin.svg \
-	thunderbird-icon.svg \
 	preferences-system-network-proxy.svg \
 	preferences-system-session.svg \
 	preferences-system-windows.svg \
 	rhythmbox.svg \
 	sound-juicer.svg \
+	thunderbird-icon.svg \
 	tomboy.svg \
 	totem.svg
 
