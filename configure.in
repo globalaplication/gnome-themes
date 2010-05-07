@@ -109,6 +109,33 @@ else
 fi
 AC_SUBST(TEST_THEMES)
 
+### Cursor theme to use for large print desktop themes.
+### TODO: Should probably check whether specified/default themes are
+### installed too, and do something appropriate if not.
+AC_ARG_WITH(lp-cursor-theme,
+[AS_HELP_STRING([--with-lp-cursor-theme=THEME],
+ [cursor theme for Large Print desktop theme [default=whiteglass]])],
+[LARGEPRINT_CURSOR_THEME="$withval"],
+[LARGEPRINT_CURSOR_THEME="whiteglass"],
+)
+AC_SUBST(LARGEPRINT_CURSOR_THEME)
+
+AC_ARG_WITH(hclp-cursor-theme,
+[AS_HELP_STRING([--with-hclp-cursor-theme=THEME],
+ [cursor theme for High Contrast Large Print desktop theme [default=redglass]])],
+[LARGEPRINT_HC_CURSOR_THEME="$withval"],
+[LARGEPRINT_HC_CURSOR_THEME="redglass"],
+)
+AC_SUBST(LARGEPRINT_HC_CURSOR_THEME)
+
+AC_ARG_WITH(hclpi-cursor-theme,
+[AS_HELP_STRING([--with-hclpi-cursor-theme=THEME],
+ [cursor theme for High Contrast Large Print Inverse desktop theme [default=whiteglass]])],
+[LARGEPRINT_HCI_CURSOR_THEME="$withval"],
+[LARGEPRINT_HCI_CURSOR_THEME="whiteglass"],
+)
+AC_SUBST(LARGEPRINT_HCI_CURSOR_THEME)
+
 ### Icon sizes for all large print themes
 
 LARGEPRINT_DND="48,48"
@@ -127,7 +154,7 @@ LARGEPRINT_DOCUMENTS_FONT="sans 18"
 LARGEPRINT_DESKTOP_FONT="sans 18"
 LARGEPRINT_WINDOW_FONT="sans 18"
 LARGEPRINT_MONOSPACE_FONT="monospace 18"
-
+LARGEPRINT_CURSOR_SIZE="48"
 
 AC_SUBST(LARGEPRINT_ICON_SIZES)
 AC_SUBST(LARGEPRINT_FONT)
@@ -135,6 +162,7 @@ AC_SUBST(LARGEPRINT_DOCUMENTS_FONT)
 AC_SUBST(LARGEPRINT_DESKTOP_FONT)
 AC_SUBST(LARGEPRINT_WINDOW_FONT)
 AC_SUBST(LARGEPRINT_MONOSPACE_FONT)
+AC_SUBST(LARGEPRINT_CURSOR_SIZE)
 
 dnl used to substitute in common sections of theme gtkrc files
 gtk_stock_icons_rc=${srcdir}/common/gtk-stock-icons.rc
@@ -298,8 +326,12 @@ gnome-themes-$VERSION:
 
         Installation prefix:	${prefix}
 
-	Enable placeholders: ${enable_placeholders}
-	Enable legacy icons: ${enable_mapping}
-	Enable all themes:   ${enable_all_themes}
-	Enable test themes:  ${enable_test_themes}
+	Enable placeholders:         ${enable_placeholders}
+	Enable legacy icons:         ${enable_mapping}
+	Enable all themes:           ${enable_all_themes}
+	Enable test themes:          ${enable_test_themes}
+        LargePrint cursor theme:     ${LARGEPRINT_CURSOR_THEME}
+	HC LargePrint cursor theme:  ${LARGEPRINT_HC_CURSOR_THEME}
+	HCI LargePrint cursor theme: ${LARGEPRINT_HCI_CURSOR_THEME}
+
 "
