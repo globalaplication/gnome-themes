@@ -1,4 +1,4 @@
-SUBDIRS = actions places status
+SUBDIRS = actions apps devices places status
 
 MAINTAINERCLEANFILES =	\
 	Makefile.in
