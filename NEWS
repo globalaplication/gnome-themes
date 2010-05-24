@@ -1,3 +1,56 @@
+2.31.2
+======
+
+Bugfixes/new features:
+
+Author: Bastien Nocera <hadess@hadess.net>
+    Update Mist folder icons from Fedora.
+
+Author: Benjamin Berg <benjamin@sipsolutions.net>
+    Fix evolution table header workaround for new evo versions.
+
+Author: Takao Fujiwara <tfujiwar@redhat.com>
+    Fix title vertical geometry in Clearlooks metacity theme.
+    https://bugzilla.gnome.org/show_bug.cgi?id=614343
+
+
+Author: Calum Benson <calum.benson@oracle.com>
+    Use large cursors with large print themes.  Fixes bug #490176.
+    Patch adds three new configuration options:
+    
+    --with-lp-cursor-theme=THEME
+    --with-hclp-cursor-theme=THEME
+    --with-hclpi-cursor-theme=THEME
+    
+    These allow you to specify which cursor theme to use with the LargePrint,
+    HighContrastLargePrint, and HighContrastLargePrintInverse desktop themes
+    by default, so that distros that ship (for example) DMZ-White and DMZ-Black
+    can (and probably should) specify those instead.
+    
+    The defaults are whiteglass for LP and HCLPI, and redglass for HCLP, since
+    these are usually available on any new-ish, X.org-based desktop. Unfortunate
+    their translucency and shadow makes them less-than-great choices, but the
+    Default cursor theme isn't resizable, so it's probably the best we can
+    do until it is.
+    
+    The cursor size for all large print themes is set to 48px. The LargePrint
+    setting is also used for the LowContrastLargePrint theme, since that theme
+    is really so rarely-used as to be not really worth its own setting.
+
+    Fix HCLP and HCLPI media-record icons so that they're visible
+    on mouse-over.  Fixes bug #415556.
+    Tidy up gtkrc files for HCLP and HCLPI themes, and add better hyperlink
+    colours.  Fixes bug #584261.
+    Add utilities-system-monitor to HCLP and HCLPI themes.
+    Add brasero and sound-juicer icons to high contrast themes.
+    Add totem and rhythmbox icons to high contrast themes.
+    Rename gdict icon -> accessories-dictionary in HCLP+HCLPI themes.
+
+New/updated translations:
+
+Author: Thomas Thurman <tthurman@gnome.org>
+    Updated Shavian transliteration
+
 2.31.1
 ======
 
