@@ -5,8 +5,8 @@ context = status
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =			\
-	folder-drag-accept.svg	\
-	folder-open.svg		\
+	folder-drag-accept.png	\
+	folder-open.png		\
 	folder-visiting.png
 
 EXTRA_DIST =		\
