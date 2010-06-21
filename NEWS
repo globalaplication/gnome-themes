@@ -1,3 +1,40 @@
+2.30.2
+======
+
+Bugfixes/new features:
+
+Author: Benjamin Berg <benjamin@sipsolutions.net>
+    Fix evolution table header workaround for new evo versions.
+
+Author: Calum Benson <calum.benson@oracle.com>
+    Fix HCLP and HCLPI media-record icons so that they're visible
+    on mouse-over. Fixes bug #415556.
+
+    Tidy up gtkrc files for HCLP and HCLPI themes, and add better hyperlink
+    colours.  Fixes bug #584261.
+
+    Add utilities-system-monitor to HCLP and HCLPI themes.
+
+    Add brasero and sound-juicer icons to high contrast themes.
+
+    Add totem and rhythmbox icons to high contrast themes.
+
+    Rename gdict icon -> accessories-dictionary in HCLP+HCLPI themes.
+
+    Add some high contrast icons for Firefox and Thunderbird.
+
+    Add pidgin icons to HCLP, HCLPI and HCSVG themes.
+
+    Add gtkam icons to HCLP and HCLPI themes.
+
+    Add PDA icons to HCLP and HCLPI themes.
+
+New/updated translations:
+
+Author: Rudols Mazurs <rudolfs.mazurs@gmail.com>
+    Updated Latvian translation.
+
+
 2.30.1
 ======
 
