@@ -175,7 +175,6 @@ AC_SUBST_FILE(metacity_stock_icons_rc)
 
 AC_CONFIG_FILES([
 Makefile
-gnome-themes.spec
 common/Makefile
 desktop-themes/Makefile
 desktop-themes/Crux/Makefile
