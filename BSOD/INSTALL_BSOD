@@ -8,10 +8,10 @@
 # Copy the gtk stuff into $HOME/.themes
 mkdir $HOME/.themes > /dev/null 2>&1
 mkdir $HOME/.themes/BSOD > /dev/null 2>&1
-cp -r index.theme gtk-2.0 pixmaps $HOME/.themes/BSOD > /dev/null 2>&1
+cp -r index.theme gtk-3.0 pixmaps $HOME/.themes/BSOD > /dev/null 2>&1
 
 # Set the pixmap_path correctly; it doesn't recognise $HOME unfortunately
-sed -e "s|xHOMEx|$HOME|" gtk-2.0/gtkrc > $HOME/.themes/BSOD/gtk-2.0/gtkrc
+sed -e "s|xHOMEx|$HOME|" gtk-3.0/gtkrc > $HOME/.themes/BSOD/gtk-3.0/gtkrc
 
 # Copy the icon stuff into $HOME/.icons
 mkdir $HOME/.icons > /dev/null 2>&1

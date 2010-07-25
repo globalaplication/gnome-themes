@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/HighContrastLargePrint/gtk-2.0
+themedir = $(datadir)/themes/HighContrastLargePrint/gtk-3.0
 
 theme_DATA = gtkrc
 

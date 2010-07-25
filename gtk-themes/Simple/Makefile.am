@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/Simple/gtk-2.0
+themedir = $(datadir)/themes/Simple/gtk-3.0
 
 theme_DATA = gtkrc
 

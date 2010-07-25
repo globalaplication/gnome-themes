@@ -1,4 +1,4 @@
-themedir = $(datadir)/themes/Glider/gtk-2.0
+themedir = $(datadir)/themes/Glider/gtk-3.0
 
 theme_DATA = gtkrc
 
