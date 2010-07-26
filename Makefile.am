@@ -6,8 +6,6 @@ SUBDIRS=	gtk-themes \
 		po
 
 EXTRA_DIST = \
-	gnome-themes.spec \
-	gnome-themes.spec.in \
 	low-contrast-preset.scm \
 	intltool-extract.in \
 	intltool-merge.in \
