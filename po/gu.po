@@ -1,4 +1,4 @@
-# translation of gu.po to Gujarati
+# translation of gnome-themes.master.gu.po to Gujarati
 # MagNet <magnet@magnet-i.com>, 2004.
 # Ankit Patel <ankit@redhat.com>, 2004, 2007.
 # Ankit Patel <ankit644@yahoo.com>, 2005, 2006.
@@ -6,10 +6,10 @@
 # Copyright (C) 2004, 2005, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
 msgid ""
 msgstr ""
-"Project-Id-Version: gu\n"
+"Project-Id-Version: gnome-themes.master.gu\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes&component=general\n"
-"POT-Creation-Date: 2010-03-27 19:34+0000\n"
-"PO-Revision-Date: 2010-07-16 12:08+0530\n"
+"POT-Creation-Date: 2010-07-16 06:39+0000\n"
+"PO-Revision-Date: 2010-07-28 16:30+0530\n"
 "Last-Translator: Sweta Kothari <swkothar@redhat.com>\n"
 "Language-Team: Gujarati\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "ઊંચો તફાવત"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "ઊંચા તફાવતને લાગુ કરો"
+msgstr "ઊંચા તફાવતને ઊલટું કરો"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -94,7 +94,7 @@ msgstr "સફેદ પર કાળા વિશાળ લખાણો અન�
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ ઓછી કરો"
+msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ ઊલટી કરો"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
