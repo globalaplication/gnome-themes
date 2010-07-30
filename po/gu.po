@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.gnome-2-28.gu\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-themes&component=general\n"
-"POT-Creation-Date: 2009-12-14 20:41+0000\n"
-"PO-Revision-Date: 2010-03-29 17:41+0530\n"
+"POT-Creation-Date: 2010-03-29 12:14+0000\n"
+"PO-Revision-Date: 2010-07-30 11:42+0530\n"
 "Last-Translator: Sweta Kothari <swkothar@redhat.com>\n"
 "Language-Team: Gujarati\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "ઊંચો તફાવત"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
-msgstr "ઊંચા તફાવતને લાગુ કરો"
+msgstr "ઊલટો ઊંચો તફાવત"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:2
 msgid "White-on-black text and icons"
@@ -94,7 +94,7 @@ msgstr "સફેદ પર કાળા વિશાળ લખાણો અન�
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:1
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:1
 msgid "High Contrast Large Print Inverse"
-msgstr "ઊંચા તફાવતવાળી વિશાળ છાપ અોછી કરો"
+msgstr "ઊલટી ઊંચા તફાવતવાળી વિશાળ છાપ"
 
 #: ../desktop-themes/HighContrastLargePrintInverse/index.theme.in.in.h:2
 msgid "Large white-on-black text and icons"
@@ -143,9 +143,9 @@ msgstr "HighContrast-SVG"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
-msgstr "વિશાળ ઊંચો તફાવત આઇકોન થીમ"
+msgstr "વિશાળ ઊંચા તફાવતવાળી ચિહ્ન થીમ"
 
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
-msgstr "વિશાળ વિપરીત ઊંચો તફાવત આઇકોન થીમ"
+msgstr "વિશાળ ઊલટા ઊંચા તફાવતવાળી ચિહ્ન થીમ"
 
