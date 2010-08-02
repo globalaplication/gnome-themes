@@ -1,3 +1,20 @@
+2.31.6
+======
+
+New features/bugfixes:
+
+Author: Thomas Wood <thos@gnome.org>
+    Remove empty "gtk-themes/Clearlooks" directory
+    Rename .cvsignore files to .gitignore
+
+New/updated translations:
+
+Author: Fran Diéguez <fran.dieguez@mabishu.com>
+    Updated Galician translations
+
+Author: Sweta Kothari <swkothar@redhat.com>
+    Updated Gujarati Translations
+
 2.31.4
 ======
 
