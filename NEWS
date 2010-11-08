@@ -1,3 +1,29 @@
+2.91.2
+======
+
+Bugfixes/features:
+
+Thomas Wood <thos@gnome.org>
+    Remove the spec file
+    Switch to GTK+ 3.0
+    Remove empty "gtk-themes/Clearlooks" directory
+    Rename .cvsignore files to .gitignore
+
+New/updated translations:
+
+Carles Ferrando <carles.ferrando@gmail.com>
+    Updated Catalan (Valencian) translation
+
+Gheyret T.Kenji <gheyret@gmail.com>
+    Added UG translation
+
+Fran Diéguez <fran.dieguez@mabishu.com>
+    Updated Galician translations
+
+Sweta Kothari <swkothar@redhat.com>
+    Updated Gujarati translation
+
+
 2.31.4
 ======
 
