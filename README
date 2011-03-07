@@ -1,4 +1,16 @@
+=========================================================================
+
+NOTE: This module will likely be UNMAINTAINED after its 3.0 release.
+Although it currently builds against gtk/gnome 3.0, themes are handled 
+differently in GNOME 3.x, and it is likely that none of the themes 
+installed by this module will be selectable or useful on a GNOME 3 desktop. 
+
+In particular, in GNOME 3.0, accessibility themes will be installed by
+gnome-themes-standard. For more information, see:
+<http://mail.gnome.org/archives/desktop-devel-list/2011-March/msg00017.html> 
+
 ==========================================================================
+
 NOTE: The remainder of this README applies only to the 7 accessibility 
       themes in this module:
 
