@@ -6,6 +6,10 @@
 
   <name xml:lang="en">gnome-themes</name>
   <shortdesc xml:lang="en">Themes for GNOME</shortdesc>
+  <description xml:lang="en">
+  The core set of themes for the GNOME 2.x desktop, including the default
+  Clearlooks theme, and the High Contrast accessibility themes.
+  </description>
   <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/gnome-themes-list" />
   <download-page rdf:resource="http://download.gnome.org/sources/gnome-themes/" />
   <bug-database rdf:resource="http://bugzilla.gnome.org/browse.cgi?product=gnome-themes" />
