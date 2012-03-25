@@ -1,7 +1,7 @@
 [X-GNOME-Metatheme]
 _Name=Clearlooks Test Theme
 Type=X-GNOME-Metatheme
-_Comment=Theme with a different colorscheme to find problems in applications.
+_Comment=Theme with a different color scheme to find problems in applications.
 Encoding=UTF-8
 GtkTheme=ClearlooksTest
 MetacityTheme=Clearlooks
