@@ -6,38 +6,38 @@
 # Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005, 2006.
 # Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
 # Fran Diéguez <frandieguez@ubuntu.com>, 2009, 2010.
+# Fran Dieguez <frandieguez@gnome.org>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-20 13:11+0200\n"
-"PO-Revision-Date: 2010-07-20 13:12+0200\n"
-"Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
-"Language-Team: Galician <gnome-gl-list@gnome.org>\n"
+"POT-Creation-Date: 2012-03-26 12:24+0200\n"
+"PO-Revision-Date: 2012-03-26 12:24+0200\n"
+"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"Language-Team: Galician <gnome-l10n-gl@gnome.org>\n"
+"Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gl\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
-msgid "Attractive Usability"
-msgstr "Usabilidade atractiva"
-
-#: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "Clearlooks"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Attractive Usability"
+msgstr "Usabilidade atractiva"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
 msgid "Clearlooks Test Theme"
 msgstr "Tema de proba do Clearlooks"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
-msgid "Theme with a different colorscheme to find problems in applications."
+msgid "Theme with a different color scheme to find problems in applications."
 msgstr ""
-"Un tema cun esquema de cores diferente para encontrar problemas nos "
-"aplicativos."
+"Un tema cun esquema de cores diferente para atopar problemas nos aplicativos."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -57,20 +57,20 @@ msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Simple, suave e esteticamente agradábel"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
-msgid "A glossy looking theme"
-msgstr "Un tema de aparencia brillante"
-
-#: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "Glossy"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Texto e iconas en negro sobre branco"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "A glossy looking theme"
+msgstr "Un tema de aparencia brillante"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:2
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "High Contrast"
 msgstr "Alto contraste"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "Black-on-white text and icons"
+msgstr "Texto e iconas en negro sobre branco"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -115,29 +115,29 @@ msgid "Muted text and icons"
 msgstr "Texto e iconas de tons baixos"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Texto e iconas grandes de ton baixo"
-
-#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "Impresión grande de baixo contraste"
 
-#: ../desktop-themes/Mist/index.theme.in.h:1
-msgid "A minimalistic appearance"
-msgstr "Unha aparencia minimalista"
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Large muted text and icons"
+msgstr "Texto e iconas grandes de ton baixo"
 
-#: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../desktop-themes/Mist/index.theme.in.h:1
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Brétema"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
-msgid "High contrast scalable icons with black borders"
-msgstr "Iconas escalábeis de alto contraste con bordos negros"
+#: ../desktop-themes/Mist/index.theme.in.h:2
+msgid "A minimalistic appearance"
+msgstr "Unha aparencia minimalista"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "HighContrast-SVG"
 msgstr "SVG de alto contraste"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "High contrast scalable icons with black borders"
+msgstr "Iconas escalábeis de alto contraste con bordos negros"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
