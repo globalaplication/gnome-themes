@@ -1,40 +1,42 @@
 # Serbian translation of gnome-themes
 # Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
-#
 # This file is distributed under the same license as the gnome-themes package.
-#
 # Maintainer: Горан Ракић <grakic@devbase.net>
 # Reviewed on 2004-02-14 by Александар Урошевић <urke@users.sourceforge.net>
-#
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes 2.6\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"themes&component=general\n"
-"POT-Creation-Date: 2009-04-18 20:11+0000\n"
-"PO-Revision-Date: 2008-09-20 03:47+0100\n"
-"Last-Translator: Горан Ракић <grakic@devbase.net>\n"
-"Language-Team: Serbian (sr) <gnom@prevod.org>\n"
+"themes&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-03-25 18:48+0000\n"
+"PO-Revision-Date: 2012-03-31 14:20+0200\n"
+"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <gnom@prevod.org>\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../desktop-themes/Clearlooks/index.theme.in.h:1
-msgid "Attractive Usability"
-msgstr "Привлачна употребљивост"
+"Plural-Forms: nplurals=4; plural=n==1? 3 : n%10==1 && n%100!=11 ? 0 : "
+"n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Project-Style: gnome\n"
 
 # Да ли преводити? Ма наравно да да :)
-#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+#: ../desktop-themes/Clearlooks/index.theme.in.h:1
 msgid "Clearlooks"
 msgstr "Бистар изглед"
 
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Attractive Usability"
+msgstr "Привлачна употребљивост"
+
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
-#| msgid "Clearlooks"
 msgid "Clearlooks Test Theme"
 msgstr "Пробна тема за бистар изглед"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
-msgid "Theme with a different colorscheme to find problems in applications."
+#| msgid "Theme with a different colorscheme to find problems in applications."
+msgid "Theme with a different color scheme to find problems in applications."
 msgstr "Тема са бојама које помажу да пронађете проблеме у програмима."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
@@ -55,20 +57,20 @@ msgid "Simple, smooth and aesthetically pleasing"
 msgstr "Једноставна, фина и привлачна тема"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
-msgid "A glossy looking theme"
-msgstr "Тема блиставог изгледа"
-
-#: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "Блиставо"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "Текст и иконе у црној боји на белој подлози"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "A glossy looking theme"
+msgstr "Тема блиставог изгледа"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:2
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "High Contrast"
 msgstr "Велики контраст"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "Black-on-white text and icons"
+msgstr "Текст и иконе у црној боји на белој подлози"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -113,33 +115,33 @@ msgid "Muted text and icons"
 msgstr "Замућене иконе и текст"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "Велике замућене иконе и текст"
-
-#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "Увећани мали контраст"
 
-#: ../desktop-themes/Mist/index.theme.in.h:1
-msgid "A minimalistic appearance"
-msgstr "Минималистички приказ"
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Large muted text and icons"
+msgstr "Велике замућене иконе и текст"
 
-#: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../desktop-themes/Mist/index.theme.in.h:1
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "Магла"
 
+#: ../desktop-themes/Mist/index.theme.in.h:2
+msgid "A minimalistic appearance"
+msgstr "Минималистички приказ"
+
 #: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
+msgid "HighContrast-SVG"
+msgstr "Велики контраст СВГ"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
 msgid "High contrast scalable icons with black borders"
 msgstr "Увећани контраст са црним ивицама и растегљивим иконицама"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
-msgid "HighContrast-SVG"
-msgstr "Велики контраст SVG"
-
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
-msgstr " Тема иконица великог контраста"
+msgstr "Тема иконица великог контраста"
 
 #: ../icon-themes/HighContrastLargePrintInverse/index.theme.in.h:2
 msgid "Large Inverse High Contrast Icon Theme"
