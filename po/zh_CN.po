@@ -9,30 +9,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"themes&component=general\n"
-"POT-Creation-Date: 2009-04-09 21:07+0000\n"
-"PO-Revision-Date: 2009-04-11 21:59+0800\n"
-"Last-Translator: Ray Wang <wanglei1123@gmail.com>\n"
+"themes&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-04-02 09:33+0000\n"
+"PO-Revision-Date: 2012-04-02 19:08+0800\n"
+"Last-Translator: tuhaihe <wangdianjin@linuxdeepin.com>\n"
 "Language-Team: Chinese/Simplified <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
-msgid "Attractive Usability"
-msgstr "可观的可用性"
-
-#: ../desktop-themes/Clearlooks/index.theme.in.h:2
 msgid "Clearlooks"
 msgstr "清爽"
+
+#: ../desktop-themes/Clearlooks/index.theme.in.h:2
+msgid "Attractive Usability"
+msgstr "可观的可用性"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
 msgid "Clearlooks Test Theme"
 msgstr "清爽测试主题"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
-msgid "Theme with a different colorscheme to find problems in applications."
-msgstr "在应用程序中使用不同的配色方案主题来找到问题。"
+msgid "Theme with a different color scheme to find problems in applications."
+msgstr "使用不同配色方案的主题来查找应用程序中的问题。"
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -52,20 +53,20 @@ msgid "Simple, smooth and aesthetically pleasing"
 msgstr "简单、润畅、美观"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
-msgid "A glossy looking theme"
-msgstr "富有光泽感的主题"
-
-#: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "光泽"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "白底黑字和图标"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "A glossy looking theme"
+msgstr "富有光泽感的主题"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:2
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "High Contrast"
 msgstr "高对比"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "Black-on-white text and icons"
+msgstr "白底黑字和图标"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -110,29 +111,29 @@ msgid "Muted text and icons"
 msgstr "柔和的文字和图标"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "柔和的大号字和图标"
-
-#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "低对比大字体"
 
-#: ../desktop-themes/Mist/index.theme.in.h:1
-msgid "A minimalistic appearance"
-msgstr "简约主义外观"
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Large muted text and icons"
+msgstr "柔和的大号字和图标"
 
-#: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../desktop-themes/Mist/index.theme.in.h:1
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "薄雾"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
-msgid "High contrast scalable icons with black borders"
-msgstr "高对比度可缩放图标，带黑色边框"
+#: ../desktop-themes/Mist/index.theme.in.h:2
+msgid "A minimalistic appearance"
+msgstr "简约主义外观"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "HighContrast-SVG"
 msgstr "高对比 SVG"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "High contrast scalable icons with black borders"
+msgstr "高对比度可缩放图标，带黑色边框"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
