@@ -4,35 +4,39 @@
 # Sameer N. Ingole <strike@proscrutiny.com>, 2006.
 # Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
 # Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008, 2009.
+# Sandeep Shedmake <sshedmak@redhat.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-themes.HEAD.mr\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-07 13:33+0100\n"
-"PO-Revision-Date: 2009-03-13 13:21+0530\n"
-"Last-Translator: Sandeep Shedmake <sandeep.shedmake@gmail.com>\n"
-"Language-Team: marathi\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"themes&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-03-25 18:48+0000\n"
+"PO-Revision-Date: 2012-04-02 15:02+0530\n"
+"Last-Translator: Sandeep Shedmake <sshedmak@redhat.com>\n"
+"Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: mr\n"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:1
-msgid "Attractive Usability"
-msgstr "आकर्षक उपयोगीता"
+msgid "Clearlooks"
+msgstr "क्लिअरलूक्स"
 
 #: ../desktop-themes/Clearlooks/index.theme.in.h:2
-msgid "Clearlooks"
-msgstr "क्लिअरलुक्स"
+msgid "Attractive Usability"
+msgstr "आकर्षक उपयोगीता"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:1
 msgid "Clearlooks Test Theme"
 msgstr "क्लिअरलुक्स चाचणी दृष्य कल्पना"
 
 #: ../desktop-themes/ClearlooksTest/index.theme.in.h:2
-msgid "Theme with a different colorscheme to find problems in applications."
-msgstr "अनुप्रयोग अंतर्गत अडचणी शोधण्याकरीता विविध रंग मांडणी सह दृष्य कल्पना."
+#| msgid "Theme with a different colorscheme to find problems in applications."
+msgid "Theme with a different color scheme to find problems in applications."
+msgstr "ॲप्लिकेशन्स् अंतर्गत अडचणी शोधण्याकरीता विविध रंगाच्या स्कीमसह सह थिम."
 
 #: ../desktop-themes/Crux/index.theme.in.h:1
 #: ../icon-themes/Crux/index.theme.in.h:1
@@ -52,20 +56,20 @@ msgid "Simple, smooth and aesthetically pleasing"
 msgstr "साधे, सुमिश्रित, सुंदर आणि सुखकारक"
 
 #: ../desktop-themes/Glossy/index.theme.in.h:1
-msgid "A glossy looking theme"
-msgstr "चकाक दिसणारी सुत्रयोजना"
-
-#: ../desktop-themes/Glossy/index.theme.in.h:2
 msgid "Glossy"
 msgstr "चकाक"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:1
-msgid "Black-on-white text and icons"
-msgstr "पांढऱ्यावर काळी अक्षरे आणि चिन्हे"
+#: ../desktop-themes/Glossy/index.theme.in.h:2
+msgid "A glossy looking theme"
+msgstr "चकाक दिसणारी सुत्रयोजना"
 
-#: ../desktop-themes/HighContrast/index.theme.in.h:2
+#: ../desktop-themes/HighContrast/index.theme.in.h:1
 msgid "High Contrast"
 msgstr "उच्च विरोधाभास"
+
+#: ../desktop-themes/HighContrast/index.theme.in.h:2
+msgid "Black-on-white text and icons"
+msgstr "पांढऱ्यावर काळी अक्षरे आणि चिन्हे"
 
 #: ../desktop-themes/HighContrastInverse/index.theme.in.h:1
 msgid "High Contrast Inverse"
@@ -110,29 +114,29 @@ msgid "Muted text and icons"
 msgstr "मऊ अक्षरे आणि चिन्हे"
 
 #: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:1
-msgid "Large muted text and icons"
-msgstr "मोठी मऊ अक्षरे आणि चिन्हे"
-
-#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
 msgid "Low Contrast Large Print"
 msgstr "कमी विरोधाभास मोठे मुद्रण"
 
-#: ../desktop-themes/Mist/index.theme.in.h:1
-msgid "A minimalistic appearance"
-msgstr "किमान दृश्य"
+#: ../desktop-themes/LowContrastLargePrint/index.theme.in.in.h:2
+msgid "Large muted text and icons"
+msgstr "मोठी मऊ अक्षरे आणि चिन्हे"
 
-#: ../desktop-themes/Mist/index.theme.in.h:2
+#: ../desktop-themes/Mist/index.theme.in.h:1
 #: ../icon-themes/Mist/index.theme.in.h:1
 msgid "Mist"
 msgstr "धुकं"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
-msgid "High contrast scalable icons with black borders"
-msgstr "काळ्या किनारीसह वाढवण्याजोगी उच्च विरोधाभास चिन्हे"
+#: ../desktop-themes/Mist/index.theme.in.h:2
+msgid "A minimalistic appearance"
+msgstr "किमान दृश्य"
 
-#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:1
 msgid "HighContrast-SVG"
 msgstr "उच्च विरोधाभासमान-SVG"
+
+#: ../icon-themes/HighContrast-SVG/index.theme.in.h:2
+msgid "High contrast scalable icons with black borders"
+msgstr "काळ्या किनारीसह वाढवण्याजोगी उच्च विरोधाभास चिन्हे"
 
 #: ../icon-themes/HighContrastLargePrint/index.theme.in.h:2
 msgid "Large High Contrast Icon Theme"
